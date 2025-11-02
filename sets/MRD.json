@@ -1,0 +1,24 @@
+{
+  "set_info": {
+    "id": "MRD",
+    "name": "Metal Raiders",
+    "code": "MRD",
+    "release_date": "2002-06-18",
+    "card_count": 2,
+    "description": "The second Yu-Gi-Oh! Trading Card Game booster pack"
+  },
+  "cards": [
+    {
+      "id": 83764718,
+      "set_code": "MRD-007",
+      "rarity": "Ultra Rare",
+      "rarity_code": "UR"
+    },
+    {
+      "id": 19613556,
+      "set_code": "MRD-017",
+      "rarity": "Common",
+      "rarity_code": "C"
+    }
+  ]
+}
