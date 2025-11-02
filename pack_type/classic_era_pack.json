@@ -1,0 +1,21 @@
+{
+  "name": "classic_era_pack",
+  "display_name": "Classic Era Pack Format",
+  "description": "Booster pack format from Classic Era (LOB - LOD). 8 Commons + 1 Rare or higher with classic rarity distribution.",
+  "card_structure": {
+    "total_cards": 9,
+    "guaranteed_commons": 8,
+    "guaranteed_rares": 0,
+    "bonus_slots": [
+      {
+        "name": "rare_or_higher_slot",
+        "rarity_chances": {
+          "super_rare": 4,
+          "ultra_rare": 12,
+          "secret_rare": 24
+        },
+        "fallback_rarity": "Rare"
+      }
+    ]
+  }
+}

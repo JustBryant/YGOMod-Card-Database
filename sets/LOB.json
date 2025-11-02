@@ -5,7 +5,8 @@
     "code": "LOB",
     "release_date": "2002-03-08",
     "card_count": 126,
-    "description": "Yu-Gi-Oh! Trading Card Game set featuring 126 cards"
+    "description": "Yu-Gi-Oh! Trading Card Game set featuring 126 cards",
+    "pack_type": "classic_era_pack"
   },
   "cards": [
     {

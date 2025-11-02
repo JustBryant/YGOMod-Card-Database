@@ -1,0 +1,20 @@
+{
+  "name": "current_era_pack",
+  "display_name": "Current Era Pack Format", 
+  "description": "Booster pack format from Current Era (Eternity Code onwards). 8 Commons + 1 guaranteed higher rarity card.",
+  "card_structure": {
+    "total_cards": 9,
+    "guaranteed_commons": 8,
+    "guaranteed_rares": 0,
+    "bonus_slots": [
+      {
+        "name": "higher_rarity_slot",
+        "rarity_chances": {
+          "ultra_rare": 6,
+          "secret_rare": 12
+        },
+        "fallback_rarity": "Super Rare"
+      }
+    ]
+  }
+}

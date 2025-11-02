@@ -1,0 +1,21 @@
+{
+  "name": "modern_era_1_pack",
+  "display_name": "Modern Era 1 Pack Format",
+  "description": "Booster pack format from Modern Era 1 (Duelist Genesis - Dimension of Chaos). 7 Commons + 1 Rare + 1 Common or higher bonus slot.",
+  "card_structure": {
+    "total_cards": 9,
+    "guaranteed_commons": 7,
+    "guaranteed_rares": 1,
+    "bonus_slots": [
+      {
+        "name": "bonus_slot",
+        "rarity_chances": {
+          "super_rare": 4,
+          "ultra_rare": 12,
+          "secret_rare": 24
+        },
+        "fallback_rarity": "Common"
+      }
+    ]
+  }
+}
