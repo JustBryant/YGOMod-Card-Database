@@ -4,7 +4,7 @@
   "type": "Trap Card",
   "humanReadableCardType": "Normal Trap",
   "frameType": "trap",
-  "description": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+  "description": "When an TEST opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
   "race": "Normal",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/44095762.jpg",
