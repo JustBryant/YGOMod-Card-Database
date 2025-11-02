@@ -1,0 +1,12 @@
+{
+  "id": 61854111,
+  "name": "Legendary Sword",
+  "type": "Spell Card",
+  "description": "Equip only to a Warrior monster. It gains 300 ATK/DEF.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61854111.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61854111.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61854111.jpg"
+  },
+  "race": "Equip"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10202894,
+  "name": "Skull Red Bird",
+  "type": "Normal Monster",
+  "description": "This monster swoops down and attacks with a rain of knives stored in its wings.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10202894.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10202894.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10202894.jpg"
+  },
+  "attack": 1550,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast"
+}

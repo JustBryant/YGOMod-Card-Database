@@ -1,0 +1,16 @@
+{
+  "id": 36304921,
+  "name": "Witty Phantom",
+  "type": "Normal Monster",
+  "description": "Dressed in a night-black tuxedo, this creature presides over the darkness.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36304921.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36304921.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36304921.jpg"
+  },
+  "attack": 1400,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend"
+}

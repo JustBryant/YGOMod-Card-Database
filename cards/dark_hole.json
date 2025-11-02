@@ -1,0 +1,15 @@
+{
+  "id": 53129443,
+  "name": "Dark Hole",
+  "type": "Spell Card",
+  "description": "Destroy all monsters on the field.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53129443.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53129443.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53129443.jpg"
+  },
+  "race": "Normal",
+  "banlist_info": {
+    "ban_goat": "Forbidden"
+  }
+}

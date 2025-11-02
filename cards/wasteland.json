@@ -1,0 +1,12 @@
+{
+  "id": 23424603,
+  "name": "Wasteland",
+  "type": "Spell Card",
+  "description": "All Dinosaur, Zombie, and Rock monsters on the field gain 200 ATK/DEF.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23424603.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23424603.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23424603.jpg"
+  },
+  "race": "Field"
+}

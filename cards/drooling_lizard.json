@@ -1,0 +1,16 @@
+{
+  "id": 16353197,
+  "name": "Drooling Lizard",
+  "type": "Normal Monster",
+  "description": "A blood-sucking snake in human form that attacks any living being that passes nearby.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16353197.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16353197.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16353197.jpg"
+  },
+  "attack": 900,
+  "defense": 800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Reptile"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 33396948,
+  "name": "Exodia the Forbidden One",
+  "type": "Effect Monster",
+  "description": "If you have \"Right Leg of the Forbidden One\", \"Left Leg of the Forbidden One\", \"Right Arm of the Forbidden One\" and \"Left Arm of the Forbidden One\" in addition to this card in your hand, you win the Duel.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33396948.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33396948.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33396948.jpg"
+  },
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "banlist_info": {
+    "ban_tcg": "Limited",
+    "ban_ocg": "Limited",
+    "ban_goat": "Limited"
+  }
+}

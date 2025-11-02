@@ -1,0 +1,16 @@
+{
+  "id": 34460851,
+  "name": "Flame Manipulator",
+  "type": "Normal Monster",
+  "description": "This Spellcaster attacks enemies with fire-related spells such as \"Sea of Flames\" and \"Wall of Fire\".",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34460851.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34460851.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34460851.jpg"
+  },
+  "attack": 900,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Spellcaster"
+}

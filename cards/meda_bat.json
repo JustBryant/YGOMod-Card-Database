@@ -1,0 +1,16 @@
+{
+  "id": 76211194,
+  "name": "Meda Bat",
+  "type": "Normal Monster",
+  "description": "An eyeball fiend created by a servant of the wicked, it uses \"Dark Blasts\" to blow away its enemies.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76211194.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76211194.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76211194.jpg"
+  },
+  "attack": 800,
+  "defense": 400,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9076207,
+  "name": "Armed Ninja",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Target 1 Spell Card on the field; destroy that target. (If the target is Set, reveal it, and destroy it if it is a Spell Card. Otherwise, return it to its original position.)",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9076207.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9076207.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9076207.jpg"
+  },
+  "attack": 300,
+  "defense": 300,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Warrior"
+}

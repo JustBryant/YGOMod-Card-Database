@@ -1,0 +1,16 @@
+{
+  "id": 90963488,
+  "name": "Nemuriko",
+  "type": "Normal Monster",
+  "description": "A child-like creature that controls a sleep fiend to beckon enemies into eternal slumber.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90963488.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90963488.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90963488.jpg"
+  },
+  "attack": 800,
+  "defense": 700,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster"
+}

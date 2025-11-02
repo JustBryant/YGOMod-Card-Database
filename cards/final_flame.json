@@ -1,0 +1,12 @@
+{
+  "id": 73134081,
+  "name": "Final Flame",
+  "type": "Spell Card",
+  "description": "Inflict 600 points of damage to your opponent's Life Points.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73134081.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73134081.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73134081.jpg"
+  },
+  "race": "Normal"
+}

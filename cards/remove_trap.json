@@ -1,0 +1,12 @@
+{
+  "id": 51482758,
+  "name": "Remove Trap",
+  "type": "Spell Card",
+  "description": "Select 1 face-up Trap Card on the field and destroy it.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51482758.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51482758.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51482758.jpg"
+  },
+  "race": "Normal"
+}

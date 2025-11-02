@@ -1,0 +1,16 @@
+{
+  "id": 63308047,
+  "name": "Terra the Terrible",
+  "type": "Normal Monster",
+  "description": "Known as a swamp dweller, this creature is a minion of the dark forces.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63308047.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63308047.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63308047.jpg"
+  },
+  "attack": 1200,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 17881964,
+  "name": "Darkfire Dragon",
+  "type": "Fusion Monster",
+  "description": "\"Firegrass\" + \"Petit Dragon\"",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17881964.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17881964.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17881964.jpg"
+  },
+  "attack": 1500,
+  "defense": 1250,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Dragon"
+}

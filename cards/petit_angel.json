@@ -1,0 +1,16 @@
+{
+  "id": 38142739,
+  "name": "Petit Angel",
+  "type": "Normal Monster",
+  "description": "A quick-moving and tiny fairy that's very difficult to hit.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38142739.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38142739.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38142739.jpg"
+  },
+  "attack": 600,
+  "defense": 900,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fairy"
+}

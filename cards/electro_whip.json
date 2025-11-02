@@ -1,0 +1,12 @@
+{
+  "id": 37820550,
+  "name": "Electro-Whip",
+  "type": "Spell Card",
+  "description": "Increase the ATK and DEF of a Thunder-Type monster equipped with this card by 300 points.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37820550.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37820550.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37820550.jpg"
+  },
+  "race": "Equip"
+}

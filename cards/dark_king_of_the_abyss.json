@@ -1,0 +1,16 @@
+{
+  "id": 53375573,
+  "name": "Dark King of the Abyss",
+  "type": "Normal Monster",
+  "description": "It's said that this King of the Netherworld once had the power to rule over the dark.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53375573.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53375573.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53375573.jpg"
+  },
+  "attack": 1200,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend"
+}

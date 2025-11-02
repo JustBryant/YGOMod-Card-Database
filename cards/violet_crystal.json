@@ -1,0 +1,12 @@
+{
+  "id": 15052462,
+  "name": "Violet Crystal",
+  "type": "Spell Card",
+  "description": "(This card is not treated as a \"Crystal\" card.)\r\nEquip only to a Zombie monster. It gains 300 ATK/DEF.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15052462.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15052462.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15052462.jpg"
+  },
+  "race": "Equip"
+}

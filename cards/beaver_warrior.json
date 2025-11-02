@@ -1,0 +1,16 @@
+{
+  "id": 32452818,
+  "name": "Beaver Warrior",
+  "type": "Normal Monster",
+  "description": "What this creature lacks in size it makes up for in defense when battling in the prairie.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32452818.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32452818.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32452818.jpg"
+  },
+  "attack": 1200,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior"
+}

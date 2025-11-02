@@ -1,0 +1,12 @@
+{
+  "id": 82542267,
+  "name": "Gravedigger Ghoul",
+  "type": "Spell Card",
+  "description": "Select up to 2 Monster Card(s) from your opponent's Graveyard. Remove the selected card(s) from play.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82542267.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82542267.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82542267.jpg"
+  },
+  "race": "Normal"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 70681994,
+  "name": "Dragoness the Wicked Knight",
+  "type": "Fusion Monster",
+  "description": "\"Armaill\" + \"One-Eyed Shield Dragon\"",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70681994.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70681994.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70681994.jpg"
+  },
+  "attack": 1200,
+  "defense": 900,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Warrior"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 36121917,
+  "name": "Monster Egg",
+  "type": "Normal Monster",
+  "description": "A warrior hidden within an egg that attacks enemies by flinging eggshells.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36121917.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36121917.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36121917.jpg"
+  },
+  "attack": 600,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior"
+}

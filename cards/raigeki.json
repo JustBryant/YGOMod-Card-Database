@@ -1,0 +1,15 @@
+{
+  "id": 12580477,
+  "name": "Raigeki",
+  "type": "Spell Card",
+  "description": "Destroy all monsters your opponent controls.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12580477.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12580477.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12580477.jpg"
+  },
+  "race": "Normal",
+  "banlist_info": {
+    "ban_goat": "Forbidden"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9293977,
+  "name": "Metal Dragon",
+  "type": "Fusion Monster",
+  "description": "\"Steel Ogre Grotto #1\" + \"Lesser Dragon\"",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9293977.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9293977.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9293977.jpg"
+  },
+  "attack": 1850,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Machine"
+}

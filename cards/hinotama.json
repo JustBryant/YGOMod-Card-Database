@@ -1,0 +1,12 @@
+{
+  "id": 46130346,
+  "name": "Hinotama",
+  "type": "Spell Card",
+  "description": "Inflict 500 damage to your opponent.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46130346.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46130346.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46130346.jpg"
+  },
+  "race": "Normal"
+}

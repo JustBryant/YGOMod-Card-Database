@@ -1,0 +1,12 @@
+{
+  "id": 50045299,
+  "name": "Dragon Capture Jar",
+  "type": "Trap Card",
+  "description": "Change all face-up Dragon-Type monsters on the field to Defense Position, also they cannot change their battle positions.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50045299.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50045299.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50045299.jpg"
+  },
+  "race": "Continuous"
+}

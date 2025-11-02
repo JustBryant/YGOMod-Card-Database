@@ -1,0 +1,12 @@
+{
+  "id": 4614116,
+  "name": "Dark Energy",
+  "type": "Spell Card",
+  "description": "Increase the ATK and DEF of a Fiend-Type monster equipped with this card by 300 points.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4614116.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4614116.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4614116.jpg"
+  },
+  "race": "Equip"
+}

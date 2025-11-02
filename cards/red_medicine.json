@@ -1,0 +1,12 @@
+{
+  "id": 38199696,
+  "name": "Red Medicine",
+  "type": "Spell Card",
+  "description": "Increase your Life Points by 500 points.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38199696.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38199696.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38199696.jpg"
+  },
+  "race": "Normal"
+}

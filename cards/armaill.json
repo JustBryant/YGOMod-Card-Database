@@ -1,0 +1,16 @@
+{
+  "id": 53153481,
+  "name": "Armaill",
+  "type": "Normal Monster",
+  "description": "A strange warrior who manipulates three deadly blades with both hands and his tail.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53153481.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53153481.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53153481.jpg"
+  },
+  "attack": 700,
+  "defense": 1300,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior"
+}

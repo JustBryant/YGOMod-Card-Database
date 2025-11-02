@@ -1,0 +1,16 @@
+{
+  "id": 89091579,
+  "name": "Basic Insect",
+  "type": "Normal Monster",
+  "description": "Usually found traveling in swarms, this creature's ideal environment is the forest.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89091579.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89091579.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89091579.jpg"
+  },
+  "attack": 500,
+  "defense": 700,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Insect"
+}

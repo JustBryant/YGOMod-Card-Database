@@ -1,0 +1,16 @@
+{
+  "id": 45042329,
+  "name": "Tripwire Beast",
+  "type": "Normal Monster",
+  "description": "This creature attacks with electromagnetic waves.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45042329.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45042329.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45042329.jpg"
+  },
+  "attack": 1200,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Thunder"
+}

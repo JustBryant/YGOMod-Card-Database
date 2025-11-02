@@ -1,0 +1,12 @@
+{
+  "id": 36607978,
+  "name": "Mystical Moon",
+  "type": "Spell Card",
+  "description": "Equip only to a Beast-Warrior-Type monster. It gains 300 ATK and DEF.",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36607978.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36607978.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36607978.jpg"
+  },
+  "race": "Equip"
+}
