@@ -1,0 +1,137 @@
+{
+  "set_info": {
+    "id": "LOB",
+    "name": "Legend of Blue-Eyes White Dragon",
+    "code": "LOB",
+    "release_date": "2002-03-08",
+    "card_count": 3,
+    "description": "The inaugural Yu-Gi-Oh! Trading Card Game set featuring the most iconic cards"
+  },
+  "cards": [
+    {
+      "id": 89631139,
+      "name": "Blue-Eyes White Dragon",
+      "type": "Normal Monster",
+      "humanReadableCardType": "Normal Monster",
+      "frameType": "normal",
+      "description": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+      "attack": 3000,
+      "defense": 2500,
+      "level": 8,
+      "race": "Dragon",
+      "attribute": "LIGHT",
+      "archetype": "Blue-Eyes",
+      "images": {
+        "artwork_url": "https://images.ygoprodeck.com/images/cards/89631139.jpg",
+        "small_url": "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+        "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89631139.jpg"
+      },
+      "banlist_info": {
+        "ban_tcg": "Limited"
+      },
+      "card_sets": [
+        {
+          "set_name": "Legend of Blue-Eyes White Dragon",
+          "set_code": "LOB-001",
+          "set_rarity": "Ultra Rare",
+          "set_rarity_code": "(UR)",
+          "set_price": "17.75"
+        }
+      ],
+      "pricing": {
+        "cardmarket_price": "1.50",
+        "tcgplayer_price": "2.89",
+        "ebay_price": "3.75",
+        "amazon_price": "4.99",
+        "coolstuffinc_price": "4.99"
+      },
+      "ygoprodeck_url": "https://ygoprodeck.com/card/blue-eyes-white-dragon-89",
+      "mod_specific": {
+        "rarity_tier": "legendary",
+        "pack_weight": 0.01,
+        "craftable": false,
+        "unlock_condition": "rare_pack",
+        "tags": ["iconic", "dragon", "classic", "light", "monster", "blue_eyes"]
+      }
+    },
+    {
+      "id": 24094653,
+      "name": "Polymerization",
+      "type": "Spell Card",
+      "humanReadableCardType": "Normal Spell",
+      "frameType": "spell",
+      "description": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+      "race": "Normal",
+      "images": {
+        "artwork_url": "https://images.ygoprodeck.com/images/cards/24094653.jpg",
+        "small_url": "https://images.ygoprodeck.com/images/cards_small/24094653.jpg",
+        "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24094653.jpg"
+      },
+      "card_sets": [
+        {
+          "set_name": "Legend of Blue-Eyes White Dragon",
+          "set_code": "LOB-059",
+          "set_rarity": "Common",
+          "set_rarity_code": "(C)",
+          "set_price": "1.33"
+        }
+      ],
+      "pricing": {
+        "cardmarket_price": "0.12",
+        "tcgplayer_price": "0.25",
+        "ebay_price": "1.99",
+        "amazon_price": "2.49",
+        "coolstuffinc_price": "0.25"
+      },
+      "ygoprodeck_url": "https://ygoprodeck.com/card/polymerization-1496",
+      "mod_specific": {
+        "rarity_tier": "common",
+        "pack_weight": 0.15,
+        "craftable": true,
+        "unlock_condition": "starter_pack",
+        "tags": ["fusion", "spell", "classic"]
+      }
+    },
+    {
+      "id": 44095762,
+      "name": "Mirror Force",
+      "type": "Trap Card",
+      "humanReadableCardType": "Normal Trap",
+      "frameType": "trap",
+      "description": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+      "race": "Normal",
+      "images": {
+        "artwork_url": "https://images.ygoprodeck.com/images/cards/44095762.jpg",
+        "small_url": "https://images.ygoprodeck.com/images/cards_small/44095762.jpg",
+        "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44095762.jpg"
+      },
+      "banlist_info": {
+        "ban_goat": "Limited"
+      },
+      "card_sets": [
+        {
+          "set_name": "Metal Raiders",
+          "set_code": "MRD-138",
+          "set_rarity": "Ultra Rare",
+          "set_rarity_code": "(UR)",
+          "set_price": "15.47"
+        }
+      ],
+      "pricing": {
+        "cardmarket_price": "0.02",
+        "tcgplayer_price": "0.45",
+        "ebay_price": "4.99",
+        "amazon_price": "3.07",
+        "coolstuffinc_price": "0.99"
+      },
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mirror-force-3764",
+      "mod_specific": {
+        "rarity_tier": "rare",
+        "pack_weight": 0.05,
+        "craftable": false,
+        "unlock_condition": "advanced_pack",
+        "tags": ["defense", "trap", "iconic"]
+      }
+    }
+  ]
+}
