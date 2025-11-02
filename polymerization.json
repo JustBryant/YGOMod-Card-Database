@@ -1,0 +1,38 @@
+{
+  "id": 24094653,
+  "name": "Polymerization",
+  "type": "Spell Card",
+  "humanReadableCardType": "Normal Spell",
+  "frameType": "spell",
+  "description": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24094653.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24094653.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24094653.jpg"
+  },
+  "card_sets": [
+    {
+      "set_name": "Legendary Collection",
+      "set_code": "LC01-EN006",
+      "set_rarity": "Ultra Rare",
+      "set_rarity_code": "(UR)",
+      "set_price": "1.33"
+    }
+  ],
+  "pricing": {
+    "cardmarket_price": "0.12",
+    "tcgplayer_price": "0.25",
+    "ebay_price": "1.99",
+    "amazon_price": "2.49",
+    "coolstuffinc_price": "0.25"
+  },
+  "ygoprodeck_url": "https://ygoprodeck.com/card/polymerization-1496",
+  "mod_specific": {
+    "rarity_tier": "common",
+    "pack_weight": 0.15,
+    "craftable": true,
+    "unlock_condition": "starter_pack",
+    "tags": ["fusion", "spell", "classic"]
+  }
+}

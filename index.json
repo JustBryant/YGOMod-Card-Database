@@ -1,0 +1,78 @@
+{
+  "repository_info": {
+    "name": "YGOMod Official Card Database",
+    "version": "1.0.0",
+    "description": "Official card database for YGOMod Minecraft modification",
+    "last_updated": "2024-01-15T10:30:00Z",
+    "author": "JustBryant",
+    "api_source": "YGOPRODeck API"
+  },
+  "sets": [
+    {
+      "id": "LOB",
+      "name": "Legend of Blue-Eyes White Dragon",
+      "file": "sets/LOB.json",
+      "card_count": 3,
+      "release_date": "2002-03-08",
+      "description": "The inaugural set featuring iconic cards"
+    },
+    {
+      "id": "MRD",
+      "name": "Metal Raiders",
+      "file": "sets/MRD.json",
+      "card_count": 0,
+      "release_date": "2002-06-26",
+      "description": "Defensive cards and powerful traps"
+    },
+    {
+      "id": "SRL",
+      "name": "Spell Ruler",
+      "file": "sets/SRL.json", 
+      "card_count": 0,
+      "release_date": "2002-09-16",
+      "description": "Magic-focused expansion"
+    },
+    {
+      "id": "PSV",
+      "name": "Pharaoh's Servant",
+      "file": "sets/PSV.json",
+      "card_count": 0,
+      "release_date": "2002-12-20",
+      "description": "Ancient Egyptian themed cards"
+    },
+    {
+      "id": "LOD",
+      "name": "Legacy of Darkness",
+      "file": "sets/LOD.json",
+      "card_count": 0,
+      "release_date": "2003-06-06",
+      "description": "Dark attribute monsters and support"
+    },
+    {
+      "id": "LON",
+      "name": "Labyrinth of Nightmare",
+      "file": "sets/LON.json",
+      "card_count": 0,
+      "release_date": "2003-03-21",
+      "description": "Fiend and nightmare themed cards"
+    },
+    {
+      "id": "PGD",
+      "name": "Pharaonic Guardian",
+      "file": "sets/PGD.json",
+      "card_count": 0,
+      "release_date": "2003-08-01",
+      "description": "Guardian monsters and Egyptian support"
+    },
+    {
+      "id": "MFC",
+      "name": "Magician's Force",
+      "file": "sets/MFC.json",
+      "card_count": 0,
+      "release_date": "2003-10-10",
+      "description": "Spellcaster support and magical themes"
+    }
+  ],
+  "total_cards": 3,
+  "supported_mod_version": "1.0.0"
+}
