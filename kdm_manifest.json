@@ -1,0 +1,513 @@
+{
+  "generated": "2025-11-11T19:37:27.869356+00:00",
+  "files": {
+    "cards/aqua_madoor.json": {
+      "sha": "50c492b92d0d29e8c7f9c6859ba74c7e91007e70",
+      "size": 546
+    },
+    "cards/armaill.json": {
+      "sha": "c7749daac63aaed132a82acfcba19a43f2d69b3a",
+      "size": 532
+    },
+    "cards/armed_ninja.json": {
+      "sha": "1a41b91ad4ed4e4d9d842d42ba86ca1a120da34e",
+      "size": 633
+    },
+    "cards/armored_starfish.json": {
+      "sha": "f9f22a94e732862ea7b657a27df528dfc18b3275",
+      "size": 522
+    },
+    "cards/basic_insect.json": {
+      "sha": "20f987b08041f2b9f89a0cf8825baf683cd03fdf",
+      "size": 535
+    },
+    "cards/beast_fangs.json": {
+      "sha": "8ff7795108b27b3e8d44414471e7f37b77080a09",
+      "size": 458
+    },
+    "cards/beaver_warrior.json": {
+      "sha": "b8f4508fc24210a76337221de50bee55cdbe4a28",
+      "size": 552
+    },
+    "cards/blue_eyes_white_dragon.json": {
+      "sha": "9e2f16379caa57dc876261137939b389ef23ace0",
+      "size": 614
+    },
+    "cards/book_of_secret_arts.json": {
+      "sha": "6e9c963cc37791ca105cd5879c8ac87242a6c3a0",
+      "size": 472
+    },
+    "cards/celtic_guardian.json": {
+      "sha": "b8ef971a766500563e154589f16fa441f5aa5bbc",
+      "size": 543
+    },
+    "cards/charubin_the_fire_knight.json": {
+      "sha": "4f85c46ee0e5de980ace38c8311aca05d83624e7",
+      "size": 497
+    },
+    "cards/curse_of_dragon.json": {
+      "sha": "7d9a7121f3826cfcc2c999d238dcb694b296d3fd",
+      "size": 528
+    },
+    "cards/dark_energy.json": {
+      "sha": "c614b9ffc048c9ab0308d92841d59369c89999ee",
+      "size": 456
+    },
+    "cards/dark_gray.json": {
+      "sha": "e5a83ac92ebd61fc819d6d98690bb2ce7c5c0be2",
+      "size": 506
+    },
+    "cards/dark_hole.json": {
+      "sha": "d10ee552296eb78a54c71d64d1ed6f0aa7f84c0b",
+      "size": 459
+    },
+    "cards/dark_king_of_the_abyss.json": {
+      "sha": "bf9bb48d61d519c3125e01ff19066b000ba227c4",
+      "size": 546
+    },
+    "cards/dark_magician.json": {
+      "sha": "bad8da02a8f57cb85dfbfd42f550a95955cdb27b",
+      "size": 514
+    },
+    "cards/darkfire_dragon.json": {
+      "sha": "ed8d257608c04d359fec30805dc558b81dfffc23",
+      "size": 488
+    },
+    "cards/darkworld_thorns.json": {
+      "sha": "b98ca6d903456ae02a554956f2eaa632145fcde7",
+      "size": 539
+    },
+    "cards/dissolverock.json": {
+      "sha": "1c7ad9eb6fb7f5f50121eb73518f0b641f50617a",
+      "size": 541
+    },
+    "cards/dragon_capture_jar.json": {
+      "sha": "8cc6afdd89ea5db94d779c6ec287a964bc15d3c8",
+      "size": 505
+    },
+    "cards/dragon_treasure.json": {
+      "sha": "969cdbe9e721c9289ea711401bad0d4e95b6a420",
+      "size": 459
+    },
+    "cards/dragoness_the_wicked_knight.json": {
+      "sha": "97784b379ef607f974c5c071512da6672668baf4",
+      "size": 508
+    },
+    "cards/drooling_lizard.json": {
+      "sha": "ffc8600f1cb4e1efc059a8415e87932dd3b33ad8",
+      "size": 541
+    },
+    "cards/electro_whip.json": {
+      "sha": "f8f83a1b8d4cf3c9c9a089c54951952fe0a018ef",
+      "size": 463
+    },
+    "cards/enchanting_mermaid.json": {
+      "sha": "2ff06e68e85a851930dc5fd461da4f2ff8216599",
+      "size": 515
+    },
+    "cards/exodia_the_forbidden_one.json": {
+      "sha": "906eb959ab13253229a71990c15213da01d3fc2d",
+      "size": 785
+    },
+    "cards/fiend_reflection_2.json": {
+      "sha": "f1372fbe82418735c033806a06dbb1f26a84e905",
+      "size": 523
+    },
+    "cards/final_flame.json": {
+      "sha": "ae955d26e1d653e65ee5a538ce805632ae698ffb",
+      "size": 434
+    },
+    "cards/firegrass.json": {
+      "sha": "b1bbef19dabd602b89a585e46f47a2c395e17df6",
+      "size": 500
+    },
+    "cards/fireyarou.json": {
+      "sha": "6445b0d7eee61acf93237933830f259006fe28b4",
+      "size": 527
+    },
+    "cards/fissure.json": {
+      "sha": "6c72aebf8c61f834e6ae1e5cca431685d4f2945d",
+      "size": 470
+    },
+    "cards/flame_ghost.json": {
+      "sha": "0583e8ddca259cc40c28fa0ffe2ea942e472c44f",
+      "size": 487
+    },
+    "cards/flame_manipulator.json": {
+      "sha": "d22402558fdac209c3dee73c20631d7c2719aad1",
+      "size": 567
+    },
+    "cards/flame_swordsman.json": {
+      "sha": "84eb9f8af6611e1ec4fa861434d649c269590762",
+      "size": 515
+    },
+    "cards/flower_wolf.json": {
+      "sha": "2de6277449f6513011a8ce2f38d22e7ab6e44748",
+      "size": 490
+    },
+    "cards/follow_wind.json": {
+      "sha": "c9cd3cd8ad8951ef477e6f7e841d0bc269f17435",
+      "size": 467
+    },
+    "cards/forest.json": {
+      "sha": "618597da29d1db87940b852d8ae16f7334e47d0c",
+      "size": 451
+    },
+    "cards/frenzied_panda.json": {
+      "sha": "21dd64723d13b34c2bd11e0080fc8007896372f2",
+      "size": 531
+    },
+    "cards/fusionist.json": {
+      "sha": "b8727eaa1881befaaca476f7faaf97cf7c68a495",
+      "size": 483
+    },
+    "cards/gaia_the_dragon_champion.json": {
+      "sha": "8d6e6607de19625c9a6cdc3d33ec18f6dd2e7c18",
+      "size": 513
+    },
+    "cards/gaia_the_fierce_knight.json": {
+      "sha": "16dd6ec6cbd24a31b3402c395c365a6a6e528795",
+      "size": 561
+    },
+    "cards/giant_soldier_of_stone.json": {
+      "sha": "573be544dc0c32f4658d0a267a577b126e807fc6",
+      "size": 546
+    },
+    "cards/goblins_secret_remedy.json": {
+      "sha": "ee69668ef626c58afea0ce63956671571a3ff9c5",
+      "size": 425
+    },
+    "cards/gravedigger_ghoul.json": {
+      "sha": "7929ffa7a2b0eaaa3b16e4145c21ace051114151",
+      "size": 481
+    },
+    "cards/green_phantom_king.json": {
+      "sha": "06baef3066125b8ec91c5463167c646938cc5e84",
+      "size": 549
+    },
+    "cards/hane_hane.json": {
+      "sha": "403b492d188440f887ea1dbc5658d2f6859c0039",
+      "size": 519
+    },
+    "cards/hard_armor.json": {
+      "sha": "9a825db04bf4a5b4ee1a31904ff9b03e958a8e1e",
+      "size": 523
+    },
+    "cards/hinotama.json": {
+      "sha": "0223a88d9d1e5d568ccdfede67e83bc69f2210bd",
+      "size": 407
+    },
+    "cards/hinotama_soul.json": {
+      "sha": "45c250fbd43397087dfa6e38b9fe5dc4b4f59094",
+      "size": 521
+    },
+    "cards/hitotsu_me_giant.json": {
+      "sha": "e82b2d636359d36d695c9a3983e36b3eac109f29",
+      "size": 547
+    },
+    "cards/kagemusha_of_the_blue_flame.json": {
+      "sha": "8e73006c73f2fb23dc411ba58304e0701e5526e5",
+      "size": 570
+    },
+    "cards/karbonala_warrior.json": {
+      "sha": "85ee5376cf10730fbdc0d6728020754fee359d9f",
+      "size": 495
+    },
+    "cards/king_fog.json": {
+      "sha": "34a034d95adb4abdbd546ec02039117c9a693bf3",
+      "size": 498
+    },
+    "cards/kumootoko.json": {
+      "sha": "51be24792b2da3e0c4cd5503c16b925f37cfb500",
+      "size": 512
+    },
+    "cards/kurama.json": {
+      "sha": "efcabca6dfe748ee308d80e033ea2aa9a9a552aa",
+      "size": 518
+    },
+    "cards/larvas.json": {
+      "sha": "2278fb6bc1924c8cba4b106c66b12e2d79616d91",
+      "size": 538
+    },
+    "cards/laser_cannon_armor.json": {
+      "sha": "04afe566ffcbec808e14291bc66f5af409c80b6b",
+      "size": 434
+    },
+    "cards/left_arm_of_the_forbidden_one.json": {
+      "sha": "15d57b370e9c66616f8dc0abe40d7fba80f627b6",
+      "size": 662
+    },
+    "cards/left_leg_of_the_forbidden_one.json": {
+      "sha": "4f17b667379e6f95e01377ea5ddbf9f14e4374ea",
+      "size": 666
+    },
+    "cards/legendary_sword.json": {
+      "sha": "109eda2f86a60d749eb3a22f8a83596b4cdf6821",
+      "size": 431
+    },
+    "cards/lesser_dragon.json": {
+      "sha": "e318b98314f478a3fb43cc08517486163578637f",
+      "size": 497
+    },
+    "cards/m_warrior_1.json": {
+      "sha": "1f356b8a77efc6704a5b6806184399647ca96dff",
+      "size": 546
+    },
+    "cards/m_warrior_2.json": {
+      "sha": "6c14e64ba264bbdb8c65af9f290a50dee7afd580",
+      "size": 556
+    },
+    "cards/machine_conversion_factory.json": {
+      "sha": "91e3ecc552e52158a912fe309786b5fa99c5dbc9",
+      "size": 442
+    },
+    "cards/mammoth_graveyard.json": {
+      "sha": "33954465d64999f9bbedaf5fcc2db8a8cffb01f3",
+      "size": 561
+    },
+    "cards/man_eater.json": {
+      "sha": "ca7b589db8d0c4bcebede5c624ee36a8e34ac9b4",
+      "size": 507
+    },
+    "cards/man_eater_bug.json": {
+      "sha": "7d26923c767bdeb1ec6c8a31a5cbd71191b49573",
+      "size": 506
+    },
+    "cards/masaki_the_legendary_swordsman.json": {
+      "sha": "dcb94f1a57a3e61f50bc7903bf8109984a2b18e0",
+      "size": 535
+    },
+    "cards/meda_bat.json": {
+      "sha": "89f8bddabc182f45b5a1b89742d14668a7f6af09",
+      "size": 548
+    },
+    "cards/metal_dragon.json": {
+      "sha": "297cda69c425e1997b7e3acb66717d97f1ac1be1",
+      "size": 494
+    },
+    "cards/misairuzame.json": {
+      "sha": "fe6ad7c7bd6aa473a74e8daca5927249af923e25",
+      "size": 503
+    },
+    "cards/monster_egg.json": {
+      "sha": "9cb098815b73327320673e9cbd7352546d25bf05",
+      "size": 526
+    },
+    "cards/monster_reborn.json": {
+      "sha": "6b50f65c3a2113b6be5008423628464bc1820245",
+      "size": 531
+    },
+    "cards/mountain.json": {
+      "sha": "08cb119ac76af3b16ee895315b1e1590e11a7015",
+      "size": 447
+    },
+    "cards/mystical_elf.json": {
+      "sha": "1b17c84010b690b6cd71985ec7cddd94b5ff1172",
+      "size": 545
+    },
+    "cards/mystical_moon.json": {
+      "sha": "e1747622184d7ce916f9a70707feafa626660f2e",
+      "size": 444
+    },
+    "cards/mystical_sheep_2.json": {
+      "sha": "939d5a21cb1351c2d382b451c2ff5f07ea373bb7",
+      "size": 516
+    },
+    "cards/nemuriko.json": {
+      "sha": "7ad260d2fbde544434ca538bf9061c0e86c5c944",
+      "size": 541
+    },
+    "cards/one_eyed_shield_dragon.json": {
+      "sha": "78d37cf10fd69a339f627568d5fb642f386bf6a4",
+      "size": 555
+    },
+    "cards/petit_angel.json": {
+      "sha": "56408fbdfc78e353a2c36fccb1e08c8a08146884",
+      "size": 509
+    },
+    "cards/petit_dragon.json": {
+      "sha": "6277c8975bd2f1d916ab441e2d51b01900b9126a",
+      "size": 501
+    },
+    "cards/polymerization.json": {
+      "sha": "23cbf1fffff58ea4fcb092f3a1bf8e422ffe60d4",
+      "size": 488
+    },
+    "cards/pot_of_greed.json": {
+      "sha": "13a7affd95cb7115520cd6ea755c00e2e77e13fb",
+      "size": 495
+    },
+    "cards/power_of_kaishin.json": {
+      "sha": "e908546ed1af12cc8240dbf7cc9a28ca44ad4f19",
+      "size": 430
+    },
+    "cards/raigeki.json": {
+      "sha": "74ef3b16f367fbb5ca4f0587c8e0ead92360bf13",
+      "size": 467
+    },
+    "cards/raise_body_heat.json": {
+      "sha": "12ed480d9bc83165cd66769c2ef5fc56743581ea",
+      "size": 432
+    },
+    "cards/ray_temperature.json": {
+      "sha": "f9afdddb7f24b0f93a19b939878add798b12921c",
+      "size": 562
+    },
+    "cards/reaper_of_the_cards.json": {
+      "sha": "7afefe3e64dd6e09b0143145111ad7d3e52141fa",
+      "size": 670
+    },
+    "cards/red_eyes_black_dragon.json": {
+      "sha": "43197f92f965eb250c1c6b12b9ec04d662c700b8",
+      "size": 506
+    },
+    "cards/red_medicine.json": {
+      "sha": "7d74d540e973b6a666a90d88257f037f33f0200e",
+      "size": 415
+    },
+    "cards/remove_trap.json": {
+      "sha": "01d9443e8fe79d623b79392f53bec81b5edcd286",
+      "size": 429
+    },
+    "cards/right_arm_of_the_forbidden_one.json": {
+      "sha": "d26d5f9b2d1eae7e22867907f954812223a2dadf",
+      "size": 668
+    },
+    "cards/right_leg_of_the_forbidden_one.json": {
+      "sha": "050f130782730c4408ac41f6b7bb2b4fdfc245fd",
+      "size": 664
+    },
+    "cards/root_water.json": {
+      "sha": "d34366f3413a2959589334b5ea0a106f447526b9",
+      "size": 550
+    },
+    "cards/sand_stone.json": {
+      "sha": "20174154d289c12dea5dd226b76a63a52caf4ce7",
+      "size": 519
+    },
+    "cards/silver_bow_and_arrow.json": {
+      "sha": "d9319cf26826a769a2dce5e3b67cef04eef2c6fa",
+      "size": 463
+    },
+    "cards/silver_fang.json": {
+      "sha": "2810c615a1680dcbf9ba7ce5f9e09923d0ff204d",
+      "size": 525
+    },
+    "cards/skull_red_bird.json": {
+      "sha": "64b3568ecbc423c9e6640c4701165e8644c8a28c",
+      "size": 540
+    },
+    "cards/skull_servant.json": {
+      "sha": "93fbf6dd27f23a2bd154fc89efe9d155ab766516",
+      "size": 525
+    },
+    "cards/sogen.json": {
+      "sha": "5992f04e54bda9191390bb56b3edecca706f6793",
+      "size": 436
+    },
+    "cards/sparks.json": {
+      "sha": "ed15e77f0470106c90c3dee16426031d54a98765",
+      "size": 429
+    },
+    "cards/spike_seadra.json": {
+      "sha": "a5b9e7283808ea361f705f87a4f29aeadd2a0a3f",
+      "size": 568
+    },
+    "cards/spirit_of_the_harp.json": {
+      "sha": "823b07c6ff957328255f88ad465d6eecf70145cd",
+      "size": 525
+    },
+    "cards/steel_ogre_grotto_1.json": {
+      "sha": "af25658f1c3f7abe5a99f5b97846e72ef53d5b40",
+      "size": 511
+    },
+    "cards/stop_defense.json": {
+      "sha": "86faf001726005d37d92d0ee4276a291df2aa60e",
+      "size": 479
+    },
+    "cards/succubus_knight.json": {
+      "sha": "0df314013decf4e084b691b15b332f145d256b91",
+      "size": 512
+    },
+    "cards/swords_of_revealing_light.json": {
+      "sha": "0384d377072ad86a3d6c871d13e448c71f12da3a",
+      "size": 775
+    },
+    "cards/terra_the_terrible.json": {
+      "sha": "269c7601344c4d6e093f56d9ccadc94019b03b7b",
+      "size": 529
+    },
+    "cards/the_13th_grave.json": {
+      "sha": "241de3b0b8370162ce8f2f8f7b8a226adad7ad7a",
+      "size": 505
+    },
+    "cards/the_furious_sea_king.json": {
+      "sha": "af20b8643657929b8e13ab1a88413832bfe4c79e",
+      "size": 547
+    },
+    "cards/trap_hole.json": {
+      "sha": "b5db4303791371c6402f6bca6f77488aadfe50a0",
+      "size": 483
+    },
+    "cards/tri_horned_dragon.json": {
+      "sha": "e1dd92b212c2bc8eb4382308640ecdb4f9d411d5",
+      "size": 524
+    },
+    "cards/trial_of_nightmare.json": {
+      "sha": "79b733013fdaa33ad3f785afbfce000ff26863a7",
+      "size": 522
+    },
+    "cards/tripwire_beast.json": {
+      "sha": "4109333d160e2df860681c7ce6202e5babc69fea",
+      "size": 506
+    },
+    "cards/turtle_tiger.json": {
+      "sha": "0cab4f08f18206caed522bbc1853133e64edd75b",
+      "size": 526
+    },
+    "cards/two_mouth_darkruler.json": {
+      "sha": "8ae985cfb3f09cb2389c6c1b6257018fe160931b",
+      "size": 587
+    },
+    "cards/two_pronged_attack.json": {
+      "sha": "224fbf1402a5db99147aa4095aa7a2edef6612b0",
+      "size": 452
+    },
+    "cards/tyhone.json": {
+      "sha": "2b1a58123d6dd393a552d9b5205f458314c6d0d8",
+      "size": 582
+    },
+    "cards/umi.json": {
+      "sha": "6aaaadcdb83bd466c521322a7527eb96802fbb72",
+      "size": 511
+    },
+    "cards/uraby.json": {
+      "sha": "622dbf82058ae1cabcea0c52857251e3d4cf281d",
+      "size": 520
+    },
+    "cards/vile_germs.json": {
+      "sha": "15407e5a3448a3be356a5b48b89b25e18f116077",
+      "size": 457
+    },
+    "cards/violet_crystal.json": {
+      "sha": "77940bed278d310c6f62f410ac86e036d364fd59",
+      "size": 482
+    },
+    "cards/wasteland.json": {
+      "sha": "64b311b153dbcd19e57dc4f7a6d5e1ab548d82c4",
+      "size": 441
+    },
+    "cards/witty_phantom.json": {
+      "sha": "433ea1cd707fecc011df70284dcc911762f6afd6",
+      "size": 527
+    },
+    "cards/yami.json": {
+      "sha": "9982c318c10eb198c2b84aa0d346dea17efd263e",
+      "size": 486
+    },
+    "sets/LOB.json": {
+      "sha": "97a1933ed6ede314c21eacff90b91d98e5bf52a5",
+      "size": 15237
+    }
+  }
+}
