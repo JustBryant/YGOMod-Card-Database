@@ -1,0 +1,12 @@
+{
+  "id": 18027138,
+  "name": "Hippo Carnival",
+  "type": "Spell Card",
+  "description": "Special Summon 3 \"Hippo Tokens\" (Beast-Type/EARTH/Level 1/ATK 0/DEF 0), but they cannot be Tributed. You cannot Special Summon monsters from the Extra Deck while a \"Hippo Token\" is in a Monster Zone. For the rest of this turn after this card resolves, monsters your opponent controls cannot target monsters for attacks, except \"Hippo Tokens\".",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18027138.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18027138.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18027138.jpg"
+  }
+}

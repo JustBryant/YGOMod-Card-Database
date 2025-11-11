@@ -1,0 +1,16 @@
+{
+  "id": 38033121,
+  "name": "Dark Magician Girl",
+  "type": "Effect Monster",
+  "description": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.",
+  "attack": 2000,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38033121.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38033121.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38033121.jpg"
+  }
+}

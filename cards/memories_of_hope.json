@@ -1,0 +1,12 @@
+{
+  "id": 84731222,
+  "name": "Memories of Hope",
+  "type": "Spell Card",
+  "description": "Draw cards equal to the number of \"Number\" Xyz Monsters with different names you control. You can only activate 1 \"Memories of Hope\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84731222.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84731222.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84731222.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 44689689,
+  "name": "Spinos Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Jurrac Spinos\".",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44689689.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44689689.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44689689.jpg"
+  }
+}

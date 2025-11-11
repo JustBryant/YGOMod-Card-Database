@@ -1,0 +1,16 @@
+{
+  "id": 97682931,
+  "name": "Revolution Synchron",
+  "type": "Tuner Monster",
+  "description": "If you Synchro Summon a \"Power Tool\" monster or a Level 7 or 8 Dragon monster, this card in your hand can also be used as material. You can only use this effect of \"Revolution Synchron\" once per turn. If you control a Level 7 or higher Synchro Monster while this card is in your GY: You can send the top card of your Deck to the GY, and if you do, Special Summon this card, also its Level becomes 1. You can only use this effect of \"Revolution Synchron\" once per Duel.",
+  "attack": 900,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97682931.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97682931.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97682931.jpg"
+  }
+}

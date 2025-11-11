@@ -1,0 +1,16 @@
+{
+  "id": 23431858,
+  "name": "Tenyi Spirit - Vishuda",
+  "type": "Effect Monster",
+  "description": "If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY, then target 1 card your opponent controls; return it to the hand. You can only use each effect of \"Tenyi Spirit - Vishuda\" once per turn.",
+  "attack": 1500,
+  "defense": 2500,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23431858.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23431858.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23431858.jpg"
+  }
+}

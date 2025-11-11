@@ -1,0 +1,12 @@
+{
+  "id": 64437633,
+  "name": "Aquamirror Illusion",
+  "type": "Trap Card",
+  "description": "Special Summon 1 \"Gishki\" Ritual Monster from your hand. It cannot attack, and is returned to the hand during the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64437633.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64437633.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64437633.jpg"
+  }
+}

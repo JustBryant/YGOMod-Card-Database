@@ -1,0 +1,12 @@
+{
+  "id": 34149830,
+  "name": "Desperate Tag",
+  "type": "Trap Card",
+  "description": "If a face-up Attack Position monster you control is destroyed by battle, during damage calculation, you can reduce the Battle Damage from this battle to 0 and Special Summon 1 Level 4 or lower Warrior-Type monster from your hand at the end of the Damage Step.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34149830.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34149830.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34149830.jpg"
+  }
+}

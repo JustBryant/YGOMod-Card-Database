@@ -1,0 +1,16 @@
+{
+  "id": 32231618,
+  "name": "Prediction Princess Coinorma",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can Special Summon 1 Level 3 or higher Flip monster from your hand or Deck in face-down Defense Position, also you cannot activate monster effects for the rest of this turn, except \"Prediction Princess\" monsters'.",
+  "attack": 800,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32231618.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32231618.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32231618.jpg"
+  }
+}

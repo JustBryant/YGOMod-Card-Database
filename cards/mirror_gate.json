@@ -1,0 +1,12 @@
+{
+  "id": 43452193,
+  "name": "Mirror Gate",
+  "type": "Trap Card",
+  "description": "When an opponent's monster declares an attack targeting a face-up \"Elemental HERO\" monster you control: Switch control of the opponent's attacking monster with the targeted monster you control, then calculate damage. Control of both monsters switches back during the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43452193.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43452193.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43452193.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 58258899,
+  "name": "TGX300",
+  "type": "Spell Card",
+  "description": "All face-up monsters you control gain 300 ATK for each \"T.G.\" monster you control.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58258899.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58258899.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58258899.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 75190122,
+  "name": "Dark Burning Magic",
+  "type": "Spell Card",
+  "description": "If you control monsters whose original names are \"Dark Magician\" and \"Dark Magician Girl\": Destroy all cards your opponent controls.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75190122.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75190122.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75190122.jpg"
+  }
+}

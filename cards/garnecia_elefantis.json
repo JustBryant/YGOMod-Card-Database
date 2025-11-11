@@ -1,0 +1,16 @@
+{
+  "id": 49888191,
+  "name": "Garnecia Elefantis",
+  "type": "Normal Monster",
+  "description": "A monster so heavy that each step rocks the earth.",
+  "attack": 2400,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49888191.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49888191.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49888191.jpg"
+  }
+}

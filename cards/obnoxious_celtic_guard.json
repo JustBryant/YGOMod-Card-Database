@@ -1,0 +1,16 @@
+{
+  "id": 52077741,
+  "name": "Obnoxious Celtic Guard",
+  "type": "Effect Monster",
+  "description": "Cannot be destroyed by battle with a monster that has 1900 or more ATK.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52077741.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52077741.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52077741.jpg"
+  }
+}

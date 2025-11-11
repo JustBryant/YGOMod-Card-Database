@@ -1,0 +1,12 @@
+{
+  "id": 74694807,
+  "name": "Re-Fusion",
+  "type": "Spell Card",
+  "description": "Activate this card by paying 800 LP, then target 1 Fusion Monster in your GY; Special Summon it and equip it with this card. When this card is destroyed, banish the equipped monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74694807.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74694807.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74694807.jpg"
+  }
+}

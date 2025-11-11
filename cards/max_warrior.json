@@ -1,0 +1,16 @@
+{
+  "id": 94538053,
+  "name": "Max Warrior",
+  "type": "Effect Monster",
+  "description": "If this card attacks an opponent's monster, this card gains 400 ATK during the Damage Step only. If this card destroys an opponent's monster by battle, until your next Standby Phase: this card becomes Level 2 and its original ATK and DEF are halved.",
+  "attack": 1800,
+  "defense": 800,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94538053.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94538053.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94538053.jpg"
+  }
+}

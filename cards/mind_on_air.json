@@ -1,0 +1,16 @@
+{
+  "id": 66690411,
+  "name": "Mind on Air",
+  "type": "Effect Monster",
+  "description": "Your opponent must play with their hand revealed.",
+  "attack": 1000,
+  "defense": 1600,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66690411.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66690411.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66690411.jpg"
+  }
+}

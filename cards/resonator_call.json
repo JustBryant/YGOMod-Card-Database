@@ -1,0 +1,12 @@
+{
+  "id": 23008320,
+  "name": "Resonator Call",
+  "type": "Spell Card",
+  "description": "Add 1 \"Resonator\" monster from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23008320.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23008320.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23008320.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 97204936,
+  "name": "Gaia Knight, the Force of Earth",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters",
+  "attack": 2600,
+  "defense": 800,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97204936.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97204936.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97204936.jpg"
+  }
+}

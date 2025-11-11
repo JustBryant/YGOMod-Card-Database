@@ -1,0 +1,12 @@
+{
+  "id": 51612489,
+  "name": "Riot",
+  "type": "Spell Card",
+  "description": "Target 1 face-down Defense Position monster on the field; return it to the hand, then the player who added it to their hand can Special Summon 1 monster from their hand in face-down Defense Position. When an opponent's monster declares an attack: You can banish this card from your GY; change 1 face-down Defense Position monster on the field to Attack Position. You can only use each effect of \"Riot\" once per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51612489.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51612489.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51612489.jpg"
+  }
+}

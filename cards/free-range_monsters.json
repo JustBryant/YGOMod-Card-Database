@@ -1,0 +1,12 @@
+{
+  "id": 75025112,
+  "name": "Free-Range Monsters",
+  "type": "Trap Card",
+  "description": "During the Main Phase: Immediately after this effect resolves, Normal Summon/Set 1 monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75025112.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75025112.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75025112.jpg"
+  }
+}

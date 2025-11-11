@@ -1,0 +1,16 @@
+{
+  "id": 19974580,
+  "name": "Iron Chain Dragon",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nYou can remove from play all \"Iron Chain\" monsters from your Graveyard to have this card gain 200 ATK for each card removed, until the End Phase. When this card inflicts Battle Damage to your opponent, send the top 3 cards of your opponent's Deck to the Graveyard.",
+  "attack": 2500,
+  "defense": 1300,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19974580.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19974580.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19974580.jpg"
+  }
+}

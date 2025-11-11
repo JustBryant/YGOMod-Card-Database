@@ -1,0 +1,16 @@
+{
+  "id": 66214679,
+  "name": "Dark Horus",
+  "type": "Effect Monster",
+  "description": "Once per turn, after resolving a Spell Card that was activated during your opponent's Main Phase: You can target 1 Level 4 DARK monster in your Graveyard; Special Summon that target. This card must be face-up on the field to activate and to resolve this effect.",
+  "attack": 3000,
+  "defense": 1800,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66214679.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66214679.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66214679.jpg"
+  }
+}

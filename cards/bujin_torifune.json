@@ -1,0 +1,16 @@
+{
+  "id": 29981935,
+  "name": "Bujin Torifune",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card; Special Summon 2 \"Bujin\" monsters of 2 different Types from the Deck in Defense Position, except \"Bujin Torifune\". When you Xyz Summon a \"Bujin\" Xyz Monster, while this card is in your GY: You can equip this card to it. Any monster destroyed by battle with that equipped monster is banished. You can only use each effect of \"Bujin Torifune\" once per turn.",
+  "attack": 1500,
+  "defense": 500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29981935.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29981935.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29981935.jpg"
+  }
+}

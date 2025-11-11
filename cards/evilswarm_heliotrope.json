@@ -1,0 +1,16 @@
+{
+  "id": 77542832,
+  "name": "Evilswarm Heliotrope",
+  "type": "Normal Monster",
+  "description": ".ytilaer a maerd rieht ekam thgim yeht taht os ydob a rof gninraey ,sluos mrawsleetS gniregnil fo sthguoht eht era esehT \"!etanimretxE !etacidarE !etanimilE\"",
+  "attack": 1950,
+  "defense": 650,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77542832.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77542832.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77542832.jpg"
+  }
+}

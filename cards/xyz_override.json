@@ -1,0 +1,12 @@
+{
+  "id": 32999573,
+  "name": "Xyz Override",
+  "type": "Spell Card",
+  "description": "If an Xyz Monster on the field would activate its effect by detaching its own Xyz Material(s), its controller can banish 1 card from their hand face-down instead of detaching 1 of those Xyz Materials. Each player can only use this effect once per turn.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32999573.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32999573.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32999573.jpg"
+  }
+}

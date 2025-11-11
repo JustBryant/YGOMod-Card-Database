@@ -1,0 +1,16 @@
+{
+  "id": 96802306,
+  "name": "Igknight Gallant",
+  "type": "Pendulum Normal Monster",
+  "description": "[ Pendulum Effect ] \nIf you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\n[ Monster Effect ] \n''A leader of the most dashing Igknight commando unit. His greatest challenge is keeping the hot tempers of his men under control.''",
+  "attack": 2100,
+  "defense": 2200,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96802306.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96802306.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96802306.jpg"
+  }
+}

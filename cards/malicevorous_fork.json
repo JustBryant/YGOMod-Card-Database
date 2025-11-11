@@ -1,0 +1,16 @@
+{
+  "id": 61791132,
+  "name": "Malicevorous Fork",
+  "type": "Effect Monster",
+  "description": "You can send 1 other Fiend-Type monster from your hand to the Graveyard; Special Summon this card from your hand.",
+  "attack": 400,
+  "defense": 400,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61791132.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61791132.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61791132.jpg"
+  }
+}

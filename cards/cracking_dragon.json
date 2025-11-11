@@ -1,0 +1,16 @@
+{
+  "id": 60349525,
+  "name": "Cracking Dragon",
+  "type": "Effect Monster",
+  "description": "Cannot be destroyed by battle with a monster with equal or lower Level. When your opponent Normal or Special Summons exactly 1 monster (and no other monsters are Summoned) while this monster is on the field: You can make that monster lose ATK equal to its Level x 200 (until the end of this turn), and if you do, inflict damage to your opponent equal to the ATK lost by this effect.",
+  "attack": 3000,
+  "defense": 0,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60349525.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60349525.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60349525.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 74095602,
+  "name": "Change of Hero - Reflector Ray",
+  "type": "Trap Card",
+  "description": "When an \"Elemental HERO\" Fusion Monster you control is destroyed by battle and sent to the Graveyard: Inflict damage to your opponent equal to its original Level x 300.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74095602.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74095602.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74095602.jpg"
+  }
+}

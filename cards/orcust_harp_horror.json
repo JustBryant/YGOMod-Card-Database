@@ -1,0 +1,16 @@
+{
+  "id": 57835716,
+  "name": "Orcust Harp Horror",
+  "type": "Effect Monster",
+  "description": "You can banish this card from your GY; Special Summon 1 \"Orcust\" monster from your Deck, except \"Orcust Harp Horror\", also you cannot Special Summon monsters for the rest of this turn, except DARK monsters. You can only use this effect of \"Orcust Harp Horror\" once per turn.",
+  "attack": 1700,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57835716.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57835716.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57835716.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 97169186,
+  "name": "Smashing Ground",
+  "type": "Spell Card",
+  "description": "Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97169186.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97169186.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97169186.jpg"
+  }
+}

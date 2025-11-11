@@ -1,0 +1,16 @@
+{
+  "id": 45439263,
+  "name": "Laval Coatl",
+  "type": "Tuner Monster",
+  "description": "If you have 3 or more \"Laval\" monsters with different names in your Graveyard, you can Special Summon this card (from your hand).",
+  "attack": 1300,
+  "defense": 700,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45439263.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45439263.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45439263.jpg"
+  }
+}

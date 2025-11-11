@@ -1,0 +1,16 @@
+{
+  "id": 89870349,
+  "name": "Masked HERO Blast",
+  "type": "Fusion Monster",
+  "description": "Must be Special Summoned with \"Mask Change\". If this card is Special Summoned: You can target 1 face-up monster your opponent controls; its ATK becomes half its current ATK. Once per turn (Quick Effect): You can pay 500 LP, then target 1 Spell/Trap your opponent controls; return it to the hand.",
+  "attack": 2200,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89870349.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89870349.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89870349.jpg"
+  }
+}

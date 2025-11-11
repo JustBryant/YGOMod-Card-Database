@@ -1,0 +1,16 @@
+{
+  "id": 70948327,
+  "name": "Nanobreaker",
+  "type": "Effect Monster",
+  "description": "If this card attacks a face-up Level 3 or lower monster, destroy the monster immediately with this card's effect without applying damage calculation.",
+  "attack": 1600,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70948327.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70948327.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70948327.jpg"
+  }
+}

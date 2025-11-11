@@ -1,0 +1,16 @@
+{
+  "id": 99745551,
+  "name": "Danger!? Tsuchinoko?",
+  "type": "Effect Monster",
+  "description": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger!? Tsuchinoko?\", Special Summon 1 \"Danger!? Tsuchinoko?\" from your hand, and if you do, draw 1 card. If this card is discarded: You can Special Summon this card. You can only use this effect of \"Danger!? Tsuchinoko?\" once per turn.",
+  "attack": 1300,
+  "defense": 0,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99745551.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99745551.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99745551.jpg"
+  }
+}

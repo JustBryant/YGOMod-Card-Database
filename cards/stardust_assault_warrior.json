@@ -1,0 +1,16 @@
+{
+  "id": 97792247,
+  "name": "Stardust Assault Warrior",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nWhen this card is Synchro Summoned while you control no other monsters: You can target 1 \"Junk\" monster in your GY; Special Summon it. You can only use this effect of \"Stardust Assault Warrior\" once per turn. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+  "attack": 2100,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97792247.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97792247.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97792247.jpg"
+  }
+}

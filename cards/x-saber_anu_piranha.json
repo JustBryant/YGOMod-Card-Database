@@ -1,0 +1,16 @@
+{
+  "id": 23115241,
+  "name": "X-Saber Anu Piranha",
+  "type": "Normal Monster",
+  "description": "A female X-Saber Warrior, known for her graceful attacks and calm decision making in battle. Her ambition is merciless, and strikes fear in the hearts of her enemies.",
+  "attack": 1800,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23115241.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23115241.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23115241.jpg"
+  }
+}

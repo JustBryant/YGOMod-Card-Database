@@ -1,0 +1,12 @@
+{
+  "id": 79759861,
+  "name": "Tribute to the Doomed",
+  "type": "Spell Card",
+  "description": "Discard 1 card, then target 1 monster on the field; destroy it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79759861.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79759861.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79759861.jpg"
+  }
+}

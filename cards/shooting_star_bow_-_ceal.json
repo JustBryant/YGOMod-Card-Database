@@ -1,0 +1,12 @@
+{
+  "id": 95638658,
+  "name": "Shooting Star Bow - Ceal",
+  "type": "Spell Card",
+  "description": "The equipped monster loses 1000 ATK, but it can attack your opponent directly.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95638658.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95638658.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95638658.jpg"
+  }
+}

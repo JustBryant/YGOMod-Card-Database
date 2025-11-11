@@ -1,0 +1,12 @@
+{
+  "id": 63992027,
+  "name": "Double Cipher",
+  "type": "Trap Card",
+  "description": "If your opponent controls a monster with the highest ATK on the field (even if tied): Target 1 \"Galaxy-Eyes\" or \"Cipher\" Xyz Monster you control that has Xyz Material; detach all Xyz Materials from that Xyz Monster, and if you do, Special Summon 1 monster from your Extra Deck with the same name as that Xyz Monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63992027.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63992027.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63992027.jpg"
+  }
+}

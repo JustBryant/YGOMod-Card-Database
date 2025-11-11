@@ -1,0 +1,16 @@
+{
+  "id": 12296376,
+  "name": "Wattwoodpecker",
+  "type": "Effect Monster",
+  "description": "This card can attack twice during each Battle Phase. Any monster that battles with this card cannot change its battle position.",
+  "attack": 1000,
+  "defense": 100,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12296376.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12296376.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12296376.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 90810762,
+  "name": "Raging Flame Sprite",
+  "type": "Effect Monster",
+  "description": "This card can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: This card gains 1000 ATK.",
+  "attack": 100,
+  "defense": 200,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90810762.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90810762.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90810762.jpg"
+  }
+}

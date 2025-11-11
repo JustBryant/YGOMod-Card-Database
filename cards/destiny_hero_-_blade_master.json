@@ -1,0 +1,16 @@
+{
+  "id": 55461064,
+  "name": "Destiny HERO - Blade Master",
+  "type": "Effect Monster",
+  "description": "During your opponent's Battle Phase: You can discard this card; all face-up \"Destiny HERO\" monsters you control gain 800 ATK until the End Phase.",
+  "attack": 300,
+  "defense": 600,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55461064.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55461064.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55461064.jpg"
+  }
+}

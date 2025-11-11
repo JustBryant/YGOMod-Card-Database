@@ -1,0 +1,12 @@
+{
+  "id": 55733143,
+  "name": "Mimighoul Charm",
+  "type": "Spell Card",
+  "description": "Once per Chain, during the Main Phase, if a \"Mimighoul\" monster your opponent controls is flipped face-up: You can randomly choose 1 face-down card in your opponent's Extra Deck, and if it is a monster that can be Special Summoned, Special Summon it to your field, but it cannot activate its effects this turn. If it wasn't, or couldn't be Special Summoned, banish that card. You can only use this effect of \"Mimighoul Charm\" twice per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55733143.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55733143.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55733143.jpg"
+  }
+}

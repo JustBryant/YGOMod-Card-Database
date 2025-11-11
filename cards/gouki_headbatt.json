@@ -1,0 +1,16 @@
+{
+  "id": 54088068,
+  "name": "Gouki Headbatt",
+  "type": "Effect Monster",
+  "description": "If this card is in your hand: You can send 1 other \"Gouki\" monster from your hand to the GY, then target 1 \"Gouki\" monster you control; Special Summon this card in Defense Position, and if you do, the targeted monster gains 800 ATK until the end of this turn. If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Headbatt\". You can only use each effect of \"Gouki Headbatt\" once per turn.",
+  "attack": 800,
+  "defense": 0,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54088068.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54088068.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54088068.jpg"
+  }
+}

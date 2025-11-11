@@ -1,0 +1,12 @@
+{
+  "id": 59695933,
+  "name": "Intercept",
+  "type": "Trap Card",
+  "description": "Activate only when a monster is Tribute Summoned with 1 Tribute. Take control of that monster.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59695933.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59695933.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59695933.jpg"
+  }
+}

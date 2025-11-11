@@ -1,0 +1,16 @@
+{
+  "id": 87118301,
+  "name": "Ritual Beast Tamer Lara",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned: You can target 1 \"Ritual Beast\" monster in your Graveyard; Special Summon it. You can only Special Summon \"Ritual Beast Tamer Lara(s)\" once per turn.",
+  "attack": 100,
+  "defense": 2000,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87118301.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87118301.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87118301.jpg"
+  }
+}

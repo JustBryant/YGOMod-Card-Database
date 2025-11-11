@@ -1,0 +1,16 @@
+{
+  "id": 17511156,
+  "name": "Wood Clown",
+  "type": "Normal Monster",
+  "description": "''A creature with a wicked smile and a lethal sickle.''",
+  "attack": 800,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17511156.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17511156.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17511156.jpg"
+  }
+}

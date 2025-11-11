@@ -1,0 +1,16 @@
+{
+  "id": 60668166,
+  "name": "Naturia Cherries",
+  "type": "Tuner Monster",
+  "description": "If this card is sent from the field to the Graveyard by your opponent's card (including by battle, card effect, or by being destroyed), you can Special Summon up to 2 \"Naturia Cherries\" from your Deck in face-down Defense Position.",
+  "attack": 200,
+  "defense": 200,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60668166.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60668166.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60668166.jpg"
+  }
+}

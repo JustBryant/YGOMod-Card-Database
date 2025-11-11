@@ -1,0 +1,12 @@
+{
+  "id": 1122030,
+  "name": "Artmage Vandalism -Assault-",
+  "type": "Spell Card",
+  "description": "When this card is activated: You can add 1 \"Medius the Pure\" from your Deck to your hand. You can target 1 face-up monster you control; if that face-up monster would be used as Fusion Material this turn, it can be treated as an \"Artmage\" monster. You can only use this effect of \"Artmage Vandalism -Assault-\" once per turn. If \"Artmage Academic Arcane Arts Acropolis\" you control would be destroyed by card effect, you can send this card you control to the GY instead. You can only activate 1 \"Artmage Vandalism -Assault-\" per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1122030.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1122030.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1122030.jpg"
+  }
+}

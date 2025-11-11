@@ -1,0 +1,16 @@
+{
+  "id": 96384007,
+  "name": "Machina Defender",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Add 1 \"Commander Covington\" from your Deck to your hand.",
+  "attack": 1200,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96384007.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96384007.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96384007.jpg"
+  }
+}

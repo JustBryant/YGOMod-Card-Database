@@ -1,0 +1,16 @@
+{
+  "id": 7359741,
+  "name": "Mechanicalchaser",
+  "type": "Normal Monster",
+  "description": "A hunter that relentlessly pursues its target by order of the Machine King.",
+  "attack": 1850,
+  "defense": 800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7359741.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7359741.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7359741.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 21702241,
+  "name": "Vengeful Servant",
+  "type": "Spell Card",
+  "description": "When control of the equipped monster changes, inflict damage equal to its original ATK to its new controller.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21702241.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21702241.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21702241.jpg"
+  }
+}

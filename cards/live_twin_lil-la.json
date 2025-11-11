@@ -1,0 +1,16 @@
+{
+  "id": 73810864,
+  "name": "Live☆Twin Lil-la",
+  "type": "Effect Monster",
+  "description": "Your opponent must pay 500 LP to declare an attack. If this card is Normal or Special Summoned and you control no other monsters: You can Special Summon 1 \"Ki-sikil\" monster from your hand or Deck. You can only use this effect of \"Live☆Twin Lil-la\" once per turn.",
+  "attack": 500,
+  "defense": 0,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73810864.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73810864.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73810864.jpg"
+  }
+}

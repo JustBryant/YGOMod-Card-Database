@@ -1,0 +1,16 @@
+{
+  "id": 44689688,
+  "name": "Jurrac Spinos",
+  "type": "Effect Monster",
+  "description": "If this card destroys an opponent's monster by battle and sends it to the GY: Special Summon 1 \"Spinos Token\" (Dinosaur/FIRE/Level 1/ATK 300/DEF 0) in Attack Position to your opponent's field.",
+  "attack": 2600,
+  "defense": 1700,
+  "level": 7,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44689688.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44689688.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44689688.jpg"
+  }
+}

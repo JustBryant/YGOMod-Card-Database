@@ -1,0 +1,12 @@
+{
+  "id": 25955749,
+  "name": "Sky Striker Maneuver - Jamming Waves!",
+  "type": "Spell Card",
+  "description": "If you control no monsters in your Main Monster Zone: Target 1 Set Spell/Trap on the field; destroy it, then, if you have 3 or more Spells in your GY, you can destroy 1 monster on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25955749.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25955749.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25955749.jpg"
+  }
+}

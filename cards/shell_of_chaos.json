@@ -1,0 +1,16 @@
+{
+  "id": 77312273,
+  "name": "Shell of Chaos",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. If this face-up card would leave the field, banish it instead. You can only use each of the following effects of \"Shell of Chaos\" once per turn. You can banish 1 LIGHT monster from your hand or GY; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except LIGHT or DARK Synchro Monsters. If this card is Special Summoned: You can target 1 of your banished \"Core of Chaos\"; Special Summon it.",
+  "attack": 1600,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77312273.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77312273.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77312273.jpg"
+  }
+}

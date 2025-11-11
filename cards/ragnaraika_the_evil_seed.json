@@ -1,0 +1,16 @@
+{
+  "id": 99153051,
+  "name": "Ragnaraika the Evil Seed",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by sending 1 Insect, Plant, or Reptile monster from your hand to the GY. You can only Special Summon \"Ragnaraika the Evil Seed\" once per turn this way. If this card is Normal or Special Summoned: You can add to your hand up to 2 different \"Ragnaraika\" cards of yours that are banished and/or in your Deck, except \"Ragnaraika the Evil Seed\", then banish 1 card from your hand, also you cannot Special Summon for the rest of this turn, except Insect, Plant, or Reptile monsters. You can only use this effect of \"Ragnaraika the Evil Seed\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99153051.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99153051.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99153051.jpg"
+  }
+}

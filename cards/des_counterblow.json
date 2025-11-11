@@ -1,0 +1,12 @@
+{
+  "id": 39131963,
+  "name": "Des Counterblow",
+  "type": "Trap Card",
+  "description": "Destroy any monster that inflicts Battle Damage to a player's Life Points by attacking directly.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39131963.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39131963.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39131963.jpg"
+  }
+}

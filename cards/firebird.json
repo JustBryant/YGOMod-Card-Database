@@ -1,0 +1,16 @@
+{
+  "id": 87473172,
+  "name": "Firebird",
+  "type": "Effect Monster",
+  "description": "Each time a Winged Beast-Type monster(s) on your side of the field is destroyed, this card gains 500 ATK.",
+  "attack": 1000,
+  "defense": 800,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87473172.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87473172.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87473172.jpg"
+  }
+}

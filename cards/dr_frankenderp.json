@@ -1,0 +1,16 @@
+{
+  "id": 27995943,
+  "name": "Dr. Frankenderp",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can pay 500 LP; look at the top card of your Deck, then place it on the bottom of your Deck, OR reveal it and add it to your hand, but skip your next Draw Phase if added to the hand. You can only use this effect of \"Dr. Frankenderp\" once per turn.",
+  "attack": 300,
+  "defense": 300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27995943.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27995943.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27995943.jpg"
+  }
+}

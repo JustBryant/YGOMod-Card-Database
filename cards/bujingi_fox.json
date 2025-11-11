@@ -1,0 +1,16 @@
+{
+  "id": 23857661,
+  "name": "Bujingi Fox",
+  "type": "Effect Monster",
+  "description": "During either player's turn: You can banish this card from your Graveyard and send 1 \"Bujin\" monster from your hand to the Graveyard; you take no damage this turn.",
+  "attack": 200,
+  "defense": 2100,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23857661.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23857661.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23857661.jpg"
+  }
+}

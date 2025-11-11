@@ -1,0 +1,12 @@
+{
+  "id": 51976476,
+  "name": "Double Trap Hole",
+  "type": "Trap Card",
+  "description": "If your opponent Special Summons a monster(s) in Defense Position: Banish those monster(s) that were Summoned in (and currently in) Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51976476.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51976476.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51976476.jpg"
+  }
+}

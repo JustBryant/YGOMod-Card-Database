@@ -1,0 +1,16 @@
+{
+  "id": 6766208,
+  "name": "D/D/D Gust High King Alexander",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nIf 3 or more \"D/D/D\" monsters are on the field, this card gains 3000 ATK. If another \"D/D\" monster(s) is Normal or Special Summoned to your field while this monster is on the field (except during the Damage Step): You can target 1 \"D/D\" monster in your GY; Special Summon it. You can only use this effect of \"D/D/D Gust High King Alexander\" once per turn.",
+  "attack": 3000,
+  "defense": 2500,
+  "level": 10,
+  "attribute": "WIND",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6766208.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6766208.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6766208.jpg"
+  }
+}

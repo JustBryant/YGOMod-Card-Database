@@ -1,0 +1,12 @@
+{
+  "id": 41475424,
+  "name": "Mektimed Blast",
+  "type": "Trap Card",
+  "description": "Target 1 \"Meklord\" monster you control and 1 card your opponent controls; destroy them.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41475424.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41475424.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41475424.jpg"
+  }
+}

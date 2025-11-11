@@ -1,0 +1,16 @@
+{
+  "id": 97639441,
+  "name": "Photon Jumper",
+  "type": "Effect Monster",
+  "description": "When an opponent's monster declares an attack: You can activate this effect; skip your next Battle Phase, also Special Summon this card from your hand, then end this Battle Phase. If this card is sent to the GY: You can add 1 \"Photon\" or \"Galaxy\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Photon Jumper\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97639441.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97639441.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97639441.jpg"
+  }
+}

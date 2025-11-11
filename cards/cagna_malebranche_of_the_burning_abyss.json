@@ -1,0 +1,16 @@
+{
+  "id": 9342162,
+  "name": "Cagna, Malebranche of the Burning Abyss",
+  "type": "Effect Monster",
+  "description": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. You can only use 1 of these effects of \"Cagna, Malebranche of the Burning Abyss\" per turn, and only once that turn.\n● If you control no Spell/Trap Cards: You can Special Summon this card from your hand.\n● If this card is sent to the Graveyard: You can send 1 \"Burning Abyss\" Spell/Trap Card from your Deck to the Graveyard.",
+  "attack": 1500,
+  "defense": 300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9342162.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9342162.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9342162.jpg"
+  }
+}

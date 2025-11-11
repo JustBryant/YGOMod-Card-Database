@@ -1,0 +1,12 @@
+{
+  "id": 53527835,
+  "name": "Dark City",
+  "type": "Spell Card",
+  "description": "When a \"Destiny HERO\" monster attacks, if its ATK is lower than the ATK of the attack target, the attacking monster gains 1000 ATK during damage calculation only.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53527835.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53527835.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53527835.jpg"
+  }
+}

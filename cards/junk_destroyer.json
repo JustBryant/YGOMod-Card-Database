@@ -1,0 +1,16 @@
+{
+  "id": 74860293,
+  "name": "Junk Destroyer",
+  "type": "Synchro Monster",
+  "description": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target cards on the field, up to the number of non-Tuner monsters used for the Synchro Summon of this card; destroy those targets.",
+  "attack": 2600,
+  "defense": 2500,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74860293.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74860293.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74860293.jpg"
+  }
+}

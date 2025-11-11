@@ -1,0 +1,16 @@
+{
+  "id": 34710660,
+  "name": "Electromagnetic Turtle",
+  "type": "Effect Monster",
+  "description": "During your opponent's Battle Phase (Quick Effect): You can banish this card from your GY; end the Battle Phase. You can only use this effect of \"Electromagnetic Turtle\" once per Duel.",
+  "attack": 0,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34710660.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34710660.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34710660.jpg"
+  }
+}

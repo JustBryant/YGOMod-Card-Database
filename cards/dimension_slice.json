@@ -1,0 +1,12 @@
+{
+  "id": 73632127,
+  "name": "Dimension Slice",
+  "type": "Trap Card",
+  "description": "When a monster(s) is Special Summoned to your side of the field (except during the Damage Step): Target 1 face-up monster your opponent controls; banish that target. If the Summon is an Xyz Summon, you can activate this card the turn it was Set.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73632127.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73632127.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73632127.jpg"
+  }
+}

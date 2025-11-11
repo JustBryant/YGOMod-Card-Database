@@ -1,0 +1,12 @@
+{
+  "id": 48206762,
+  "name": "Fulfillment of the Contract",
+  "type": "Spell Card",
+  "description": "Activate this card by paying 800 LP, then target 1 Ritual Monster in your GY; Special Summon it and equip it with this card. When this card is destroyed, banish the equipped monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48206762.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48206762.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48206762.jpg"
+  }
+}

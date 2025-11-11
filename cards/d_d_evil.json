@@ -1,0 +1,16 @@
+{
+  "id": 55415564,
+  "name": "D/D Evil",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce, while this card is in your Pendulum Zone, when your opponent Pendulum Summons a monster(s) (except during the Damage Step): You can activate this effect; this turn, that Pendulum Summoned monster cannot attack, also its effects are negated.\n\n[ Monster Effect ] \nCannot attack unless you control another \"D/D\" monster. During your opponent's Main Phase (Quick Effect): You can target 1 face-up Pendulum Summoned monster your opponent controls; negate that face-up monster's effects until the end of this turn. You can only use this effect of \"D/D Evil\" once per turn.",
+  "attack": 2000,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55415564.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55415564.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55415564.jpg"
+  }
+}

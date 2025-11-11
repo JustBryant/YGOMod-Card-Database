@@ -1,0 +1,16 @@
+{
+  "id": 67724379,
+  "name": "Koumori Dragon",
+  "type": "Normal Monster",
+  "description": "A vicious, fire-breathing dragon whose wicked flame corrupts the souls of its victims.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67724379.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67724379.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67724379.jpg"
+  }
+}

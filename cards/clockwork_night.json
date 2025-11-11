@@ -1,0 +1,12 @@
+{
+  "id": 84797028,
+  "name": "Clockwork Night",
+  "type": "Spell Card",
+  "description": "All face-up monsters on the field become Machine monsters. Machine monsters you control gain 500 ATK/DEF, also Machine monsters your opponent controls lose 500 ATK/DEF. You can banish this card from your GY, then discard 1 card; add 1 EARTH Machine monster from your Deck to your hand. You can only use this effect of \"Clockwork Night\" once per turn. You can only activate 1 \"Clockwork Night\" per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84797028.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84797028.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84797028.jpg"
+  }
+}

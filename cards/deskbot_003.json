@@ -1,0 +1,16 @@
+{
+  "id": 75944053,
+  "name": "Deskbot 003",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 \"Deskbot\" monster from your Deck, except \"Deskbot 003\". Once per turn (Quick Effect): You can target 1 \"Deskbot\" monster you control; it gains 500 ATK/DEF for each \"Deskbot\" card you currently control, until the end of this turn.",
+  "attack": 500,
+  "defense": 500,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75944053.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75944053.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75944053.jpg"
+  }
+}

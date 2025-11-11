@@ -1,0 +1,12 @@
+{
+  "id": 43487744,
+  "name": "White Hole",
+  "type": "Trap Card",
+  "description": "When your opponent activates \"Dark Hole\": Monsters you control cannot be destroyed by that \"Dark Hole's\" effect.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43487744.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43487744.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43487744.jpg"
+  }
+}

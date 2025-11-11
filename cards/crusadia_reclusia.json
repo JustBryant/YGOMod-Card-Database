@@ -1,0 +1,16 @@
+{
+  "id": 55241609,
+  "name": "Crusadia Reclusia",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon \"Crusadia Reclusia\" once per turn this way. If this card is Normal or Special Summoned to a zone a Link Monster points to: You can target 1 \"Crusadia\" card you control and 1 card your opponent controls; destroy them. You can only use this effect of \"Crusadia Reclusia\" once per turn.",
+  "attack": 400,
+  "defense": 2000,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55241609.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55241609.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55241609.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3825890,
+  "name": "Gravekeeper's Visionary",
+  "type": "Effect Monster",
+  "description": "You can Tribute Summon this card by Tributing 1 \"Gravekeeper's\" monster. This card gains 200 ATK for each \"Gravekeeper's\" monster in your Graveyard. If this face-up card would be destroyed, you can discard 1 \"Gravekeeper's\" monster instead.",
+  "attack": 2000,
+  "defense": 1800,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3825890.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3825890.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3825890.jpg"
+  }
+}

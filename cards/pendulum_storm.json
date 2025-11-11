@@ -1,0 +1,12 @@
+{
+  "id": 83461421,
+  "name": "Pendulum Storm",
+  "type": "Spell Card",
+  "description": "Destroy as many cards in the Pendulum Zones as possible, then you can destroy 1 Spell/Trap your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83461421.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83461421.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83461421.jpg"
+  }
+}

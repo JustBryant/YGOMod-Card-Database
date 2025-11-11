@@ -1,0 +1,16 @@
+{
+  "id": 80367387,
+  "name": "Koa'ki Meiru Bergzak",
+  "type": "Effect Monster",
+  "description": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Warrior-Type monster in your hand. If this card destroys an opponent's monster by battle, it can attack once again in a row.",
+  "attack": 2000,
+  "defense": 200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80367387.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80367387.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80367387.jpg"
+  }
+}

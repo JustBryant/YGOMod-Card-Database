@@ -1,0 +1,12 @@
+{
+  "id": 8842266,
+  "name": "Poison of the Old Man",
+  "type": "Spell Card",
+  "description": "Activate 1 of these effects;\n● Gain 1200 LP.\n● Inflict 800 damage to your opponent.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8842266.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8842266.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8842266.jpg"
+  }
+}

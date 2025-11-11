@@ -1,0 +1,16 @@
+{
+  "id": 67934141,
+  "name": "Ultimate Baseball Kid",
+  "type": "Effect Monster",
+  "description": "This card gains 1000 ATK for each face-up FIRE monster on the field, except this card. You can send 1 other face-up FIRE monster you control to the Graveyard; inflict 500 damage to your opponent.",
+  "attack": 500,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67934141.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67934141.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67934141.jpg"
+  }
+}

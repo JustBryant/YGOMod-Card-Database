@@ -1,0 +1,16 @@
+{
+  "id": 35322812,
+  "name": "Woodborg Inpachi",
+  "type": "Normal Monster",
+  "description": "The new form of the enigmatic Inpachi, remodeled by cutting-edge Dark World technology. Maneuverability has been sacrificed for strong armor, which is considered more important.",
+  "attack": 500,
+  "defense": 2500,
+  "level": 5,
+  "attribute": "FIRE",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35322812.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35322812.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35322812.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 58641905,
+  "name": "Ring of Defense",
+  "type": "Spell Card",
+  "description": "When a Trap effect that inflicts damage is activated: Make that effect damage 0.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58641905.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58641905.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58641905.jpg"
+  }
+}

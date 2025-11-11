@@ -1,0 +1,12 @@
+{
+  "id": 4230620,
+  "name": "Psi-Station",
+  "type": "Spell Card",
+  "description": "When a Psychic-Type monster is Normal Summoned: You can pay 500 LP; increase its Level by 1 and ATK by 300. (This remains even if this card leaves the field.)",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4230620.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4230620.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4230620.jpg"
+  }
+}

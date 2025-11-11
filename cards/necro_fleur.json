@@ -1,0 +1,16 @@
+{
+  "id": 99000151,
+  "name": "Necro Fleur",
+  "type": "Effect Monster",
+  "description": "If this card is destroyed by a card effect and sent to the Graveyard, you can Special Summon 1 \"Sorciere de Fleur\" from your Deck.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99000151.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99000151.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99000151.jpg"
+  }
+}

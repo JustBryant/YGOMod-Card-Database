@@ -1,0 +1,12 @@
+{
+  "id": 99002135,
+  "name": "Urgent Synthesis",
+  "type": "Spell Card",
+  "description": "Return 1 \"Iron Core of Koa'ki Meiru\" from your Graveyard to the Deck. Special Summon 1 Level 4 or lower \"Koa'ki Meiru\" monster from your hand or your Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99002135.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99002135.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99002135.jpg"
+  }
+}

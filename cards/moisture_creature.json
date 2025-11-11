@@ -1,0 +1,16 @@
+{
+  "id": 75285069,
+  "name": "Moisture Creature",
+  "type": "Effect Monster",
+  "description": "If you Tribute Summon this monster by Tributing 3 monsters on the field, destroy all Spell and Trap Cards on your opponent's side of the field.",
+  "attack": 2800,
+  "defense": 2900,
+  "level": 9,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75285069.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75285069.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75285069.jpg"
+  }
+}

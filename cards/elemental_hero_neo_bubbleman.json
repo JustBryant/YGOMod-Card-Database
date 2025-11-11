@@ -1,0 +1,16 @@
+{
+  "id": 5285665,
+  "name": "Elemental HERO Neo Bubbleman",
+  "type": "Effect Monster",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending an \"Elemental Hero Bubbleman\" you control and \"Metamorphosis\" in your hand to the Graveyard. This card's name is treated as \"Elemental Hero Bubbleman\" while it is face-up on the field. Destroy an opponent's monster that battles this card at the end of the Damage Step.",
+  "attack": 800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5285665.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5285665.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5285665.jpg"
+  }
+}

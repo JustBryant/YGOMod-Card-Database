@@ -1,0 +1,12 @@
+{
+  "id": 17814387,
+  "name": "Reinforcements",
+  "type": "Trap Card",
+  "description": "Target 1 face-up monster on the field; it gains 500 ATK until the end of this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17814387.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17814387.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17814387.jpg"
+  }
+}

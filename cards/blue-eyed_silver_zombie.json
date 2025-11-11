@@ -1,0 +1,16 @@
+{
+  "id": 35282433,
+  "name": "Blue-Eyed Silver Zombie",
+  "type": "Normal Monster",
+  "description": "The beams from the eyes of this creature are said to turn enemies into zombies.",
+  "attack": 900,
+  "defense": 700,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35282433.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35282433.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35282433.jpg"
+  }
+}

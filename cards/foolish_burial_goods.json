@@ -1,0 +1,12 @@
+{
+  "id": 35726888,
+  "name": "Foolish Burial Goods",
+  "type": "Spell Card",
+  "description": "Send 1 Spell/Trap from your Deck to the GY. You can only activate 1 \"Foolish Burial Goods\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35726888.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35726888.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35726888.jpg"
+  }
+}

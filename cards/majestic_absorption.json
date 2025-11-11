@@ -1,0 +1,12 @@
+{
+  "id": 63144961,
+  "name": "Majestic Absorption",
+  "type": "Spell Card",
+  "description": "Target 1 \"Stardust Dragon\", or 1 Synchro Monster that mentions it, that you control, then activate 1 of these effects;\r\n● Equip 1 face-up monster your opponent controls to that target.\r\n● It can attack directly this turn.\r\n● This turn, each time it destroys an opponent's monster by battle, inflict damage to your opponent equal to the destroyed monster's original ATK.\r\nYou can only activate 1 \"Majestic Absorption\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63144961.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63144961.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63144961.jpg"
+  }
+}

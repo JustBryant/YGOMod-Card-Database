@@ -1,0 +1,12 @@
+{
+  "id": 42709949,
+  "name": "Phalanx Pike",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 900 ATK for each card in either Graveyard that has the same name it does.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42709949.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42709949.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42709949.jpg"
+  }
+}

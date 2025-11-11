@@ -1,0 +1,16 @@
+{
+  "id": 89904598,
+  "name": "Anthrosaurus",
+  "type": "Normal Monster",
+  "description": "Dis man-like dinosawz gotta high I.Q., even tho he's lackin' in da strength depawtment. (Kinda like yooz, if ya had a high I.Q.! Nyaah!)",
+  "attack": 1000,
+  "defense": 850,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89904598.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89904598.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89904598.jpg"
+  }
+}

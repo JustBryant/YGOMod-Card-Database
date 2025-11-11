@@ -1,0 +1,16 @@
+{
+  "id": 22666164,
+  "name": "Commander Covington",
+  "type": "Effect Monster",
+  "description": "You can send 1 face-up \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" you control to the GY; Special Summon 1 \"Machina Force\" from your hand or Deck.",
+  "attack": 1000,
+  "defense": 600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22666164.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22666164.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22666164.jpg"
+  }
+}

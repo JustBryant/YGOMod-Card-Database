@@ -1,0 +1,12 @@
+{
+  "id": 28493337,
+  "name": "Armageddon Designator",
+  "type": "Trap Card",
+  "description": "Banish 1 card from your hand; neither player can activate cards, or the effects of cards, with that name for the rest of this Duel.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28493337.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28493337.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28493337.jpg"
+  }
+}

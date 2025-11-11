@@ -1,0 +1,16 @@
+{
+  "id": 41902352,
+  "name": "Blackwing - Kochi the Daybreak",
+  "type": "Tuner Monster",
+  "description": "If this card was Special Summoned, it cannot be used as a Synchro Material.",
+  "attack": 700,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41902352.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41902352.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41902352.jpg"
+  }
+}

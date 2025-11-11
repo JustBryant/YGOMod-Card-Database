@@ -1,0 +1,16 @@
+{
+  "id": 86520461,
+  "name": "Fossil Warrior Skull Bone",
+  "type": "Fusion Monster",
+  "description": "1 Rock monster + 1 Level 4 or lower monster\r\nMust first be Special Summoned with \"Fossil Fusion\". This card can make up to 2 attacks on monsters during each Battle Phase. You can banish this card from your GY; add 1 \"Time Stream\" from your Deck to your hand. You can only use this effect of \"Fossil Warrior Skull Bone\" once per turn.",
+  "attack": 2000,
+  "defense": 800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86520461.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86520461.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86520461.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 15103313,
+  "name": "Self-Mummification",
+  "type": "Spell Card",
+  "description": "Select 1 monster you control, and send it to the Graveyard.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15103313.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15103313.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15103313.jpg"
+  }
+}

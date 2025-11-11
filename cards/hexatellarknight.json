@@ -1,0 +1,12 @@
+{
+  "id": 70422863,
+  "name": "Hexatellarknight",
+  "type": "Spell Card",
+  "description": "Each \"tellarknight\" Xyz Monster gains 200 ATK and DEF for each Xyz Material attached to it. When a \"tellarknight\" Xyz Monster you control is targeted for an attack: You can send 1 \"tellarknight\" card from your hand to the Graveyard; negate that attack.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70422863.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70422863.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70422863.jpg"
+  }
+}

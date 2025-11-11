@@ -1,0 +1,16 @@
+{
+  "id": 75043725,
+  "name": "Emissary of the Afterlife",
+  "type": "Effect Monster",
+  "description": "When this card is sent from the field to the Graveyard: Each player adds 1 Level 3 or lower Normal Monster from their Deck to their hand.",
+  "attack": 1600,
+  "defense": 600,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75043725.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75043725.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75043725.jpg"
+  }
+}

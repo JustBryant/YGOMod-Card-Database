@@ -1,0 +1,12 @@
+{
+  "id": 59616123,
+  "name": "Trap Stun",
+  "type": "Trap Card",
+  "description": "Negate all other Trap effects on the field this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59616123.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59616123.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59616123.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 10489311,
+  "name": "Hero Medal",
+  "type": "Trap Card",
+  "description": "When this Set card is destroyed and sent to the Graveyard by an opponent's card effect, shuffle this card into its owner's Deck. Then draw 1 card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10489311.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10489311.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10489311.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 52119435,
+  "name": "Geonator Transverser",
+  "type": "Link Monster",
+  "description": "2 Effect Monsters\r\nThis linked card and monsters it points to cannot be destroyed by your opponent's card effects. If this card points to 2 monsters: You can switch control of those monsters. You can only use this effect of \"Geonator Transverser\" once per turn.",
+  "attack": 1200,
+  "defense": null,
+  "level": null,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52119435.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52119435.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52119435.jpg"
+  }
+}

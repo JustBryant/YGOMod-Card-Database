@@ -1,0 +1,16 @@
+{
+  "id": 27618634,
+  "name": "The Unhappy Girl",
+  "type": "Effect Monster",
+  "description": "While this card is in face-up Attack Position on the field, this card is not destroyed as a result of battle. (Damage calculation is applied normally.) A monster that battled with this card cannot change its battle position, except with a card effect, or attack while this card is in face-up Attack Position on the field.",
+  "attack": 400,
+  "defense": 300,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27618634.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27618634.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27618634.jpg"
+  }
+}

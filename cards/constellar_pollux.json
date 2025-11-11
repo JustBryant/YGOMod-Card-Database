@@ -1,0 +1,16 @@
+{
+  "id": 78364470,
+  "name": "Constellar Pollux",
+  "type": "Effect Monster",
+  "description": "During the turn this card was Normal Summoned, you can Normal Summon 1 \"Constellar\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+  "attack": 1700,
+  "defense": 600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78364470.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78364470.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78364470.jpg"
+  }
+}

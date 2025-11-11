@@ -1,0 +1,16 @@
+{
+  "id": 93892436,
+  "name": "Performapal Swincobra",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn, when a monster you control inflicts battle damage to your opponent: You can send the top card of your opponent's Deck to the Graveyard.\n\n[ Monster Effect ] \nThis card can attack your opponent directly. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.",
+  "attack": 300,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93892436.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93892436.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93892436.jpg"
+  }
+}

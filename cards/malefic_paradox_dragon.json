@@ -1,0 +1,16 @@
+{
+  "id": 8310162,
+  "name": "Malefic Paradox Dragon",
+  "type": "Synchro Monster",
+  "description": "\"Malefic Parallel Gear\" + 1 non-Tuner \"Malefic\" monster\nWhen this card is Synchro Summoned, you can select 1 Synchro Monster in either player's Graveyard, and Special Summon it. There can only be 1 face-up \"Malefic Paradox Dragon\" on the field. If \"Malefic World\" is not face-up on the field, destroy this card.",
+  "attack": 4000,
+  "defense": 4000,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8310162.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8310162.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8310162.jpg"
+  }
+}

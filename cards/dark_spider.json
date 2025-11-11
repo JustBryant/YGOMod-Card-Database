@@ -1,0 +1,16 @@
+{
+  "id": 81759748,
+  "name": "Dark Spider",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can increase the Level of 1 face-up Insect-Type monster you control by 2, until the End Phase.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81759748.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81759748.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81759748.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 300302045,
+  "name": "Beware the Brothers Paradox!",
+  "type": "Skill Card",
+  "description": "Apply the following Skills:\r\n● You can Normal Summon Level 7 monsters for 1 less Tribute.\r\n● You can Tribute Summon 1 Level 7 monster face-up, in addition to your Normal Summon/Set.\r\n● Your opponent takes no effect damage.\r\n● You can only attack with 1 monster each turn, but that monster can make a second attack on monsters during each Battle Phase.",
+  "race": "Paradox Broth",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302045.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302045.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302045.jpg"
+  }
+}

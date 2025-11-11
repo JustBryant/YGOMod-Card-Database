@@ -1,0 +1,16 @@
+{
+  "id": 11685347,
+  "name": "Blast Asmodian",
+  "type": "Effect Monster",
+  "description": "If any Spell or Trap Card(s) are Chained, inflict 500 damage to your opponent.",
+  "attack": 1000,
+  "defense": 300,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11685347.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11685347.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11685347.jpg"
+  }
+}

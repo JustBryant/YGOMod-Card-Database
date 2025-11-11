@@ -1,0 +1,12 @@
+{
+  "id": 27450401,
+  "name": "Compass Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Cosmic Compass\".",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27450401.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27450401.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27450401.jpg"
+  }
+}

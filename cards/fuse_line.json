@@ -1,0 +1,12 @@
+{
+  "id": 51091138,
+  "name": "Fuse Line",
+  "type": "Trap Card",
+  "description": "While this card is Set: Target 1 card on the field in this card's column; destroy it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51091138.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51091138.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51091138.jpg"
+  }
+}

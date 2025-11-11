@@ -1,0 +1,16 @@
+{
+  "id": 44635489,
+  "name": "Constellar Siat",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can target 1 \"Constellar\" monster you control or in your Graveyard; this card's Level becomes the current Level of that monster. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a \"Constellar\" monster.",
+  "attack": 100,
+  "defense": 1600,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44635489.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44635489.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44635489.jpg"
+  }
+}

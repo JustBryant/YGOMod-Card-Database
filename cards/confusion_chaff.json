@@ -1,0 +1,12 @@
+{
+  "id": 67630339,
+  "name": "Confusion Chaff",
+  "type": "Trap Card",
+  "description": "Activate only when your opponent declares a second direct attack during the same Battle Phase. Conduct battle between the attacking monster and the first monster that attacked directly (other effects cannot be activated during this battle).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67630339.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67630339.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67630339.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 91098230,
+  "name": "Ancient Gear Tanker",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Ancient Gear\" monster from your hand, except \"Ancient Gear Tanker\", ignoring its Summoning conditions, or, if your opponent controls a monster, you can Special Summon from your GY instead. You can target 1 face-up card you control; destroy it, also for the rest of this turn, all monsters you control that are \"Ancient Gear Golem\", or mention it, gain 600 ATK. You can only use each effect of \"Ancient Gear Tanker\" once per turn.",
+  "attack": 1300,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91098230.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91098230.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91098230.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 33731070,
+  "name": "Beiige, Vanguard of Dark World",
+  "type": "Effect Monster",
+  "description": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard.",
+  "attack": 1600,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33731070.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33731070.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33731070.jpg"
+  }
+}

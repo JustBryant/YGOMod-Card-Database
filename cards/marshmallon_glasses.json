@@ -1,0 +1,12 @@
+{
+  "id": 66865880,
+  "name": "Marshmallon Glasses",
+  "type": "Spell Card",
+  "description": "While \"Marshmallon\" is in your Monster Zone, your opponent cannot target monsters other than \"Marshmallon\" for attacks.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66865880.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66865880.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66865880.jpg"
+  }
+}

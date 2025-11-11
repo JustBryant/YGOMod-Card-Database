@@ -1,0 +1,16 @@
+{
+  "id": 16209941,
+  "name": "Danger! Chupacabra!",
+  "type": "Effect Monster",
+  "description": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Chupacabra!\", Special Summon 1 \"Danger! Chupacabra!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 \"Danger!\" monster in your GY, except \"Danger! Chupacabra!\"; Special Summon it. You can only use this effect of \"Danger! Chupacabra!\" once per turn.",
+  "attack": 1500,
+  "defense": 400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16209941.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16209941.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16209941.jpg"
+  }
+}

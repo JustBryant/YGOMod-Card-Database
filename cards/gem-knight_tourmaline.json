@@ -1,0 +1,16 @@
+{
+  "id": 54620698,
+  "name": "Gem-Knight Tourmaline",
+  "type": "Normal Monster",
+  "description": "He channels mystic energies and changes them into fighting strength through the power of Tourmaline. Many admire his way of life.",
+  "attack": 1600,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54620698.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54620698.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54620698.jpg"
+  }
+}

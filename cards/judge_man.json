@@ -1,0 +1,16 @@
+{
+  "id": 30113682,
+  "name": "Judge Man",
+  "type": "Normal Monster",
+  "description": "This club-wielding warrior battles to the end and will never surrender.",
+  "attack": 2200,
+  "defense": 1500,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30113682.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30113682.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30113682.jpg"
+  }
+}

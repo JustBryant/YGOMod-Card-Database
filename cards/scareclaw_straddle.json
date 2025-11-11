@@ -1,0 +1,12 @@
+{
+  "id": 41619242,
+  "name": "Scareclaw Straddle",
+  "type": "Spell Card",
+  "description": "You can activate 1 of the following effects.\r\n● Target 1 \"Scareclaw\" monster or 1 \"Visas Starfrost\" in your Monster Zone, and 1 face-up monster your opponent controls; your monster gains ATK/DEF equal to your opponent's monster's ATK or DEF (whichever is higher).\r\n● When a card or effect is activated that targets a \"Scareclaw\" monster or \"Visas Starfrost\" you control: Negate that effect.\r\nYou can only activate 1 \"Scareclaw Straddle\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41619242.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41619242.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41619242.jpg"
+  }
+}

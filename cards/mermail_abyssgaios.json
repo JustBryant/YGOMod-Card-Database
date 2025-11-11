@@ -1,0 +1,16 @@
+{
+  "id": 74371660,
+  "name": "Mermail Abyssgaios",
+  "type": "XYZ Monster",
+  "description": "2 Level 7 WATER monsters\nWhile this face-up card has Xyz Material, Level 5 or higher monsters cannot attack. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; negate the effects of all face-up monsters your opponent currently controls that have less ATK than this card, until the end of the turn.",
+  "attack": 2800,
+  "defense": 1600,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74371660.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74371660.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74371660.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 77372241,
+  "name": "Flamvell Grunika",
+  "type": "Effect Monster",
+  "description": "When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the Level of the destroyed monster x 200.",
+  "attack": 1700,
+  "defense": 200,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77372241.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77372241.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77372241.jpg"
+  }
+}

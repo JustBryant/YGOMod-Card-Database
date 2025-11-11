@@ -1,0 +1,12 @@
+{
+  "id": 16430187,
+  "name": "The Reliable Guardian",
+  "type": "Spell Card",
+  "description": "Increase 1 face-up monster's DEF by 700 points until the end of this turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16430187.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16430187.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16430187.jpg"
+  }
+}

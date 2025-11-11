@@ -1,0 +1,16 @@
+{
+  "id": 28139785,
+  "name": "Wrecker Panda",
+  "type": "Effect Monster",
+  "description": "Once per turn, during the Standby Phase: You can pay 500 LP; send the top card of your Deck to the Graveyard, and if you do, this card gains ATK and DEF equal to that monster's Level x 200 if it was a monster. If this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can add 1 monster with the lowest Level from your Graveyard to your hand (your choice, if tied).",
+  "attack": 800,
+  "defense": 800,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28139785.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28139785.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28139785.jpg"
+  }
+}

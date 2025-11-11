@@ -1,0 +1,12 @@
+{
+  "id": 95642274,
+  "name": "The Humble Sentry",
+  "type": "Spell Card",
+  "description": "Reveal your hand, choose 1 card, and shuffle it into the Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95642274.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95642274.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95642274.jpg"
+  }
+}

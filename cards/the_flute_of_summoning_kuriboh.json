@@ -1,0 +1,12 @@
+{
+  "id": 20065322,
+  "name": "The Flute of Summoning Kuriboh",
+  "type": "Spell Card",
+  "description": "Take 1 \"Kuriboh\" or 1 \"Winged Kuriboh\" from your Deck, and either add it to your hand or Special Summon it.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20065322.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20065322.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20065322.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 53054833,
+  "name": "Speedroid Double Yoyo",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can target 1 Level 3 or lower \"Speedroid\" monster in your Graveyard; Special Summon it.",
+  "attack": 1400,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53054833.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53054833.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53054833.jpg"
+  }
+}

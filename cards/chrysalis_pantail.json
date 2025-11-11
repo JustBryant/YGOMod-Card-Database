@@ -1,0 +1,16 @@
+{
+  "id": 43751755,
+  "name": "Chrysalis Pantail",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Dark Panther\" from your hand or Deck.",
+  "attack": 800,
+  "defense": 300,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43751755.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43751755.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43751755.jpg"
+  }
+}

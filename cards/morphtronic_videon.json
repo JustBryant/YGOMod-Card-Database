@@ -1,0 +1,16 @@
+{
+  "id": 84592800,
+  "name": "Morphtronic Videon",
+  "type": "Effect Monster",
+  "description": "● While in Attack Position: This card gains 800 ATK for each Equip Card equipped to it. \n● While in Defense Position: This card gains 800 DEF for each Equip Card equipped to it.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84592800.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84592800.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84592800.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14225239,
+  "name": "Elemental HERO Mariner",
+  "type": "Fusion Monster",
+  "description": "\"Elemental HERO Bubbleman\" + \"Elemental HERO Avian\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. While you have any face-down card(s) in your Spell & Trap Card Zones, this card can attack your opponent directly.",
+  "attack": 1400,
+  "defense": 1000,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14225239.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14225239.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14225239.jpg"
+  }
+}

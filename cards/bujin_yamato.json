@@ -1,0 +1,16 @@
+{
+  "id": 32339440,
+  "name": "Bujin Yamato",
+  "type": "Effect Monster",
+  "description": "Once per turn, during your End Phase: You can add 1 \"Bujin\" monster from your Deck to your hand, then send 1 card from your hand to the Graveyard. You can only control 1 \"Bujin Yamato\".",
+  "attack": 1800,
+  "defense": 200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32339440.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32339440.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32339440.jpg"
+  }
+}

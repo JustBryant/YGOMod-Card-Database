@@ -1,0 +1,16 @@
+{
+  "id": 68018709,
+  "name": "Condemned Maiden",
+  "type": "Effect Monster",
+  "description": "During your opponent's turn, you can activate 1 Quick-Play Spell Card from your hand. You can only use this effect of \"Condemned Maiden\" once per Duel.",
+  "attack": 100,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68018709.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68018709.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68018709.jpg"
+  }
+}

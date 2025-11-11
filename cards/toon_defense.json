@@ -1,0 +1,12 @@
+{
+  "id": 43509019,
+  "name": "Toon Defense",
+  "type": "Trap Card",
+  "description": "When an opponent's monster declares an attack targeting a face-up Level 4 or lower Toon Monster you control: You can make the attack a direct attack instead.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43509019.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43509019.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43509019.jpg"
+  }
+}

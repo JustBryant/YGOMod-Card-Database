@@ -1,0 +1,16 @@
+{
+  "id": 67987302,
+  "name": "Earthbound Linewalker",
+  "type": "Effect Monster",
+  "description": "\"Earthbound Immortal\" monsters cannot be destroyed by their own effects.",
+  "attack": 1200,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67987302.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67987302.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67987302.jpg"
+  }
+}

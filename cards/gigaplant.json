@@ -1,0 +1,16 @@
+{
+  "id": 53257892,
+  "name": "Gigaplant",
+  "type": "Gemini Monster",
+  "description": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● Once per turn: You can Special Summon 1 Insect or Plant monster from your hand or GY.",
+  "attack": 2400,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53257892.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53257892.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53257892.jpg"
+  }
+}

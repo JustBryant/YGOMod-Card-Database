@@ -1,0 +1,16 @@
+{
+  "id": 3170832,
+  "name": "Takuhee",
+  "type": "Normal Monster",
+  "description": "This bird is known far and wide as a harbinger of doom.",
+  "attack": 1450,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3170832.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3170832.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3170832.jpg"
+  }
+}

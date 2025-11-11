@@ -1,0 +1,12 @@
+{
+  "id": 5915629,
+  "name": "The Gift of Greed",
+  "type": "Trap Card",
+  "description": "Your opponent draws 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5915629.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5915629.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5915629.jpg"
+  }
+}

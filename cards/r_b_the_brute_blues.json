@@ -1,0 +1,16 @@
+{
+  "id": 32216688,
+  "name": "R.B. The Brute Blues",
+  "type": "Link Monster",
+  "description": "2+ Machine monsters\r\nGains the following effects while this card points to an \"R.B.\" monster.\r\n● Gains ATK equal to the total original ATK of \"R.B.\" monsters it points to.\r\n● Can make a second attack during each Battle Phase.\r\n● Cannot be destroyed by battle or card effects.\r\nDuring your Main Phase: You can add 1 \"R.B.\" card from your Deck to your hand. You can only use this effect of \"R.B. The Brute Blues\" once per turn.",
+  "attack": 1500,
+  "defense": null,
+  "level": null,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32216688.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32216688.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32216688.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 53828396,
+  "name": "Adhesive Explosive",
+  "type": "Effect Monster",
+  "description": "Before damage calculation, if this card was attacked by an opponent's monster and was in face-down Defense Position at the start of the Damage Step: Equip this card to the attacking monster. Then, during your opponent's next Standby Phase, destroy the monster this card is equipped to.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53828396.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53828396.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53828396.jpg"
+  }
+}

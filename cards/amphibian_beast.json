@@ -1,0 +1,16 @@
+{
+  "id": 67371383,
+  "name": "Amphibian Beast",
+  "type": "Normal Monster",
+  "description": "On land or in the sea, the speed of this monster is unmatchable.",
+  "attack": 2400,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67371383.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67371383.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67371383.jpg"
+  }
+}

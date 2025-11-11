@@ -1,0 +1,12 @@
+{
+  "id": 8275702,
+  "name": "Crystal Promise",
+  "type": "Spell Card",
+  "description": "Target 1 \"Crystal Beast\" card in your Spell & Trap Card Zone; Special Summon that target.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8275702.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8275702.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8275702.jpg"
+  }
+}

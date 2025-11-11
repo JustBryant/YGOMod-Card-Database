@@ -1,0 +1,16 @@
+{
+  "id": 92039899,
+  "name": "Archfiend Cavalry",
+  "type": "Effect Monster",
+  "description": "If this card on the field is destroyed by card effect and sent to the GY: You can target 1 \"Archfiend\" monster in your GY, except \"Archfiend Cavalry\"; Special Summon it, but it cannot attack this turn.",
+  "attack": 1900,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92039899.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92039899.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92039899.jpg"
+  }
+}

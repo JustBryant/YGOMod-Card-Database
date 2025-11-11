@@ -1,0 +1,16 @@
+{
+  "id": 79870141,
+  "name": "Mad Sword Beast",
+  "type": "Effect Monster",
+  "description": "If this card attacks a Defense Position monster, inflict piercing battle damage.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79870141.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79870141.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79870141.jpg"
+  }
+}

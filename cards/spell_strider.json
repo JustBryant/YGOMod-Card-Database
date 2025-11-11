@@ -1,0 +1,16 @@
+{
+  "id": 93966624,
+  "name": "Spell Strider",
+  "type": "Effect Monster",
+  "description": "If this card is in your hand: You can target 2 face-up Spell Cards on the field (1 from each side of the field); banish them, and if you do, Special Summon this card.",
+  "attack": 1800,
+  "defense": 600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93966624.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93966624.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93966624.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 99675356,
+  "name": "Shien's Footsoldier",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 3 or lower \"Six Samurai\" monster from your Deck.",
+  "attack": 700,
+  "defense": 300,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99675356.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99675356.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99675356.jpg"
+  }
+}

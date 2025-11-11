@@ -1,0 +1,16 @@
+{
+  "id": 95360850,
+  "name": "Shield Warrior",
+  "type": "Effect Monster",
+  "description": "During damage calculation, in either player's turn: You can banish this card from your Graveyard; monsters you control cannot be destroyed by this battle.",
+  "attack": 800,
+  "defense": 1600,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95360850.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95360850.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95360850.jpg"
+  }
+}

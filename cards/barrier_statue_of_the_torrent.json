@@ -1,0 +1,16 @@
+{
+  "id": 10963799,
+  "name": "Barrier Statue of the Torrent",
+  "type": "Effect Monster",
+  "description": "Neither player can Special Summon monsters, except WATER monsters.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10963799.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10963799.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10963799.jpg"
+  }
+}

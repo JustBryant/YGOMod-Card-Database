@@ -1,0 +1,12 @@
+{
+  "id": 90884404,
+  "name": "Utchatzimime Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Phantasmal Lord Ultimitl Bishbaalkin\".",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90884404.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90884404.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90884404.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 34974462,
+  "name": "Bloom Harmonist the Melodious Composer",
+  "type": "Link Monster",
+  "description": "2 Fairy monsters\r\nIf this card is Link Summoned: You can discard 1 card; Special Summon 2 \"Melodious\" monsters with different Levels from your Deck to your zones this card points to, in Defense Position. You cannot Special Summon monsters the turn you activate this effect, except \"Melodious\" monsters. You can only use this effect of \"Bloom Harmonist the Melodious Composer\" once per turn. If a \"Melodious\" monster this card points to attacks, your opponent cannot activate cards or effects until the end of the Damage Step.",
+  "attack": 1000,
+  "defense": null,
+  "level": null,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34974462.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34974462.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34974462.jpg"
+  }
+}

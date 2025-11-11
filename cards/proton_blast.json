@@ -1,0 +1,12 @@
+{
+  "id": 49511705,
+  "name": "Proton Blast",
+  "type": "Trap Card",
+  "description": "Once per turn, if an activated card effect tosses coins, immediately after it resolves, apply the following effect(s), depending on the number of heads.\r\n● 1+: Inflict 500 damage to your opponent.\r\n● 2+: Destroy 1 card your opponent controls.\r\n● 3+: Look at your opponent's hand and discard 1 card from their hand.\r\nWhen an effect is activated that tosses a coin 2 or more times: You can banish this card from the GY; treat all results as heads.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49511705.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49511705.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49511705.jpg"
+  }
+}

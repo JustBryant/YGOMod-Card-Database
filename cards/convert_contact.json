@@ -1,0 +1,12 @@
+{
+  "id": 82639107,
+  "name": "Convert Contact",
+  "type": "Spell Card",
+  "description": "If you control no monsters: Send 2 \"Neo-Spacian\" monsters (1 from your hand and 1 from your Deck) to the GY, then draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82639107.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82639107.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82639107.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 87246309,
+  "name": "Fluffal Octopus",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned: You can target 1 \"Fluffal\" or \"Edge Imp\" monster in your Graveyard; add it to your hand. If this card is sent to the Graveyard as a Fusion Material for a Fusion Summon of a \"Frightfur\" Fusion Monster: You can target up to 2 of your banished monsters; return them to the Graveyard. You can only use each effect of \"Fluffal Octopus\" once per turn.",
+  "attack": 800,
+  "defense": 800,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87246309.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87246309.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87246309.jpg"
+  }
+}

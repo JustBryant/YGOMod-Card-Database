@@ -1,0 +1,16 @@
+{
+  "id": 68846917,
+  "name": "Rock Ogre Grotto #1",
+  "type": "Normal Monster",
+  "description": "Protected by a solid body of rock, this monster throws a bone-shattering punch.",
+  "attack": 800,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68846917.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68846917.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68846917.jpg"
+  }
+}

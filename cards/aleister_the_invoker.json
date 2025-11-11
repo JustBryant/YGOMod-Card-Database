@@ -1,0 +1,16 @@
+{
+  "id": 86120751,
+  "name": "Aleister the Invoker",
+  "type": "Effect Monster",
+  "description": "(Quick Effect): You can send this card from your hand to the GY, then target 1 Fusion Monster you control; it gains 1000 ATK/DEF until the end of this turn. If this card is Normal Summoned or flipped face-up: You can add 1 \"Invocation\" from your Deck to your hand.",
+  "attack": 1000,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86120751.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86120751.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86120751.jpg"
+  }
+}

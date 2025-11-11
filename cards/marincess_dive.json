@@ -1,0 +1,12 @@
+{
+  "id": 57329501,
+  "name": "Marincess Dive",
+  "type": "Spell Card",
+  "description": "Activate 1 of the following effects. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except WATER monsters.\r\n● Target 1 non-Link \"Marincess\" monster in your GY; Special Summon it.\r\n● If \"Marincess Battle Ocean\" is in your Field Zone: Special Summon 1 \"Marincess\" monster from your Deck.\r\nYou can only activate 1 \"Marincess Dive\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57329501.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57329501.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57329501.jpg"
+  }
+}

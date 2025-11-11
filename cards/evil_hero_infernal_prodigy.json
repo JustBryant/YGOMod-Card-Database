@@ -1,0 +1,16 @@
+{
+  "id": 50304345,
+  "name": "Evil HERO Infernal Prodigy",
+  "type": "Effect Monster",
+  "description": "If you control no monsters, you can Special Summon this card (from your hand) in Attack Position. Once per turn, during the End Phase, if this card was Tributed this turn to Tribute Summon a \"HERO\" monster: Draw 1 card.",
+  "attack": 300,
+  "defense": 600,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50304345.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50304345.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50304345.jpg"
+  }
+}

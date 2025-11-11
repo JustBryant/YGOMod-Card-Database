@@ -1,0 +1,16 @@
+{
+  "id": 53927851,
+  "name": "Radiant Typhoon Varuroon, the Vibrant Vortex",
+  "type": "Effect Monster",
+  "description": "If a Quick-Play Spell Card is activated (except during the Damage Step): You can Special Summon this card from your hand. When your opponent activates a monster effect and you have \"Mystical Space Typhoon\" in your GY (Quick Effect): You can negate that effect, then if you have 2 or more \"Mystical Space Typhoon\" in your GY, you can destroy that monster. If \"Mystical Space Typhoon\" is activated while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Radiant Typhoon Varuroon, the Vibrant Vortex\" once per turn.",
+  "attack": 0,
+  "defense": 3000,
+  "level": 9,
+  "attribute": "WIND",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53927851.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53927851.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53927851.jpg"
+  }
+}

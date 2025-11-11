@@ -1,0 +1,16 @@
+{
+  "id": 58012107,
+  "name": "Alien Psychic",
+  "type": "Effect Monster",
+  "description": "This card is changed to Defense Position when it is Normal Summoned or Flip Summoned. Monsters with A-Counters cannot declare an attack.",
+  "attack": 200,
+  "defense": 100,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58012107.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58012107.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58012107.jpg"
+  }
+}

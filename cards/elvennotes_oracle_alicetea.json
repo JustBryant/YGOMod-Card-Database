@@ -1,0 +1,12 @@
+{
+  "id": 101303071,
+  "name": "Elvennotes ~Oracle Alicetea~",
+  "type": "Trap Card",
+  "description": "You cannot activate the following effects of \"Elvennotes ~Oracle Alicetea~\" in the same Chain. Once per turn: You can target 1 face-up monster you control; move that monster you control to another of your Main Monster Zones. When your opponent activates a Spell/Trap Card and you control 3 or more \"Elvennotes\" monsters: You can negate that effect, then if you control a Synchro Monster, you can destroy that card. You can only use this effect of \"Elvennotes ~Oracle Alicetea~\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/101303071.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/101303071.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/101303071.jpg"
+  }
+}

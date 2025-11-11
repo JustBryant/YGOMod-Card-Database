@@ -1,0 +1,16 @@
+{
+  "id": 29054481,
+  "name": "Mist Valley Watcher",
+  "type": "Normal Monster",
+  "description": "Descendant of a family that has served as Mist Valley watchman over the generations. Never missed a single thing that happened in the valley, no matter how minute.",
+  "attack": 1500,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29054481.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29054481.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29054481.jpg"
+  }
+}

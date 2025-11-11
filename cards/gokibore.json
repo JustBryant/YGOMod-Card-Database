@@ -1,0 +1,16 @@
+{
+  "id": 15367030,
+  "name": "Gokibore",
+  "type": "Normal Monster",
+  "description": "A large, spherical roach that attacks its enemies by rolling over them.",
+  "attack": 1200,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15367030.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15367030.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15367030.jpg"
+  }
+}

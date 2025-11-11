@@ -1,0 +1,12 @@
+{
+  "id": 93912846,
+  "name": "Gift Fiend Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Revival Gift\".",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93912846.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93912846.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93912846.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18060565,
+  "name": "Dragunity Primus Pilus",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned, you can select 1 face-up Winged Beast-Type \"Dragunity\" monster you control. Equip it with 1 Level 3 or lower Dragon-Type \"Dragunity\" monster from your Deck.",
+  "attack": 2200,
+  "defense": 1600,
+  "level": 5,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18060565.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18060565.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18060565.jpg"
+  }
+}

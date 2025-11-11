@@ -1,0 +1,12 @@
+{
+  "id": 17375316,
+  "name": "Confiscation",
+  "type": "Spell Card",
+  "description": "Pay 1000 Life Points. Look at your opponent's hand, select 1 card in it and discard that card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17375316.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17375316.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17375316.jpg"
+  }
+}

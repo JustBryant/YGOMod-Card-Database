@@ -1,0 +1,16 @@
+{
+  "id": 25865565,
+  "name": "Crystron Sulfador",
+  "type": "Effect Monster",
+  "description": "If this card is in your hand or GY: You can target 1 \"Crystron\" card you control; destroy it, and if you do, Special Summon this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters. If this card is Normal or Special Summoned: You can send up to 2 \"Crystron\" cards with different names from your Deck to the GY, except \"Crystron Sulfador\". You can only use each effect of \"Crystron Sulfador\" once per turn.",
+  "attack": 1900,
+  "defense": 2250,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25865565.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25865565.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25865565.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12883044,
+  "name": "Flame Dancer",
+  "type": "Normal Monster",
+  "description": "This monster moves while swinging its burning rope.",
+  "attack": 550,
+  "defense": 450,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12883044.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12883044.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12883044.jpg"
+  }
+}

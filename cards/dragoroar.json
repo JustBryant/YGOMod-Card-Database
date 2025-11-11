@@ -1,0 +1,12 @@
+{
+  "id": 34898052,
+  "name": "Dragoroar",
+  "type": "Spell Card",
+  "description": "Banish 1 EARTH, 1 WATER, 1 FIRE, and 1 WIND monster from your Graveyard; shuffle 1 card on the field into the Deck.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34898052.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34898052.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34898052.jpg"
+  }
+}

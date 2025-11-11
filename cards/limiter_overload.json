@@ -1,0 +1,12 @@
+{
+  "id": 92450185,
+  "name": "Limiter Overload",
+  "type": "Trap Card",
+  "description": "If this card is sent to the Graveyard: Special Summon 1 \"Speed Warrior\" from your hand, Deck, or Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92450185.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92450185.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92450185.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 32296881,
+  "name": "Bountiful Artemis",
+  "type": "Effect Monster",
+  "description": "Each time a Counter Trap Card is activated, immediately after it resolves, draw 1 card.",
+  "attack": 1600,
+  "defense": 1700,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32296881.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32296881.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32296881.jpg"
+  }
+}

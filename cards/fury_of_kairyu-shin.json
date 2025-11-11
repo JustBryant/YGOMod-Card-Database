@@ -1,0 +1,12 @@
+{
+  "id": 98804359,
+  "name": "Fury of Kairyu-Shin",
+  "type": "Spell Card",
+  "description": "Add 1 \"Torrential Tribute\" from your Deck to your hand. If a WATER monster(s) you control would be destroyed by card effect, you can banish this card from your GY instead. You can only use each effect of \"Fury of Kairyu-Shin\" once per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98804359.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98804359.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98804359.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 97648103,
+  "name": "World Legacy's Heart",
+  "type": "Spell Card",
+  "description": "Target 2 \"World Chalice\" monsters in your GY with different names; add them to your hand. If your linked Link Monster would be destroyed by battle, you can banish this card from your GY instead. You can only activate 1 \"World Legacy's Heart\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97648103.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97648103.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97648103.jpg"
+  }
+}

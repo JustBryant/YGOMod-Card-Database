@@ -1,0 +1,12 @@
+{
+  "id": 81167171,
+  "name": "Hero Spirit",
+  "type": "Trap Card",
+  "description": "During the Battle Phase, if an \"Elemental HERO\" monster you controlled was destroyed by battle this turn: Make the Battle Damage from 1 of your opponent's monsters 0.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81167171.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81167171.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81167171.jpg"
+  }
+}

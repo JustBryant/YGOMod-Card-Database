@@ -1,0 +1,16 @@
+{
+  "id": 59563768,
+  "name": "Tenshin",
+  "type": "Effect Monster",
+  "description": "This card gains 400 ATK for each face-up Level 2 monster you control.",
+  "attack": 800,
+  "defense": 100,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59563768.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59563768.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59563768.jpg"
+  }
+}

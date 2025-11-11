@@ -1,0 +1,12 @@
+{
+  "id": 21623008,
+  "name": "Sky Striker Maneuver - Vector Blast",
+  "type": "Spell Card",
+  "description": "If you control no monsters in your Main Monster Zone: Each player sends the top 2 cards of their Deck to the GY (or as many as possible, if less than 2), then, if you sent at least 1 card to the GY, and have 3 or more Spells in your GY, you can shuffle all your opponent's monsters from the Extra Monster Zones into the Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21623008.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21623008.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21623008.jpg"
+  }
+}

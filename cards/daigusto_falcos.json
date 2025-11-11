@@ -1,0 +1,16 @@
+{
+  "id": 34109611,
+  "name": "Daigusto Falcos",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner \"Gusto\" monsters\nWhen this card is Synchro Summoned: All \"Gusto\" monsters currently on the field gain 600 ATK.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34109611.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34109611.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34109611.jpg"
+  }
+}

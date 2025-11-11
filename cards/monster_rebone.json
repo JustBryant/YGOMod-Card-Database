@@ -1,0 +1,12 @@
+{
+  "id": 60621361,
+  "name": "Monster Rebone",
+  "type": "Trap Card",
+  "description": "If your opponent Special Summoned a monster this turn: Activate this card by targeting 1 monster in your opponent's Graveyard; Special Summon it to your side of the field in Defense Position. When this card leaves the field, banish that monster. When that monster leaves the field, destroy this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60621361.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60621361.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60621361.jpg"
+  }
+}

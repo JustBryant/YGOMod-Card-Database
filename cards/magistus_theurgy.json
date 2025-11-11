@@ -1,0 +1,12 @@
+{
+  "id": 7548747,
+  "name": "Magistus Theurgy",
+  "type": "Spell Card",
+  "description": "Target 1 \"Magistus\" monster you control; equip it with 1 \"Magistus\" monster, except a Level 4 monster, from your Extra Deck, GY, or face-up field. If you have at least 1 each \"Magistus\" Fusion, Synchro, Xyz, and Link Monsters in your GY, you can equip it with 1 non-\"Magistus\" Fusion, Synchro, Xyz, or Link Monster from your Extra Deck, instead. You can only activate \"Magistus Theurgy\" once per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7548747.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7548747.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7548747.jpg"
+  }
+}

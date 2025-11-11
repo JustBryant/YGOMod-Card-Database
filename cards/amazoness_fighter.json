@@ -1,0 +1,16 @@
+{
+  "id": 55821894,
+  "name": "Amazoness Fighter",
+  "type": "Effect Monster",
+  "description": "You take no battle damage from attacks involving this card.",
+  "attack": 1500,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55821894.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55821894.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55821894.jpg"
+  }
+}

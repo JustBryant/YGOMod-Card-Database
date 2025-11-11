@@ -1,0 +1,12 @@
+{
+  "id": 44728989,
+  "name": "Ocean of Regeneration",
+  "type": "Spell Card",
+  "description": "You can target 1 WATER monster with 1000 or less ATK in your GY; Special Summon it, but destroy it during the End Phase. You can only use this effect of \"Ocean of Regeneration\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44728989.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44728989.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44728989.jpg"
+  }
+}

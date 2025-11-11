@@ -1,0 +1,16 @@
+{
+  "id": 40410110,
+  "name": "Homunculus the Alchemic Being",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can change the Attribute of this card.",
+  "attack": 1800,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40410110.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40410110.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40410110.jpg"
+  }
+}

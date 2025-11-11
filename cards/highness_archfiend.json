@@ -1,0 +1,16 @@
+{
+  "id": 11248645,
+  "name": "Highness Archfiend",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned: You can banish 1 \"Archfiend\" card from your GY; add 2 \"Archfiend\" cards from your Deck to your hand, except \"Highess Archfiend\", also you cannot Special Summon from the Extra Deck for the rest of this turn, except \"Archfiend\" monsters. When your Ritual Monster is destroyed by battle while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Highness Archfiend\" once per turn.",
+  "attack": 1000,
+  "defense": 800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11248645.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11248645.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11248645.jpg"
+  }
+}

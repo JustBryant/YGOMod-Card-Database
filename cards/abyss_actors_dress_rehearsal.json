@@ -1,0 +1,12 @@
+{
+  "id": 6004133,
+  "name": "Abyss Actors' Dress Rehearsal",
+  "type": "Spell Card",
+  "description": "At the start of your Main Phase 1: Add 1 \"Abyss Actor\" card and 1 \"Abyss Script\" Spell from your Deck to your hand. For the rest of this turn after this card resolves, you cannot Pendulum Summon monsters, except \"Abyss Actor\" monsters.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6004133.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6004133.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6004133.jpg"
+  }
+}

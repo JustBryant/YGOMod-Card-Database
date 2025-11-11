@@ -1,0 +1,16 @@
+{
+  "id": 2139640,
+  "name": "Amabie",
+  "type": "Effect Monster",
+  "description": "At the start of your Main Phase 1: You can reveal this card in your hand; each player gains 300 LP.",
+  "attack": 0,
+  "defense": 0,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2139640.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2139640.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2139640.jpg"
+  }
+}

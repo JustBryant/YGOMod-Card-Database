@@ -1,0 +1,16 @@
+{
+  "id": 29417188,
+  "name": "Psi-Blocker",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can declare 1 card name; cards with that name, and their effects, cannot be used until the end of your opponent's next turn.",
+  "attack": 1200,
+  "defense": 300,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29417188.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29417188.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29417188.jpg"
+  }
+}

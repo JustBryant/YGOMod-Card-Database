@@ -1,0 +1,16 @@
+{
+  "id": 54752875,
+  "name": "Twin-Headed Thunder Dragon",
+  "type": "Fusion Monster",
+  "description": "\"Thunder Dragon\" + \"Thunder Dragon\"",
+  "attack": 2800,
+  "defense": 2100,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54752875.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54752875.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54752875.jpg"
+  }
+}

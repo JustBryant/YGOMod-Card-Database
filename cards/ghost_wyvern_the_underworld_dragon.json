@@ -1,0 +1,16 @@
+{
+  "id": 61103515,
+  "name": "Ghost Wyvern, the Underworld Dragon",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can add 1 \"Ghost Fusion\" from your Deck to your hand. During the End Phase, if this card is currently banished, and was banished this turn: You can take 1 Level 2 or lower Zombie Tuner from your Deck, and either add it to your hand or send it to the GY. You can only use each effect of \"Ghost Wyvern, the Underworld Dragon\" once per turn.",
+  "attack": 1700,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61103515.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61103515.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61103515.jpg"
+  }
+}

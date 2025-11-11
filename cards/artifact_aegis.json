@@ -1,0 +1,16 @@
+{
+  "id": 85080444,
+  "name": "Artifact Aegis",
+  "type": "Effect Monster",
+  "description": "You can Set this card from your hand to your Spell & Trap Zone as a Spell Card. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your Graveyard: Special Summon it. If this card is Special Summoned during your opponent's turn: \"Artifact\" monsters you control cannot be targeted or destroyed by your opponent's card effects until the end of this turn.",
+  "attack": 1200,
+  "defense": 2500,
+  "level": 5,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85080444.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85080444.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85080444.jpg"
+  }
+}

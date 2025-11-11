@@ -1,0 +1,16 @@
+{
+  "id": 613013,
+  "name": "Veiss Shark",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can Tribute 1 Fish monster; Special Summon 1 Fish \"Shark\" monster from your Deck, also you cannot Special Summon for the rest of this turn, except WATER monsters. You can only use this effect of \"Veiss Shark\" once per turn. A \"Shark Drake\" Xyz Monster that has this card as material gains this effect.\r\n● Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can detach 2 materials from this card; negate that effect, and if you do, destroy that card.",
+  "attack": 1800,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/613013.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/613013.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/613013.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 43586926,
+  "name": "Twin-Headed Behemoth",
+  "type": "Effect Monster",
+  "description": "During the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can Special Summon this card, but its ATK/DEF become 1000. You can only use this effect of \"Twin-Headed Behemoth\" once per Duel.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43586926.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43586926.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43586926.jpg"
+  }
+}

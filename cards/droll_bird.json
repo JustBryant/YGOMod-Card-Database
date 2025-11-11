@@ -1,0 +1,16 @@
+{
+  "id": 97973387,
+  "name": "Droll Bird",
+  "type": "Normal Monster",
+  "description": "This monster stuns its enemies with a massive beak and ear-piercing wails.",
+  "attack": 600,
+  "defense": 500,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97973387.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97973387.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97973387.jpg"
+  }
+}

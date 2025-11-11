@@ -1,0 +1,12 @@
+{
+  "id": 46271408,
+  "name": "Sky Striker Maneuver - Scissors Cross",
+  "type": "Spell Card",
+  "description": "If you control no monsters in your Main Monster Zone: Target 1 Level 4 \"Sky Striker Ace\" monster in your GY; add it to your hand, or if you have 3 or more Spells in your GY, you can Special Summon it instead.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46271408.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46271408.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46271408.jpg"
+  }
+}

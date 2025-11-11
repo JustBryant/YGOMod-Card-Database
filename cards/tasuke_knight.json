@@ -1,0 +1,16 @@
+{
+  "id": 86039057,
+  "name": "Tasuke Knight",
+  "type": "Effect Monster",
+  "description": "When an opponent's monster declares an attack, while you have no cards in your hand and this card is in your Graveyard: You can Special Summon this card from your Graveyard, then end the Battle Phase. You can only use this effect of \"Tasuke Knight\" once per Duel.",
+  "attack": 1700,
+  "defense": 100,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86039057.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86039057.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86039057.jpg"
+  }
+}

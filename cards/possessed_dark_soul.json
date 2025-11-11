@@ -1,0 +1,16 @@
+{
+  "id": 52860176,
+  "name": "Possessed Dark Soul",
+  "type": "Effect Monster",
+  "description": "You can Tribute this face-up card; take control of all face-up Level 3 or lower monsters your opponent currently controls.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52860176.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52860176.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52860176.jpg"
+  }
+}

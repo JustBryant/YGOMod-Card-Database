@@ -1,0 +1,12 @@
+{
+  "id": 20065549,
+  "name": "Non-Spellcasting Area",
+  "type": "Spell Card",
+  "description": "All face-up monsters, except for Effect Monsters, are unaffected by other Spell effects.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20065549.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20065549.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20065549.jpg"
+  }
+}

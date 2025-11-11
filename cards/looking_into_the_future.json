@@ -1,0 +1,12 @@
+{
+  "id": 300302034,
+  "name": "Looking into the Future",
+  "type": "Skill Card",
+  "description": "During your Main Phase, you can look at the top 3 cards of your Deck and return them in any order. You cannot activate Spell Cards the turn you use this Skill. Flip this card over at the end of the turn you activated this Skill.",
+  "race": "Aster Phoenix",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302034.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302034.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302034.jpg"
+  }
+}

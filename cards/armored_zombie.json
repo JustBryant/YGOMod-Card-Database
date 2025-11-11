@@ -1,0 +1,16 @@
+{
+  "id": 20277860,
+  "name": "Armored Zombie",
+  "type": "Normal Monster",
+  "description": "This warrior blindly swings a deadly blade with devastating force.",
+  "attack": 1500,
+  "defense": 0,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20277860.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20277860.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20277860.jpg"
+  }
+}

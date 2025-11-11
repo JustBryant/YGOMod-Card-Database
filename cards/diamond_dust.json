@@ -1,0 +1,12 @@
+{
+  "id": 98643358,
+  "name": "Diamond Dust",
+  "type": "Trap Card",
+  "description": "Destroy as many WATER monsters on the field as possible, then inflict 500 damage to your opponent for each WATER monster destroyed and sent to the Graveyard by this effect.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98643358.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98643358.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98643358.jpg"
+  }
+}

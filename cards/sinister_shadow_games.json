@@ -1,0 +1,12 @@
+{
+  "id": 77505534,
+  "name": "Sinister Shadow Games",
+  "type": "Trap Card",
+  "description": "Send 1 \"Shaddoll\" card from your Deck to the GY, then you can change any number of face-down Defense Position \"Shaddoll\" monsters you control to face-up Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77505534.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77505534.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77505534.jpg"
+  }
+}

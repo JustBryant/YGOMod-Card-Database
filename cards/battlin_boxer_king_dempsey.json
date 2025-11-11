@@ -1,0 +1,16 @@
+{
+  "id": 46804536,
+  "name": "Battlin' Boxer King Dempsey",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 monsters\r\nIf this card is Special Summoned: You can take 1 Level 4 or lower FIRE Warrior monster or 1 \"Battlin' Boxing\" Spell/Trap from your Deck, and either add it to your hand or send it to the GY. (Quick Effect): You can detach 1 material from a monster you control, and if you do, apply the following effect.\r\n● Your opponent cannot target \"Battlin' Boxer\" monsters you control with card effects for the rest of this turn.\r\nYou can only use each effect of \"Battlin' Boxer King Dempsey\" once per turn.",
+  "attack": 2300,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46804536.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46804536.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46804536.jpg"
+  }
+}

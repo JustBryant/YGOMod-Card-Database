@@ -1,0 +1,16 @@
+{
+  "id": 22499463,
+  "name": "Venom Cobra",
+  "type": "Normal Monster",
+  "description": "Hard scales cover all parts of this gigantic cobra. It hunts by shooting out massive amounts of venom, but because of its large size, its attack pattern is easily predicted.",
+  "attack": 100,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22499463.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22499463.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22499463.jpg"
+  }
+}

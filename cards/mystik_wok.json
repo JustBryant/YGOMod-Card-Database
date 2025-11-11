@@ -1,0 +1,12 @@
+{
+  "id": 80161395,
+  "name": "Mystik Wok",
+  "type": "Spell Card",
+  "description": "Tribute 1 monster. Select either its ATK or DEF and gain that many Life Points.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80161395.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80161395.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80161395.jpg"
+  }
+}

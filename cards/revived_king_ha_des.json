@@ -1,0 +1,16 @@
+{
+  "id": 5309481,
+  "name": "Revived King Ha Des",
+  "type": "Synchro Monster",
+  "description": "\"Plaguespreader Zombie\" + 1 or more non-Tuner Zombie-Type monsters\nNegate the effects of Effect Monsters destroyed by battle with Zombie-Type monsters you control.",
+  "attack": 2450,
+  "defense": 0,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5309481.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5309481.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5309481.jpg"
+  }
+}

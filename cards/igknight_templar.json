@@ -1,0 +1,16 @@
+{
+  "id": 97024987,
+  "name": "Igknight Templar",
+  "type": "Pendulum Normal Monster",
+  "description": "[ Pendulum Effect ] \nIf you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\n[ Monster Effect ] \n''An experienced Igknight warrior who fights for justice and despises the corrupt. He even questions his own weapon these days, due to his absolute quest for righteousness.''",
+  "attack": 1700,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97024987.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97024987.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97024987.jpg"
+  }
+}

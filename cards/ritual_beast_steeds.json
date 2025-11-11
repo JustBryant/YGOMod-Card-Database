@@ -1,0 +1,12 @@
+{
+  "id": 11556339,
+  "name": "Ritual Beast Steeds",
+  "type": "Trap Card",
+  "description": "If you control a \"Ritual Beast\" monster: Destroy monsters on the field up to the number of \"Ritual Beast\" monsters you currently control.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11556339.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11556339.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11556339.jpg"
+  }
+}

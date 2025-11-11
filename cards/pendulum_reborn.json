@@ -1,0 +1,12 @@
+{
+  "id": 77826734,
+  "name": "Pendulum Reborn",
+  "type": "Trap Card",
+  "description": "Special Summon 1 face-up Pendulum Monster from your Extra Deck, or 1 Pendulum Monster from your GY.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77826734.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77826734.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77826734.jpg"
+  }
+}

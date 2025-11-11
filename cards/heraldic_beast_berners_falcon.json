@@ -1,0 +1,16 @@
+{
+  "id": 96704018,
+  "name": "Heraldic Beast Berners Falcon",
+  "type": "Effect Monster",
+  "description": "When this card is Summoned: You can make all face-up Level 5 or higher monsters you currently control become Level 4.",
+  "attack": 1000,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96704018.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96704018.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96704018.jpg"
+  }
+}

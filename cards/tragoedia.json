@@ -1,0 +1,16 @@
+{
+  "id": 98777036,
+  "name": "Tragoedia",
+  "type": "Effect Monster",
+  "description": "When you take battle damage: You can Special Summon this card from your hand. Gains 600 ATK/DEF for each card in your hand. Once per turn: You can send 1 monster from your hand to the GY, then target 1 face-up monster your opponent controls with the same Level the sent monster had in the hand; take control of that face-up monster. Once per turn: You can target 1 monster in your GY; this card's Level becomes the same as that target's, until the end of this turn.",
+  "attack": -1,
+  "defense": -1,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98777036.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98777036.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98777036.jpg"
+  }
+}

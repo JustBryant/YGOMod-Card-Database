@@ -1,0 +1,16 @@
+{
+  "id": 91222209,
+  "name": "Rescue-ACE Monitor",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can add 1 \"Rescue-ACE\" Trap from your Deck to your hand. When your opponent activates a monster effect on the field (Quick Effect): You can Tribute this card from your hand or face-up field, then target 1 \"Rescue-ACE\" monster in your GY, except \"Rescue-ACE Monitor\"; Special Summon it. You can only use each effect of \"Rescue-ACE Monitor\" once per turn.",
+  "attack": 1800,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91222209.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91222209.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91222209.jpg"
+  }
+}

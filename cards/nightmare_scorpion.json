@@ -1,0 +1,16 @@
+{
+  "id": 88643173,
+  "name": "Nightmare Scorpion",
+  "type": "Normal Monster",
+  "description": "''A creature that generates nightmares to haunt an opponent, it attacks with four poisonous tails.''",
+  "attack": 900,
+  "defense": 800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88643173.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88643173.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88643173.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 70368879,
+  "name": "Upstart Goblin",
+  "type": "Spell Card",
+  "description": "Draw 1 card, then your opponent gains 1000 LP.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70368879.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70368879.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70368879.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 74029853,
+  "name": "Golden Bamboo Sword",
+  "type": "Spell Card",
+  "description": "If you control a \"Bamboo Sword\" Equip Spell: Draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74029853.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74029853.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74029853.jpg"
+  }
+}

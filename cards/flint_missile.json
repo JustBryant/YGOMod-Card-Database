@@ -1,0 +1,12 @@
+{
+  "id": 16437822,
+  "name": "Flint Missile",
+  "type": "Spell Card",
+  "description": "Destroy 1 monster equipped with \"Flint\". You can return this card to your Deck instead of sending it to the Graveyard after it resolves.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16437822.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16437822.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16437822.jpg"
+  }
+}

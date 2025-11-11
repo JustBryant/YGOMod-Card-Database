@@ -1,0 +1,12 @@
+{
+  "id": 90934570,
+  "name": "Infestation Terminus",
+  "type": "Trap Card",
+  "description": "Target 1 \"lswarm\" monster you control and 2 cards your opponent controls; banish the first target, and if you do, return the second targets to the hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90934570.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90934570.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90934570.jpg"
+  }
+}

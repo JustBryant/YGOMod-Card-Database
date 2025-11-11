@@ -1,0 +1,16 @@
+{
+  "id": 32391566,
+  "name": "Extra Veiler",
+  "type": "Effect Monster",
+  "description": "When your opponent Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand, and if you do, your opponent takes any effect damage you would have taken from their card effects this turn, instead.",
+  "attack": 600,
+  "defense": 200,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32391566.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32391566.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32391566.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 78922939,
+  "name": "Junk Servant",
+  "type": "Effect Monster",
+  "description": "If you control a \"Junk\" monster, you can Special Summon this card (from your hand).",
+  "attack": 1500,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78922939.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78922939.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78922939.jpg"
+  }
+}

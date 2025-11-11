@@ -1,0 +1,12 @@
+{
+  "id": 60398723,
+  "name": "Murmur of the Forest",
+  "type": "Spell Card",
+  "description": "Target 1 face-up monster your opponent controls; change that target to face-down Defense Position, then you can return all Field Spell Cards on the field to the hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60398723.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60398723.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60398723.jpg"
+  }
+}

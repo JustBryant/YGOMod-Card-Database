@@ -1,0 +1,16 @@
+{
+  "id": 42752141,
+  "name": "Evolzar Dolkka",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 Dinosaur-Type monsters\nDuring either player's turn, when a monster effect activates: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that monster.",
+  "attack": 2300,
+  "defense": 1700,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42752141.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42752141.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42752141.jpg"
+  }
+}

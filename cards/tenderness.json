@@ -1,0 +1,16 @@
+{
+  "id": 57935140,
+  "name": "Tenderness",
+  "type": "Normal Monster",
+  "description": "''An adorable fairy that celebrates the gift of love.''",
+  "attack": 700,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57935140.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57935140.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57935140.jpg"
+  }
+}

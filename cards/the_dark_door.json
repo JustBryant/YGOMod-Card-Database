@@ -1,0 +1,12 @@
+{
+  "id": 30606547,
+  "name": "The Dark Door",
+  "type": "Spell Card",
+  "description": "Only 1 monster can attack during each Battle Phase.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30606547.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30606547.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30606547.jpg"
+  }
+}

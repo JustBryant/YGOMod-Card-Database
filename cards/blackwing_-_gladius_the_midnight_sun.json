@@ -1,0 +1,16 @@
+{
+  "id": 28190303,
+  "name": "Blackwing - Gladius the Midnight Sun",
+  "type": "Effect Monster",
+  "description": "If the only face-up monster you control is 1 \"Blackwing\" monster other than \"Blackwing - Gladius the Midnight Sun\", you can Special Summon this card (from your hand). Once per turn, this card cannot be destroyed by battle.",
+  "attack": 800,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28190303.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28190303.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28190303.jpg"
+  }
+}

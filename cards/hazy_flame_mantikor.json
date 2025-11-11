@@ -1,0 +1,16 @@
+{
+  "id": 96051150,
+  "name": "Hazy Flame Mantikor",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot target this card with card effects. Once per turn, during either player's turn: You can send 1 FIRE monster, except this card, from your hand or face-up from your side of the field to the Graveyard; this card cannot be destroyed by card effects this turn.",
+  "attack": 2200,
+  "defense": 300,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96051150.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96051150.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96051150.jpg"
+  }
+}

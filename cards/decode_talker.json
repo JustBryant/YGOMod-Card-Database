@@ -1,0 +1,16 @@
+{
+  "id": 1861629,
+  "name": "Decode Talker",
+  "type": "Link Monster",
+  "description": "2+ Effect Monsters\r\nGains 500 ATK for each monster it points to. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can Tribute 1 monster this card points to; negate the activation, and if you do, destroy that card.",
+  "attack": 2300,
+  "defense": null,
+  "level": 0,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1861629.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1861629.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1861629.jpg"
+  }
+}

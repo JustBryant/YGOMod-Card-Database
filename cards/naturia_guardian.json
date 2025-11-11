@@ -1,0 +1,16 @@
+{
+  "id": 80555116,
+  "name": "Naturia Guardian",
+  "type": "Effect Monster",
+  "description": "When your opponent Normal Summons a monster, this card gains 300 ATK until the End Phase.",
+  "attack": 1600,
+  "defense": 400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80555116.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80555116.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80555116.jpg"
+  }
+}

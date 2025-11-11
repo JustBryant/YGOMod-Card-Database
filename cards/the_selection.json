@@ -1,0 +1,12 @@
+{
+  "id": 30888983,
+  "name": "The Selection",
+  "type": "Trap Card",
+  "description": "Pay 1000 Life Points. Negate the Summon of a monster that has the same Type as a monster on the field, and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30888983.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30888983.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30888983.jpg"
+  }
+}

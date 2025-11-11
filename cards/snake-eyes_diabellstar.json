@@ -1,0 +1,16 @@
+{
+  "id": 27260347,
+  "name": "Snake-Eyes Diabellstar",
+  "type": "Effect Monster",
+  "description": "When an attack is declared involving this card and an opponent's monster: You can place this card from the field, and that opponent's monster, face-up in their owners' Spell & Trap Zones as Continuous Spells. While this card is a Continuous Spell: You can target 1 FIRE monster in your GY, except \"Snake-Eyes Diabellstar\"; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell, and if you do, Special Summon this card. You can only use each effect of \"Snake-Eyes Diabellstar\" once per turn.",
+  "attack": 2800,
+  "defense": 2600,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27260347.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27260347.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27260347.jpg"
+  }
+}

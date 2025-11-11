@@ -1,0 +1,16 @@
+{
+  "id": 89731911,
+  "name": "Familiar Knight",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: Each player can Special Summon 1 Level 4 monster from their hand.",
+  "attack": 1200,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89731911.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89731911.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89731911.jpg"
+  }
+}

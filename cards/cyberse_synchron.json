@@ -1,0 +1,16 @@
+{
+  "id": 86784733,
+  "name": "Cyberse Synchron",
+  "type": "Tuner Monster",
+  "description": "Once per turn: You can target 1 Level 4 or lower monster you control; increase its Level by its original Level until the end of this turn. If your monster(s) in the Extra Monster Zone would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use this effect of \"Cyberse Synchron\" once per turn.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86784733.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86784733.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86784733.jpg"
+  }
+}

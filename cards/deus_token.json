@@ -1,0 +1,12 @@
+{
+  "id": 85771021,
+  "name": "Deus Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Darklord Asmodeus\". This Token cannot be destroyed by battle.",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85771021.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85771021.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85771021.jpg"
+  }
+}

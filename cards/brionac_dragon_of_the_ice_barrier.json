@@ -1,0 +1,16 @@
+{
+  "id": 50321796,
+  "name": "Brionac, Dragon of the Ice Barrier",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\nYou can discard any number of cards to the GY, then target the same number of cards your opponent controls; return those cards to the hand. You can only use this effect of \"Brionac, Dragon of the Ice Barrier\" once per turn.",
+  "attack": 2300,
+  "defense": 1400,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50321796.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50321796.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50321796.jpg"
+  }
+}

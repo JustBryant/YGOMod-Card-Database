@@ -1,0 +1,12 @@
+{
+  "id": 300204002,
+  "name": "Knight of Legend",
+  "type": "Skill Card",
+  "description": "[Flip this card over when you activate this Skill.]\r\n\r\nActivate this Skill during your Main Phase. Each turn, 1 \"Gaia The Fierce Knight\" you Normal Summon can be Summoned without Tributing. Apply the following Skills while you control a \"Gaia The Fierce Knight\" monster or a \"Gaia the Dragon Champion\" monster.\r\n● If it attacks a Defense Position monster, inflict piercing battle damage. Once per turn, if it inflicts battle damage with this Skill, draw 2 cards, then discard 1 card.\r\n● You cannot activate Set cards in the Spell & Trap Zone.",
+  "race": "Yami Yugi",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300204002.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300204002.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300204002.jpg"
+  }
+}

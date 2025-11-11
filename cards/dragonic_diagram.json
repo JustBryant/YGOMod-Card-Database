@@ -1,0 +1,12 @@
+{
+  "id": 13035077,
+  "name": "Dragonic Diagram",
+  "type": "Spell Card",
+  "description": "All \"True Draco\" and \"True King\" monsters on the field gain 300 ATK/DEF. The first time each Tribute Summoned \"True Draco\" or \"True King\" monster would be destroyed by battle each turn, it is not destroyed. Once per turn: You can destroy 1 other card you control or in your hand, and if you do, add 1 \"True Draco\" or \"True King\" card from your Deck to your hand.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13035077.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13035077.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13035077.jpg"
+  }
+}

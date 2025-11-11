@@ -1,0 +1,16 @@
+{
+  "id": 95204084,
+  "name": "Koa'ki Meiru Tornado",
+  "type": "Effect Monster",
+  "description": "You can return 1 \"Iron Core of Koa'ki Meiru\" from your hand to the top of the Deck to destroy all Special Summoned monsters your opponent controls.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95204084.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95204084.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95204084.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 34545235,
+  "name": "Iron Core Luster",
+  "type": "Trap Card",
+  "description": "Reveal 1 \"Iron Core of Koa'ki Meiru\" in your hand. Negate the activation of your opponent's Spell or Trap Card, and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34545235.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34545235.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34545235.jpg"
+  }
+}

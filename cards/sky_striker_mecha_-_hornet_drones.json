@@ -1,0 +1,12 @@
+{
+  "id": 52340444,
+  "name": "Sky Striker Mecha - Hornet Drones",
+  "type": "Spell Card",
+  "description": "If you control no monsters in your Main Monster Zone: Special Summon 1 \"Sky Striker Ace Token\" (Warrior/DARK/Level 1/ATK 0/DEF 0) in Defense Position, which cannot be Tributed, and if you have 3 or more Spells in your GY when this effect resolves, the Token's ATK/DEF become 1500 instead.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52340444.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52340444.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52340444.jpg"
+  }
+}

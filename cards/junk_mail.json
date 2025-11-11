@@ -1,0 +1,16 @@
+{
+  "id": 39520293,
+  "name": "Junk Mail",
+  "type": "Tuner Monster",
+  "description": "A Synchro Monster that used this card as material cannot be destroyed by battle. If this card is in your GY, except the turn it was sent there, and you control a Synchro Monster with \"Warrior\", \"Synchron\", or \"Stardust\" in its original name: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Junk Mail\" once per turn.",
+  "attack": 400,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39520293.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39520293.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39520293.jpg"
+  }
+}

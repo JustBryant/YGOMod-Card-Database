@@ -1,0 +1,16 @@
+{
+  "id": 22790789,
+  "name": "B.E.S. Crystal Core",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned, put 3 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy it. Once per turn, during your Main Phase, you can change 1 face-up Attack Position monster your opponent controls to face-up Defense Position.",
+  "attack": 2100,
+  "defense": 1000,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22790789.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22790789.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22790789.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 30208479,
+  "name": "Magician of Black Chaos",
+  "type": "Ritual Monster",
+  "description": "You can Ritual Summon this card with \"Black Magic Ritual\".",
+  "attack": 2800,
+  "defense": 2600,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30208479.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30208479.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30208479.jpg"
+  }
+}

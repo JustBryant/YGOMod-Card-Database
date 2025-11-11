@@ -1,0 +1,16 @@
+{
+  "id": 39552864,
+  "name": "Mystical Shine Ball",
+  "type": "Normal Monster",
+  "description": "A soul of light covered by mystical shine. When you see its beautiful shape, your dream will come true.",
+  "attack": 500,
+  "defense": 500,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39552864.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39552864.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39552864.jpg"
+  }
+}

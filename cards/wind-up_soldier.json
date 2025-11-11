@@ -1,0 +1,16 @@
+{
+  "id": 12299841,
+  "name": "Wind-Up Soldier",
+  "type": "Effect Monster",
+  "description": "During your Main Phase: You can increase this card's Level by 1 and ATK by 400, until the End Phase. This effect can only be used once while this card is face-up on the field.",
+  "attack": 1800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12299841.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12299841.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12299841.jpg"
+  }
+}

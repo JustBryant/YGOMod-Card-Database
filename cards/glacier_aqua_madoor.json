@@ -1,0 +1,16 @@
+{
+  "id": 11449436,
+  "name": "Glacier Aqua Madoor",
+  "type": "Effect Monster",
+  "description": "At the start of the Damage Step, if your Normal Monster battles an opponent's monster: You can reveal this card in your hand; discard 1 card, and if you do, your monster cannot be destroyed by that battle. At the start of the Damage Step, if this card battles an opponent's monster: You can reveal 1 Normal Monster in your hand; discard 1 card, and if you do, destroy that opponent's monster.",
+  "attack": 1200,
+  "defense": 3000,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11449436.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11449436.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11449436.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 40133511,
+  "name": "Bazoo the Soul-Eater",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can banish up to 3 monsters from your Graveyard; this card gains 300 ATK for each, until the end of your opponent's turn.",
+  "attack": 1600,
+  "defense": 900,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40133511.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40133511.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40133511.jpg"
+  }
+}

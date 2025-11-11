@@ -1,0 +1,16 @@
+{
+  "id": 3544583,
+  "name": "Allvain the Essence of Vanity",
+  "type": "Fusion Monster",
+  "description": "2 Normal Monsters",
+  "attack": 0,
+  "defense": 2100,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3544583.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3544583.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3544583.jpg"
+  }
+}

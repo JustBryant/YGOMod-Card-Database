@@ -1,0 +1,16 @@
+{
+  "id": 7670542,
+  "name": "Bio Plant",
+  "type": "Normal Monster",
+  "description": "''A monster created from a major accident in an underground lab.''",
+  "attack": 600,
+  "defense": 1300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7670542.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7670542.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7670542.jpg"
+  }
+}

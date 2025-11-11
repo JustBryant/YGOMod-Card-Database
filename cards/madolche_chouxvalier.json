@@ -1,0 +1,16 @@
+{
+  "id": 75363626,
+  "name": "Madolche Chouxvalier",
+  "type": "Effect Monster",
+  "description": "When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. Your opponent cannot target face-up \"Madolche\" monsters for attacks, except \"Madolche Chouxvalier\".",
+  "attack": 1700,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75363626.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75363626.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75363626.jpg"
+  }
+}

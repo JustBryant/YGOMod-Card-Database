@@ -1,0 +1,16 @@
+{
+  "id": 99581584,
+  "name": "Guard Penguin",
+  "type": "Effect Monster",
+  "description": "When you take damage from a card effect (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took.",
+  "attack": 0,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99581584.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99581584.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99581584.jpg"
+  }
+}

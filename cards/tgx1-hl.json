@@ -1,0 +1,12 @@
+{
+  "id": 11264180,
+  "name": "TGX1-HL",
+  "type": "Spell Card",
+  "description": "Target 1 \"T.G.\" monster you control; its ATK and DEF each become half its current ATK and DEF, and if they do, destroy 1 other Spell/Trap Card on the field.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11264180.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11264180.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11264180.jpg"
+  }
+}

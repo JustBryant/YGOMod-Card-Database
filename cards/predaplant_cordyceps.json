@@ -1,0 +1,16 @@
+{
+  "id": 7161742,
+  "name": "Predaplant Cordyceps",
+  "type": "Effect Monster",
+  "description": "During your Standby Phase: You can banish this card from your Graveyard, then target 2 Level 4 or lower \"Predaplant\" monsters in your Graveyard; Special Summon them, also, for the rest of this turn, you cannot Special Summon monsters, except Fusion Monsters, nor Normal Summon/Set any monsters.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7161742.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7161742.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7161742.jpg"
+  }
+}

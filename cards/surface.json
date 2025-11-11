@@ -1,0 +1,12 @@
+{
+  "id": 33057951,
+  "name": "Surface",
+  "type": "Spell Card",
+  "description": "Target 1 Level 3 or lower Fish, Sea Serpent, or Aqua monster in your GY; Special Summon it in face-up Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33057951.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33057951.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33057951.jpg"
+  }
+}

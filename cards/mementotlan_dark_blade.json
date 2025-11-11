@@ -1,0 +1,16 @@
+{
+  "id": 18165869,
+  "name": "Mementotlan Dark Blade",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can discard 1 \"Memento\" card, then target 1 Spell/Trap your opponent controls; destroy it. During your Main Phase: You can destroy 1 \"Memento\" monster you control, and if you do, Special Summon 1 Level 3 or lower \"Memento\" monster from your Deck. You can only use each effect of \"Mementotlan Dark Blade\" once per turn.",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18165869.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18165869.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18165869.jpg"
+  }
+}

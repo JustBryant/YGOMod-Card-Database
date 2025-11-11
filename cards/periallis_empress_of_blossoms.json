@@ -1,0 +1,16 @@
+{
+  "id": 72924435,
+  "name": "Periallis, Empress of Blossoms",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nGains 400 ATK for each Plant monster you control, except this card. During your Main Phase: You can Special Summon 1 Level 5 or higher Plant monster from your hand or GY in Defense Position, except \"Periallis, Empress of Blossoms\". You can only use this effect of \"Periallis, Empress of Blossoms\" once per turn.",
+  "attack": 1600,
+  "defense": 2400,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72924435.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72924435.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72924435.jpg"
+  }
+}

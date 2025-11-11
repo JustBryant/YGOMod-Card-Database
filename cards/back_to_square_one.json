@@ -1,0 +1,12 @@
+{
+  "id": 47453433,
+  "name": "Back to Square One",
+  "type": "Spell Card",
+  "description": "Discard 1 card, then target 1 monster on the field; place that target on the top of the Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47453433.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47453433.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47453433.jpg"
+  }
+}

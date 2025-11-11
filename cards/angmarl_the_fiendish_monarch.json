@@ -1,0 +1,16 @@
+{
+  "id": 65612386,
+  "name": "Angmarl the Fiendish Monarch",
+  "type": "Effect Monster",
+  "description": "When this card is Tribute Summoned: You can banish 1 Spell Card from your Graveyard; add 1 card with the same name as the banished Spell Card from your Deck to your hand.",
+  "attack": 2400,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65612386.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65612386.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65612386.jpg"
+  }
+}

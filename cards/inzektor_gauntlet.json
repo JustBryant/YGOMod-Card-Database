@@ -1,0 +1,12 @@
+{
+  "id": 259314,
+  "name": "Inzektor Gauntlet",
+  "type": "Trap Card",
+  "description": "Target 1 face-up \"Inzektor\" monster you control; equip this card to that target. It gains 1000 DEF, and cannot be destroyed by your opponent's card effects.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/259314.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/259314.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/259314.jpg"
+  }
+}

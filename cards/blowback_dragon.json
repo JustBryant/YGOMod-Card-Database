@@ -1,0 +1,16 @@
+{
+  "id": 25551951,
+  "name": "Blowback Dragon",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 card your opponent controls; toss a coin 3 times and destroy that target if at least 2 of the results are heads.",
+  "attack": 2300,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25551951.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25551951.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25551951.jpg"
+  }
+}

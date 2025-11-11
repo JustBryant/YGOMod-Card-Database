@@ -1,0 +1,16 @@
+{
+  "id": 87047161,
+  "name": "Mermaid Shark",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can add 1 Level 3, 4 or 5 Fish-Type monster from your Deck to your hand.",
+  "attack": 100,
+  "defense": 300,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87047161.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87047161.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87047161.jpg"
+  }
+}

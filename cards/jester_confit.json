@@ -1,0 +1,16 @@
+{
+  "id": 8487449,
+  "name": "Jester Confit",
+  "type": "Effect Monster",
+  "description": "You can only control 1 \"Jester Confit\". You can Special Summon this card (from your hand) in Attack Position. If Summoned this way, during your opponent's next End Phase: Target 1 face-up monster your opponent controls; return both that target and this face-up card to the hand.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8487449.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8487449.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8487449.jpg"
+  }
+}

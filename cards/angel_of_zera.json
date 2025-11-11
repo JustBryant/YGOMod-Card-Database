@@ -1,0 +1,16 @@
+{
+  "id": 42216237,
+  "name": "Angel of Zera",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nThis card gains 100 ATK for each of your opponent's banished cards. During the Standby Phase of the next turn after this card was banished: Special Summon this banished card. You can only use the effect of \"Angel of Zera\" once per turn.",
+  "attack": 2800,
+  "defense": 2300,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42216237.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42216237.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42216237.jpg"
+  }
+}

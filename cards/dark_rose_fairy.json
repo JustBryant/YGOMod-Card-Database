@@ -1,0 +1,16 @@
+{
+  "id": 90724272,
+  "name": "Dark Rose Fairy",
+  "type": "Effect Monster",
+  "description": "If a Tuner(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. If this card is in your GY: You can send 1 card from your hand or field to the GY; place this card on the top or bottom of your Deck. You can only use each effect of \"Dark Rose Fairy\" once per turn.",
+  "attack": 800,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90724272.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90724272.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90724272.jpg"
+  }
+}

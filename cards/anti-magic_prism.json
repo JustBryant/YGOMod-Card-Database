@@ -1,0 +1,12 @@
+{
+  "id": 20138923,
+  "name": "Anti-Magic Prism",
+  "type": "Trap Card",
+  "description": "Activate only when your opponent activates a Quick-Play Spell Card. Select 1 card on the field and destroy it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20138923.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20138923.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20138923.jpg"
+  }
+}

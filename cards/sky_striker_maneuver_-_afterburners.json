@@ -1,0 +1,12 @@
+{
+  "id": 99550630,
+  "name": "Sky Striker Maneuver - Afterburners!",
+  "type": "Spell Card",
+  "description": "If you control no monsters in your Main Monster Zone: Target 1 face-up monster on the field; destroy it, then, if you have 3 or more Spells in your GY, you can destroy 1 Spell/Trap on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99550630.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99550630.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99550630.jpg"
+  }
+}

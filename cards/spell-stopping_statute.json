@@ -1,0 +1,12 @@
+{
+  "id": 10069180,
+  "name": "Spell-Stopping Statute",
+  "type": "Trap Card",
+  "description": "Activate only when your opponent activates a Continuous Spell Card. Negate the activation and the effect of the card and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10069180.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10069180.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10069180.jpg"
+  }
+}

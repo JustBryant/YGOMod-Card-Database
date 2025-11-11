@@ -1,0 +1,12 @@
+{
+  "id": 91500017,
+  "name": "Toon Bookmark",
+  "type": "Spell Card",
+  "description": "Add 1 \"Toon World\", or 1 card that specifically lists the card \"Toon World\" in its text, from your Deck to your hand, except \"Toon Bookmark\". If a \"Toon World(s)\" you control would be destroyed by card effect, you can banish this card from your GY instead. You can only activate 1 \"Toon Bookmark\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91500017.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91500017.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91500017.jpg"
+  }
+}

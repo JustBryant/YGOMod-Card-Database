@@ -1,0 +1,16 @@
+{
+  "id": 30464153,
+  "name": "Uminotaurus",
+  "type": "Effect Monster",
+  "description": "If a Fish, Sea Serpent, or Aqua-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "attack": 1700,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30464153.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30464153.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30464153.jpg"
+  }
+}

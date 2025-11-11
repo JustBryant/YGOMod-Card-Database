@@ -1,0 +1,12 @@
+{
+  "id": 6798031,
+  "name": "Ryzeal Cross",
+  "type": "Spell Card",
+  "description": "You cannot Xyz Summon monsters with the same name as a card you control. You can target 2 \"Ryzeal\" cards in your GY, except \"Ryzeal Cross\"; place them on the bottom of the Deck in any order, then draw 1 card. You can only use this effect of \"Ryzeal Cross\" once per turn. Once per turn, when a monster effect activated by your opponent resolves, you can detach 1 material from a \"Ryzeal\" Xyz Monster you control, and if you do, negate that effect.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6798031.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6798031.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6798031.jpg"
+  }
+}

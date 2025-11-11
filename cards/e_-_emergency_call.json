@@ -1,0 +1,12 @@
+{
+  "id": 213326,
+  "name": "E - Emergency Call",
+  "type": "Spell Card",
+  "description": "Add 1 \"Elemental HERO\" monster from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/213326.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/213326.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/213326.jpg"
+  }
+}

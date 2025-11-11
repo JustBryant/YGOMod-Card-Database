@@ -3,14 +3,14 @@
   "name": "Mystical Sheep #2",
   "type": "Normal Monster",
   "description": "A monstrous sheep with a long tail for hypnotizing enemies.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/83464209.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/83464209.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83464209.jpg"
-  },
   "attack": 800,
   "defense": 1000,
   "level": 3,
   "attribute": "EARTH",
-  "race": "Beast"
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83464209.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83464209.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83464209.jpg"
+  }
 }

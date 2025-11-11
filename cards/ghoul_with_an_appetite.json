@@ -1,0 +1,16 @@
+{
+  "id": 95265975,
+  "name": "Ghoul with an Appetite",
+  "type": "Normal Monster",
+  "description": "''A monster with a heavy appetite that has never been satisfied.''",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95265975.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95265975.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95265975.jpg"
+  }
+}

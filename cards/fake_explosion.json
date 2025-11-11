@@ -1,0 +1,12 @@
+{
+  "id": 41234315,
+  "name": "Fake Explosion",
+  "type": "Trap Card",
+  "description": "Activate only when an opponent's monster declares an attack. Monsters cannot be destroyed by this battle. After damage calculation, Special Summon 1 \"Summon Reactor・SK\" from your hand or Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41234315.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41234315.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41234315.jpg"
+  }
+}

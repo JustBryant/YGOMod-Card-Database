@@ -1,0 +1,16 @@
+{
+  "id": 2978414,
+  "name": "Number 46: Dragluon",
+  "type": "XYZ Monster",
+  "description": "2 Level 8 Dragon-Type monsters\nOnce per turn, if you control no other monsters: You can detach 1 Xyz Material from this card, then activate 1 of these effects.\n● Special Summon 1 Dragon-Type monster from your hand.\n● Target 1 Dragon-Type monster your opponent controls; take control of that target.\n● Dragon-Type monsters your opponent controls cannot activate their effects until the end of your opponent's turn.",
+  "attack": 3000,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2978414.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2978414.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2978414.jpg"
+  }
+}

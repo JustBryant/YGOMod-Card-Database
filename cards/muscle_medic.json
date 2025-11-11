@@ -1,0 +1,16 @@
+{
+  "id": 4848423,
+  "name": "Muscle Medic",
+  "type": "Effect Monster",
+  "description": "If a player would take damage from a battle involving this card, they gain that much LP, instead.",
+  "attack": 2200,
+  "defense": 100,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4848423.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4848423.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4848423.jpg"
+  }
+}

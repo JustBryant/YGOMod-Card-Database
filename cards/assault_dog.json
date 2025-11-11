@@ -1,0 +1,16 @@
+{
+  "id": 72714226,
+  "name": "Assault Dog",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon any number of \"Assault Dog\" from your Deck.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72714226.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72714226.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72714226.jpg"
+  }
+}

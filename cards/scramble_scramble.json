@@ -1,0 +1,12 @@
+{
+  "id": 83054225,
+  "name": "Scramble!! Scramble!!",
+  "type": "Spell Card",
+  "description": "If your opponent's monsters on the field outnumber your non-Token monsters on the field: Tribute any number of \"Mecha Phantom Beast Tokens\"; Special Summon an equal number of \"Mecha Phantom Beast\" monsters from your Deck. Shuffle them into the Deck during the End Phase. You can only activate 1 \"Scramble!! Scramble!!\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83054225.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83054225.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83054225.jpg"
+  }
+}

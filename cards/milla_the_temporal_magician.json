@@ -1,0 +1,16 @@
+{
+  "id": 33225925,
+  "name": "Milla the Temporal Magician",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: Target 1 Set card your opponent controls; look at it. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.",
+  "attack": 1800,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33225925.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33225925.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33225925.jpg"
+  }
+}

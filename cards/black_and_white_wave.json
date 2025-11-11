@@ -1,0 +1,12 @@
+{
+  "id": 31677606,
+  "name": "Black and White Wave",
+  "type": "Spell Card",
+  "description": "If there is a face-up Xyz Monster on the field with a Synchro Monster as Xyz Material: Target 1 card on the field; banish that target, and if you do, draw 1 card.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31677606.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31677606.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31677606.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9238125,
+  "name": "Vernusylph of the Thawing Mountains",
+  "type": "Effect Monster",
+  "description": "You can discard this card, and 1 monster or \"Vernusylph\" card; draw 1 card, then you can Special Summon 1 EARTH monster from your GY, also you cannot activate non-EARTH monster effects for the rest of this turn. You can target 1 \"Vernusylph\" monster you control; it can make a second attack during each Battle Phase this turn. You can only use each effect of \"Vernusylph of the Thawing Mountains\" once per turn.",
+  "attack": 1100,
+  "defense": 0,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9238125.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9238125.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9238125.jpg"
+  }
+}

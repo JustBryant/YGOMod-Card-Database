@@ -1,0 +1,16 @@
+{
+  "id": 72656408,
+  "name": "Bystial Baldrake",
+  "type": "Effect Monster",
+  "description": "You can target 1 LIGHT or DARK monster in either GY; banish it, and if you do, Special Summon this card from your hand. This is a Quick Effect if your opponent controls a monster. If your opponent Special Summons a Ritual, Fusion, Synchro, Xyz, and/or Link Monster(s) (except during the Damage Step): You can Tribute 1 other LIGHT or DARK monster, then target 1 of those Special Summoned monsters; banish it. You can only use each effect of \"Bystial Baldrake\" once per turn.",
+  "attack": 2500,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72656408.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72656408.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72656408.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 54455664,
+  "name": "Dragunity Brandistock",
+  "type": "Tuner Monster",
+  "description": "While this card is equipped to a monster, that monster can attack twice during each Battle Phase.",
+  "attack": 600,
+  "defense": 400,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54455664.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54455664.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54455664.jpg"
+  }
+}

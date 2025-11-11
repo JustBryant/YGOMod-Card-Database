@@ -1,0 +1,16 @@
+{
+  "id": 71544954,
+  "name": "Megarock Dragon",
+  "type": "Effect Monster",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play a Rock-Type monster(s) in your Graveyard. The original ATK and DEF of this card become the number of Rock-Type monsters you removed from play when you Special Summoned this card x 700.",
+  "attack": -1,
+  "defense": -1,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71544954.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71544954.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71544954.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 66100045,
+  "name": "Transmigration Break",
+  "type": "Trap Card",
+  "description": "Any cards that would be returned to the Deck from the Graveyard are removed from play instead.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66100045.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66100045.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66100045.jpg"
+  }
+}

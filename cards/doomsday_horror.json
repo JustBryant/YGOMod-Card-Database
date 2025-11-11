@@ -1,0 +1,16 @@
+{
+  "id": 64379430,
+  "name": "Doomsday Horror",
+  "type": "Effect Monster",
+  "description": "This card's ATK and DEF are equal to the number of banished DARK monsters x 300. If this card is destroyed and sent to the Graveyard: Return all banished DARK monsters to the Graveyards.",
+  "attack": -1,
+  "defense": -1,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64379430.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64379430.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64379430.jpg"
+  }
+}

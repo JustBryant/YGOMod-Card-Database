@@ -1,0 +1,16 @@
+{
+  "id": 75672051,
+  "name": "Black Fang Magician",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn: You can target 1 face-up monster your opponent controls; its ATK becomes half its current ATK (until the end of this turn), then destroy this card.\n\n[ Monster Effect ] \n(This card is always treated as an \"Xyz Dragon\" card.)\r\nIf this card is destroyed by battle or card effect: You can target 1 DARK Spellcaster-Type monster in your Graveyard; Special Summon it.",
+  "attack": 1700,
+  "defense": 800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75672051.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75672051.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75672051.jpg"
+  }
+}

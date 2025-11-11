@@ -1,0 +1,16 @@
+{
+  "id": 75582395,
+  "name": "Faith Bird",
+  "type": "Normal Monster",
+  "description": "This long-tailed bird blinds its enemies with mystical light.",
+  "attack": 1500,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75582395.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75582395.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75582395.jpg"
+  }
+}

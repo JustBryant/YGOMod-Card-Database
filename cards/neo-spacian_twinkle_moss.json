@@ -1,0 +1,16 @@
+{
+  "id": 13857930,
+  "name": "Neo-Spacian Twinkle Moss",
+  "type": "Fusion Monster",
+  "description": "This card's name is also treated as \"Neo-Spacian Glow Moss\". This card cannot be Special Summoned except with \"NEX\". When this card attacks or is attacked, draw 1 card. Reveal that card, and based on its type apply the proper effect: ● Monster: End the Battle Phase. ● Spell: You can change this card's attack to a direct attack. ● Trap: This monster is changed to Defense Position.",
+  "attack": 500,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13857930.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13857930.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13857930.jpg"
+  }
+}

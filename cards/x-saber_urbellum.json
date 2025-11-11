@@ -1,0 +1,16 @@
+{
+  "id": 80108118,
+  "name": "X-Saber Urbellum",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.",
+  "attack": 2200,
+  "defense": 1300,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80108118.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80108118.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80108118.jpg"
+  }
+}

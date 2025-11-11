@@ -1,0 +1,16 @@
+{
+  "id": 11250655,
+  "name": "Emperor of the Land and Sea",
+  "type": "Normal Monster",
+  "description": "''A reptilian monster that sprays fire in every direction.''",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11250655.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11250655.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11250655.jpg"
+  }
+}

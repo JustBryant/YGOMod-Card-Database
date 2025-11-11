@@ -1,0 +1,16 @@
+{
+  "id": 50613779,
+  "name": "Damage Mage",
+  "type": "Effect Monster",
+  "description": "When you take damage from a card effect: You can Special Summon this card from your hand, and if you do, gain Life Points equal to the damage you took.",
+  "attack": 600,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50613779.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50613779.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50613779.jpg"
+  }
+}

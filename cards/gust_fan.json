@@ -1,0 +1,12 @@
+{
+  "id": 55321970,
+  "name": "Gust Fan",
+  "type": "Spell Card",
+  "description": "A WIND monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55321970.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55321970.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55321970.jpg"
+  }
+}

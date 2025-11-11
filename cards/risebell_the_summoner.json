@@ -1,0 +1,16 @@
+{
+  "id": 45103815,
+  "name": "Risebell the Summoner",
+  "type": "Pendulum Normal Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn: You can target 1 face-up monster on the field; increase its Level by 1 (even if this card leaves the field).\n\n[ Monster Effect ] \n''A kindly elder brother, Risebell takes good care of his little sister Saambell. He reads a Magical Book with his sister each early-afternoon, a harmonious routine that brings a smile to everyone.''",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45103815.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45103815.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45103815.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 33695750,
+  "name": "Des Mosquito",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned: Place 2 counters on it. It gains 500 ATK for each of these counters. If this card would be destroyed by battle, remove 1 of these counters instead.",
+  "attack": 500,
+  "defense": 500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33695750.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33695750.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33695750.jpg"
+  }
+}

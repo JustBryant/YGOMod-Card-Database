@@ -1,0 +1,12 @@
+{
+  "id": 1082946,
+  "name": "Pyro Clock of Destiny",
+  "type": "Trap Card",
+  "description": "Move the turn count forward by 1 turn. The turn in which this card is activated continues as normal.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1082946.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1082946.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1082946.jpg"
+  }
+}

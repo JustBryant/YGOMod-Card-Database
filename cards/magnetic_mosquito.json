@@ -1,0 +1,16 @@
+{
+  "id": 50074522,
+  "name": "Magnetic Mosquito",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Destroy all face-up Machine-Type monsters on the field.",
+  "attack": 300,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50074522.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50074522.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50074522.jpg"
+  }
+}

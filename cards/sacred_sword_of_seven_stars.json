@@ -1,0 +1,12 @@
+{
+  "id": 45725480,
+  "name": "Sacred Sword of Seven Stars",
+  "type": "Spell Card",
+  "description": "Banish 1 Level 7 monster from your hand or face-up from your side of the field; draw 2 cards. You can only activate 1 \"Sacred Sword of Seven Stars\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45725480.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45725480.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45725480.jpg"
+  }
+}

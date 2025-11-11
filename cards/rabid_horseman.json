@@ -1,0 +1,16 @@
+{
+  "id": 94905343,
+  "name": "Rabid Horseman",
+  "type": "Fusion Monster",
+  "description": "\"Battle Ox\" + \"Mystic Horseman\"",
+  "attack": 2000,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94905343.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94905343.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94905343.jpg"
+  }
+}

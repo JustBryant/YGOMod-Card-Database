@@ -1,0 +1,12 @@
+{
+  "id": 62543394,
+  "name": "Lekunga Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Lekunga\".",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62543394.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62543394.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62543394.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 71466592,
+  "name": "Maryokutai",
+  "type": "Effect Monster",
+  "description": "During your opponent's turn, when your opponent activates a Spell Card (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it.",
+  "attack": 900,
+  "defense": 900,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71466592.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71466592.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71466592.jpg"
+  }
+}

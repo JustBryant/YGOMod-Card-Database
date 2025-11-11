@@ -1,0 +1,12 @@
+{
+  "id": 50078509,
+  "name": "Fiendish Chain",
+  "type": "Trap Card",
+  "description": "Activate this card by targeting 1 Effect Monster on the field; negate the effects of that face-up monster while it is on the field, also that face-up monster cannot attack. When it is destroyed, destroy this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50078509.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50078509.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50078509.jpg"
+  }
+}

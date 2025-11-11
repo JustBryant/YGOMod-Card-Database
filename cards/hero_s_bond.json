@@ -1,0 +1,12 @@
+{
+  "id": 76442616,
+  "name": "HERO's Bond",
+  "type": "Spell Card",
+  "description": "If there is a face-up \"HERO\" monster on the field: Special Summon 2 Level 4 or lower \"Elemental HERO\" monsters from your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76442616.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76442616.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76442616.jpg"
+  }
+}

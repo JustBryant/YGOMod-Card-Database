@@ -1,0 +1,12 @@
+{
+  "id": 300302001,
+  "name": "Fusion Party!",
+  "type": "Skill Card",
+  "description": "Activate this Skill during your Main Phase. Once per Duel, you can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+  "race": "Christine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302001.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302001.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302001.jpg"
+  }
+}

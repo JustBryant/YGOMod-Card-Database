@@ -1,0 +1,16 @@
+{
+  "id": 75390004,
+  "name": "Megazowler",
+  "type": "Normal Monster",
+  "description": "Nothing stands in the way of this spike-covered dinosaur!",
+  "attack": 1800,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75390004.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75390004.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75390004.jpg"
+  }
+}

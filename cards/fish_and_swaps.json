@@ -1,0 +1,12 @@
+{
+  "id": 21507589,
+  "name": "Fish and Swaps",
+  "type": "Spell Card",
+  "description": "Discard 1 card to target 2 of your banished Fish, Sea Serpent, or Aqua-Type monsters; add them to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21507589.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21507589.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21507589.jpg"
+  }
+}

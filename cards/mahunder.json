@@ -1,0 +1,16 @@
+{
+  "id": 21524779,
+  "name": "Mahunder",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can Normal Summon 1 Level 4 LIGHT Thunder-Type monster from your hand, except \"Mahunder\", as an additional Normal Summon.",
+  "attack": 1400,
+  "defense": 700,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21524779.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21524779.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21524779.jpg"
+  }
+}

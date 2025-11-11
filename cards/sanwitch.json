@@ -1,0 +1,16 @@
+{
+  "id": 53539634,
+  "name": "Sanwitch",
+  "type": "Fusion Monster",
+  "description": "\"Sangan\" + \"Witch of the Black Forest\"",
+  "attack": 2100,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53539634.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53539634.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53539634.jpg"
+  }
+}

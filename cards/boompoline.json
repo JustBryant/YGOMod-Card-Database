@@ -1,0 +1,12 @@
+{
+  "id": 14839621,
+  "name": "Boompoline!!",
+  "type": "Trap Card",
+  "description": "Activate this card by choosing 1 unused Monster Zone. If an Effect Monster is Special Summoned to that zone: Return both the monster in that zone and this card to the hand.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14839621.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14839621.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14839621.jpg"
+  }
+}

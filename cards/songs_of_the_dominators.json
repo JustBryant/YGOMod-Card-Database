@@ -1,0 +1,12 @@
+{
+  "id": 58053438,
+  "name": "Songs of the Dominators",
+  "type": "Trap Card",
+  "description": "If you have no monsters in your GY, you can activate this card from your hand. When your opponent activates a monster effect on the field: Negate that effect, then if you have a Trap in your GY, you can add 1 \"Dominus\" card from your Deck to your hand. If you activated this card from your hand, you cannot activate the effects of monsters in your hand, GY, and banishment, until the end of the next turn. You can only activate 1 \"Songs of the Dominators\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58053438.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58053438.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58053438.jpg"
+  }
+}

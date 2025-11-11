@@ -1,0 +1,16 @@
+{
+  "id": 38670435,
+  "name": "Black Tyranno",
+  "type": "Effect Monster",
+  "description": "If the only cards your opponent controls are Defense Position monsters, this card can attack directly.",
+  "attack": 2600,
+  "defense": 1800,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38670435.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38670435.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38670435.jpg"
+  }
+}

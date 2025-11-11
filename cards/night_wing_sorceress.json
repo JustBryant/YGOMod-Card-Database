@@ -1,0 +1,16 @@
+{
+  "id": 49826746,
+  "name": "Night Wing Sorceress",
+  "type": "Effect Monster",
+  "description": "You can activate \"Assault Mode Activate\" the turn it is Set.",
+  "attack": 1300,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49826746.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49826746.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49826746.jpg"
+  }
+}

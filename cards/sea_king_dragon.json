@@ -1,0 +1,16 @@
+{
+  "id": 23659124,
+  "name": "Sea King Dragon",
+  "type": "Normal Monster",
+  "description": "''Protected by a tough shell, this master of the sea attacks its enemies with toxic bubbles.''",
+  "attack": 2000,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23659124.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23659124.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23659124.jpg"
+  }
+}

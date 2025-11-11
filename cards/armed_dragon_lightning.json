@@ -1,0 +1,12 @@
+{
+  "id": 97091969,
+  "name": "Armed Dragon Lightning",
+  "type": "Spell Card",
+  "description": "If an \"Armed Dragon\" monster(s) you control would be destroyed by card effect, you can send this card to the GY instead. You can target 1 \"Armed Dragon\" monster you control, then activate 1 of these effects;\r\n● It gains ATK equal to its Level x 100 (even if this card leaves the field).\r\n● Add 1 \"Armed Dragon\" monster with an equal or lower Level than it from your GY to your hand.\r\nYou can only use this effect of \"Armed Dragon Lightning\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97091969.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97091969.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97091969.jpg"
+  }
+}

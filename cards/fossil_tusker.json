@@ -1,0 +1,16 @@
+{
+  "id": 17706537,
+  "name": "Fossil Tusker",
+  "type": "Effect Monster",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, inflict 400 damage to your opponent.",
+  "attack": 1800,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17706537.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17706537.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17706537.jpg"
+  }
+}

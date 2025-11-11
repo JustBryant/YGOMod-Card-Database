@@ -1,0 +1,12 @@
+{
+  "id": 90814668,
+  "name": "Tyrant Farm",
+  "type": "Spell Card",
+  "description": "Tribute 1 Effect Monster; Special Summon 1 non-Effect Monster with the same original Type/Attribute from your GY. You can only activate 1 \"Tyrant Farm\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90814668.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90814668.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90814668.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 40633084,
+  "name": "Beetrooper Squad",
+  "type": "Trap Card",
+  "description": "Tribute 1 non-Token Insect monster; Special Summon up to 1 \"Beetrooper Token\" (Insect/EARTH/Level 3/ATK 1000/DEF 1000) for every 1000 original ATK of that Tributed monster. You can only activate \"Beetrooper Squad\" once per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40633084.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40633084.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40633084.jpg"
+  }
+}

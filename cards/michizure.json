@@ -1,0 +1,12 @@
+{
+  "id": 37580756,
+  "name": "Michizure",
+  "type": "Trap Card",
+  "description": "When a monster is sent from the field to your GY, even during the Damage Step: Target 1 monster on the field; destroy it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37580756.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37580756.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37580756.jpg"
+  }
+}

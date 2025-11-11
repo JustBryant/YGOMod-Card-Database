@@ -1,0 +1,12 @@
+{
+  "id": 49980185,
+  "name": "Supernatural Regeneration",
+  "type": "Trap Card",
+  "description": "Activate only during the End Phase. Gain 1000 Life Points for each Psychic-Type monster sent to the Graveyard this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49980185.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49980185.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49980185.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 72566043,
+  "name": "Litmus Doom Swordsman",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with \"Litmus Doom Ritual\". It is unaffected by Trap effects and cannot be destroyed by battle. Gains 3000 ATK/DEF while a Trap is on the field. If this Ritual Summoned card in its owner's control is destroyed by your opponent's card: You can target 1 Trap in either GY; Set it to your Spell & Trap Zone.",
+  "attack": 0,
+  "defense": 0,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72566043.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72566043.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72566043.jpg"
+  }
+}

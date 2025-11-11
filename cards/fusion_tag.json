@@ -1,0 +1,12 @@
+{
+  "id": 59432181,
+  "name": "Fusion Tag",
+  "type": "Spell Card",
+  "description": "Target 1 monster you control; reveal 1 Fusion Monster in your Extra Deck, and if you do, the targeted monster's name can be treated as the revealed Fusion Monster's, if used for a Fusion Summon this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59432181.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59432181.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59432181.jpg"
+  }
+}

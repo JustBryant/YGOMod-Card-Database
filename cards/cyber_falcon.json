@@ -1,0 +1,16 @@
+{
+  "id": 30655537,
+  "name": "Cyber Falcon",
+  "type": "Normal Monster",
+  "description": "A jet-powered hawk that travels at the speed of sound.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30655537.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30655537.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30655537.jpg"
+  }
+}

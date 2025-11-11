@@ -1,0 +1,12 @@
+{
+  "id": 74733322,
+  "name": "Artmage Academic Arcane Arts Acropolis",
+  "type": "Spell Card",
+  "description": "During your Main Phase, you can Normal Summon 1 \"Medius the Pure\", in addition to your Normal Summon/Set (you can only gain this effect once per turn). You can discard 1 Spell/Trap, and declare 1 \"Artmage\" Monster Card name that is not among the monsters you control and has not been declared for \"Artmage Academic Arcane Arts Acropolis\" this turn; add that monster from your Deck to your hand, also you cannot Special Summon for the rest of this turn, except \"Artmage\" monsters, \"Medius the Pure\", or from the Extra Deck.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74733322.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74733322.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74733322.jpg"
+  }
+}

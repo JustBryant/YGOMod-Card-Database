@@ -3,14 +3,14 @@
   "name": "Turtle Tiger",
   "type": "Normal Monster",
   "description": "A tiger encased in a protective shell that attacks with razor-sharp fangs.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/37313348.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/37313348.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37313348.jpg"
-  },
   "attack": 1000,
   "defense": 1500,
   "level": 4,
   "attribute": "WATER",
-  "race": "Aqua"
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37313348.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37313348.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37313348.jpg"
+  }
 }

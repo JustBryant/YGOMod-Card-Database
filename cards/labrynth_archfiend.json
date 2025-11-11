@@ -1,0 +1,16 @@
+{
+  "id": 48745395,
+  "name": "Labrynth Archfiend",
+  "type": "Effect Monster",
+  "description": "Gains 400 ATK for each Normal Trap with a different name in your GY. Your opponent's monsters cannot target Fiend monsters for attacks, except \"Labrynth Archfiend\". You can only use each of the following effects of \"Labrynth Archfiend\" once per turn. If a Trap Card is activated (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned: You can Set 1 Normal Trap from your Deck that can only be activated when an attack is declared.",
+  "attack": 2000,
+  "defense": 2800,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48745395.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48745395.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48745395.jpg"
+  }
+}

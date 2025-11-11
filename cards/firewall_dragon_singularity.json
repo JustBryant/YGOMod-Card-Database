@@ -1,0 +1,16 @@
+{
+  "id": 21637210,
+  "name": "Firewall Dragon Singularity",
+  "type": "Link Monster",
+  "description": "3+ Effect Monsters\r\n(Quick Effect): You can target cards your opponent controls or in their GY up to the number of different card types (Ritual, Fusion, Synchro, Xyz) you control and in your GY; return them to the hand, also this card gains 500 ATK for each returned card. If a monster this card points to is destroyed by battle, or sent to the GY: You can target 1 Cyberse monster in your GY; Special Summon it. You can only use each effect of \"Firewall Dragon Singularity\" once per turn.",
+  "attack": 3500,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21637210.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21637210.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21637210.jpg"
+  }
+}

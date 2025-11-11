@@ -1,0 +1,12 @@
+{
+  "id": 20745268,
+  "name": "Magical Musket - Desperado",
+  "type": "Trap Card",
+  "description": "If you control a \"Magical Musket\" monster: Target 1 face-up card on the field; destroy it. You can only activate 1 \"Magical Musket - Desperado\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20745268.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20745268.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20745268.jpg"
+  }
+}

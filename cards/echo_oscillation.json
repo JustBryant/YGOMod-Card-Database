@@ -1,0 +1,12 @@
+{
+  "id": 15582767,
+  "name": "Echo Oscillation",
+  "type": "Trap Card",
+  "description": "You can target 1 card in your Pendulum Zone; destroy it, then draw 1 card. You can only use this effect of \"Echo Oscillation\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15582767.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15582767.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15582767.jpg"
+  }
+}

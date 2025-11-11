@@ -1,0 +1,12 @@
+{
+  "id": 97151365,
+  "name": "Spacegate",
+  "type": "Trap Card",
+  "description": "Each time a monster your opponent controls attacks or is attacked, place 1 Gate Counter on this card at the end of the Damage Step. During your Main Phase: You can send this card to the Graveyard; Special Summon 1 monster from your hand whose Level is less than or equal to the number of Gate Counters on this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97151365.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97151365.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97151365.jpg"
+  }
+}

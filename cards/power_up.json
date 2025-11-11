@@ -1,0 +1,12 @@
+{
+  "id": 300302021,
+  "name": "Power Up!",
+  "type": "Skill Card",
+  "description": "Activate this Skill during your Main Phase.\r\nOnce per Duel, you can make 1 face-up monster on the field gain 500 ATK until the end of this turn.",
+  "race": "Yami Yugi",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302021.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302021.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302021.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 32202803,
+  "name": "Bujingi Wolf",
+  "type": "Effect Monster",
+  "description": "Other Beast, Beast-Warrior, and Winged Beast-Type monsters you control cannot be destroyed by battle.",
+  "attack": 1100,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32202803.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32202803.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32202803.jpg"
+  }
+}

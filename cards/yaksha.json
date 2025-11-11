@@ -1,0 +1,16 @@
+{
+  "id": 94215860,
+  "name": "Yaksha",
+  "type": "Spirit Monster",
+  "description": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 Spell/Trap Card your opponent controls; return that target to the hand.",
+  "attack": 1900,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94215860.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94215860.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94215860.jpg"
+  }
+}

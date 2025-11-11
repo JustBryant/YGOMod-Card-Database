@@ -1,0 +1,16 @@
+{
+  "id": 62514770,
+  "name": "Labradorite Dragon",
+  "type": "Normal Tuner Monster",
+  "description": "The ancients compared this prized creature to moonlight rippling across water. A bringer of harmony, reminder of past glories, able to soothe the hearts of even the most ambitious men.",
+  "attack": 0,
+  "defense": 2400,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62514770.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62514770.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62514770.jpg"
+  }
+}

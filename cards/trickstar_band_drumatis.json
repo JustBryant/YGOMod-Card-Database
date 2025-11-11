@@ -1,0 +1,16 @@
+{
+  "id": 64804137,
+  "name": "Trickstar Band Drumatis",
+  "type": "Fusion Monster",
+  "description": "2 \"Trickstar\" monsters\r\n\"Trickstar\" Link Monsters you control that point to this card gain 1000 ATK. You can only use each of the following effects of \"Trickstar Band Drumatis\" once per turn. If this card is Fusion Summoned: You can add 1 \"Trickstar\" card from your Deck to your hand, with a different name from the cards you control and in your GY. If effect damage is inflicted (except during the Damage Step): You can target 1 face-up monster on the field; its ATK becomes 0.",
+  "attack": 2000,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64804137.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64804137.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64804137.jpg"
+  }
+}

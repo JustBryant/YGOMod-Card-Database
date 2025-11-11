@@ -1,0 +1,12 @@
+{
+  "id": 300302047,
+  "name": "Chillin' Outback",
+  "type": "Skill Card",
+  "description": "Once per turn, you can change 1 face-up \"Koala\" or \"Kangaroo\" monster's battle position. \"Koala\" and \"Kangaroo\" monsters you control can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.",
+  "race": "Chumley Huffi",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302047.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302047.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302047.jpg"
+  }
+}

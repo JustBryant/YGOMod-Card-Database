@@ -1,0 +1,16 @@
+{
+  "id": 85672957,
+  "name": "Masked HERO Atomic",
+  "type": "Fusion Monster",
+  "description": "Must be Special Summoned with \"Mask Change\". The first time this card would be destroyed by battle or card effect each turn, it is not destroyed. You can only use each of the following effects of \"Masked HERO Atomic\" once per turn. If this card is Special Summoned: You can target 1 non-FIRE \"Masked HERO\" monster in your GY or banishment; Special Summon it in Defense Position, ignoring its Summoning conditions. During your End Phase: You can target 1 \"Change\" Quick-Play Spell in your GY; Set it.",
+  "attack": 2600,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85672957.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85672957.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85672957.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16947147,
+  "name": "Speedroid Menko",
+  "type": "Effect Monster",
+  "description": "When an opponent's monster declares a direct attack while this card is in your hand: You can Special Summon this card in Attack Position, and if you do, change all face-up monsters your opponent controls to Defense Position.",
+  "attack": 100,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16947147.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16947147.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16947147.jpg"
+  }
+}

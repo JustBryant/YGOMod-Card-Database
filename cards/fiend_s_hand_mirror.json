@@ -1,0 +1,12 @@
+{
+  "id": 58607704,
+  "name": "Fiend's Hand Mirror",
+  "type": "Trap Card",
+  "description": "Switch the opponent's Spell Card effect that targets 1 Spell or Trap Card to another correct target.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58607704.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58607704.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58607704.jpg"
+  }
+}

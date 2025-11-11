@@ -1,0 +1,12 @@
+{
+  "id": 79816536,
+  "name": "Summoner's Art",
+  "type": "Spell Card",
+  "description": "Add 1 Level 5 or higher Normal Monster from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79816536.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79816536.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79816536.jpg"
+  }
+}

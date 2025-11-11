@@ -1,0 +1,12 @@
+{
+  "id": 36361633,
+  "name": "Threatening Roar",
+  "type": "Trap Card",
+  "description": "Your opponent cannot declare an attack this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36361633.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36361633.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36361633.jpg"
+  }
+}

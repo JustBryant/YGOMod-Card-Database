@@ -1,0 +1,12 @@
+{
+  "id": 85862791,
+  "name": "Fighting Dirty",
+  "type": "Trap Card",
+  "description": "If a card(s) you control and a card(s) your opponent controls are destroyed by battle or card effect at the same time: Each player draws 2 cards. You can only activate 1 \"Fighting Dirty\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85862791.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85862791.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85862791.jpg"
+  }
+}

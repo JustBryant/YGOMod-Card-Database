@@ -1,0 +1,16 @@
+{
+  "id": 20663556,
+  "name": "Substitoad",
+  "type": "Effect Monster",
+  "description": "You can Tribute 1 monster to Special Summon 1 \"Frog\" monster from your Deck, except \"Frog the Jam\". \"Frog\" monsters, except \"Frog the Jam\", cannot be destroyed by battle.",
+  "attack": 100,
+  "defense": 2000,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20663556.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20663556.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20663556.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 21887075,
+  "name": "Endless Engine Argyro System",
+  "type": "Spell Card",
+  "description": "Send 1 \"Therion\" card from your Deck to the GY. If this card is in your GY: You can target 1 \"Therion\" card in your GY; if both are still in your GY, add either that card or this card to your hand, and if you do, place the other on the bottom of your Deck. You can only use 1 \"Endless Engine Argyro System\" effect per turn, and only once that turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21887075.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21887075.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21887075.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 58392024,
+  "name": "Mispolymerization",
+  "type": "Trap Card",
+  "description": "Activate only when a Fusion Monster is Special Summoned. Return all face-up Fusion Monsters to their respective Extra Decks.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58392024.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58392024.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58392024.jpg"
+  }
+}

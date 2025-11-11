@@ -1,0 +1,12 @@
+{
+  "id": 93377803,
+  "name": "Solitary Sword of Poison",
+  "type": "Spell Card",
+  "description": "Equip only to a monster you control. If the equipped monster battles an opponent's monster, the equipped monster's original ATK/DEF is doubled during damage calculation only. If you control a monster other than the equipped monster, send this card to the GY. You can only control 1 \"Solitary Sword of Poison\".",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93377803.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93377803.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93377803.jpg"
+  }
+}

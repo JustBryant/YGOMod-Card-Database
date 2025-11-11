@@ -1,0 +1,16 @@
+{
+  "id": 759393,
+  "name": "Hiita the Fire Charmer",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Target 1 face-up FIRE monster your opponent controls; take control of that target while this card is face-up on the field.",
+  "attack": 500,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/759393.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/759393.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/759393.jpg"
+  }
+}

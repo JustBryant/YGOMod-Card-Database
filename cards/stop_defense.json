@@ -3,10 +3,10 @@
   "name": "Stop Defense",
   "type": "Spell Card",
   "description": "Select 1 Defense Position monster on your opponent's side of the field and change it to Attack Position.",
+  "race": "Normal",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/63102017.jpg",
     "small_url": "https://images.ygoprodeck.com/images/cards_small/63102017.jpg",
     "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63102017.jpg"
-  },
-  "race": "Normal"
+  }
 }

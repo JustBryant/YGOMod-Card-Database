@@ -1,0 +1,16 @@
+{
+  "id": 41061625,
+  "name": "Yashinoki",
+  "type": "Normal Monster",
+  "description": "''An intelligent palm tree that drops a hail of rock-hard coconuts on its enemies.''",
+  "attack": 800,
+  "defense": 600,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41061625.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41061625.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41061625.jpg"
+  }
+}

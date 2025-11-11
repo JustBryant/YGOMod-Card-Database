@@ -1,0 +1,16 @@
+{
+  "id": 81275020,
+  "name": "Speedroid Terrortop",
+  "type": "Effect Monster",
+  "description": "If you control no monsters, you can Special Summon this card (from your hand). When this card is Normal or Special Summoned: You can add 1 \"Speedroid\" monster from your Deck to your hand, except \"Speedroid Terrortop\". You can only use this effect of \"Speedroid Terrortop\" once per turn.",
+  "attack": 1200,
+  "defense": 600,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81275020.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81275020.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81275020.jpg"
+  }
+}

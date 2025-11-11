@@ -1,0 +1,12 @@
+{
+  "id": 96765646,
+  "name": "Swing of Memories",
+  "type": "Spell Card",
+  "description": "Target 1 Normal Monster in your GY; Special Summon it, but destroy it during the End Phase of this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96765646.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96765646.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96765646.jpg"
+  }
+}

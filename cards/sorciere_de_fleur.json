@@ -1,0 +1,16 @@
+{
+  "id": 36405256,
+  "name": "Sorciere de Fleur",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned, select 1 monster in your opponent's Graveyard. Special Summon that monster to your side of the field. It cannot attack your opponent directly, and is destroyed during the End Phase of this turn. The effect of \"Sorciere de Fleur\" can only be activated once per turn.",
+  "attack": 2900,
+  "defense": 0,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36405256.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36405256.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36405256.jpg"
+  }
+}

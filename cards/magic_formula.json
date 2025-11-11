@@ -1,0 +1,12 @@
+{
+  "id": 67227834,
+  "name": "Magic Formula",
+  "type": "Spell Card",
+  "description": "Equip only to \"Dark Magician\" or \"Dark Magician Girl\". It gains 700 ATK. If this card is sent from the field to the GY: Gain 1000 LP.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67227834.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67227834.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67227834.jpg"
+  }
+}

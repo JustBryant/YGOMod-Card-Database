@@ -1,0 +1,16 @@
+{
+  "id": 58054262,
+  "name": "Machina Force",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Commander Covington\". You must pay 1000 LP to declare an attack with this card. You can send this card you control to the GY, then target 1 \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" in your GY; Special Summon those targets.",
+  "attack": 4600,
+  "defense": 4100,
+  "level": 10,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58054262.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58054262.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58054262.jpg"
+  }
+}

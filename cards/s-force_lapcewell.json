@@ -1,0 +1,16 @@
+{
+  "id": 27383719,
+  "name": "S-Force Lapcewell",
+  "type": "Effect Monster",
+  "description": "If this card is Special Summoned: You can target 1 \"S-Force\" monster in your GY, except \"S-Force Lapcewell\"; Special Summon it. You can banish 1 \"S-Force\" card from your hand; destroy all of your opponent's monsters in the same columns as your \"S-Force\" monsters. You can only use each effect of \"S-Force Lapcewell\" once per turn.",
+  "attack": 2400,
+  "defense": 2500,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27383719.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27383719.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27383719.jpg"
+  }
+}

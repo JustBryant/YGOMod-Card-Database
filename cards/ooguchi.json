@@ -1,0 +1,16 @@
+{
+  "id": 58861941,
+  "name": "Ooguchi",
+  "type": "Effect Monster",
+  "description": "This monster may attack your opponent's Life Points directly.",
+  "attack": 300,
+  "defense": 250,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58861941.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58861941.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58861941.jpg"
+  }
+}

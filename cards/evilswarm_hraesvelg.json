@@ -1,0 +1,16 @@
+{
+  "id": 35209994,
+  "name": "Evilswarm Hraesvelg",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Target 1 face-up card your opponent controls; return that target to the hand.",
+  "attack": 1150,
+  "defense": 1850,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35209994.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35209994.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35209994.jpg"
+  }
+}

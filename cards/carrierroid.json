@@ -1,0 +1,16 @@
+{
+  "id": 46848859,
+  "name": "Carrierroid",
+  "type": "Effect Monster",
+  "description": "When an opponent activates a card's effect that targets and destroys a Spell or Trap Card(s) you control, you can discard 1 card to negate its activation and destroy the card.",
+  "attack": 1000,
+  "defense": 800,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46848859.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46848859.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46848859.jpg"
+  }
+}

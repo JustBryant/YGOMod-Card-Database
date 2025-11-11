@@ -1,0 +1,16 @@
+{
+  "id": 65626958,
+  "name": "Nordic Beast Gullinbursti",
+  "type": "Tuner Monster",
+  "description": "For a Synchro Summon, you can substitute this card for any 1 \"Nordic\" Tuner. You can only use each of the following effects of \"Nordic Beast Gullinbursti\" once per turn. If this card is Normal or Special Summoned: You can Special Summon 1 \"Nordic\" monster from your hand. You can target 1 \"Nordic\" monster in your GY, except \"Nordic Beast Gullinbursti\"; add it to your hand.",
+  "attack": 300,
+  "defense": 100,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65626958.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65626958.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65626958.jpg"
+  }
+}

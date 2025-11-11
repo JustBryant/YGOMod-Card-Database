@@ -1,0 +1,16 @@
+{
+  "id": 55567161,
+  "name": "Pot the Trick",
+  "type": "Normal Monster",
+  "description": "''A not-so-powerful servant, he is an errand boy of a master sorcerer.''",
+  "attack": 400,
+  "defense": 400,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55567161.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55567161.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55567161.jpg"
+  }
+}

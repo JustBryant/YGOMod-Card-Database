@@ -1,0 +1,16 @@
+{
+  "id": 84914462,
+  "name": "Axe Dragonute",
+  "type": "Effect Monster",
+  "description": "If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+  "attack": 2000,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84914462.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84914462.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84914462.jpg"
+  }
+}

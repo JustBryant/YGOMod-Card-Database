@@ -1,0 +1,16 @@
+{
+  "id": 97885363,
+  "name": "Wattdragonfly",
+  "type": "Effect Monster",
+  "description": "If this card is destroyed by your opponent's card (either by battle or by card effect), you can Special Summon 1 \"Watt\" monster from your Deck.",
+  "attack": 900,
+  "defense": 100,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97885363.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97885363.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97885363.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 37675138,
+  "name": "Bone Crusher",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned from your Graveyard by the effect of a Zombie-Type monster: You can target 1 Spell/Trap Card your opponent controls; destroy that target. During the End Phase of the turn this card was Special Summoned: Destroy it.",
+  "attack": 1600,
+  "defense": 200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37675138.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37675138.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37675138.jpg"
+  }
+}

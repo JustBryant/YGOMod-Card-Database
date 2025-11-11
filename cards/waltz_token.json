@@ -1,0 +1,12 @@
+{
+  "id": 15629802,
+  "name": "Waltz Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Battle Waltz\". Neither player takes battle damage from battles involving this Token.",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15629802.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15629802.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15629802.jpg"
+  }
+}

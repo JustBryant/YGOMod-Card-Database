@@ -1,0 +1,16 @@
+{
+  "id": 41436536,
+  "name": "Elemental HERO Phoenix Enforcer",
+  "type": "Fusion Monster",
+  "description": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card cannot be destroyed by battle.",
+  "attack": 2100,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41436536.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41436536.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41436536.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 93927067,
+  "name": "Kaiser Vorse Raider",
+  "type": "Effect Monster",
+  "description": "If you control no monsters, you can Special Summon this card (from your hand). If this card destroys an opponent's monster by battle: This card gains 500 ATK. If this card is destroyed by battle: The monster that destroyed it loses 500 ATK.",
+  "attack": 1900,
+  "defense": 1200,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93927067.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93927067.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93927067.jpg"
+  }
+}

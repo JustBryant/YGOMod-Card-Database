@@ -1,0 +1,16 @@
+{
+  "id": 81846636,
+  "name": "Gem-Knight Lazuli",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the Graveyard by a card effect: You can target 1 Normal Monster in your Graveyard; add that target to your hand.",
+  "attack": 600,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81846636.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81846636.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81846636.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 17621695,
+  "name": "Enneapolis, the Sinquisition City",
+  "type": "Spell Card",
+  "description": "(This card is always treated as an \"Enneacraft\" card.)\r\nOnce per turn, during the End Phase: Remove all Sinquisition Counters from your field, and if you do, inflict 900 damage to your opponent for each. You can only use each of the following effects of \"Enneapolis, the Sinquisition City\" once per turn. You can target any number of \"Enneacraft\" Pendulum Monster Cards you control; return them to the hand. If an \"Enneacraft\" Pendulum Monster(s) you control is flipped face-up during the Main Phase: You can return to the hand, or place in your Pendulum Zone, 1 of them.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17621695.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17621695.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17621695.jpg"
+  }
+}

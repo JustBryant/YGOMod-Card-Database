@@ -1,0 +1,12 @@
+{
+  "id": 46652477,
+  "name": "The Transmigration Prophecy",
+  "type": "Trap Card",
+  "description": "Target 2 cards in the GY(s); shuffle those targets into the Deck(s).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46652477.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46652477.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46652477.jpg"
+  }
+}

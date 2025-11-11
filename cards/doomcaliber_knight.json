@@ -1,0 +1,16 @@
+{
+  "id": 78700060,
+  "name": "Doomcaliber Knight",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned. If a monster effect is activated (Quick Effect): Tribute this face-up card; negate the activation, and if you do, destroy that monster.",
+  "attack": 1900,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78700060.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78700060.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78700060.jpg"
+  }
+}

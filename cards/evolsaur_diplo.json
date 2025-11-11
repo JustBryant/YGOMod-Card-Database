@@ -1,0 +1,16 @@
+{
+  "id": 17045014,
+  "name": "Evolsaur Diplo",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "attack": 1600,
+  "defense": 800,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17045014.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17045014.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17045014.jpg"
+  }
+}

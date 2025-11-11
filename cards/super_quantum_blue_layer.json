@@ -1,0 +1,16 @@
+{
+  "id": 12369277,
+  "name": "Super Quantum Blue Layer",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned: You can add 1 \"Super Quant\" card from your Deck to your hand, except \"Super Quantum Blue Layer\". If this card is sent to the Graveyard: You can target up to 3 \"Super Quant\" cards in your Graveyard; shuffle them into the Deck. You can only use each effect of \"Super Quantum Blue Layer\" once per turn.",
+  "attack": 1200,
+  "defense": 2000,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12369277.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12369277.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12369277.jpg"
+  }
+}

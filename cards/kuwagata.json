@@ -1,0 +1,16 @@
+{
+  "id": 60802233,
+  "name": "Kuwagata α",
+  "type": "Normal Monster",
+  "description": "A very vicious stag beetle that goes for the head.",
+  "attack": 1250,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60802233.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60802233.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60802233.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 17192817,
+  "name": "Molten Behemoth",
+  "type": "Normal Monster",
+  "description": "A giant born from magma, it attacks with a magma punch.",
+  "attack": 1000,
+  "defense": 2200,
+  "level": 5,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17192817.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17192817.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17192817.jpg"
+  }
+}

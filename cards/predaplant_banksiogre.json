@@ -1,0 +1,16 @@
+{
+  "id": 22138839,
+  "name": "Predaplant Banksiogre",
+  "type": "Tuner Monster",
+  "description": "You can Special Summon this card (from your hand) by Tributing 1 opponent's monster with a Predator Counter. If this card is sent from the field to the GY: Place 1 Predator Counter on each face-up monster your opponent controls, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
+  "attack": 2000,
+  "defense": 100,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22138839.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22138839.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22138839.jpg"
+  }
+}

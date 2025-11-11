@@ -1,0 +1,16 @@
+{
+  "id": 67248304,
+  "name": "Reverse Jar",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Change as many other monsters on the field as possible to face-down Defense Position, then, return as many face-up Spells/Traps as possible from the field to the hand, then, each player can Set Spells/Traps from their hand, up to the number returned to their own hand by this effect. You can only use this effect of \"Reverse Jar\" once per turn.",
+  "attack": 800,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67248304.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67248304.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67248304.jpg"
+  }
+}

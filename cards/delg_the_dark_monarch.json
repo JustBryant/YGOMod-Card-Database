@@ -1,0 +1,16 @@
+{
+  "id": 85718645,
+  "name": "Delg the Dark Monarch",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned: You can target up to 2 cards in your opponent's Graveyard; banish that target(s), then send the same number of cards from the top of their Deck to the Graveyard. This card cannot attack during the turn it is Normal or Special Summoned.",
+  "attack": 2400,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85718645.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85718645.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85718645.jpg"
+  }
+}

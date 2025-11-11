@@ -1,0 +1,12 @@
+{
+  "id": 25435080,
+  "name": "Blackwing - Bombardment",
+  "type": "Trap Card",
+  "description": "Tribute 1 \"Blackwing\" monster to select 1 face-up Synchro Monster you control. That Synchro Monster gains ATK equal to the Tributed monster's ATK, until the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25435080.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25435080.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25435080.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 38041941,
+  "name": "Seed Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Seed of Flame\". This Token cannot be used as a Tribute for a Tribute Summon.",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38041941.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38041941.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38041941.jpg"
+  }
+}

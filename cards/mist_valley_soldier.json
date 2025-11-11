@@ -1,0 +1,16 @@
+{
+  "id": 22837504,
+  "name": "Mist Valley Soldier",
+  "type": "Tuner Monster",
+  "description": "While you control this face-up card, any opponent's monster that battles this card, but is not destroyed by the battle, returns to its owner's hand at the end of the Damage Step.",
+  "attack": 1700,
+  "defense": 300,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22837504.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22837504.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22837504.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 27094595,
+  "name": "Graveyard and the Hand of Invitation",
+  "type": "Normal Monster",
+  "description": "''A graveyard that serves as a power source for zombies.''",
+  "attack": 700,
+  "defense": 900,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27094595.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27094595.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27094595.jpg"
+  }
+}

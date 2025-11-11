@@ -1,0 +1,12 @@
+{
+  "id": 74728028,
+  "name": "Xyz Reception",
+  "type": "Spell Card",
+  "description": "Target 1 face-up monster you control that has a Level; Special Summon 1 monster with the same Level as that monster from your hand. Its effects are negated, also its ATK and DEF become 0.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74728028.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74728028.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74728028.jpg"
+  }
+}

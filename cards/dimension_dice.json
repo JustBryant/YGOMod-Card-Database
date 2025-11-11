@@ -1,0 +1,12 @@
+{
+  "id": 47292920,
+  "name": "Dimension Dice",
+  "type": "Spell Card",
+  "description": "If you control a card with an effect that requires a die roll: You can Tribute 1 monster; Special Summon 1 monster with an effect that requires a die roll from your hand or Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47292920.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47292920.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47292920.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 85115440,
+  "name": "Zoodiac Broadbull",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 monsters\nOnce per turn, you can also Xyz Summon \"Zoodiac Broadbull\" by using 1 \"Zoodiac\" monster you control with a different name as Xyz Material. (If you used an Xyz Monster, any Xyz Materials attached to it also become Xyz Materials on this card.) This card gains ATK and DEF equal to the ATK and DEF of all \"Zoodiac\" monsters attached to it as Materials. Once per turn: You can detach 1 Xyz Material from this card; add 1 Beast-Warrior-Type monster, that can be Normal Summoned/Set, from your Deck to your hand.",
+  "attack": -1,
+  "defense": -1,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85115440.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85115440.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85115440.jpg"
+  }
+}

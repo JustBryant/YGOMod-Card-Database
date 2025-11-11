@@ -1,0 +1,16 @@
+{
+  "id": 55969226,
+  "name": "Blue Dragon Summoner",
+  "type": "Effect Monster",
+  "description": "If this card is sent from the field to the GY: You can add 1 Dragon, Warrior, or Spellcaster Normal Monster from your Deck to your hand.",
+  "attack": 1500,
+  "defense": 600,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55969226.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55969226.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55969226.jpg"
+  }
+}

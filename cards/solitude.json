@@ -1,0 +1,16 @@
+{
+  "id": 84794011,
+  "name": "Solitude",
+  "type": "Normal Monster",
+  "description": "''This beast-warrior swings a massive scythe that feeds on the souls of the slain.''",
+  "attack": 1050,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84794011.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84794011.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84794011.jpg"
+  }
+}

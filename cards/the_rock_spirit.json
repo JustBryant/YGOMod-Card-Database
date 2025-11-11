@@ -1,0 +1,16 @@
+{
+  "id": 76305638,
+  "name": "The Rock Spirit",
+  "type": "Effect Monster",
+  "description": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 EARTH monster in your Graveyard. Increase the ATK of this monster by 300 points during your opponent's Battle Phase.",
+  "attack": 1700,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76305638.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76305638.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76305638.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16024176,
+  "name": "Flower Cardian Pine with Crane",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Level 1 \"Flower Cardian\" monster, except \"Flower Cardian Pine with Crane\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster. Otherwise, send it to the Graveyard. At the end of the Battle Phase, if this card battled: Draw 1 card.",
+  "attack": 2000,
+  "defense": 2000,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16024176.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16024176.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16024176.jpg"
+  }
+}

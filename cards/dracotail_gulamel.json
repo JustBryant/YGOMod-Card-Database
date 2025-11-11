@@ -1,0 +1,16 @@
+{
+  "id": 79755671,
+  "name": "Dracotail Gulamel",
+  "type": "Fusion Monster",
+  "description": "1 \"Dracotail\" monster + 1 monster in the hand\r\nWhen you activate a \"Dracotail\" card or effect (Quick Effect): You can target 1 card your opponent controls; destroy it. If 2 or more monsters are sent to the GY at the same time, while this card is in your GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Dracotail Gulamel\" once per turn.",
+  "attack": 2800,
+  "defense": 2300,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79755671.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79755671.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79755671.jpg"
+  }
+}

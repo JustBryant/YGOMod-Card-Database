@@ -1,0 +1,16 @@
+{
+  "id": 47021196,
+  "name": "U.A. Player Manager",
+  "type": "Effect Monster",
+  "description": "If you Normal or Special Summon a \"U.A.\" monster(s) (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned: You can activate 1 of these effects.\r\n● Target 1 card on the field; destroy it.\r\n● Negate the effects of all face-up monsters on the field until the end of this turn, except \"U.A.\" monsters.\r\nYou can only use each effect of \"U.A. Player Manager\" once per turn.",
+  "attack": 2000,
+  "defense": 2600,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47021196.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47021196.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47021196.jpg"
+  }
+}

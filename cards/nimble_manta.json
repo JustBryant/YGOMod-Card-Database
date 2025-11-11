@@ -1,0 +1,16 @@
+{
+  "id": 46384403,
+  "name": "Nimble Manta",
+  "type": "Effect Monster",
+  "description": "When this card is sent from the field to the Graveyard by a card effect: You can Special Summon any number of \"Nimble Manta\" from your Deck.",
+  "attack": 800,
+  "defense": 100,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46384403.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46384403.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46384403.jpg"
+  }
+}

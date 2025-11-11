@@ -1,0 +1,16 @@
+{
+  "id": 41181774,
+  "name": "Earthbound Immortal Wiraqocha Rasca",
+  "type": "Effect Monster",
+  "description": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell on the field, destroy this card. Your opponent's monsters cannot target this card for attacks. This card can attack directly. If this card is Normal Summoned: Target 1 to 3 cards you control, but not more than your opponent has in their hand; shuffle them into the Deck, then discard the same number of random cards from your opponent's hand (or as many as possible), and if you do, this card gains 1000 ATK for each card discarded by this effect.",
+  "attack": 100,
+  "defense": 100,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41181774.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41181774.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41181774.jpg"
+  }
+}

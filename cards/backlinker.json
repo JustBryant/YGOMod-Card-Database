@@ -1,0 +1,16 @@
+{
+  "id": 71172240,
+  "name": "Backlinker",
+  "type": "Effect Monster",
+  "description": "If only your opponent controls a monster in the Extra Monster Zone, you can Special Summon this card (from your hand). You can Tribute this card; shuffle all monsters from the Extra Monster Zones into the Deck, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn.",
+  "attack": 1600,
+  "defense": 0,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71172240.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71172240.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71172240.jpg"
+  }
+}

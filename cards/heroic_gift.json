@@ -1,0 +1,12 @@
+{
+  "id": 95920682,
+  "name": "Heroic Gift",
+  "type": "Trap Card",
+  "description": "If your opponent's Life Points are 2000 or less: Make their Life Points 8000, and if you do, draw 2 cards. You can only activate 1 \"Heroic Gift\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95920682.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95920682.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95920682.jpg"
+  }
+}

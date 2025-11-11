@@ -1,0 +1,16 @@
+{
+  "id": 42682609,
+  "name": "Chrysalis Dolphin",
+  "type": "Effect Monster",
+  "description": "By Tributing this card while \"Neo Space\" is on the field, Special Summon 1 \"Neo-Spacian Aqua Dolphin\" from your hand or Deck.",
+  "attack": 400,
+  "defense": 600,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42682609.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42682609.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42682609.jpg"
+  }
+}

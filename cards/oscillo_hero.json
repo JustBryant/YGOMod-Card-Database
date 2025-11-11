@@ -1,0 +1,16 @@
+{
+  "id": 82065276,
+  "name": "Oscillo Hero",
+  "type": "Normal Monster",
+  "description": "A strange warrior from another dimension.",
+  "attack": 1250,
+  "defense": 700,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82065276.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82065276.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82065276.jpg"
+  }
+}

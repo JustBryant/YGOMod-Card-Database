@@ -1,0 +1,16 @@
+{
+  "id": 83021423,
+  "name": "Chachaka Archer",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 Spell/Trap Card on the field; destroy it.",
+  "attack": 1200,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83021423.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83021423.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83021423.jpg"
+  }
+}

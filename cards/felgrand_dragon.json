@@ -1,0 +1,16 @@
+{
+  "id": 3954901,
+  "name": "Felgrand Dragon",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned except from the Graveyard, and only if it was sent there from the field. If this card is Special Summoned: Target 1 monster in your Graveyard; this card gains ATK equal to that monster's Level x 200.",
+  "attack": 2800,
+  "defense": 2800,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3954901.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3954901.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3954901.jpg"
+  }
+}

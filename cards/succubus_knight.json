@@ -3,14 +3,14 @@
   "name": "Succubus Knight",
   "type": "Normal Monster",
   "description": "A warrior wizard adept in casting bone-chilling spells.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/55291359.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/55291359.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55291359.jpg"
-  },
   "attack": 1650,
   "defense": 1300,
   "level": 5,
   "attribute": "DARK",
-  "race": "Warrior"
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55291359.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55291359.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55291359.jpg"
+  }
 }

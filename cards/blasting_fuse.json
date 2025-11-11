@@ -1,0 +1,12 @@
+{
+  "id": 99788587,
+  "name": "Blasting Fuse",
+  "type": "Trap Card",
+  "description": "Activate only when all zones of this card's column are occupied. Destroy all cards in this column.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99788587.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99788587.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99788587.jpg"
+  }
+}

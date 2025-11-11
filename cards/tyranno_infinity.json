@@ -1,0 +1,16 @@
+{
+  "id": 83235263,
+  "name": "Tyranno Infinity",
+  "type": "Effect Monster",
+  "description": "The original ATK of this card is the number of your banished Dinosaur-Type monsters x 1000.",
+  "attack": -1,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83235263.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83235263.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83235263.jpg"
+  }
+}

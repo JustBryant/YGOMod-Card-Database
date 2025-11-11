@@ -1,0 +1,16 @@
+{
+  "id": 26932788,
+  "name": "Javelin Beetle",
+  "type": "Ritual Monster",
+  "description": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Javelin Beetle Pact\".",
+  "attack": 2450,
+  "defense": 2550,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26932788.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26932788.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26932788.jpg"
+  }
+}

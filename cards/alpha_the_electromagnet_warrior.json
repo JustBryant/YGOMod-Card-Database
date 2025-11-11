@@ -1,0 +1,16 @@
+{
+  "id": 42023223,
+  "name": "Alpha The Electromagnet Warrior",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can add 1 Level 8 \"Magna Warrior\" monster from your Deck to your hand. You can only use this effect of \"Alpha The Electromagnet Warrior\" once per turn. During your opponent's turn: You can Tribute this card; Special Summon 1 Level 4 \"Magnet Warrior\" monster from your Deck (this is a Quick Effect).",
+  "attack": 1700,
+  "defense": 1100,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42023223.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42023223.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42023223.jpg"
+  }
+}

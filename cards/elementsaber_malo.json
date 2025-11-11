@@ -1,0 +1,16 @@
+{
+  "id": 72819261,
+  "name": "Elementsaber Malo",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can send 1 \"Elementsaber\" monster from your hand to the GY; send 1 \"Elementsaber\" or \"Elemental Lord\" monster from your Deck to the GY, except \"Elementsaber Malo\". Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+  "attack": 1700,
+  "defense": 200,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72819261.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72819261.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72819261.jpg"
+  }
+}

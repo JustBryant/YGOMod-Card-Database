@@ -1,0 +1,12 @@
+{
+  "id": 20638610,
+  "name": "Dragon's Rebirth",
+  "type": "Trap Card",
+  "description": "Target 1 Dragon monster you control; banish that target, and if you do, Special Summon 1 Dragon monster from your hand or GY.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20638610.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20638610.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20638610.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 48386462,
+  "name": "The Cuckoo Commanded to Croon",
+  "type": "Effect Monster",
+  "description": "You can activate 1 of these effects;\r\n● Destroy this card, then draw 1 card.\r\n● Discard 1 card, then draw 1 card.\r\n● During the End Phase of this turn, draw 1 card.\r\nYou can only use this effect of \"The Cuckoo Commanded to Croon\" once per turn.",
+  "attack": 800,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48386462.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48386462.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48386462.jpg"
+  }
+}

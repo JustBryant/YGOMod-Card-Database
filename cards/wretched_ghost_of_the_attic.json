@@ -1,0 +1,16 @@
+{
+  "id": 17238333,
+  "name": "Wretched Ghost of the Attic",
+  "type": "Normal Monster",
+  "description": "A harmless monster found lurking in just about any attic.",
+  "attack": 550,
+  "defense": 400,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17238333.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17238333.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17238333.jpg"
+  }
+}

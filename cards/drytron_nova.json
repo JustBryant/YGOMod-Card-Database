@@ -1,0 +1,12 @@
+{
+  "id": 94187078,
+  "name": "Drytron Nova",
+  "type": "Spell Card",
+  "description": "Special Summon 1 \"Drytron\" monster from your Deck, but destroy it during the End Phase. You can only activate 1 \"Drytron Nova\" per turn. You cannot Special Summon monsters, except monsters that cannot be Normal Summoned/Set, the turn you activate this card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94187078.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94187078.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94187078.jpg"
+  }
+}

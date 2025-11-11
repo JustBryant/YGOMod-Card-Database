@@ -1,0 +1,16 @@
+{
+  "id": 6544078,
+  "name": "Izanagi",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card from your hand by removing from play 1 Spirit monster from your hand. Spirit monsters you control do not have to have their effects that return them to the hand activated.",
+  "attack": 2200,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6544078.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6544078.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6544078.jpg"
+  }
+}

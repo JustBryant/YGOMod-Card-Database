@@ -1,0 +1,12 @@
+{
+  "id": 25345186,
+  "name": "After the Struggle",
+  "type": "Spell Card",
+  "description": "This card can only be activated during Main Phase 1. All monsters on both sides of the field that have been involved in damage calculation are destroyed during the End Step of the turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25345186.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25345186.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25345186.jpg"
+  }
+}

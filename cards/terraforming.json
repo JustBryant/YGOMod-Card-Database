@@ -1,0 +1,12 @@
+{
+  "id": 73628505,
+  "name": "Terraforming",
+  "type": "Spell Card",
+  "description": "Add 1 Field Spell from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73628505.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73628505.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73628505.jpg"
+  }
+}

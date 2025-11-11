@@ -1,0 +1,16 @@
+{
+  "id": 37953640,
+  "name": "Royal Swamp Eel",
+  "type": "Tuner Monster",
+  "description": "If this card is used as a Synchro Material Monster, all the other Synchro Material Monsters must be Fish-Type.",
+  "attack": 1700,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37953640.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37953640.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37953640.jpg"
+  }
+}

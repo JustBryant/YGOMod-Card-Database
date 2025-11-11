@@ -1,0 +1,16 @@
+{
+  "id": 74210057,
+  "name": "Texchanger",
+  "type": "Effect Monster",
+  "description": "Once per turn, when your monster is targeted for an attack: You can negate that attack, then Special Summon 1 Cyberse Normal Monster from your hand, Deck, or GY.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74210057.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74210057.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74210057.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 32751480,
+  "name": "Mystical Sand",
+  "type": "Fusion Monster",
+  "description": "\"Giant Soldier of Stone\" + \"Ancient Elf\"",
+  "attack": 2100,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32751480.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32751480.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32751480.jpg"
+  }
+}

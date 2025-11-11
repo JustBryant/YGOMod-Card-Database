@@ -1,0 +1,12 @@
+{
+  "id": 96331676,
+  "name": "Crystal Raigeki",
+  "type": "Trap Card",
+  "description": "Send 1 \"Crystal Beast\" card from your Spell & Trap Card Zone to the Graveyard to target 1 card your opponent controls; destroy that target.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96331676.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96331676.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96331676.jpg"
+  }
+}

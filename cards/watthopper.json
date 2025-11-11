@@ -1,0 +1,16 @@
+{
+  "id": 61380658,
+  "name": "Watthopper",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot select another face-up \"Watt\" monster as an attack target, or target them with card effects.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61380658.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61380658.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61380658.jpg"
+  }
+}

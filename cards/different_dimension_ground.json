@@ -1,0 +1,12 @@
+{
+  "id": 31849106,
+  "name": "Different Dimension Ground",
+  "type": "Trap Card",
+  "description": "This turn, any monster sent to the GY is banished instead.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31849106.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31849106.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31849106.jpg"
+  }
+}

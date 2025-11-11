@@ -1,0 +1,16 @@
+{
+  "id": 89818984,
+  "name": "Flower Cardian Willow with Calligrapher",
+  "type": "Tuner Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Level 11 \"Flower Cardian\" monster, except \"Flower Cardian Willow with Calligrapher\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster. Otherwise, send it to the Graveyard. When this card is used as Synchro Material, you can treat it and all other Synchro Materials (that have a Level) as Level 2 monsters.",
+  "attack": 2000,
+  "defense": 2000,
+  "level": 11,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89818984.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89818984.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89818984.jpg"
+  }
+}

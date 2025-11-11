@@ -1,0 +1,12 @@
+{
+  "id": 52971944,
+  "name": "Sealing Ceremony of Katon",
+  "type": "Trap Card",
+  "description": "Once per turn: You can banish 1 FIRE monster from your Graveyard to target 1 card in your opponent's Graveyard; banish that target.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52971944.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52971944.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52971944.jpg"
+  }
+}

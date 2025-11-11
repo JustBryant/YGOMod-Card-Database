@@ -1,0 +1,16 @@
+{
+  "id": 25652655,
+  "name": "Changer Synchron",
+  "type": "Tuner Monster",
+  "description": "If this card is sent to the Graveyard for a Synchro Summon, select 1 monster your opponent controls and change its battle position.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25652655.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25652655.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25652655.jpg"
+  }
+}

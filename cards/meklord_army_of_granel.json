@@ -1,0 +1,16 @@
+{
+  "id": 2137678,
+  "name": "Meklord Army of Granel",
+  "type": "Effect Monster",
+  "description": "This card gains 100 ATK for each \"Meklord\" monster on the field, except this card. When this card is Normal Summoned: You can target 1 face-up monster your opponent controls; halve that target's ATK, until the end of this turn.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2137678.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2137678.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2137678.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 46910446,
+  "name": "Chthonian Alliance",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 800 ATK for each other face-up monster on the field that has the same name it does.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46910446.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46910446.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46910446.jpg"
+  }
+}

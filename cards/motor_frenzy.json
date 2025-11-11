@@ -1,0 +1,16 @@
+{
+  "id": 77672444,
+  "name": "Motor Frenzy",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned, or if another Machine monster(s) is Normal or Special Summoned to your field: You can activate this effect; until the end of your opponent's turn, that Normal or Special Summoned monster(s) gains ATK equal to half its original DEF, also its battle position cannot be changed. If this Tribute Summoned card is sent to the GY: You can Special Summon 2 \"Engine Tokens\" (Machine/EARTH/Level 1/ATK 200/DEF 200) in Attack Position. You can only use each effect of \"Motor Frenzy\" once per turn.",
+  "attack": 2100,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77672444.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77672444.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77672444.jpg"
+  }
+}

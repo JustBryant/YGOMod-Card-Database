@@ -1,0 +1,12 @@
+{
+  "id": 47439573,
+  "name": "Heartless Drop Off",
+  "type": "Trap Card",
+  "description": "When a face-up card(s) on the field and/or in the GY is added to your opponent's hand by an effect: Look at their hand, also banish the added card(s) and all cards with the same name, if any.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47439573.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47439573.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47439573.jpg"
+  }
+}

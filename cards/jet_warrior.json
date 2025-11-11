@@ -1,0 +1,16 @@
+{
+  "id": 286392,
+  "name": "Jet Warrior",
+  "type": "Synchro Monster",
+  "description": "\"Jet Synchron\" + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned: You can target 1 card your opponent controls; return it to the hand. If this card is in your Graveyard: You can Tribute 1 Level 2 or lower monster; Special Summon this card in Defense Position, but banish it when it leaves the field. You can only use each effect of \"Jet Warrior\" once per turn.",
+  "attack": 2100,
+  "defense": 1200,
+  "level": 5,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/286392.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/286392.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/286392.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 29330706,
+  "name": "Armed Protector Dragon",
+  "type": "Effect Monster",
+  "description": "Face-up Equip Cards you control cannot be destroyed by card effects. This card gains 500 ATK for each Equip Card equipped to this card.",
+  "attack": 2000,
+  "defense": 2800,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29330706.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29330706.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29330706.jpg"
+  }
+}

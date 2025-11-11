@@ -1,0 +1,16 @@
+{
+  "id": 46710683,
+  "name": "Blackwing - Mistral the Silver Shield",
+  "type": "Tuner Monster",
+  "description": "If this card on the field is destroyed and sent to the Graveyard: Reduce the next battle damage you would take this turn to 0.",
+  "attack": 100,
+  "defense": 1800,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46710683.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46710683.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46710683.jpg"
+  }
+}

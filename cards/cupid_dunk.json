@@ -1,0 +1,16 @@
+{
+  "id": 69526976,
+  "name": "Cupid Dunk",
+  "type": "Effect Monster",
+  "description": "Cannot be destroyed by battle with a monster, unless that monster has a higher Level. Once per turn, during your Standby Phase: You can increase this card's Level by 1.",
+  "attack": 1800,
+  "defense": 600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69526976.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69526976.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69526976.jpg"
+  }
+}

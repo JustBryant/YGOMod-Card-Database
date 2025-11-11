@@ -1,0 +1,12 @@
+{
+  "id": 90557975,
+  "name": "Updraft",
+  "type": "Trap Card",
+  "description": "Remove all Fog Counters from the field. Inflict 300 damage to your opponent for each Fog Counter you removed.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90557975.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90557975.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90557975.jpg"
+  }
+}

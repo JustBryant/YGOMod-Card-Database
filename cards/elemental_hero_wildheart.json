@@ -1,0 +1,16 @@
+{
+  "id": 86188410,
+  "name": "Elemental HERO Wildheart",
+  "type": "Effect Monster",
+  "description": "This card is unaffected by Trap effects.",
+  "attack": 1500,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86188410.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86188410.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86188410.jpg"
+  }
+}

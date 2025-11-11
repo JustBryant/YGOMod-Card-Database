@@ -1,0 +1,16 @@
+{
+  "id": 99212922,
+  "name": "White Dragon Ninja",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned, except with a \"Ninjitsu Art\" card's effect. Spells/Traps you control cannot be destroyed by card effects.",
+  "attack": 2700,
+  "defense": 1200,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99212922.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99212922.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99212922.jpg"
+  }
+}

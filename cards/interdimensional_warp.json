@@ -1,0 +1,12 @@
+{
+  "id": 57384901,
+  "name": "Interdimensional Warp",
+  "type": "Trap Card",
+  "description": "Select a monster you control and a monster with an A-Counter(s) your opponent controls. Switch control of those monsters.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57384901.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57384901.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57384901.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 66927994,
+  "name": "Oni Tank T-34",
+  "type": "Normal Monster",
+  "description": "An armored tank possessed by a fiend that will pursue enemies until they're crushed.",
+  "attack": 1400,
+  "defense": 1700,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66927994.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66927994.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66927994.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 72446038,
+  "name": "Synthesis Spell",
+  "type": "Spell Card",
+  "description": "This card is used to Ritual Summon \"Lycanthrope\". You must also Tribute monsters whose total Levels equal 6 or more from the field or your hand.",
+  "race": "Ritual",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72446038.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72446038.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72446038.jpg"
+  }
+}

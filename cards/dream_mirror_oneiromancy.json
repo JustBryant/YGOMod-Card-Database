@@ -1,0 +1,12 @@
+{
+  "id": 61459246,
+  "name": "Dream Mirror Oneiromancy",
+  "type": "Trap Card",
+  "description": "Activate 1 of these effects.\r\n● When your opponent activates a Spell/Trap Card while a \"Dream Mirror of Joy\" is in a Field Zone: Negate the activation, and if you do, destroy that card.\r\n● When your opponent would Special Summon monster(s) while a \"Dream Mirror of Terror\" is in a Field Zone: Negate the Summon, and if you do, destroy that monster.\r\nYou can only activate 1 \"Dream Mirror Oneiromancy\" per turn.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61459246.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61459246.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61459246.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 68625727,
+  "name": "Prediction Princess Petalelf",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can change all face-up Attack Position monsters your opponent controls to face-up Defense Position. Monsters changed to Defense Position by this effect cannot change their battle positions.",
+  "attack": 800,
+  "defense": 700,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68625727.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68625727.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68625727.jpg"
+  }
+}

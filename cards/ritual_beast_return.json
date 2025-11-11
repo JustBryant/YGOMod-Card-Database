@@ -1,0 +1,12 @@
+{
+  "id": 8321183,
+  "name": "Ritual Beast Return",
+  "type": "Spell Card",
+  "description": "Banish 1 \"Ritual Beast\" monster from your hand, then target 1 of your \"Ritual Beast\" monsters, that is banished or is in your Graveyard; Special Summon it.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8321183.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8321183.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8321183.jpg"
+  }
+}

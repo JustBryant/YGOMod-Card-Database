@@ -1,0 +1,16 @@
+{
+  "id": 10026986,
+  "name": "Worm King",
+  "type": "Effect Monster",
+  "description": "This card can be Tribute Summoned in face-up Attack Position by Tributing 1 Reptile-Type \"Worm\" monster. You can Tribute 1 Reptile-Type \"Worm\" monster to select 1 card your opponent controls, and destroy it.",
+  "attack": 2700,
+  "defense": 1100,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10026986.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10026986.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10026986.jpg"
+  }
+}

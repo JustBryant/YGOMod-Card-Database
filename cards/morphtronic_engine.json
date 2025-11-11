@@ -1,0 +1,12 @@
+{
+  "id": 7817703,
+  "name": "Morphtronic Engine",
+  "type": "Spell Card",
+  "description": "Equip only to a Level 3 \"Morphtronic\" monster. Its ATK becomes double its original ATK. During your second Standby Phase after this card's activation, destroy this card, and take damage equal to the original ATK of the equipped monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7817703.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7817703.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7817703.jpg"
+  }
+}

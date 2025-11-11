@@ -1,0 +1,12 @@
+{
+  "id": 5605529,
+  "name": "Vaalmonica Scelta",
+  "type": "Spell Card",
+  "description": "Apply 1 of these effects. Unless you have a \"Vaalmonica\" card in your Pendulum Zone, your opponent chooses the effect.\r\n● Gain 500 LP, then you can place 1 card from your hand on the bottom of the Deck, then draw 2 cards.\r\n● Take 500 damage, then you can add 1 \"Vaalmonica\" Spell/Trap from your Deck to your hand, except \"Vaalmonica Scelta\".\r\nYou can only activate 1 \"Vaalmonica Scelta\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5605529.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5605529.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5605529.jpg"
+  }
+}

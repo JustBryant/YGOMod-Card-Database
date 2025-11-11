@@ -1,0 +1,16 @@
+{
+  "id": 50896944,
+  "name": "Black Brachios",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can target 1 monster on the field; change that target to face-up Defense Position.",
+  "attack": 1800,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50896944.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50896944.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50896944.jpg"
+  }
+}

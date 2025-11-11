@@ -1,0 +1,12 @@
+{
+  "id": 691925,
+  "name": "Solar Recharge",
+  "type": "Spell Card",
+  "description": "Discard 1 \"Lightsworn\" monster; draw 2 cards, then send the top 2 cards of your Deck to the GY.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/691925.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/691925.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/691925.jpg"
+  }
+}

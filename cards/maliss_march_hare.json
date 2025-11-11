@@ -1,0 +1,16 @@
+{
+  "id": 20938824,
+  "name": "Maliss March Hare",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot target \"Maliss\" Link Monsters that point to this card with card effects. You can only use each of the following effects of \"Maliss March Hare\" once per turn. During the Main Phase, if this card is in your hand (Quick Effect): You can banish 1 other \"Maliss\" card from your hand or GY, and if you do, Special Summon this card. If this card is banished: You can pay 300 LP, then target 1 of your banished \"Maliss\" monsters; add it to your hand.",
+  "attack": 600,
+  "defense": 300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20938824.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20938824.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20938824.jpg"
+  }
+}

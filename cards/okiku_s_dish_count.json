@@ -1,0 +1,12 @@
+{
+  "id": 89086647,
+  "name": "Okiku's Dish Count",
+  "type": "Trap Card",
+  "description": "Once per Chain, when your opponent activates a card or effect: You can place Dish Counters on this card, equal to the Chain Link number of this effect. Apply this effect depending on the number of Dish Counters on this card.\r\n● 9 or less: Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects.\r\n● 10+: Send this card to the GY.\r\nIf this card is sent to the GY by its own effect: You can send the top 10 cards of your Deck to the GY.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89086647.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89086647.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89086647.jpg"
+  }
+}

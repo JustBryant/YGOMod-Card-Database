@@ -1,0 +1,12 @@
+{
+  "id": 39103226,
+  "name": "Weighbridge",
+  "type": "Trap Card",
+  "description": "If your opponent controls 2 or more monsters than you do: Your opponent must send monsters they control to the GY so they only control 1 monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39103226.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39103226.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39103226.jpg"
+  }
+}

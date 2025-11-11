@@ -1,0 +1,16 @@
+{
+  "id": 93749093,
+  "name": "Marshmacaron",
+  "type": "Effect Monster",
+  "description": "If this card is destroyed by battle or card effect: You can Special Summon up to 2 other \"Marshmacaron\" from your hand, Deck, and/or Graveyard. You can only use this effect of \"Marshmacaron\" once per turn.",
+  "attack": 200,
+  "defense": 200,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93749093.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93749093.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93749093.jpg"
+  }
+}

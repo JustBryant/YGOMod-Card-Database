@@ -1,0 +1,16 @@
+{
+  "id": 42790071,
+  "name": "Altergeist Multifaker",
+  "type": "Effect Monster",
+  "description": "If you activate a Trap Card (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned: You can Special Summon 1 \"Altergeist\" monster from your Deck in Defense Position, except \"Altergeist Multifaker\". You cannot Special Summon monsters the turn you activate this effect, except \"Altergeist\" monsters. You can only use each effect of \"Altergeist Multifaker\" once per turn.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42790071.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42790071.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42790071.jpg"
+  }
+}

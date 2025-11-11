@@ -1,0 +1,16 @@
+{
+  "id": 49394035,
+  "name": "Vendread Core",
+  "type": "Effect Monster",
+  "description": "If this card is in your GY: You can banish 1 other Zombie monster from your GY; Special Summon this card, but banish it when it leaves the field. A \"Vendread\" monster Ritual Summoned using this card on the field gains the following effect. You can only use each of the preceding effects of \"Vendread Core\" once per turn.\r\n● Your opponent cannot target this card with card effects.",
+  "attack": 0,
+  "defense": 500,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49394035.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49394035.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49394035.jpg"
+  }
+}

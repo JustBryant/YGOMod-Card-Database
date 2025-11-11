@@ -1,0 +1,16 @@
+{
+  "id": 91449532,
+  "name": "Performapal Flip Hippo",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 \"Performapal\" monster from your hand, but it has its effects negated until the end of this turn. Once per turn: You can change all monsters you control to Defense Position.",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91449532.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91449532.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91449532.jpg"
+  }
+}

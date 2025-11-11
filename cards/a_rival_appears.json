@@ -1,0 +1,12 @@
+{
+  "id": 5728014,
+  "name": "A Rival Appears!",
+  "type": "Trap Card",
+  "description": "Select 1 face-up monster your opponent controls. Special Summon 1 monster from your hand that has the same Level as the selected monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5728014.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5728014.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5728014.jpg"
+  }
+}

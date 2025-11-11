@@ -1,0 +1,16 @@
+{
+  "id": 21263083,
+  "name": "Pale Beast",
+  "type": "Normal Monster",
+  "description": "With skin tinged a bluish-white, this strange creature is a fearsome sight to behold.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21263083.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21263083.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21263083.jpg"
+  }
+}

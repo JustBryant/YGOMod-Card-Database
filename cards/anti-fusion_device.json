@@ -1,0 +1,12 @@
+{
+  "id": 72150572,
+  "name": "Anti-Fusion Device",
+  "type": "Trap Card",
+  "description": "Destroy 1 face-up Fusion Monster on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72150572.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72150572.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72150572.jpg"
+  }
+}

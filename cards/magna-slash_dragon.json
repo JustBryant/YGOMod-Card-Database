@@ -1,0 +1,16 @@
+{
+  "id": 72903645,
+  "name": "Magna-Slash Dragon",
+  "type": "Effect Monster",
+  "description": "You can send 1 face-up Continuous Spell Card you control to the Graveyard to destroy 1 Spell or Trap Card your opponent controls.",
+  "attack": 2400,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72903645.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72903645.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72903645.jpg"
+  }
+}

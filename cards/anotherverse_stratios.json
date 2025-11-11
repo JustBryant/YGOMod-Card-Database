@@ -1,0 +1,16 @@
+{
+  "id": 10949074,
+  "name": "Anotherverse Stratios",
+  "type": "Normal Monster",
+  "description": "''This war god from the otherworld has trod countless battlefields beneath his armored feet. If you want his glory, come and get it!''",
+  "attack": 2500,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10949074.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10949074.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10949074.jpg"
+  }
+}

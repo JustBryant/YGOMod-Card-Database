@@ -1,0 +1,16 @@
+{
+  "id": 81612598,
+  "name": "Metalfoes Adamante",
+  "type": "Fusion Monster",
+  "description": "1 \"Metalfoes\" monster + 1 monster with 2500 or less ATK",
+  "attack": 2500,
+  "defense": 2500,
+  "level": 5,
+  "attribute": "FIRE",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81612598.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81612598.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81612598.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16693254,
+  "name": "Gishki Avance",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can choose 1 \"Gishki\" monster from your Deck and place it on top of your Deck.",
+  "attack": 1500,
+  "defense": 800,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16693254.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16693254.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16693254.jpg"
+  }
+}

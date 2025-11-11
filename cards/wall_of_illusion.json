@@ -1,0 +1,16 @@
+{
+  "id": 13945283,
+  "name": "Wall of Illusion",
+  "type": "Effect Monster",
+  "description": "If this card is attacked by a monster, after damage calculation: Return that monster to the hand.",
+  "attack": 1000,
+  "defense": 1850,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13945283.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13945283.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13945283.jpg"
+  }
+}

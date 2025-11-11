@@ -1,0 +1,16 @@
+{
+  "id": 37721209,
+  "name": "Levia-Dragon - Daedalus",
+  "type": "Effect Monster",
+  "description": "You can send 1 face-up \"Umi\" you control to the GY; destroy all other cards on the field.",
+  "attack": 2600,
+  "defense": 1500,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37721209.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37721209.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37721209.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 50005633,
+  "name": "Swordstalker",
+  "type": "Normal Monster",
+  "description": "A monster formed by the vengeful souls of those who passed away in battle.",
+  "attack": 2000,
+  "defense": 1600,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50005633.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50005633.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50005633.jpg"
+  }
+}

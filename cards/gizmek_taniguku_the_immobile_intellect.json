@@ -1,0 +1,16 @@
+{
+  "id": 23384666,
+  "name": "Gizmek Taniguku, the Immobile Intellect",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can take 1 Machine monster whose ATK equals its own DEF from your Deck and place it on top of your Deck. You can banish this card from your GY, then target 1 Machine monster in your GY whose ATK equals its own DEF; Special Summon it in Defense Position. You can only use each effect of \"Gizmek Taniguku, the Immobile Intellect\" once per turn.",
+  "attack": 1450,
+  "defense": 1450,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23384666.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23384666.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23384666.jpg"
+  }
+}

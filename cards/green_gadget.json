@@ -1,0 +1,16 @@
+{
+  "id": 41172955,
+  "name": "Green Gadget",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned: You can add 1 \"Red Gadget\" from your Deck to your hand.",
+  "attack": 1400,
+  "defense": 600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41172955.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41172955.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41172955.jpg"
+  }
+}

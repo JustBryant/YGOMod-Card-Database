@@ -1,0 +1,16 @@
+{
+  "id": 84425220,
+  "name": "Armed Dragon LV10 White",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. You can banish \"Armed Dragon\" monsters from your field and/or GY whose total Levels equal 10; Special Summon this card from your hand, then you can add 1 \"White Veil\" from your Deck to your hand. You can only use this effect of \"Armed Dragon LV10 White\" once per turn. You take no effect damage. At the start of the Damage Step, if this card attacks: You can destroy 1 card on the field.",
+  "attack": 3000,
+  "defense": 2000,
+  "level": 10,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84425220.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84425220.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84425220.jpg"
+  }
+}

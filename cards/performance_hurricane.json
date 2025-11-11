@@ -1,0 +1,12 @@
+{
+  "id": 46066477,
+  "name": "Performance Hurricane",
+  "type": "Spell Card",
+  "description": "Target cards your opponent controls, up to the number of \"Performapal\" monsters you control; return them to the hand. You can only activate 1 \"Performance Hurricane\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46066477.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46066477.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46066477.jpg"
+  }
+}

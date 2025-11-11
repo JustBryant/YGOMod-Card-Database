@@ -1,0 +1,12 @@
+{
+  "id": 94661166,
+  "name": "Incoming Machine!",
+  "type": "Spell Card",
+  "description": "Add 1 monster that mentions \"Max Metalmorph\" or 1 \"Metalmorph\" Trap from your Deck or GY to your hand. If you control a \"Metalmorph\" Trap: You can banish this card from your GY, then target 1 Defense Position monster your opponent controls; change it to face-up Attack Position. You can only use this effect of \"Incoming Machine!\" once per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94661166.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94661166.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94661166.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 64463828,
+  "name": "Superalloy Beast Raptinus",
+  "type": "Fusion Monster",
+  "description": "1 Gemini Monster + 1 Gemini Monster\nAll Gemini Monsters on the field are treated as Effect Monsters, and gain their effects.",
+  "attack": 2200,
+  "defense": 2200,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64463828.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64463828.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64463828.jpg"
+  }
+}

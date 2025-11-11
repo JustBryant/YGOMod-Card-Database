@@ -1,0 +1,16 @@
+{
+  "id": 65193366,
+  "name": "Spiritual Beast Tamer Winda",
+  "type": "Effect Monster",
+  "description": "If this card in its owner's possession is destroyed by an opponent's card (by battle or card effect): You can Special Summon 1 \"Ritual Beast\" monster from your Deck or Extra Deck, ignoring its Summoning conditions. You can only Special Summon \"Spiritual Beast Tamer Winda(s)\" once per turn.",
+  "attack": 1600,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65193366.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65193366.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65193366.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 22850702,
+  "name": "Chaos Angel",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner LIGHT or DARK monsters\r\nFor this card's Synchro Summon, you can treat 1 LIGHT or DARK monster you control as a Tuner. If this card is Special Summoned: You can target 1 card on the field; banish it. This card gains these effects based on the original Attributes of materials used for its Synchro Summon.\r\n● LIGHT: Synchro Monsters you control are unaffected by monster effects activated by your opponent.\r\n● DARK: Monsters you control cannot be destroyed by battle.",
+  "attack": 3500,
+  "defense": 2800,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22850702.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22850702.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22850702.jpg"
+  }
+}

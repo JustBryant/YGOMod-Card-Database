@@ -1,0 +1,16 @@
+{
+  "id": 73082255,
+  "name": "The Zombie Vampire",
+  "type": "XYZ Monster",
+  "description": "2+ Level 8 monsters\r\nIf you use a monster(s) with a Level that is owned by your opponent for the Xyz Summon of this card, treat it as Level 8. Neither player can target this card with effects of Special Summoned monsters, except those Special Summoned from the GY. You can detach 1 material from this card; each player sends the top 4 cards from their Deck to the GY, then if any monsters were sent to either GY by this effect, you can Special Summon 1 of those monsters to your field. You can only use this effect of \"The Zombie Vampire\" once per turn.",
+  "attack": 3000,
+  "defense": 2800,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73082255.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73082255.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73082255.jpg"
+  }
+}

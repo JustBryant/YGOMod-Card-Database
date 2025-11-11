@@ -1,0 +1,16 @@
+{
+  "id": 84824728,
+  "name": "Treasure Panther",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can send 1 Normal Monster from your Deck to the GY.\r\nIf a Set monster is on the field: You can Special Summon this card from your hand. You can target up to 3 Set monsters on the field; change them to Attack Position, then if you changed 3 monsters to Attack Position, inflict 900 damage to your opponent. You can only use each effect of \"Treasure Panther\" once per turn.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84824728.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84824728.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84824728.jpg"
+  }
+}

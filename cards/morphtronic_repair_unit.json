@@ -1,0 +1,12 @@
+{
+  "id": 90239723,
+  "name": "Morphtronic Repair Unit",
+  "type": "Spell Card",
+  "description": "Send 1 \"Morphtronic\" monster from your hand to the Graveyard and select 1 \"Morphtronic\" monster in your Graveyard. Special Summon the selected monster and equip it with this card. The equipped monster cannot change its Battle Position. When this card is removed from the Field, destroy the equipped monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90239723.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90239723.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90239723.jpg"
+  }
+}

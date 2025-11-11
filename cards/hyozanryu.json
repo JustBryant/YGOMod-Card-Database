@@ -1,0 +1,16 @@
+{
+  "id": 62397231,
+  "name": "Hyozanryu",
+  "type": "Normal Monster",
+  "description": "A dragon created from a massive diamond that sparkles with blinding light.",
+  "attack": 2100,
+  "defense": 2800,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62397231.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62397231.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62397231.jpg"
+  }
+}

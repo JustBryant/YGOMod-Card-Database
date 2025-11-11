@@ -1,0 +1,16 @@
+{
+  "id": 82633039,
+  "name": "Castel, the Skyblaster Musketeer",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 monsters\nYou can detach 1 material from this card, then target 1 face-up monster on the field; change it to face-down Defense Position. You can detach 2 materials from this card, then target 1 other face-up card on the field; shuffle it into the Deck. You can only use 1 \"Castel, the Skyblaster Musketeer\" effect per turn, and only once that turn.",
+  "attack": 2000,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82633039.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82633039.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82633039.jpg"
+  }
+}

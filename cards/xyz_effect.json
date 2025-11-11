@@ -1,0 +1,12 @@
+{
+  "id": 58628539,
+  "name": "Xyz Effect",
+  "type": "Trap Card",
+  "description": "When you Xyz Summon a monster: You can target 1 card on the field; destroy it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58628539.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58628539.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58628539.jpg"
+  }
+}

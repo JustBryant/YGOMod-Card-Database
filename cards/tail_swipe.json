@@ -1,0 +1,12 @@
+{
+  "id": 83682725,
+  "name": "Tail Swipe",
+  "type": "Spell Card",
+  "description": "Target 1 Level 5 or higher Dinosaur monster you control; if that Dinosaur monster is still face-up on the field, choose up to 2 monsters your opponent controls that have a lower Level than it, or are face-down, and return the chosen monsters to the hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83682725.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83682725.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83682725.jpg"
+  }
+}

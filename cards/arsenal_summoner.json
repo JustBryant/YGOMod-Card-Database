@@ -1,0 +1,16 @@
+{
+  "id": 85489096,
+  "name": "Arsenal Summoner",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Add 1 \"Guardian\" card from your Deck to your hand, except \"Celtic Guardian\", \"Winged Dragon, Guardian of the Fortress #1\", \"Winged Dragon, Guardian of the Fortress #2\", \"Guardian of the Labyrinth\", or \"The Reliable Guardian\".",
+  "attack": 1600,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85489096.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85489096.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85489096.jpg"
+  }
+}

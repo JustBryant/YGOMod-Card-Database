@@ -1,0 +1,12 @@
+{
+  "id": 28741524,
+  "name": "Telekinetic Power Well",
+  "type": "Spell Card",
+  "description": "Special Summon any number of Level 2 or lower Psychic-Type monsters from your Graveyard. You take damage equal to the total Levels of those monsters x 300.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28741524.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28741524.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28741524.jpg"
+  }
+}

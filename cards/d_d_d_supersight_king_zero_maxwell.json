@@ -1,0 +1,16 @@
+{
+  "id": 76029419,
+  "name": "D/D/D Supersight King Zero Maxwell",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nYou can target 1 face-up monster on the field; its DEF becomes 0 until the end of this turn (even if this card leaves the field). You can only use this effect of \"D/D/D Supersight King Zero Maxwell\" once per turn.\n\n[ Monster Effect ] \nBefore damage calculation, if this card attacks an opponent's Defense Position monster: You can change the DEF of that opponent's monster to 0 until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. You take no battle damage from battles involving this card.",
+  "attack": 2800,
+  "defense": 2500,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76029419.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76029419.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76029419.jpg"
+  }
+}

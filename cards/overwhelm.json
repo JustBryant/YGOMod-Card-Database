@@ -1,0 +1,12 @@
+{
+  "id": 20140382,
+  "name": "Overwhelm",
+  "type": "Trap Card",
+  "description": "Activate only while you control a face-up Level 7 or higher monster that was Tribute Summoned. Negate the activation of a Trap Card or Effect Monster's effect and destroy that card.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20140382.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20140382.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20140382.jpg"
+  }
+}

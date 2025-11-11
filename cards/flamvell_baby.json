@@ -1,0 +1,16 @@
+{
+  "id": 13761956,
+  "name": "Flamvell Baby",
+  "type": "Tuner Monster",
+  "description": "During your Main Phase, you can send this card from your hand to the Graveyard to select 1 face-up FIRE monster you control and have it gain 400 ATK.",
+  "attack": 800,
+  "defense": 200,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13761956.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13761956.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13761956.jpg"
+  }
+}

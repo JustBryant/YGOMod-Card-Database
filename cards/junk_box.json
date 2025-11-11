@@ -1,0 +1,12 @@
+{
+  "id": 37745919,
+  "name": "Junk Box",
+  "type": "Spell Card",
+  "description": "Select and Special Summon 1 Level 4 or lower \"Morphtronic\" monster from your Graveyard. Destroy it during the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37745919.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37745919.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37745919.jpg"
+  }
+}

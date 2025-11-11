@@ -1,0 +1,16 @@
+{
+  "id": 86889202,
+  "name": "Watch Dog",
+  "type": "Effect Monster",
+  "description": "During your Main Phase 2, if this card was Normal Summoned this turn: You can send 1 Spell Card from your hand to the Graveyard; Set 1 Continuous Spell Card directly from your Deck. You can only use this effect of \"Watch Dog\" once per turn. You cannot Special Summon during the turn you activate this effect.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86889202.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86889202.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86889202.jpg"
+  }
+}

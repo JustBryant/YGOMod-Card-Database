@@ -1,0 +1,12 @@
+{
+  "id": 9622164,
+  "name": "D.D.R. - Different Dimension Reincarnation",
+  "type": "Spell Card",
+  "description": "Discard 1 card, then target 1 of your banished monsters; Special Summon it in Attack Position, and equip it with this card. When this card leaves the field, destroy the equipped monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9622164.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9622164.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9622164.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 39477584,
+  "name": "Fabled Leviathan",
+  "type": "Synchro Monster",
+  "description": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nWhen this card on the field is destroyed and sent to the GY: You can target up to 3 \"Fabled\" monsters in your GY; add them to your hand.",
+  "attack": 3000,
+  "defense": 2000,
+  "level": 10,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39477584.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39477584.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39477584.jpg"
+  }
+}

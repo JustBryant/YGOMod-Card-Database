@@ -1,0 +1,16 @@
+{
+  "id": 14898066,
+  "name": "Vorse Raider",
+  "type": "Normal Monster",
+  "description": "This wicked Beast-Warrior does every horrid thing imaginable, and loves it! His axe bears the marks of his countless victims.",
+  "attack": 1900,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14898066.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14898066.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14898066.jpg"
+  }
+}

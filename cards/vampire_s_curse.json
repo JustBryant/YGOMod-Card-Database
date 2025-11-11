@@ -1,0 +1,16 @@
+{
+  "id": 34294855,
+  "name": "Vampire's Curse",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can pay 500 Life Points; Special Summon it during the Standby Phase of the next turn. When you do: It gains 500 ATK.",
+  "attack": 2000,
+  "defense": 800,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34294855.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34294855.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34294855.jpg"
+  }
+}

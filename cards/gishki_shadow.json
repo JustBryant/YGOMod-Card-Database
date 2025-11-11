@@ -1,0 +1,16 @@
+{
+  "id": 29888389,
+  "name": "Gishki Shadow",
+  "type": "Effect Monster",
+  "description": "If you Ritual Summon exactly 1 WATER Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. You can discard this card; add 1 \"Gishki\" Ritual Spell Card from your Deck to your hand.",
+  "attack": 1200,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29888389.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29888389.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29888389.jpg"
+  }
+}

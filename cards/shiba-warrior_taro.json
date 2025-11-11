@@ -1,0 +1,16 @@
+{
+  "id": 27416701,
+  "name": "Shiba-Warrior Taro",
+  "type": "Tuner Monster",
+  "description": "This card cannot be destroyed by battle. When a card on the field is destroyed by battle or by a card effect, return this face-up card to its owner's hand.",
+  "attack": 800,
+  "defense": 600,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27416701.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27416701.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27416701.jpg"
+  }
+}

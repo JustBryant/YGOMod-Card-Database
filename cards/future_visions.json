@@ -1,0 +1,12 @@
+{
+  "id": 87902575,
+  "name": "Future Visions",
+  "type": "Spell Card",
+  "description": "Each time a monster is Normal Summoned: Target that monster; banish it. During the next Standby Phase of the player who controlled that monster: Return it to the field in face-up Attack Position.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87902575.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87902575.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87902575.jpg"
+  }
+}

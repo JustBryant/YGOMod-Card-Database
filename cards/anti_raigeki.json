@@ -1,0 +1,12 @@
+{
+  "id": 42364257,
+  "name": "Anti Raigeki",
+  "type": "Trap Card",
+  "description": "When your opponent activates \"Raigeki\": Negate its effect, and if you do, destroy all monsters your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42364257.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42364257.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42364257.jpg"
+  }
+}

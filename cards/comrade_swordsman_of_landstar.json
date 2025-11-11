@@ -1,0 +1,16 @@
+{
+  "id": 83602069,
+  "name": "Comrade Swordsman of Landstar",
+  "type": "Tuner Monster",
+  "description": "All Warrior-Type monsters you control gain 400 ATK.",
+  "attack": 500,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83602069.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83602069.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83602069.jpg"
+  }
+}

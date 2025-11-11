@@ -1,0 +1,12 @@
+{
+  "id": 58477767,
+  "name": "Queen's Pawn",
+  "type": "Trap Card",
+  "description": "Activate only when an \"Amazoness\" monster you control destroys an opponent's monster by battle and sends it to the Graveyard. Special Summon 1 Level 4 or lower \"Amazoness\" monster from your Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58477767.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58477767.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58477767.jpg"
+  }
+}

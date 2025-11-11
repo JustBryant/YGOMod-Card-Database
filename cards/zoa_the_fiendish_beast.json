@@ -1,0 +1,16 @@
+{
+  "id": 53753697,
+  "name": "Zoa the Fiendish Beast",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a monster, you can Normal Summon this card without Tributing. You can only use each of the following effects of \"Zoa the Fiendish Beast\" once per turn. If this card is in your hand: You can Special Summon this card in Defense Position, then if \"Max Metalmorph\" is not in your GY, your opponent can Special Summon 1 monster from their hand. During your Main Phase: You can Set 1 \"Metalmorph\" Trap from your Deck.",
+  "attack": 2600,
+  "defense": 1900,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53753697.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53753697.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53753697.jpg"
+  }
+}

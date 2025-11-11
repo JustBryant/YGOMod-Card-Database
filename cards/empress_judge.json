@@ -1,0 +1,16 @@
+{
+  "id": 15237615,
+  "name": "Empress Judge",
+  "type": "Fusion Monster",
+  "description": "\"Queen's Double\" + \"Hibikime\"",
+  "attack": 2100,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15237615.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15237615.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15237615.jpg"
+  }
+}

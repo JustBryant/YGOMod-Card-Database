@@ -1,0 +1,12 @@
+{
+  "id": 70391589,
+  "name": "Siphon Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Star Siphon\".",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70391589.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70391589.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70391589.jpg"
+  }
+}

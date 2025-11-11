@@ -1,0 +1,12 @@
+{
+  "id": 89882100,
+  "name": "Night Beam",
+  "type": "Spell Card",
+  "description": "Target 1 Set Spell/Trap your opponent controls; destroy that target. Your opponent cannot activate the targeted card in response to this card's activation.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89882100.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89882100.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89882100.jpg"
+  }
+}

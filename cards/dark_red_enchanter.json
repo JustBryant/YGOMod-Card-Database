@@ -1,0 +1,16 @@
+{
+  "id": 45462639,
+  "name": "Dark Red Enchanter",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned: Place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 300 ATK for each Spell Counter on it. Once per turn: You can remove 2 Spell Counters from this card; discard 1 random card from your opponent's hand.",
+  "attack": 1700,
+  "defense": 2200,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45462639.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45462639.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45462639.jpg"
+  }
+}

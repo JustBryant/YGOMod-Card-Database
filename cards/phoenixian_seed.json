@@ -1,0 +1,16 @@
+{
+  "id": 96553688,
+  "name": "Phoenixian Seed",
+  "type": "Effect Monster",
+  "description": "You can send this face-up card to the Graveyard to Special Summon 1 \"Phoenixian Cluster Amaryllis\" from your hand.",
+  "attack": 800,
+  "defense": 0,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96553688.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96553688.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96553688.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 47882774,
+  "name": "War Rock Dignity",
+  "type": "Spell Card",
+  "description": "You must control a \"War Rock\" monster to activate either of these effects.\r\n● When a monster your opponent controls activates its effect: Negate that effect.\r\n● During the Battle Phase, when your opponent activates a Spell/Trap Card, or monster effect: Negate that effect.\r\nYou can only activate 1 \"War Rock Dignity\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47882774.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47882774.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47882774.jpg"
+  }
+}

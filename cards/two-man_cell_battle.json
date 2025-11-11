@@ -1,0 +1,12 @@
+{
+  "id": 25578802,
+  "name": "Two-Man Cell Battle",
+  "type": "Spell Card",
+  "description": "During each player's End Phase, the turn player can Special Summon 1 Level 4 Normal Monster from their hand.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25578802.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25578802.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25578802.jpg"
+  }
+}

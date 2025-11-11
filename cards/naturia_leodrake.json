@@ -1,0 +1,16 @@
+{
+  "id": 16527176,
+  "name": "Naturia Leodrake",
+  "type": "Synchro Monster",
+  "description": "1 EARTH Tuner + 1 or more non-Tuner EARTH monsters",
+  "attack": 3000,
+  "defense": 1800,
+  "level": 9,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16527176.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16527176.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16527176.jpg"
+  }
+}

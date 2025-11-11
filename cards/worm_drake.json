@@ -1,0 +1,16 @@
+{
+  "id": 73216412,
+  "name": "Worm Drake",
+  "type": "Normal Monster",
+  "description": "Once this monster wraps itself around a victim, there is no escape.",
+  "attack": 1400,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73216412.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73216412.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73216412.jpg"
+  }
+}

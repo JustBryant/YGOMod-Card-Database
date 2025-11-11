@@ -1,0 +1,12 @@
+{
+  "id": 29549364,
+  "name": "Mask of Restrict",
+  "type": "Trap Card",
+  "description": "Neither player can Tribute cards.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29549364.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29549364.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29549364.jpg"
+  }
+}

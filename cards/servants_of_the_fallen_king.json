@@ -1,0 +1,12 @@
+{
+  "id": 300103004,
+  "name": "Servants of the Fallen King",
+  "type": "Skill Card",
+  "description": "Once per turn, you can send 1 Level 3 or lower Zombie Normal Monster from your Deck to the GY. ",
+  "race": "Bonz",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300103004.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300103004.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300103004.jpg"
+  }
+}

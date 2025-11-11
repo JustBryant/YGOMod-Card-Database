@@ -1,0 +1,16 @@
+{
+  "id": 24915933,
+  "name": "Granguignol the Dusk Dragon",
+  "type": "Fusion Monster",
+  "description": "\"Blazing Cartesia, the Virtuous\" + 1 LIGHT or DARK monster\r\nIf this card is Fusion Summoned: You can send 1 Level 6 or higher LIGHT or DARK monster from your Deck or Extra Deck to the GY. If a monster is Special Summoned by your opponent's activated monster effect (except during the Damage Step): You can banish this card from your field or GY; Special Summon 1 \"Dogmatika\" monster from your Deck or 1 \"Despia\" monster from your Extra Deck. You can only use each effect of \"Granguignol the Dusk Dragon\" once per turn.",
+  "attack": 2500,
+  "defense": 2500,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24915933.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24915933.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24915933.jpg"
+  }
+}

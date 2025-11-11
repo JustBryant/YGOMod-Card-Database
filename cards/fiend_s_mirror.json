@@ -1,0 +1,16 @@
+{
+  "id": 31890399,
+  "name": "Fiend's Mirror",
+  "type": "Ritual Monster",
+  "description": "You can Ritual Summon this card with \"Beastly Mirror Ritual\".",
+  "attack": 2100,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31890399.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31890399.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31890399.jpg"
+  }
+}

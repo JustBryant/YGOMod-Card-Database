@@ -1,0 +1,16 @@
+{
+  "id": 27655513,
+  "name": "Skreech",
+  "type": "Effect Monster",
+  "description": "If this card is destroyed by battle: Send 2 WATER monsters from your Deck to the GY.",
+  "attack": 1500,
+  "defense": 400,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27655513.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27655513.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27655513.jpg"
+  }
+}

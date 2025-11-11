@@ -1,0 +1,16 @@
+{
+  "id": 24218047,
+  "name": "Unmasked Dragon",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Wyrm-Type monster with 1500 or less DEF from your Deck.",
+  "attack": 1400,
+  "defense": 1100,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24218047.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24218047.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24218047.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 46656406,
+  "name": "Mirror of Oaths",
+  "type": "Trap Card",
+  "description": "When your opponent Special Summons a monster(s) from their Main Deck: Destroy that monster(s), and if you do, draw 1 card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46656406.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46656406.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46656406.jpg"
+  }
+}

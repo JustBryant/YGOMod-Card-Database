@@ -1,0 +1,16 @@
+{
+  "id": 38450736,
+  "name": "Inzektor Earwig",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster gains ATK and DEF equal to this card's ATK and DEF. When this card is sent to the Graveyard while equipped to a monster: The monster this card was equipped to gains 1000 ATK, until the End Phase.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38450736.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38450736.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38450736.jpg"
+  }
+}

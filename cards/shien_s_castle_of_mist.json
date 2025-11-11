@@ -1,0 +1,12 @@
+{
+  "id": 11102908,
+  "name": "Shien's Castle of Mist",
+  "type": "Spell Card",
+  "description": "When a \"Six Samurai\" monster is attacked, the attacking monster loses 500 ATK during damage calculation only.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11102908.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11102908.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11102908.jpg"
+  }
+}

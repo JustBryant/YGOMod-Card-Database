@@ -1,0 +1,16 @@
+{
+  "id": 99885917,
+  "name": "Marincess Pascalus",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Marincess\" monster from your hand in Defense Position, except \"Marincess Pascalus\". During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"Marincess\" Spell/Trap in your GY; add it to your hand. You can only use each effect of \"Marincess Pascalus\" once per turn.",
+  "attack": 1200,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99885917.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99885917.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99885917.jpg"
+  }
+}

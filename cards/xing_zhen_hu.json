@@ -1,0 +1,12 @@
+{
+  "id": 76515293,
+  "name": "Xing Zhen Hu",
+  "type": "Trap Card",
+  "description": "Activate by selecting 2 Set Spell or Trap Cards on the field. The selected Spell or Trap Cards cannot be activated.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76515293.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76515293.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76515293.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 74983881,
+  "name": "Sweet Corn",
+  "type": "Effect Monster",
+  "description": "Once per turn, during your Main Phase 2: You can pay 500 Life Points; Special Summon 1 \"Maize Token\" (Plant-Type/EARTH/Level 1/ATK 0/DEF 0).",
+  "attack": 0,
+  "defense": 0,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74983881.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74983881.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74983881.jpg"
+  }
+}

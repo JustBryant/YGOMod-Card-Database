@@ -1,0 +1,12 @@
+{
+  "id": 92035412,
+  "name": "Vylon Element",
+  "type": "Spell Card",
+  "description": "When any face-up \"Vylon\" Equip Card(s) you control are destroyed (except during the Damage Step): You can Special Summon an equal or lower number of \"Vylon\" Tuner monsters from your Deck. They cannot be used as Synchro Material Monsters, except for the Synchro Summon of a \"Vylon\" Synchro Monster.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92035412.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92035412.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92035412.jpg"
+  }
+}

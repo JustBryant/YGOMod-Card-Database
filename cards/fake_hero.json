@@ -1,0 +1,12 @@
+{
+  "id": 78387742,
+  "name": "Fake Hero",
+  "type": "Spell Card",
+  "description": "Special Summon 1 \"Elemental HERO\" monster from your hand. That monster cannot attack, and returns to the hand during the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78387742.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78387742.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78387742.jpg"
+  }
+}

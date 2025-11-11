@@ -1,0 +1,16 @@
+{
+  "id": 64428736,
+  "name": "Alligator's Sword",
+  "type": "Normal Monster",
+  "description": "ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64428736.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64428736.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64428736.jpg"
+  }
+}

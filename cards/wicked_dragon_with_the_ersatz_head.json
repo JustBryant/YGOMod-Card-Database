@@ -1,0 +1,16 @@
+{
+  "id": 2957055,
+  "name": "Wicked Dragon with the Ersatz Head",
+  "type": "Normal Monster",
+  "description": "''A two-headed dragon with a pair of jaws that can tear an enemy to shreds.''",
+  "attack": 900,
+  "defense": 900,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2957055.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2957055.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2957055.jpg"
+  }
+}

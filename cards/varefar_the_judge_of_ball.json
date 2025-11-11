@@ -1,0 +1,16 @@
+{
+  "id": 19743887,
+  "name": "VARefar, the Judge of Ball",
+  "type": "Effect Monster",
+  "description": "When your opponent activates a monster effect on their field that targets a monster(s) you control, or their monster targets one for an attack (Quick Effect): You can Special Summon this card from your hand, then you can choose 1 of those opponent's monsters and reveal 1 card in your hand, then apply the following effect to that monster based on the revealed card type.\r\n● Monster: Change it to Defense Position. ● Spell: Double its ATK. ● Trap: Banish it.\r\nYou can only use this effect of \"VARefar, the Judge of Ball\" once per turn.",
+  "attack": 2100,
+  "defense": 800,
+  "level": 11,
+  "attribute": "EARTH",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19743887.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19743887.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19743887.jpg"
+  }
+}

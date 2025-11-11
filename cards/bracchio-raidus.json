@@ -1,0 +1,16 @@
+{
+  "id": 16507828,
+  "name": "Bracchio-raidus",
+  "type": "Fusion Monster",
+  "description": "\"Two-Headed King Rex\" + \"Crawling Dragon #2\"",
+  "attack": 2200,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16507828.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16507828.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16507828.jpg"
+  }
+}

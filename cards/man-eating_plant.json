@@ -1,0 +1,16 @@
+{
+  "id": 49127943,
+  "name": "Man-Eating Plant",
+  "type": "Normal Monster",
+  "description": "''A meat-eating plant that is attractive to the eye but dangerous when approached.''",
+  "attack": 800,
+  "defense": 600,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49127943.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49127943.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49127943.jpg"
+  }
+}

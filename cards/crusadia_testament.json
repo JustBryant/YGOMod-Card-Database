@@ -1,0 +1,12 @@
+{
+  "id": 87497553,
+  "name": "Crusadia Testament",
+  "type": "Spell Card",
+  "description": "Activate 1 of these effects.\r\n● Your opponent cannot activate cards or effects in response to the activation of your \"Crusadia\" monster effects this turn.\r\n● After damage calculation, if your \"Crusadia\" Link Monster destroys an opponent's monster by battle: Draw cards equal to your monster's Link Rating.\r\nYou can only activate 1 \"Crusadia Testament\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87497553.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87497553.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87497553.jpg"
+  }
+}

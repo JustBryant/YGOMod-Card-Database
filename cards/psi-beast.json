@@ -1,0 +1,16 @@
+{
+  "id": 46291010,
+  "name": "Psi-Beast",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned, you can remove from play 1 Psychic-Type monster from your Deck. This card's Level becomes the Level of that monster.",
+  "attack": 700,
+  "defense": 500,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46291010.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46291010.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46291010.jpg"
+  }
+}

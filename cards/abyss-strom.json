@@ -1,0 +1,12 @@
+{
+  "id": 97697447,
+  "name": "Abyss-strom",
+  "type": "Trap Card",
+  "description": "Send 1 face-up \"Umi\" you control to the Graveyard; send all Spell and Trap Cards on the field to the Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97697447.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97697447.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97697447.jpg"
+  }
+}

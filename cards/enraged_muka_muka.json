@@ -1,0 +1,16 @@
+{
+  "id": 91862578,
+  "name": "Enraged Muka Muka",
+  "type": "Effect Monster",
+  "description": "This card gains 400 ATK and DEF for each card in your hand.",
+  "attack": 1200,
+  "defense": 600,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91862578.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91862578.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91862578.jpg"
+  }
+}

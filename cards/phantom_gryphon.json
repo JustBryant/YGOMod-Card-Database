@@ -1,0 +1,16 @@
+{
+  "id": 74852097,
+  "name": "Phantom Gryphon",
+  "type": "Normal Monster",
+  "description": "A legendary monster that dwells secretly in the mountains, fighting with the harpies over hunting grounds. A single wingbeat is said to cause the fiercest of storms.",
+  "attack": 2000,
+  "defense": 0,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74852097.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74852097.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74852097.jpg"
+  }
+}

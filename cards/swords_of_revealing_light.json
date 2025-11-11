@@ -3,13 +3,10 @@
   "name": "Swords of Revealing Light",
   "type": "Spell Card",
   "description": "After this card's activation, it remains on the field, but you must destroy it during the End Phase of your opponent's 3rd turn. When this card is activated: If your opponent controls a face-down monster, flip all monsters they control face-up. While this card is face-up on the field, your opponent's monsters cannot declare an attack.",
+  "race": "Normal",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/72302403.jpg",
     "small_url": "https://images.ygoprodeck.com/images/cards_small/72302403.jpg",
     "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72302403.jpg"
-  },
-  "race": "Normal",
-  "banlist_info": {
-    "ban_goat": "Limited"
   }
 }

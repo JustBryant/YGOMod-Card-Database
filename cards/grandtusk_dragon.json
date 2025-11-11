@@ -1,0 +1,16 @@
+{
+  "id": 98898163,
+  "name": "Grandtusk Dragon",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can target up to 2 other cards on the field; destroy them, and if you do, this card gains 600 ATK for each card destroyed. You can only use this effect of \"Grandtusk Dragon\" once per turn.",
+  "attack": 1400,
+  "defense": 2400,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98898163.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98898163.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98898163.jpg"
+  }
+}

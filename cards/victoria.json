@@ -1,0 +1,16 @@
+{
+  "id": 75162696,
+  "name": "Victoria",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 Dragon-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field. Your opponent cannot target face-up Fairy-Type monsters for attacks, except this one.",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75162696.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75162696.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75162696.jpg"
+  }
+}

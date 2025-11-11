@@ -1,0 +1,16 @@
+{
+  "id": 31175914,
+  "name": "Attack Gainer",
+  "type": "Tuner Monster",
+  "description": "If this card is sent to the Graveyard as a Synchro Material Monster, select 1 face-up monster your opponent controls. The selected opponent's monster loses 1000 ATK until the End Phase.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31175914.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31175914.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31175914.jpg"
+  }
+}

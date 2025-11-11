@@ -1,0 +1,16 @@
+{
+  "id": 63142001,
+  "name": "Batteryman AA",
+  "type": "Effect Monster",
+  "description": "If all \"Batteryman AA\"(s) you control are in Attack Position, this card gains 1000 ATK for each. If all \"Batteryman AA\"(s) you control are in Defense Position, this card gains 1000 DEF for each.",
+  "attack": 0,
+  "defense": 0,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63142001.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63142001.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63142001.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 89558090,
+  "name": "Dark Prisoner",
+  "type": "Normal Monster",
+  "description": "This monster bends light to hide its image from the eyes of opponents.",
+  "attack": 600,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89558090.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89558090.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89558090.jpg"
+  }
+}

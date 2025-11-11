@@ -1,0 +1,16 @@
+{
+  "id": 23377694,
+  "name": "Performapal Sellshell Crab",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn, when a \"Performapal\" monster you control is destroyed by battle: You can target 1 \"Performapal\" or \"Odd-Eyes\" card in your Pendulum Zone; Special Summon it.\n\n[ Monster Effect ] \nOnce per turn: You can target 1 Pendulum Monster you control; it gains 300 ATK for each \"Performapal\" monster you currently control, until the end of this turn.",
+  "attack": 500,
+  "defense": 2500,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23377694.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23377694.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23377694.jpg"
+  }
+}

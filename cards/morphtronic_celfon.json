@@ -1,0 +1,16 @@
+{
+  "id": 93542102,
+  "name": "Morphtronic Celfon",
+  "type": "Effect Monster",
+  "description": "● While in Attack Position: Once per turn, you can roll a six-sided die. Reveal cards from top of your Deck equal to the roll and Special Summon 1 Level 4 or lower \"Morphtronic\" monster from among them, ignoring the Summoning conditions. Shuffle the rest into the Deck.\n● While in Defense Position: Once per turn, you can roll a six-sided die. Look at cards from top of your Deck equal to the roll, then return them in the same order.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93542102.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93542102.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93542102.jpg"
+  }
+}

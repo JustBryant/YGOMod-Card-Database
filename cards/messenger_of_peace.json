@@ -1,0 +1,12 @@
+{
+  "id": 44656491,
+  "name": "Messenger of Peace",
+  "type": "Spell Card",
+  "description": "Monsters with 1500 or more ATK cannot declare an attack. Once per turn, during your Standby Phase, pay 100 LP or destroy this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44656491.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44656491.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44656491.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 63945693,
+  "name": "Rainbow Bridge",
+  "type": "Spell Card",
+  "description": "Add 1 \"Crystal\" Spell/Trap from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63945693.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63945693.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63945693.jpg"
+  }
+}

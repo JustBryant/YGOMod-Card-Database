@@ -1,0 +1,16 @@
+{
+  "id": 32872833,
+  "name": "Parsec, the Interstellar Dragon",
+  "type": "Effect Monster",
+  "description": "If you control a Level 8 monster, you can Normal Summon this card without Tributing.",
+  "attack": 800,
+  "defense": 800,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32872833.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32872833.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32872833.jpg"
+  }
+}

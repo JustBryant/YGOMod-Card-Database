@@ -1,0 +1,12 @@
+{
+  "id": 30241314,
+  "name": "Macro Cosmos",
+  "type": "Trap Card",
+  "description": "When this card resolves: You can Special Summon 1 \"Helios - The Primordial Sun\" from your hand or Deck. While this card is face-up on the field, any card sent to the Graveyard is banished instead.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30241314.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30241314.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30241314.jpg"
+  }
+}

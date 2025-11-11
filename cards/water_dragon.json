@@ -1,0 +1,16 @@
+{
+  "id": 85066822,
+  "name": "Water Dragon",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Bonding - H2O\". The ATK of FIRE monsters and Pyro monsters on the field becomes 0. When this card is destroyed and sent to the GY: You can target 2 \"Hydrogeddon\" and 1 \"Oxygeddon\" in your GY; Special Summon them.",
+  "attack": 2800,
+  "defense": 2600,
+  "level": 8,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85066822.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85066822.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85066822.jpg"
+  }
+}

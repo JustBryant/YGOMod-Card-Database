@@ -1,0 +1,16 @@
+{
+  "id": 13756293,
+  "name": "King Dragun",
+  "type": "Fusion Monster",
+  "description": "\"Lord of D.\" + \"Divine Dragon Ragnarok\"\nYour opponent cannot target Dragon monsters with card effects. Once per turn: You can Special Summon 1 Dragon monster from your hand.",
+  "attack": 2400,
+  "defense": 1100,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13756293.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13756293.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13756293.jpg"
+  }
+}

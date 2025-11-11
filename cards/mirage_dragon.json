@@ -1,0 +1,16 @@
+{
+  "id": 15960641,
+  "name": "Mirage Dragon",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot activate Trap Cards during the Battle Phase.",
+  "attack": 1600,
+  "defense": 600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15960641.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15960641.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15960641.jpg"
+  }
+}

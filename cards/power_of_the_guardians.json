@@ -1,0 +1,12 @@
+{
+  "id": 1118137,
+  "name": "Power of the Guardians",
+  "type": "Spell Card",
+  "description": "If an attack is declared involving the equipped monster: Place 1 Spell Counter on this card. The equipped monster gains 500 ATK/DEF for each Spell Counter on this card. If the equipped monster would be destroyed by battle or card effect, you can remove 1 Spell Counter from your field, instead.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1118137.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1118137.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1118137.jpg"
+  }
+}

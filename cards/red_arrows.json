@@ -1,0 +1,12 @@
+{
+  "id": 844056,
+  "name": "Red Arrows",
+  "type": "Spell Card",
+  "description": "Target up to 2 face-up monsters in the Extra Monster Zone(s); banish them until the End Phase. You can only activate 1 \"Red Arrows\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/844056.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/844056.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/844056.jpg"
+  }
+}

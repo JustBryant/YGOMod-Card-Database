@@ -1,0 +1,12 @@
+{
+  "id": 44586427,
+  "name": "Batteryman Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Batteryman Solar\".",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44586427.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44586427.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44586427.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 99111753,
+  "name": "Security Dragon",
+  "type": "Link Monster",
+  "description": "2 monsters\r\nOnce while face-up on the field, if this card is co-linked: You can target 1 monster your opponent controls; return it to the hand. You can only use this effect of \"Security Dragon\" once per turn.",
+  "attack": 1100,
+  "defense": null,
+  "level": null,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99111753.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99111753.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99111753.jpg"
+  }
+}

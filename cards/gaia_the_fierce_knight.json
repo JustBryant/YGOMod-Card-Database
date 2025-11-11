@@ -3,14 +3,14 @@
   "name": "Gaia The Fierce Knight",
   "type": "Normal Monster",
   "description": "A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/6368038.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/6368038.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6368038.jpg"
-  },
   "attack": 2300,
   "defense": 2100,
   "level": 7,
   "attribute": "EARTH",
-  "race": "Warrior"
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6368038.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6368038.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6368038.jpg"
+  }
 }

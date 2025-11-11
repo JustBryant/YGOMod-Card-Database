@@ -1,0 +1,16 @@
+{
+  "id": 8944575,
+  "name": "The Drdek",
+  "type": "Normal Monster",
+  "description": "''A bipedal eyeball that seldom misses an enemy with its lethal talons.''",
+  "attack": 700,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8944575.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8944575.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8944575.jpg"
+  }
+}

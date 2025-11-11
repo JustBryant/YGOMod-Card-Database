@@ -1,0 +1,16 @@
+{
+  "id": 88234821,
+  "name": "Dragunity Knight - Areadbhair",
+  "type": "Synchro Monster",
+  "description": "1 \"Dragunity\" Tuner + 1+ non-Tuner monsters\r\nWhen your opponent activates a monster effect (Quick Effect): You can banish 1 \"Dragunity\" monster from your GY; negate the activation, and if you do, banish that card. If this card destroys an opponent's monster by battle, after damage calculation: You can banish that opponent's monster. If this Synchro Summoned card in its owner's control is destroyed by an opponent's card: You can destroy all Spells and Traps your opponent controls. You can only use each effect of \"Dragunity Knight - Areadbhair\" once per turn.",
+  "attack": 3300,
+  "defense": 3200,
+  "level": 10,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88234821.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88234821.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88234821.jpg"
+  }
+}

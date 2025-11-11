@@ -1,0 +1,16 @@
+{
+  "id": 4931562,
+  "name": "Mountain Warrior",
+  "type": "Normal Monster",
+  "description": "A tough warrior that can move smoothly on even the roughest terrain.",
+  "attack": 600,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4931562.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4931562.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4931562.jpg"
+  }
+}

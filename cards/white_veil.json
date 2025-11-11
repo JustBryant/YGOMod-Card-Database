@@ -1,0 +1,12 @@
+{
+  "id": 49306994,
+  "name": "White Veil",
+  "type": "Spell Card",
+  "description": "While the equipped monster battles, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. When an attack is declared involving the equipped monster: Face-up Spell/Trap Cards your opponent controls have their effects negated until the end of the Damage Step (even if this card leaves the field). When the equipped monster destroys an opponent's monster by battle: You can destroy all Spell and Trap Cards your opponent controls. When this face-up card in a player's Spell & Trap Zone leaves the field, that player takes 3000 damage.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49306994.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49306994.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49306994.jpg"
+  }
+}

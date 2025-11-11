@@ -1,0 +1,12 @@
+{
+  "id": 25614410,
+  "name": "Legacy of a HERO",
+  "type": "Spell Card",
+  "description": "Return 2 Fusion Monsters from your Graveyard to the Extra Deck that list a \"HERO\" monster as Material; draw 3 cards. You can only activate 1 \"Legacy of a HERO\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25614410.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25614410.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25614410.jpg"
+  }
+}

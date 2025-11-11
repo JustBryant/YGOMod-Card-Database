@@ -1,0 +1,16 @@
+{
+  "id": 25343017,
+  "name": "Hushed Psychic Cleric",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Flip Summoned: Change it to Defense Position. Once per turn: You can send 1 card from your hand to the Graveyard, then target 1 Psychic-Type monster in your Graveyard; banish that target. If this card is sent from the field to the Graveyard: Target 1 monster banished by this card's effect; Special Summon that target.",
+  "attack": 0,
+  "defense": 2100,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25343017.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25343017.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25343017.jpg"
+  }
+}

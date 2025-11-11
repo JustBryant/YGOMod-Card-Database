@@ -1,0 +1,16 @@
+{
+  "id": 3493978,
+  "name": "Don Turtle",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned or Flip Summoned, you can Special Summon any number of \"Don Turtle\"(s) from your hand.",
+  "attack": 1100,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3493978.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3493978.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3493978.jpg"
+  }
+}

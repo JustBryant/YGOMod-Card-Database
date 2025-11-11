@@ -1,0 +1,12 @@
+{
+  "id": 34002992,
+  "name": "Rainbow Life",
+  "type": "Trap Card",
+  "description": "Discard 1 card. Until the end of this turn, whenever you would take damage you gain that amount of Life Points instead.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34002992.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34002992.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34002992.jpg"
+  }
+}

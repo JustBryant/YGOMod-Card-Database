@@ -1,0 +1,16 @@
+{
+  "id": 71106375,
+  "name": "Jurrac Iguanon",
+  "type": "Effect Monster",
+  "description": "If this card destroys an opponent's monster by battle, you can select 1 Set card your opponent controls, and return it to the hand.",
+  "attack": 1700,
+  "defense": 700,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71106375.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71106375.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71106375.jpg"
+  }
+}

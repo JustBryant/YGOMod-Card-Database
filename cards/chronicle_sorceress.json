@@ -1,0 +1,16 @@
+{
+  "id": 54878729,
+  "name": "Chronicle Sorceress",
+  "type": "Effect Monster",
+  "description": "You can activate 1 of these effects based on the Attributes in your GY;\r\n● LIGHT: Send 1 \"Blue-Eyes White Dragon\" or 1 card that mentions it from your Deck to the GY, except \"Chronicle Sorceress\".\r\n● DARK: Send 1 \"Dark Magician\" or 1 card that mentions it from your Deck to the GY, except \"Chronicle Sorceress\".\r\nYou can only use this effect of \"Chronicle Sorceress\" once per turn.",
+  "attack": 1250,
+  "defense": 1250,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54878729.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54878729.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54878729.jpg"
+  }
+}

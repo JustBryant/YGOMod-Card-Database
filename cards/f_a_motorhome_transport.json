@@ -1,0 +1,16 @@
+{
+  "id": 75676192,
+  "name": "F.A. Motorhome Transport",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nGains ATK equal to its Level x 300. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase the Level of this card by 1. This card gains the following effect(s), based on its current Level.\r\n● Level 11 or higher: Cannot be destroyed by battle or card effects.\r\n● Level 13 or higher: Once per turn: You can target 1 \"F.A.\" monster in your GY; Special Summon it.",
+  "attack": 0,
+  "defense": 3000,
+  "level": 9,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75676192.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75676192.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75676192.jpg"
+  }
+}

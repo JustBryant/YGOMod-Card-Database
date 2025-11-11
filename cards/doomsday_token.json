@@ -1,0 +1,12 @@
+{
+  "id": 46173680,
+  "name": "Doomsday Token",
+  "type": "Token",
+  "description": "This card can be used as any Token.",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46173680.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46173680.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46173680.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 91781589,
+  "name": "Thunder of Ruler",
+  "type": "Trap Card",
+  "description": "During your opponent's Standby Phase: You can activate this card; there is no Battle Phase this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91781589.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91781589.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91781589.jpg"
+  }
+}

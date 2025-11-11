@@ -1,0 +1,12 @@
+{
+  "id": 60082869,
+  "name": "Dust Tornado",
+  "type": "Trap Card",
+  "description": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60082869.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60082869.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60082869.jpg"
+  }
+}

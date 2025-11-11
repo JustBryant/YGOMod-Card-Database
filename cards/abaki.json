@@ -1,0 +1,16 @@
+{
+  "id": 12694768,
+  "name": "Abaki",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed and sent to the Graveyard by battle, both players take 500 damage.",
+  "attack": 1700,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12694768.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12694768.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12694768.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 62210247,
+  "name": "Lunar Queen Elzaim",
+  "type": "Normal Monster",
+  "description": "''A lovely creature guarded by the moon. Her lunar curtain can block just about any attack.''",
+  "attack": 750,
+  "defense": 1100,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62210247.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62210247.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62210247.jpg"
+  }
+}

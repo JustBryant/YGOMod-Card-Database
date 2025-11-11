@@ -1,0 +1,16 @@
+{
+  "id": 61728808,
+  "name": "Heavymetalfoes Amalgam",
+  "type": "Link Monster",
+  "description": "2 \"Metalfoes\" monsters\r\nIf this card is sent from the Monster Zone to the GY by a card effect: You can activate 1 of these effects;\r\n● Target 1 \"Metalfoes\" monster you control; equip this card to it. It gains 1000 ATK.\r\n● Target 1 \"Metalfoes\" card you control; destroy it, and if you do, Special Summon this card.\r\nYou can only use this effect of \"Heavymetalfoes Amalgam\" once per turn.",
+  "attack": 2000,
+  "defense": null,
+  "level": null,
+  "attribute": "FIRE",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61728808.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61728808.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61728808.jpg"
+  }
+}

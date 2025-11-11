@@ -1,0 +1,12 @@
+{
+  "id": 61011311,
+  "name": "Zenmailfunction",
+  "type": "Spell Card",
+  "description": "Target 1 \"Wind-Up\" monster in your Graveyard; Special Summon it in face-up Defense Position. Its effect(s) is negated, and it cannot be Tributed or used as a Synchro Material Monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61011311.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61011311.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61011311.jpg"
+  }
+}

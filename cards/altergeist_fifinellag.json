@@ -1,0 +1,16 @@
+{
+  "id": 12977245,
+  "name": "Altergeist Fifinellag",
+  "type": "Tuner Monster",
+  "description": "Monsters your opponent controls cannot target \"Altergeist\" monsters you control for attacks, except \"Altergeist Fifinellag\", also your opponent cannot target \"Altergeist\" monsters you control with card effects, except \"Altergeist Fifinellag\".",
+  "attack": 0,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12977245.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12977245.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12977245.jpg"
+  }
+}

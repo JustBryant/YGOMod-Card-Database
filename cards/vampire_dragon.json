@@ -1,0 +1,16 @@
+{
+  "id": 36352429,
+  "name": "Vampire Dragon",
+  "type": "Effect Monster",
+  "description": "When this Tribute Summoned card is sent from the field to the Graveyard: You can add 1 Level 4 or lower monster from your Deck to your hand.",
+  "attack": 2400,
+  "defense": 0,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36352429.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36352429.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36352429.jpg"
+  }
+}

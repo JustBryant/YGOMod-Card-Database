@@ -1,0 +1,12 @@
+{
+  "id": 93211810,
+  "name": "Sonic Boom",
+  "type": "Trap Card",
+  "description": "During your turn: Target 1 \"Mecha Phantom Beast\" monster on the field; this turn, its ATK becomes double its original ATK, it is unaffected by other Spell/Trap effects, also if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this effect is applied to that monster, destroy all Machine-Type monsters you control during the End Phase of this turn. Other monsters cannot attack during the turn you activate this card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93211810.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93211810.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93211810.jpg"
+  }
+}

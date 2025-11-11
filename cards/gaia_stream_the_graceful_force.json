@@ -1,0 +1,16 @@
+{
+  "id": 13289758,
+  "name": "Gaia Stream, the Graceful Force",
+  "type": "XYZ Monster",
+  "description": "2+ Level 6 monsters\r\nOnce per turn, you can also Xyz Summon \"Gaia Stream, the Graceful Force\" by using 1 Rank 5 or 7 Xyz Monster you control (transfer its materials to this card). Cannot be used as material for an Xyz Summon the turn it was Xyz Summoned. Cannot attack directly. Gains ATK equal to the combined Levels/Ranks of its attached materials x 200. At the end of the Damage Step, if this card battled: Detach 1 material from this card.",
+  "attack": 0,
+  "defense": 0,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13289758.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13289758.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13289758.jpg"
+  }
+}

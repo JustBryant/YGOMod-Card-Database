@@ -1,0 +1,16 @@
+{
+  "id": 49109013,
+  "name": "Doomstar Ulka",
+  "type": "Effect Monster",
+  "description": "When exactly 1 monster you control (and no other monsters) leaves the field by an opponent's card effect (except during the Damage Step): You can banish this card from your hand or GY; if that monster is in the GY or banished face-up, Special Summon it, otherwise, Special Summon this banished card. If this card is Special Summoned: You can make this card gain 1500 ATK until the end of the next turn. You can only use each effect of \"Doomstar Ulka\" once per turn.",
+  "attack": 1500,
+  "defense": 400,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49109013.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49109013.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49109013.jpg"
+  }
+}

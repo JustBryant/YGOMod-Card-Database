@@ -1,0 +1,12 @@
+{
+  "id": 45178472,
+  "name": "Full House",
+  "type": "Trap Card",
+  "description": "Target 2 other face-up Spell/Trap Cards and 3 Set Spell/Trap Cards, on the field; destroy them.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45178472.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45178472.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45178472.jpg"
+  }
+}

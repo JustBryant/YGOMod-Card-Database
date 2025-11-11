@@ -1,0 +1,12 @@
+{
+  "id": 30069399,
+  "name": "Ivy Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Wall of Ivy\". When it is destroyed, the controller takes 300 damage.",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30069399.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30069399.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30069399.jpg"
+  }
+}

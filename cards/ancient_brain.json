@@ -1,0 +1,16 @@
+{
+  "id": 42431843,
+  "name": "Ancient Brain",
+  "type": "Normal Monster",
+  "description": "A fallen fairy that is powerful in the dark.",
+  "attack": 1000,
+  "defense": 700,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42431843.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42431843.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42431843.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 44052075,
+  "name": "Ancient Gear Token",
+  "type": "Token",
+  "description": "This card can be used as an \"Ancient Gear Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44052075.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44052075.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44052075.jpg"
+  }
+}

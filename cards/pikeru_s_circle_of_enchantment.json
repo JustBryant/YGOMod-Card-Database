@@ -1,0 +1,12 @@
+{
+  "id": 74270067,
+  "name": "Pikeru's Circle of Enchantment",
+  "type": "Trap Card",
+  "description": "Damage to you from card effects becomes 0 until the end of this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74270067.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74270067.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74270067.jpg"
+  }
+}

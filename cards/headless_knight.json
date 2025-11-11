@@ -1,0 +1,16 @@
+{
+  "id": 5434080,
+  "name": "Headless Knight",
+  "type": "Normal Monster",
+  "description": "A haunted spirit of a falsely accused knight who wanders in search of truth and justice.",
+  "attack": 1450,
+  "defense": 1700,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5434080.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5434080.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5434080.jpg"
+  }
+}

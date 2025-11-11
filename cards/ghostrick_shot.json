@@ -1,0 +1,12 @@
+{
+  "id": 69809989,
+  "name": "Ghostrick Shot",
+  "type": "Spell Card",
+  "description": "Special Summon 1 \"Ghostrick\" monster from your hand or GY, then you can change 1 face-down \"Ghostrick\" monster you control to face-up Attack Position. You can banish this card from your GY, then target 1 \"Ghostrick\" Xyz Monster you control; attach 1 \"Ghostrick\" card from your GY to that monster as material. You can only use each effect of \"Ghostrick Shot\" once per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69809989.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69809989.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69809989.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 73977033,
+  "name": "Raidraptor - Booster Strix",
+  "type": "Effect Monster",
+  "description": "When a \"Raidraptor\" monster you control is targeted for an attack by an opponent's monster: You can banish this card from your hand; destroy the attacking monster.",
+  "attack": 100,
+  "defense": 1700,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73977033.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73977033.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73977033.jpg"
+  }
+}

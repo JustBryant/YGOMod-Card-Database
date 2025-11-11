@@ -1,0 +1,12 @@
+{
+  "id": 300204004,
+  "name": "Toon Mayhem!",
+  "type": "Skill Card",
+  "description": "[At the start of the Duel, flip this card over.]\r\n\r\nThe first time each \"Toon World\" in your Spell & Trap Zone would be destroyed each turn, it is not destroyed.",
+  "race": "Pegasus",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300204004.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300204004.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300204004.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 38445524,
+  "name": "Gil Garth",
+  "type": "Normal Monster",
+  "description": "This steel-armored terror machine ruthlessly strikes down enemies with its giant katana.",
+  "attack": 1800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38445524.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38445524.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38445524.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 81380218,
+  "name": "Chorus of Sanctuary",
+  "type": "Spell Card",
+  "description": "Increase the DEF of all Defense Position monsters by 500 points.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81380218.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81380218.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81380218.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 93023479,
+  "name": "Gravekeeper's Recruiter",
+  "type": "Effect Monster",
+  "description": "If this card you control is sent to your GY: Add 1 \"Gravekeeper's\" monster with 1500 or less DEF from your Deck to your hand.",
+  "attack": 1200,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93023479.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93023479.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93023479.jpg"
+  }
+}

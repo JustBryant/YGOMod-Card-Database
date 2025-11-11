@@ -1,0 +1,16 @@
+{
+  "id": 49816630,
+  "name": "Gaiarmor Dragonshell",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nYou can Tribute this card, then target 3 other Synchro Monsters in your GY; return them to the Extra Deck. You can target 1 monster you control Special Summoned from the Extra Deck; equip this card from your GY to it. When an attack is declared involving the monster equipped with this card: You can draw 1 card. You can only use each effect of \"Gaiarmor Dragonshell\" once per turn.",
+  "attack": 2000,
+  "defense": 1300,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49816630.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49816630.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49816630.jpg"
+  }
+}

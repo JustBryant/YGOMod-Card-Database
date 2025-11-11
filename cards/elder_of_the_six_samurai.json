@@ -1,0 +1,16 @@
+{
+  "id": 61737116,
+  "name": "Elder of the Six Samurai",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand).",
+  "attack": 400,
+  "defense": 0,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61737116.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61737116.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61737116.jpg"
+  }
+}

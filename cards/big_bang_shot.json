@@ -1,0 +1,12 @@
+{
+  "id": 61127349,
+  "name": "Big Bang Shot",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 400 ATK. If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. When this card leaves the field, banish the equipped monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61127349.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61127349.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61127349.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 38982356,
+  "name": "Hyo",
+  "type": "Normal Monster",
+  "description": "''None can survive the cold touch of this sub-zero warrior.''",
+  "attack": 800,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38982356.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38982356.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38982356.jpg"
+  }
+}

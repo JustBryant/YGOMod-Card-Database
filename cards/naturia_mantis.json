@@ -1,0 +1,16 @@
+{
+  "id": 51254980,
+  "name": "Naturia Mantis",
+  "type": "Effect Monster",
+  "description": "When your opponent Normal Summons a monster, you can send 1 \"Naturia\" monster from your hand to the Graveyard to destroy that monster.",
+  "attack": 1700,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51254980.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51254980.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51254980.jpg"
+  }
+}

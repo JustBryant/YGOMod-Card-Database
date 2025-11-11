@@ -1,0 +1,12 @@
+{
+  "id": 100000101,
+  "name": "Ojamandala",
+  "type": "Spell Card",
+  "description": "Pay 1000 Life Points. Special Summon 1 \"Ojama Green\", \"Ojama Yellow\" and \"Ojama Black\" from your Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/100000101.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/100000101.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/100000101.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 27520594,
+  "name": "Sunseed Genius Loci",
+  "type": "Normal Monster",
+  "description": "''This seed can only be harvested from the sacred tree once every thousand years, and will become the guardian spirit of its land after a thousand more.''",
+  "attack": 0,
+  "defense": 600,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27520594.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27520594.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27520594.jpg"
+  }
+}

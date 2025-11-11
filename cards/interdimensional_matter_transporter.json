@@ -1,0 +1,12 @@
+{
+  "id": 36261276,
+  "name": "Interdimensional Matter Transporter",
+  "type": "Trap Card",
+  "description": "Target 1 face-up monster you control; banish that target until the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36261276.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36261276.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36261276.jpg"
+  }
+}

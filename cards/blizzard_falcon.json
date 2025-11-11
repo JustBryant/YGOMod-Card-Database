@@ -1,0 +1,16 @@
+{
+  "id": 43694481,
+  "name": "Blizzard Falcon",
+  "type": "Effect Monster",
+  "description": "If this card's current ATK is higher than its original ATK: You can inflict 1500 damage to your opponent. This effect can only be used once while this card is face-up on the field. You can only use the effect of \"Blizzard Falcon\" once per turn.",
+  "attack": 1500,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43694481.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43694481.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43694481.jpg"
+  }
+}

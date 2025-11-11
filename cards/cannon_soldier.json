@@ -1,0 +1,16 @@
+{
+  "id": 11384280,
+  "name": "Cannon Soldier",
+  "type": "Effect Monster",
+  "description": "You can Tribute 1 monster; inflict 500 damage to your opponent.",
+  "attack": 1400,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11384280.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11384280.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11384280.jpg"
+  }
+}

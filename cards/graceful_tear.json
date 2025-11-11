@@ -1,0 +1,12 @@
+{
+  "id": 9032529,
+  "name": "Graceful Tear",
+  "type": "Trap Card",
+  "description": "Add 1 card from your hand to your opponent's hand, then gain 2000 LP.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9032529.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9032529.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9032529.jpg"
+  }
+}

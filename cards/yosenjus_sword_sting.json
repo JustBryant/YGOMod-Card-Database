@@ -1,0 +1,12 @@
+{
+  "id": 10612222,
+  "name": "Yosenjus' Sword Sting",
+  "type": "Trap Card",
+  "description": "If you control no monsters: Reveal up to 2 \"Yosenju\" monsters with different names in your hand, then target the same number of face-up cards your opponent controls; return them to the hand. You can only activate 1 \"Yosenjus' Sword Sting\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10612222.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10612222.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10612222.jpg"
+  }
+}

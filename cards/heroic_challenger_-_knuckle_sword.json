@@ -1,0 +1,16 @@
+{
+  "id": 71549257,
+  "name": "Heroic Challenger - Knuckle Sword",
+  "type": "Effect Monster",
+  "description": "If you control a \"Heroic\" monster, except a Level 1 monster: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 other Warrior monster you control with a Level; the Level of that monster or this card becomes the Level of the other, also you cannot declare an attack for the rest of this turn, except with Xyz Monsters. You can only use each effect of \"Heroic Challenger - Knuckle Sword\" once per turn.",
+  "attack": 600,
+  "defense": 200,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71549257.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71549257.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71549257.jpg"
+  }
+}

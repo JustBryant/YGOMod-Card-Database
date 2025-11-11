@@ -1,0 +1,16 @@
+{
+  "id": 38955728,
+  "name": "Dragon Core Hexer",
+  "type": "Normal Tuner Monster",
+  "description": "Many years of dragonslaying have bathed this huntress in countless amounts of blood. Each drop gave her more power, but at a terrible price, as her cursed body now spreads the dragontaint like an epidemic. No village will take her in, and she no longer even remembers what inspired her crusade in the first place.",
+  "attack": 2300,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38955728.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38955728.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38955728.jpg"
+  }
+}

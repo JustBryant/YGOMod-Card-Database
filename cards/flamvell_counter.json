@@ -1,0 +1,12 @@
+{
+  "id": 60718396,
+  "name": "Flamvell Counter",
+  "type": "Trap Card",
+  "description": "When a Spell/Trap Card is activated: Banish 1 FIRE monster with 200 DEF from your Graveyard; negate the activation, and if you do, destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60718396.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60718396.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60718396.jpg"
+  }
+}

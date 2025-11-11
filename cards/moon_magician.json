@@ -1,0 +1,16 @@
+{
+  "id": 74941992,
+  "name": "Moon Magician",
+  "type": "Effect Monster",
+  "description": "If your opponent controls an Xyz Monster, you can Special Summon this card (from your hand). You can only Special Summon \"Moon Magician\" once per turn this way. If this card is Normal or Special Summoned: You can target 1 Level 4 LIGHT monster in your GY, except \"Moon Magician\"; Special Summon it, but negate its effects. You can only use this effect of \"Moon Magician\" once per turn.",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74941992.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74941992.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74941992.jpg"
+  }
+}

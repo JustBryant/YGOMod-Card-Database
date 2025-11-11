@@ -1,0 +1,12 @@
+{
+  "id": 42193638,
+  "name": "Vaalmonica Versare",
+  "type": "Spell Card",
+  "description": "Apply 1 of these effects. Unless you have a \"Vaalmonica\" card in your Pendulum Zone, your opponent chooses the effect.\r\n● Gain 500 LP, then you can excavate cards from the top of your Deck until you excavate a \"Vaalmonica\" card, then add that card to your hand, also shuffle the rest into the Deck.\r\n● Take 500 damage, then you can send 1 \"Vaalmonica\" card from your Deck to the GY, except \"Vaalmonica Versare\".\r\nYou can only activate 1 \"Vaalmonica Versare\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42193638.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42193638.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42193638.jpg"
+  }
+}

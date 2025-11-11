@@ -1,0 +1,16 @@
+{
+  "id": 31987274,
+  "name": "Flying Fish",
+  "type": "Normal Monster",
+  "description": "Three wishes are granted to those fortunate enough to see this monster in flight.",
+  "attack": 800,
+  "defense": 500,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31987274.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31987274.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31987274.jpg"
+  }
+}

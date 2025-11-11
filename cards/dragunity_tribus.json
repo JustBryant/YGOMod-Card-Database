@@ -1,0 +1,16 @@
+{
+  "id": 81962318,
+  "name": "Dragunity Tribus",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned, you can send 1 Level 3 or lower Dragon-Type monster from your Deck to the Graveyard.",
+  "attack": 500,
+  "defense": 300,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81962318.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81962318.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81962318.jpg"
+  }
+}

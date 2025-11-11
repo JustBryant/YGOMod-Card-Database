@@ -1,0 +1,16 @@
+{
+  "id": 80234301,
+  "name": "Prisman",
+  "type": "Normal Monster",
+  "description": "This crystalline monster focuses light to create a lethal laser.",
+  "attack": 800,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80234301.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80234301.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80234301.jpg"
+  }
+}

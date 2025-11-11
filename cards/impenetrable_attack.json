@@ -1,0 +1,12 @@
+{
+  "id": 86778566,
+  "name": "Impenetrable Attack",
+  "type": "Trap Card",
+  "description": "During the Battle Phase, activate 1 of these effects.\n● Target 1 monster on the field; it cannot be destroyed by battle or by card effects during this Battle Phase.\n● You take no battle damage during this Battle Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86778566.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86778566.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86778566.jpg"
+  }
+}

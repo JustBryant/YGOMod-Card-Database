@@ -1,0 +1,16 @@
+{
+  "id": 47051709,
+  "name": "Photon Delta Wing",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned: You can Special Summon 1 \"Photon Delta Wing\" from your hand or Deck in Defense Position, also you cannot Special Summon for the rest of this turn, except LIGHT monsters. Your opponent cannot declare an attack while you control another \"Photon Delta Wing\".",
+  "attack": 1800,
+  "defense": 900,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47051709.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47051709.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47051709.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 82693042,
+  "name": "Sphere of Chaos",
+  "type": "Effect Monster",
+  "description": "While this card is face-up on the field its Attribute is also treated as LIGHT. Once per turn, this card cannot be destroyed by battle. When this card is Tribute Summoned, you can add 1 Level 3 monster from your Deck to your hand.",
+  "attack": 1600,
+  "defense": 0,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82693042.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82693042.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82693042.jpg"
+  }
+}

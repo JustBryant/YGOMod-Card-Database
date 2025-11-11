@@ -1,0 +1,16 @@
+{
+  "id": 69109764,
+  "name": "Hibernation Dragon",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can target 1 Level 4 or lower Dragon monster in your GY; add it to your hand. While you control no Link Monsters, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 DARK Dragon Link Monster in your GY; Special Summon it. You can only use each effect of \"Hibernation Dragon\" once per turn.",
+  "attack": 600,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69109764.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69109764.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69109764.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 31440542,
+  "name": "Rafflesia Seduction",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Take control of 1 face-up monster on your opponent's side of the field until the end of this turn.",
+  "attack": 300,
+  "defense": 900,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31440542.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31440542.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31440542.jpg"
+  }
+}

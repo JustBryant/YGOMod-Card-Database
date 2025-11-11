@@ -1,0 +1,16 @@
+{
+  "id": 5780210,
+  "name": "Creation Resonator",
+  "type": "Tuner Monster",
+  "description": "If you control a Level 8 or higher Synchro Monster, you can Special Summon this card (from your hand).",
+  "attack": 800,
+  "defense": 600,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5780210.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5780210.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5780210.jpg"
+  }
+}

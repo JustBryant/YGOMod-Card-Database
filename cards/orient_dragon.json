@@ -1,0 +1,16 @@
+{
+  "id": 68124775,
+  "name": "Orient Dragon",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned: Target 1 Synchro Monster your opponent controls; banish that target.",
+  "attack": 2300,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68124775.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68124775.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68124775.jpg"
+  }
+}

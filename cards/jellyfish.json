@@ -1,0 +1,16 @@
+{
+  "id": 14851496,
+  "name": "Jellyfish",
+  "type": "Normal Monster",
+  "description": "An almost invisible, semi-transparent jellyfish that drifts in the sea.",
+  "attack": 1200,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14851496.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14851496.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14851496.jpg"
+  }
+}

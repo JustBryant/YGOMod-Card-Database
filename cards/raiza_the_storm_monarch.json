@@ -1,0 +1,16 @@
+{
+  "id": 73125233,
+  "name": "Raiza the Storm Monarch",
+  "type": "Effect Monster",
+  "description": "If this card is Tribute Summoned: Target 1 card on the field; place that target on the top of the Deck.",
+  "attack": 2400,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73125233.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73125233.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73125233.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 44947065,
+  "name": "Burden of the Mighty",
+  "type": "Spell Card",
+  "description": "Each face-up monster your opponent controls loses 100 ATK x its own Level.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44947065.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44947065.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44947065.jpg"
+  }
+}

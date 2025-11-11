@@ -1,0 +1,16 @@
+{
+  "id": 25847467,
+  "name": "Kahkki, Guerilla of Dark World",
+  "type": "Effect Monster",
+  "description": "If this card is discarded to the Graveyard by a card effect: Target 1 monster on the field; destroy that target.",
+  "attack": 300,
+  "defense": 500,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25847467.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25847467.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25847467.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 82324106,
+  "name": "Soul Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Limit Impulse\". This Token cannot be Tributed, except for a Tribute Summon.",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82324106.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82324106.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82324106.jpg"
+  }
+}

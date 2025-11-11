@@ -1,0 +1,16 @@
+{
+  "id": 6480253,
+  "name": "Wroughtweiler",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: Target 1 \"Elemental HERO\" card and 1 \"Polymerization\" in your Graveyard; add both those targets to your hand.",
+  "attack": 800,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6480253.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6480253.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6480253.jpg"
+  }
+}

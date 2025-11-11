@@ -1,0 +1,16 @@
+{
+  "id": 18325492,
+  "name": "Gyroid",
+  "type": "Effect Monster",
+  "description": "Once per turn, this card cannot be destroyed by battle.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18325492.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18325492.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18325492.jpg"
+  }
+}

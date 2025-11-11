@@ -1,0 +1,12 @@
+{
+  "id": 60406592,
+  "name": "Sinister Seed Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Sinister Seeds\".",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60406592.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60406592.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60406592.jpg"
+  }
+}

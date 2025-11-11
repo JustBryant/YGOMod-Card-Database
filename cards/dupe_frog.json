@@ -1,0 +1,16 @@
+{
+  "id": 46239604,
+  "name": "Dupe Frog",
+  "type": "Effect Monster",
+  "description": "This card's name becomes \"Des Frog\" while it is on the field. Monsters your opponent controls cannot target monsters for attacks, except this one. When this card is sent from the field to the Graveyard: You can add 1 \"Frog\" monster from your Deck or Graveyard to your hand, except \"Dupe Frog\".",
+  "attack": 100,
+  "defense": 2000,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46239604.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46239604.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46239604.jpg"
+  }
+}

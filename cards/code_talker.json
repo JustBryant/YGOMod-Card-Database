@@ -1,0 +1,16 @@
+{
+  "id": 53413628,
+  "name": "Code Talker",
+  "type": "Link Monster",
+  "description": "2 Effect Monsters\nGains 500 ATK for each monster this card points to. Cannot be destroyed by battle or your opponent's card effects, while this card points to a monster.",
+  "attack": 1300,
+  "defense": null,
+  "level": 0,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53413628.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53413628.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53413628.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 879958,
+  "name": "Parallel Port Armor",
+  "type": "Trap Card",
+  "description": "Target 1 Link Monster you control; equip it with this card. Your opponent cannot target the equipped monster with card effects, also it cannot be destroyed by battle. You can banish this card and 2 Link Monsters from your GY, then target 1 Link Monster you control; it can make a second attack during each Battle Phase this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/879958.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/879958.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/879958.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 19451302,
+  "name": "Serpent Suppression",
+  "type": "Trap Card",
+  "description": "Face-up Attack Position monsters with 0 ATK your opponent controls cannot be destroyed by battle with \"Reptilianne\" monsters.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19451302.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19451302.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19451302.jpg"
+  }
+}

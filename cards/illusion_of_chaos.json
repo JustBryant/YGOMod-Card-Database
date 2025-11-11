@@ -1,0 +1,16 @@
+{
+  "id": 12266229,
+  "name": "Illusion of Chaos",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with \"Chaos Form\". You can reveal this card in your hand; add 1 \"Dark Magician\", or 1 non-Ritual Monster that mentions it, from your Deck to your hand, then place 1 card from your hand on top of the Deck. When your opponent activates a monster effect (Quick Effect): You can return this card to the hand, and if you do, Special Summon 1 \"Dark Magician\" from your GY, and if you do that, negate that activated effect. You can only use each effect of \"Illusion of Chaos\" once per turn.",
+  "attack": 2100,
+  "defense": 2500,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12266229.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12266229.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12266229.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 67598234,
+  "name": "Gaia Saber, the Lightning Shadow",
+  "type": "Link Monster",
+  "description": "2+ monsters",
+  "attack": 2600,
+  "defense": null,
+  "level": 0,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67598234.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67598234.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67598234.jpg"
+  }
+}

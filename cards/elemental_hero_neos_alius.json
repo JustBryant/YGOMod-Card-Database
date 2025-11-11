@@ -1,0 +1,16 @@
+{
+  "id": 69884162,
+  "name": "Elemental HERO Neos Alius",
+  "type": "Gemini Monster",
+  "description": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\r\n● This card's name becomes \"Elemental HERO Neos\" while on the field.",
+  "attack": 1900,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69884162.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69884162.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69884162.jpg"
+  }
+}

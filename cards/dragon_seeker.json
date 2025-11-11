@@ -1,0 +1,16 @@
+{
+  "id": 28563545,
+  "name": "Dragon Seeker",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned or Flip Summoned, destroy 1 face-up Dragon-Type monster on the field.",
+  "attack": 2000,
+  "defense": 2100,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28563545.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28563545.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28563545.jpg"
+  }
+}

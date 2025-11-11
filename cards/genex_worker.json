@@ -1,0 +1,16 @@
+{
+  "id": 93882364,
+  "name": "Genex Worker",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card to Special Summon 1 \"Genex\" monster from your hand.",
+  "attack": 1200,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93882364.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93882364.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93882364.jpg"
+  }
+}

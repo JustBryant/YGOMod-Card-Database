@@ -1,0 +1,16 @@
+{
+  "id": 4906301,
+  "name": "Necro Gardna",
+  "type": "Effect Monster",
+  "description": "During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).",
+  "attack": 600,
+  "defense": 1300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4906301.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4906301.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4906301.jpg"
+  }
+}

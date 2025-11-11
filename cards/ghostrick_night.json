@@ -1,0 +1,12 @@
+{
+  "id": 85827713,
+  "name": "Ghostrick Night",
+  "type": "Trap Card",
+  "description": "While a \"Ghostrick\" monster is on the field, your opponent cannot Flip Summon. When this card in your possession is destroyed by your opponent's card and sent to your Graveyard: Your opponent cannot declare attacks for the rest of this turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85827713.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85827713.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85827713.jpg"
+  }
+}

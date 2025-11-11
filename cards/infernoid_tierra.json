@@ -1,0 +1,16 @@
+{
+  "id": 82734805,
+  "name": "Infernoid Tierra",
+  "type": "Fusion Monster",
+  "description": "\"Infernoid Onuncu\" + \"Infernoid Devyaty\" + 1 or more \"Infernoid\" monsters\nWhen this card is Fusion Summoned, you can: Apply these effects, in sequence, depending on the number of Fusion Materials with different names used for this card's Summon;\n● 3 or more: Each player sends 3 cards from their Extra Deck to the Graveyard.\n● 5 or more: Each player sends the top 3 cards from their Deck to the Graveyard.\n● 8 or more: Each player returns up to 3 of their banished cards to the Graveyard.\n● 10 or more: Each player sends their entire hand to the Graveyard.",
+  "attack": 3400,
+  "defense": 3600,
+  "level": 11,
+  "attribute": "FIRE",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82734805.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82734805.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82734805.jpg"
+  }
+}

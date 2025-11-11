@@ -1,0 +1,12 @@
+{
+  "id": 58924378,
+  "name": "Wattcastle",
+  "type": "Spell Card",
+  "description": "Any monster that attacks a \"Watt\" monster loses 1000 ATK after damage calculation.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58924378.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58924378.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58924378.jpg"
+  }
+}

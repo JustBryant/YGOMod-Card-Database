@@ -1,0 +1,12 @@
+{
+  "id": 77414722,
+  "name": "Magic Jammer",
+  "type": "Trap Card",
+  "description": "When a Spell Card is activated: Discard 1 card; negate the activation, and if you do, destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77414722.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77414722.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77414722.jpg"
+  }
+}

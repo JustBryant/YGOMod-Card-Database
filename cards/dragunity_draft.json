@@ -1,0 +1,12 @@
+{
+  "id": 52962804,
+  "name": "Dragunity Draft",
+  "type": "Spell Card",
+  "description": "When this card is activated: You can target 1 Level 4 or lower \"Dragunity\" monster in your GY; add it to your hand. If your \"Dragunity\" monster whose original Level is 5 or higher attacks, it is unaffected by your opponent's card effects until the end of the Damage Step. You can only activate 1 \"Dragunity Draft\" per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52962804.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52962804.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52962804.jpg"
+  }
+}

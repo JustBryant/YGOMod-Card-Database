@@ -1,0 +1,16 @@
+{
+  "id": 41741922,
+  "name": "Lava Dragon",
+  "type": "Effect Monster",
+  "description": "You can Tribute this face-up Defense Position card to Special Summon 2 Level 3 or lower Dragon-Type monsters: 1 from your hand, and 1 from your Graveyard.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41741922.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41741922.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41741922.jpg"
+  }
+}

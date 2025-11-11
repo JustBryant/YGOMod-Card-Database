@@ -1,0 +1,16 @@
+{
+  "id": 73899015,
+  "name": "Venom Snake",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can place 1 Venom Counter on 1 monster your opponent controls. If you activate this effect, this card cannot attack during this turn.",
+  "attack": 1200,
+  "defense": 600,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73899015.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73899015.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73899015.jpg"
+  }
+}

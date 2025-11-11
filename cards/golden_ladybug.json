@@ -1,0 +1,16 @@
+{
+  "id": 87102774,
+  "name": "Golden Ladybug",
+  "type": "Effect Monster",
+  "description": "During your Standby Phase: You can reveal this card in your hand, and it will remain revealed until the end of this turn; gain 500 LP.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87102774.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87102774.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87102774.jpg"
+  }
+}

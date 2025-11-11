@@ -1,0 +1,16 @@
+{
+  "id": 1315120,
+  "name": "T.G. Striker",
+  "type": "Tuner Monster",
+  "description": "If only your opponent controls a monster, you can Special Summon this card (from your hand). Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Striker\".",
+  "attack": 800,
+  "defense": 0,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1315120.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1315120.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1315120.jpg"
+  }
+}

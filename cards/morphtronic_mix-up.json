@@ -1,0 +1,12 @@
+{
+  "id": 14613029,
+  "name": "Morphtronic Mix-up",
+  "type": "Trap Card",
+  "description": "If you control 2 or more face-up \"Morphtronic\" monsters, select 2 cards your opponent controls. Destroy 1 card of your opponent's choice from those 2.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14613029.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14613029.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14613029.jpg"
+  }
+}

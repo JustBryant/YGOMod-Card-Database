@@ -1,0 +1,12 @@
+{
+  "id": 94156050,
+  "name": "Reverse Glasses",
+  "type": "Trap Card",
+  "description": "Halve the ATK of all face-up monsters currently on the field, until the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94156050.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94156050.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94156050.jpg"
+  }
+}

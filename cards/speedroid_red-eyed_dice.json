@@ -1,0 +1,16 @@
+{
+  "id": 16725505,
+  "name": "Speedroid Red-Eyed Dice",
+  "type": "Tuner Monster",
+  "description": "When this card is Normal or Special Summoned: You can target 1 \"Speedroid\" monster you control, except \"Speedroid Red-Eyed Dice\", and declare a Level from 1 to 6; it becomes that Level until the end of this turn.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16725505.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16725505.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16725505.jpg"
+  }
+}

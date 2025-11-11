@@ -1,0 +1,16 @@
+{
+  "id": 36042004,
+  "name": "Babycerasaurus",
+  "type": "Effect Monster",
+  "description": "If this card is destroyed by a card effect and sent to the Graveyard: Special Summon 1 Level 4 or lower Dinosaur-Type monster from your Deck.",
+  "attack": 500,
+  "defense": 500,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36042004.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36042004.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36042004.jpg"
+  }
+}

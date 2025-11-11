@@ -1,0 +1,16 @@
+{
+  "id": 87774234,
+  "name": "Watapon",
+  "type": "Effect Monster",
+  "description": "If this card is added from your Deck to your hand by a card effect: You can Special Summon this card.",
+  "attack": 200,
+  "defense": 300,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87774234.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87774234.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87774234.jpg"
+  }
+}

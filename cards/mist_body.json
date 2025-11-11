@@ -1,0 +1,12 @@
+{
+  "id": 47529357,
+  "name": "Mist Body",
+  "type": "Spell Card",
+  "description": "The equipped monster cannot be destroyed by battle.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47529357.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47529357.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47529357.jpg"
+  }
+}

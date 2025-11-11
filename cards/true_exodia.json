@@ -1,0 +1,16 @@
+{
+  "id": 37984331,
+  "name": "True Exodia",
+  "type": "Effect Monster",
+  "description": "If the only monsters on the field are this card you control and 4 \"Forbidden One\" Normal Monsters with different names, your opponent wins the Duel.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37984331.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37984331.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37984331.jpg"
+  }
+}

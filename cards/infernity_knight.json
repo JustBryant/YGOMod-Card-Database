@@ -1,0 +1,16 @@
+{
+  "id": 71341529,
+  "name": "Infernity Knight",
+  "type": "Effect Monster",
+  "description": "When this card on the field is destroyed and sent to the Graveyard: You can discard 2 cards; Special Summon this card from the Graveyard.",
+  "attack": 1400,
+  "defense": 400,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71341529.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71341529.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71341529.jpg"
+  }
+}

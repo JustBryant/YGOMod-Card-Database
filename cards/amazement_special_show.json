@@ -1,0 +1,12 @@
+{
+  "id": 6374519,
+  "name": "Amazement Special Show",
+  "type": "Spell Card",
+  "description": "When your opponent activates a card or effect that targets an \"Amazement\" monster(s) you control: Target 1 of those \"Amazement\" monsters you control; return it to the hand, then, you can Special Summon 1 \"Amazement\" monster from your hand.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6374519.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6374519.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6374519.jpg"
+  }
+}

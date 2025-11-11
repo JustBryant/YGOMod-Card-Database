@@ -1,0 +1,12 @@
+{
+  "id": 84298614,
+  "name": "Powerful Rebirth",
+  "type": "Trap Card",
+  "description": "Activate this card by targeting 1 Level 4 or lower monster in your GY; Special Summon that target. Increase its Level by 1 and ATK and DEF by 100. When that monster is destroyed, destroy this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84298614.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84298614.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84298614.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15595052,
+  "name": "Disciple of the Forbidden Spell",
+  "type": "Effect Monster",
+  "description": "When this card is Summoned, declare different Monster Card Attributes equal to the number of \"Disciple of the Forbidden Spell\"(s) in your Graveyard. If this card attacks a monster that has a declared Attribute, destroy the monster with this card's effect without applying damage calculation.",
+  "attack": 1700,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15595052.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15595052.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15595052.jpg"
+  }
+}

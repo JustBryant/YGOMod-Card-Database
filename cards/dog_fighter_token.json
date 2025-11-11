@@ -1,0 +1,12 @@
+{
+  "id": 29491335,
+  "name": "DOG Fighter Token",
+  "type": "Token",
+  "description": "Summoned by the effect of \"Kozmo DOG Fighter\".",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29491335.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29491335.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29491335.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 99594764,
+  "name": "Dragunity Corsesca",
+  "type": "Tuner Monster",
+  "description": "This effect can only be activated while this card is equipped to a monster. If the equipped monster destroys an opponent's monster by battle, you can add 1 Level 4 or lower monster from your Deck to your hand with the same Type and Attribute as the monster this card is equipped to.",
+  "attack": 800,
+  "defense": 700,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99594764.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99594764.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99594764.jpg"
+  }
+}

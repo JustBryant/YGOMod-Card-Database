@@ -1,0 +1,16 @@
+{
+  "id": 54360049,
+  "name": "Catoblepas and the Witch of Fate",
+  "type": "Effect Monster",
+  "description": "When your opponent Special Summons a monster(s), you can remove from play 1 monster with ? ATK from your Graveyard to destroy that Special Summoned monster(s).",
+  "attack": 1800,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54360049.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54360049.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54360049.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 95027497,
+  "name": "Ninja Grandmaster Hanzo",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can add 1 \"Ninjitsu Art\" card from your Deck to your hand. When this card is Flip or Special Summoned: You can add 1 \"Ninja\" monster from your Deck to your hand, except \"Ninja Grandmaster Hanzo\".",
+  "attack": 1800,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95027497.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95027497.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95027497.jpg"
+  }
+}

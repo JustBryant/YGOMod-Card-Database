@@ -1,0 +1,16 @@
+{
+  "id": 65623423,
+  "name": "Gruesome Goo",
+  "type": "Normal Monster",
+  "description": "A slime boss that is definitely tougher than it looks.",
+  "attack": 1300,
+  "defense": 700,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65623423.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65623423.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65623423.jpg"
+  }
+}

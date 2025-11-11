@@ -1,0 +1,16 @@
+{
+  "id": 4941482,
+  "name": "Informer Spider",
+  "type": "Effect Monster",
+  "description": "When this card is sent from the field to the Graveyard by a card effect, take control of 1 Defense Position monster your opponent controls.",
+  "attack": 500,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4941482.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4941482.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4941482.jpg"
+  }
+}

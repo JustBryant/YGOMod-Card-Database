@@ -1,0 +1,16 @@
+{
+  "id": 79169622,
+  "name": "Glacial Beast Polar Penguin",
+  "type": "Tuner Monster",
+  "description": "If this card is Special Summoned: You can target 1 monster your opponent controls; return it to the hand. If this card on the field is destroyed by battle or card effect: You can target 1 card your opponent controls; return it to the hand. You can only use 1 \"Glacial Beast Polar Penguin\" effect per turn, and only once that turn.",
+  "attack": 800,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79169622.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79169622.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79169622.jpg"
+  }
+}

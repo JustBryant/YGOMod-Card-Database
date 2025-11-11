@@ -1,0 +1,12 @@
+{
+  "id": 56948373,
+  "name": "Mask of the Accursed",
+  "type": "Spell Card",
+  "description": "The equipped monster cannot attack. Once per turn, during your Standby Phase: Inflict 500 damage to the controller of the equipped monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56948373.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56948373.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56948373.jpg"
+  }
+}

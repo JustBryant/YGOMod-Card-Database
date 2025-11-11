@@ -1,0 +1,16 @@
+{
+  "id": 45909477,
+  "name": "Moon Envoy",
+  "type": "Normal Monster",
+  "description": "Many have fallen victim to this lunar warrior's crescent pike.",
+  "attack": 1100,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45909477.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45909477.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45909477.jpg"
+  }
+}

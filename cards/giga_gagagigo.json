@@ -1,0 +1,16 @@
+{
+  "id": 43793530,
+  "name": "Giga Gagagigo",
+  "type": "Normal Monster",
+  "description": "In order to fight tremendous evil, he gained formidable power through body reconstruction, but lost his heart and his redemption.",
+  "attack": 2450,
+  "defense": 1500,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43793530.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43793530.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43793530.jpg"
+  }
+}

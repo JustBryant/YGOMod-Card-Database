@@ -1,0 +1,12 @@
+{
+  "id": 28653611,
+  "name": "Infernal Punisher",
+  "type": "Spell Card",
+  "description": "Activate 1 of these effects (but you can only use each effect of \"Infernal Punisher\" once per turn);\r\n● Add 1 WATER Dinosaur monster from your Deck to your hand, then you can Special Summon it if your opponent controls a monster.\r\n● Tribute 1 monster; Special Summon 1 Level 6 or higher FIRE monster from your hand, Deck, or GY, but negate its effects if it is a non-Fiend monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28653611.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28653611.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28653611.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 93543806,
+  "name": "Chronomaly Sol Monolith",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 \"Chronomaly\" monster you control; its Level becomes 6. You cannot Special Summon any monsters during the turn you activate this effect, except \"Chronomaly\" monsters.",
+  "attack": 600,
+  "defense": 600,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93543806.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93543806.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93543806.jpg"
+  }
+}

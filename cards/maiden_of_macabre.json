@@ -1,0 +1,16 @@
+{
+  "id": 84055227,
+  "name": "Maiden of Macabre",
+  "type": "Effect Monster",
+  "description": "Each time this card destroys an opponent's monster by battle, place 1 Spell Counter on it. This card gains 200 ATK for each Spell Counter on it.",
+  "attack": 1700,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84055227.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84055227.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84055227.jpg"
+  }
+}

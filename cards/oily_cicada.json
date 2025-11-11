@@ -1,0 +1,16 @@
+{
+  "id": 79663524,
+  "name": "Oily Cicada",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can reduce the Levels of all Insect monsters you currently control by 1. If the battle position of this card is changed: You can Special Summon 1 \"Oily Cicada\" from your hand, Deck, or GY. You can only use each effect of \"Oily Cicada\" once per turn.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79663524.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79663524.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79663524.jpg"
+  }
+}

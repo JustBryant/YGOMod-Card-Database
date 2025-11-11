@@ -1,0 +1,16 @@
+{
+  "id": 72992744,
+  "name": "Jester Lord",
+  "type": "Effect Monster",
+  "description": "While this card is the only monster on the field, it gains 1000 ATK for each card in the Spell & Trap Card Zones.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72992744.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72992744.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72992744.jpg"
+  }
+}

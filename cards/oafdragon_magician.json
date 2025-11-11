@@ -1,0 +1,16 @@
+{
+  "id": 14920218,
+  "name": "Oafdragon Magician",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nIf you have a \"Magician\" card in your other Pendulum Zone: You can add 1 face-up \"Magician\" or \"Odd-Eyes\" Pendulum Monster from your Extra Deck to your hand, except \"Oafdragon Magician\". You can only use this effect of \"Oafdragon Magician\" once per turn.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can target 1 \"Magician\" Pendulum Monster or \"Odd-Eyes\" monster in your Graveyard, except \"Oafdragon Magician\"; add it to your hand. You can only use this effect of \"Oafdragon Magician\" once per turn.",
+  "attack": 2100,
+  "defense": 1400,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14920218.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14920218.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14920218.jpg"
+  }
+}

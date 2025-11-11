@@ -1,0 +1,12 @@
+{
+  "id": 61654098,
+  "name": "World Legacy Discovery",
+  "type": "Spell Card",
+  "description": "All \"World Chalice\" monsters on the field gain 300 ATK/DEF. Once per turn, if a face-up \"World Chalice\" monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can target 1 \"World Chalice\" monster in your GY; Special Summon it in Defense Position.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61654098.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61654098.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61654098.jpg"
+  }
+}

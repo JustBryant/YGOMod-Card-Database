@@ -1,0 +1,16 @@
+{
+  "id": 54652250,
+  "name": "Man-Eater Bug",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Target 1 monster on the field; destroy it.",
+  "attack": 450,
+  "defense": 600,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54652250.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54652250.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54652250.jpg"
+  }
+}

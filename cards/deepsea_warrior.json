@@ -1,0 +1,16 @@
+{
+  "id": 24128274,
+  "name": "Deepsea Warrior",
+  "type": "Effect Monster",
+  "description": "As long as \"Umi\" is face-up on the field, this card is unaffected by any Spell Cards.",
+  "attack": 1600,
+  "defense": 1800,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24128274.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24128274.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24128274.jpg"
+  }
+}

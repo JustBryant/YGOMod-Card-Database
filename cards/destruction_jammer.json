@@ -1,0 +1,12 @@
+{
+  "id": 98956134,
+  "name": "Destruction Jammer",
+  "type": "Trap Card",
+  "description": "Discard 1 card. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect that destroys a monster(s) on the field, and destroy that card.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98956134.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98956134.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98956134.jpg"
+  }
+}

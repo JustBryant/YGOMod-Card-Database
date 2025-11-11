@@ -1,0 +1,16 @@
+{
+  "id": 37445295,
+  "name": "Shaddoll Falco",
+  "type": "Flip Tuner Effect Monster",
+  "description": "FLIP: You can target 1 \"Shaddoll\" monster in your GY, except \"Shaddoll Falco\"; Special Summon it in face-down Defense Position.\r\nIf this card is sent to the GY by a card effect: You can Special Summon it in face-down Defense Position. You can only use 1 \"Shaddoll Falco\" effect per turn, and only once that turn.",
+  "attack": 600,
+  "defense": 1400,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37445295.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37445295.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37445295.jpg"
+  }
+}

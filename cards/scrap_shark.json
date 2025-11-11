@@ -1,0 +1,16 @@
+{
+  "id": 69155991,
+  "name": "Scrap Shark",
+  "type": "Effect Monster",
+  "description": "When an Effect Monster's effect or a Spell/Trap Card is activated, destroy this face-up card on the field. If this card is destroyed by the effect of a \"Scrap\" card and sent to the Graveyard, you can send 1 \"Scrap\" monster from your Deck to the Graveyard.",
+  "attack": 2100,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69155991.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69155991.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69155991.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 300302068,
+  "name": "No One Suspects the Dark Scorpion Gang!",
+  "type": "Skill Card",
+  "description": "Once per Duel, during your Main Phase, if you control \"Don Zaloog\", you can discard 1 card to Special Summon 2 \"Dark Scorpion\" monsters with different names from your hand and Deck (1 from each). \"Don Zaloog\" and \"Dark Scorpion\" monsters you control can attack directly, but when they do so using this Skill, the battle damage inflicted to your opponent becomes 400. You cannot Summon or Set any monsters except \"Don Zaloog\" and/or \"Dark Scorpion\" monsters.",
+  "race": "Don Zaloog",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302068.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302068.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302068.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 50260683,
+  "name": "Number 36: Chronomaly Chateau Huyuk",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 \"Chronomaly\" monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. You can Tribute 1 \"Chronomaly\" monster, then target 1 monster your opponent controls, whose current ATK is different from its original ATK; destroy that target.",
+  "attack": 2000,
+  "defense": 2500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50260683.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50260683.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50260683.jpg"
+  }
+}

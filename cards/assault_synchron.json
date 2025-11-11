@@ -1,0 +1,16 @@
+{
+  "id": 77202120,
+  "name": "Assault Synchron",
+  "type": "Tuner Monster",
+  "description": "During your Main Phase: You can Special Summon this card from your hand, then take 700 damage, also you cannot Special Summon monsters from the Extra Deck, except Synchro Monsters, while this card is face-up in the Monster Zone. If a face-up Dragon Synchro Monster(s) you control is Tributed or banished (except during the Damage Step): You can banish this card from your GY, then target 1 of those monsters; Special Summon it. You can only use each effect of \"Assault Synchron\" once per turn.",
+  "attack": 700,
+  "defense": 0,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77202120.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77202120.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77202120.jpg"
+  }
+}

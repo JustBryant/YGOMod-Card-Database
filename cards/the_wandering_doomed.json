@@ -1,0 +1,16 @@
+{
+  "id": 93788854,
+  "name": "The Wandering Doomed",
+  "type": "Normal Monster",
+  "description": "''A monster that wanders the edges of the netherworld.''",
+  "attack": 800,
+  "defense": 600,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93788854.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93788854.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93788854.jpg"
+  }
+}

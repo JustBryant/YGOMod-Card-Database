@@ -1,0 +1,16 @@
+{
+  "id": 8611007,
+  "name": "Lavalval Dragun",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner FIRE monsters\nOnce per turn: You can add 1 \"Laval\" monster from your Deck to your hand, then send 1 \"Laval\" monster from your hand to the Graveyard.",
+  "attack": 2500,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8611007.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8611007.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8611007.jpg"
+  }
+}

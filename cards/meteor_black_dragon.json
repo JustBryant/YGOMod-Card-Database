@@ -1,0 +1,16 @@
+{
+  "id": 90660762,
+  "name": "Meteor Black Dragon",
+  "type": "Fusion Monster",
+  "description": "\"Red-Eyes Black Dragon\" + \"Meteor Dragon\"",
+  "attack": 3500,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90660762.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90660762.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90660762.jpg"
+  }
+}

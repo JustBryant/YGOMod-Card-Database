@@ -1,0 +1,16 @@
+{
+  "id": 97262307,
+  "name": "Ragnaraika Wicked Butterfly",
+  "type": "Effect Monster",
+  "description": "You can discard this card; Special Summon 1 Insect, Plant, or Reptile monster from your hand. If this card is banished from the hand or GY: You can draw cards during the End Phase of this turn, equal to the number of different Monster Types among the monsters you control that are Insect, Plant, or Reptile. You can only use each effect of \"Ragnaraika Wicked Butterfly\" once per turn.",
+  "attack": 1800,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97262307.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97262307.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97262307.jpg"
+  }
+}

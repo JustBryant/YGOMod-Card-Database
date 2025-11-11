@@ -1,0 +1,12 @@
+{
+  "id": 62868900,
+  "name": "D - Shield",
+  "type": "Trap Card",
+  "description": "When an Attack Position \"Destiny HERO\" monster you control is targeted for an attack: Target it; change it to Defense Position and equip it with this card. The equipped monster cannot be destroyed by battle.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62868900.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62868900.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62868900.jpg"
+  }
+}

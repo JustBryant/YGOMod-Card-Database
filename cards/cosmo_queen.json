@@ -1,0 +1,16 @@
+{
+  "id": 38999506,
+  "name": "Cosmo Queen",
+  "type": "Normal Monster",
+  "description": "Queen of the galaxies and mistress of the stars.",
+  "attack": 2900,
+  "defense": 2450,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38999506.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38999506.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38999506.jpg"
+  }
+}

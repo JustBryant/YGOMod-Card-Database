@@ -1,0 +1,12 @@
+{
+  "id": 79509511,
+  "name": "Galaxy Journey",
+  "type": "Spell Card",
+  "description": "Special Summon 1 of your banished LIGHT or DARK monsters. If a face-up Xyz Monster(s) you control is banished, while this card is in your GY (except during the Damage Step): You can banish this card, then target 1 of those monsters; Special Summon it. You can only use each effect of \"Galaxy Journey\" once per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79509511.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79509511.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79509511.jpg"
+  }
+}

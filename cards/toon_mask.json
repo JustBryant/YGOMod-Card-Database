@@ -1,0 +1,12 @@
+{
+  "id": 79447365,
+  "name": "Toon Mask",
+  "type": "Trap Card",
+  "description": "If you control \"Toon World\": Target 1 face-up monster your opponent controls; Special Summon 1 Toon monster from your hand or Deck, whose Level is less than or equal to the Level/Rank of that monster, ignoring its Summoning conditions.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79447365.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79447365.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79447365.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 68516705,
+  "name": "Mystic Horseman",
+  "type": "Normal Monster",
+  "description": "Half man and half horse, this monster is known for its extreme speed.",
+  "attack": 1300,
+  "defense": 1550,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68516705.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68516705.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68516705.jpg"
+  }
+}

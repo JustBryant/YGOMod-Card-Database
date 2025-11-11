@@ -1,0 +1,16 @@
+{
+  "id": 30314994,
+  "name": "Element Dragon",
+  "type": "Effect Monster",
+  "description": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● FIRE: This card gains 500 ATK. ● WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30314994.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30314994.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30314994.jpg"
+  }
+}

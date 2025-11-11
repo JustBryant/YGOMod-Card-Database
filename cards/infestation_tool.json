@@ -1,0 +1,12 @@
+{
+  "id": 27207573,
+  "name": "Infestation Tool",
+  "type": "Trap Card",
+  "description": "Send 1 \"Steelswarm\" monster from your Deck to the Graveyard to target 1 face-up \"Steelswarm\" monster you control; it gains 800 ATK until the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27207573.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27207573.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27207573.jpg"
+  }
+}

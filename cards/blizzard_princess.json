@@ -1,0 +1,16 @@
+{
+  "id": 28348537,
+  "name": "Blizzard Princess",
+  "type": "Effect Monster",
+  "description": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 Spellcaster-Type monster. After this card was Normal Summoned, your opponent cannot activate Spell/Trap Cards for the rest of that turn.",
+  "attack": 2800,
+  "defense": 2100,
+  "level": 8,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28348537.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28348537.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28348537.jpg"
+  }
+}

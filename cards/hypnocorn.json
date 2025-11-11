@@ -1,0 +1,16 @@
+{
+  "id": 20351153,
+  "name": "Hypnocorn",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned, if your opponent controls a monster and you control no other monsters: You can target 1 Set Spell/Trap Card on the field; destroy that target.",
+  "attack": 1400,
+  "defense": 600,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20351153.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20351153.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20351153.jpg"
+  }
+}

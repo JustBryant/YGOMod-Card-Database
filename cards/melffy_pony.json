@@ -1,0 +1,16 @@
+{
+  "id": 56401775,
+  "name": "Melffy Pony",
+  "type": "Effect Monster",
+  "description": "If your opponent Normal or Special Summons a monster(s) (except during the Damage Step), or if an opponent's monster targets this card for an attack: You can return this card to the hand, then you can add 1 Level 2 or lower Beast monster from your GY to your hand, except \"Melffy Pony\". During your End Phase: You can Special Summon this card from your hand. You can only use each effect of \"Melffy Pony\" once per turn.",
+  "attack": 400,
+  "defense": 0,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56401775.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56401775.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56401775.jpg"
+  }
+}

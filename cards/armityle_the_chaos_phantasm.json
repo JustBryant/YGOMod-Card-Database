@@ -1,0 +1,16 @@
+{
+  "id": 43378048,
+  "name": "Armityle the Chaos Phantasm",
+  "type": "Fusion Monster",
+  "description": "\"Uria, Lord of Searing Flames\" + \"Hamon, Lord of Striking Thunder\" + \"Raviel, Lord of Phantasms\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be destroyed by battle. Gains 10,000 ATK during your turn only.",
+  "attack": 0,
+  "defense": 0,
+  "level": 12,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43378048.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43378048.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43378048.jpg"
+  }
+}

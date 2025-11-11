@@ -1,0 +1,16 @@
+{
+  "id": 25132288,
+  "name": "Light End Dragon",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner LIGHT monsters\nAt attack declaration, if this card battles another monster: You can have this card lose 500 ATK and DEF (permanently), and the monster this card is battling loses 1500 ATK and DEF until the End Phase.",
+  "attack": 2600,
+  "defense": 2100,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25132288.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25132288.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25132288.jpg"
+  }
+}

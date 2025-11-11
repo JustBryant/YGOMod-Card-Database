@@ -1,0 +1,16 @@
+{
+  "id": 58655504,
+  "name": "Gnomaterial",
+  "type": "Effect Monster",
+  "description": "If your opponent Special Summons a monster(s) while you control no cards: You can discard this card, then target 1 face-up monster your opponent controls; this turn, that monster cannot be Tributed, or used as material for a Fusion, Synchro, Xyz, or Link Summon. You can only use this effect of \"Gnomaterial\" once per turn.",
+  "attack": 0,
+  "defense": 1000,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58655504.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58655504.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58655504.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 68618157,
+  "name": "Bujinki Amaterasu",
+  "type": "XYZ Monster",
+  "description": "3 Level 4 monsters\nYou can only control 1 \"Bujinki Amaterasu\". Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; apply this effect, depending on whose turn it is.\n● Your turn: Target 1 of your banished Level 4 or lower monsters; Special Summon that target.\n● Your opponent's turn: Target 1 of your banished Level 4 or lower monsters; add that target to your hand.",
+  "attack": 2600,
+  "defense": 2500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68618157.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68618157.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68618157.jpg"
+  }
+}

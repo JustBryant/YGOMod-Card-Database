@@ -1,0 +1,16 @@
+{
+  "id": 99370594,
+  "name": "Ghost Sleeper, the Underworld Princess",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the GY: You can add 1 \"Ghost Fusion\" from your Deck to your hand. If this card is in your GY, except the turn it was sent there: You can banish this card and discard 1 card, then target 1 of your banished Level 4 or higher Zombie monsters; add it to your hand. You can only use each effect of \"Ghost Sleeper, the Underworld Princess\" once per turn.",
+  "attack": 1300,
+  "defense": 0,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99370594.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99370594.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99370594.jpg"
+  }
+}

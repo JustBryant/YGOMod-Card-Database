@@ -1,0 +1,16 @@
+{
+  "id": 13974207,
+  "name": "Denko Sekka",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned. While you control no Set Spells/Traps, neither player can Set Spells/Traps nor activate Spell/Trap Cards that are Set on the field.",
+  "attack": 1700,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13974207.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13974207.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13974207.jpg"
+  }
+}

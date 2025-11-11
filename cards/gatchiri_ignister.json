@@ -1,0 +1,16 @@
+{
+  "id": 82257671,
+  "name": "Gatchiri @Ignister",
+  "type": "Effect Monster",
+  "description": "The first time each Cyberse monster you control would be destroyed by a card effect each turn, it is not destroyed. You can only use each of the following effects of \"Gatchiri @Ignister\" once per turn.\r\n● You can target 1 Cyberse Effect Monster you control; negate its effects, and if you do, Special Summon this card from your hand.\r\n● If this card is sent from the field to your GY: You can target 1 face-up monster you control; that target is unaffected by your opponent's card effects until the end of your opponent's turn.",
+  "attack": 0,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82257671.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82257671.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82257671.jpg"
+  }
+}

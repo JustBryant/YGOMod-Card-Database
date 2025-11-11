@@ -1,0 +1,16 @@
+{
+  "id": 14124483,
+  "name": "Elemental HERO Honest Neos",
+  "type": "Effect Monster",
+  "description": "(Quick Effect): You can discard this card, then target 1 \"HERO\" monster on the field; it gains 2500 ATK until the end of this turn. (Quick Effect): You can discard 1 \"HERO\" monster; this card gains ATK equal to the discarded monster's ATK until the end of this turn. You can only use each effect of \"Elemental HERO Honest Neos\" once per turn.",
+  "attack": 2500,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14124483.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14124483.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14124483.jpg"
+  }
+}

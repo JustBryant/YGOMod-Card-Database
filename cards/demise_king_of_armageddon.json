@@ -1,0 +1,16 @@
+{
+  "id": 72426662,
+  "name": "Demise, King of Armageddon",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with \"End of the World\". You can pay 2000 LP; destroy all other cards on the field.",
+  "attack": 2400,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72426662.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72426662.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72426662.jpg"
+  }
+}

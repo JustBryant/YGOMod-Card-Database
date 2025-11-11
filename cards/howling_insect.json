@@ -1,0 +1,16 @@
+{
+  "id": 93107608,
+  "name": "Howling Insect",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Insect-Type monster with 1500 or less ATK from your Deck.",
+  "attack": 1200,
+  "defense": 1300,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93107608.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93107608.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93107608.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 58308221,
+  "name": "Extra Pendulum",
+  "type": "Spell Card",
+  "description": "During your Main Phase this turn, you can conduct 1 Pendulum Summon of a monster(s) from your Extra Deck in addition to your Pendulum Summon. (You can only gain this effect once per turn.)",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58308221.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58308221.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58308221.jpg"
+  }
+}

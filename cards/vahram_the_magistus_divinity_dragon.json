@@ -1,0 +1,16 @@
+{
+  "id": 61272280,
+  "name": "Vahram, the Magistus Divinity Dragon",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nWhile this card is an Equip Card, the equipped monster cannot be destroyed by your opponent's Spell/Trap effects. You can only use each of the following effects of \"Vahram, the Magistus Divinity Dragon\" once per turn. If this Synchro Summoned card is destroyed: You can destroy all face-up cards your opponent controls. At the start of the Damage Step, if the monster this card is equipped to battles an opponent's monster: You can destroy that opponent's monster.",
+  "attack": 2500,
+  "defense": 2900,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61272280.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61272280.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61272280.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 38625110,
+  "name": "Let's Go Together",
+  "type": "Spell Card",
+  "description": "If you have no \"Let's Go Together\" in your face-up field, GY, nor banishment: Banish 7 cards from the top of your Deck, face-down; make your opponent banish 7 cards from their Extra Deck and/or top of their Deck, face-down, and they must declare how many are banished from each beforehand.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38625110.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38625110.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38625110.jpg"
+  }
+}

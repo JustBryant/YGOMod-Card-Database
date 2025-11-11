@@ -1,0 +1,16 @@
+{
+  "id": 98437424,
+  "name": "Naturia Cosmobeet",
+  "type": "Tuner Monster",
+  "description": "When your opponent Normal Summons or Sets a monster, you can Special Summon this card from your hand.",
+  "attack": 1000,
+  "defense": 700,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98437424.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98437424.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98437424.jpg"
+  }
+}

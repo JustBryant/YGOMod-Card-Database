@@ -1,0 +1,16 @@
+{
+  "id": 77084837,
+  "name": "Inaba White Rabbit",
+  "type": "Spirit Monster",
+  "description": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. This monster attacks your opponent's Life Points directly.",
+  "attack": 700,
+  "defense": 500,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77084837.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77084837.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77084837.jpg"
+  }
+}

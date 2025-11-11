@@ -1,0 +1,16 @@
+{
+  "id": 31242786,
+  "name": "Souleater",
+  "type": "Normal Monster",
+  "description": "A living wonder of mystery.",
+  "attack": 1200,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31242786.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31242786.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31242786.jpg"
+  }
+}

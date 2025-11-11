@@ -3,14 +3,14 @@
   "name": "Kagemusha of the Blue Flame",
   "type": "Normal Monster",
   "description": "Serving as a double for the Ruler of the Blue Flame, he's a master swordsman that wields a fine blade.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/15401633.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/15401633.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15401633.jpg"
-  },
   "attack": 800,
   "defense": 400,
   "level": 2,
   "attribute": "EARTH",
-  "race": "Warrior"
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15401633.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15401633.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15401633.jpg"
+  }
 }

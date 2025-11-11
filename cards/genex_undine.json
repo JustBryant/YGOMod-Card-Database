@@ -1,0 +1,16 @@
+{
+  "id": 4904812,
+  "name": "Genex Undine",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can send 1 WATER monster from your Deck to the Graveyard; add 1 \"Genex Controller\" from your Deck to your hand.",
+  "attack": 1200,
+  "defense": 600,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4904812.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4904812.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4904812.jpg"
+  }
+}

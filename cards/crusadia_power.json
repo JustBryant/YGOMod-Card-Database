@@ -1,0 +1,12 @@
+{
+  "id": 96434581,
+  "name": "Crusadia Power",
+  "type": "Spell Card",
+  "description": "Target 1 \"Crusadia\" monster you control; that \"Crusadia\" monster is unaffected by card effects this turn, except its own. You can only activate 1 \"Crusadia Power\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96434581.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96434581.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96434581.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 46609443,
+  "name": "Chaos-End Master",
+  "type": "Tuner Monster",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon 1 Level 5 or higher monster with 1600 or less ATK from your Deck.",
+  "attack": 1500,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46609443.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46609443.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46609443.jpg"
+  }
+}

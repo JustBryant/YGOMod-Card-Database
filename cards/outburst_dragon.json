@@ -1,0 +1,16 @@
+{
+  "id": 87263576,
+  "name": "Outburst Dragon",
+  "type": "Effect Monster",
+  "description": "If you control a monster: You can Special Summon this card from your hand, then destroy all other monsters you control, also you cannot Special Summon monsters, except DARK monsters, while this card is face-up in the Monster Zone. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 Dragon Link Monster using materials you control, including this card. You can only use each effect of \"Outburst Dragon\" once per turn.",
+  "attack": 2100,
+  "defense": 2800,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87263576.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87263576.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87263576.jpg"
+  }
+}

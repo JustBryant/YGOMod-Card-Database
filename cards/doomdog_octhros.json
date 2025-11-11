@@ -1,0 +1,16 @@
+{
+  "id": 58616392,
+  "name": "Doomdog Octhros",
+  "type": "Effect Monster",
+  "description": "If this card is sent from the field to the Graveyard: Add 1 Level 8 Fiend-Type monster from your Deck to your hand. You can only use this effect of \"Doomdog Octhros\" once per turn.",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58616392.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58616392.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58616392.jpg"
+  }
+}

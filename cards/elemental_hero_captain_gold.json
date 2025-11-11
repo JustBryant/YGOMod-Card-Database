@@ -1,0 +1,16 @@
+{
+  "id": 80908502,
+  "name": "Elemental HERO Captain Gold",
+  "type": "Effect Monster",
+  "description": "You can discard this card to the Graveyard; add 1 \"Skyscraper\" from your Deck to your hand. If \"Skyscraper\" is not face-up on the field, destroy this card.",
+  "attack": 2100,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80908502.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80908502.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80908502.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 69512157,
+  "name": "Vector Pendulum, the Dracoverlord",
+  "type": "Pendulum Normal Monster",
+  "description": "[ Pendulum Effect ] \nNegate all card effects in your opponent's Pendulum Zones.\n\n[ Monster Effect ] \n''This Overlord overran an entire world with his army of Dracofiends, using his Dragon Alchemy to convert all life into his terrible minions. The source of this power is unidentified, and probably extra-dimensional.''",
+  "attack": 1850,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69512157.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69512157.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69512157.jpg"
+  }
+}

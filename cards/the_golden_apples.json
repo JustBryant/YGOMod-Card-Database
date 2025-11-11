@@ -1,0 +1,12 @@
+{
+  "id": 42671151,
+  "name": "The Golden Apples",
+  "type": "Trap Card",
+  "description": "When you take battle damage while you control no monsters: Gain LP equal to the battle damage you took, and if you do, Special Summon 1 \"Malus Token\" (Fiend/DARK/Level 1/ATK ?/DEF ?). Its ATK/DEF are each equal to the amount of LP you gained by this effect.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42671151.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42671151.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42671151.jpg"
+  }
+}

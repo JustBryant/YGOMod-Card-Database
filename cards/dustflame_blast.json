@@ -1,0 +1,12 @@
+{
+  "id": 38049934,
+  "name": "Dustflame Blast",
+  "type": "Trap Card",
+  "description": "Banish all \"Laval\" monsters from your Graveyard; destroy any number of cards on the field, up to the number of monsters banished for this card's activation.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38049934.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38049934.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38049934.jpg"
+  }
+}

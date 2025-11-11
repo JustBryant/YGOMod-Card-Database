@@ -1,0 +1,12 @@
+{
+  "id": 300302028,
+  "name": "Cyberdark Style (Skill Card)",
+  "type": "Skill Card",
+  "description": "Once per turn, choose 3 \"Cyberdark\" monsters from your Deck. Your opponent randomly adds 1 of them to your hand. Shuffle the other 2 along with 1 card from your hand back into your Deck, then flip this card over. This Skill can be used up to three times, once when your LP are 3000 or less, once when your LP are 2000 or less, and once when your LP are 1000 or less.",
+  "race": "Zane Truesdal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302028.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302028.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302028.jpg"
+  }
+}

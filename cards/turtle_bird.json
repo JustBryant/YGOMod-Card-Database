@@ -1,0 +1,16 @@
+{
+  "id": 72929454,
+  "name": "Turtle Bird",
+  "type": "Normal Monster",
+  "description": "An unusual turtle that not only swims at tremendous speeds, but can also sail across the skies.",
+  "attack": 1900,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72929454.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72929454.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72929454.jpg"
+  }
+}

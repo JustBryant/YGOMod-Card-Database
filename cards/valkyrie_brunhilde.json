@@ -1,0 +1,16 @@
+{
+  "id": 2204038,
+  "name": "Valkyrie Brunhilde",
+  "type": "Effect Monster",
+  "description": "Unaffected by your opponent's Spell effects. Gains 500 ATK for each monster your opponent controls. When an opponent's monster declares an attack: You can have this card lose exactly 1000 DEF, and if you do, your \"Valkyrie\" monsters cannot be destroyed by battle this turn.",
+  "attack": 1800,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2204038.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2204038.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2204038.jpg"
+  }
+}

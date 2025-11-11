@@ -3,14 +3,14 @@
   "name": "Tyhone",
   "type": "Normal Monster",
   "description": "Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/72842870.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/72842870.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72842870.jpg"
-  },
   "attack": 1200,
   "defense": 1400,
   "level": 4,
   "attribute": "WIND",
-  "race": "Winged Beast"
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72842870.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72842870.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72842870.jpg"
+  }
 }

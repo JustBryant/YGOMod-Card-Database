@@ -1,0 +1,16 @@
+{
+  "id": 71415349,
+  "name": "Humpty Grumpty",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can change this card to face-down Defense Position. If this card is Flip Summoned: It gains 800 ATK until the end of this turn.",
+  "attack": 1400,
+  "defense": 0,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71415349.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71415349.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71415349.jpg"
+  }
+}

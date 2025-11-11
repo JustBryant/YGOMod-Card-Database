@@ -1,0 +1,12 @@
+{
+  "id": 2779999,
+  "name": "Wall of Thorns",
+  "type": "Trap Card",
+  "description": "When a Plant-Type monster you control is targeted for an attack: Destroy all Attack Position monsters your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2779999.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2779999.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2779999.jpg"
+  }
+}

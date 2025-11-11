@@ -1,0 +1,12 @@
+{
+  "id": 64047146,
+  "name": "Horn of the Unicorn",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 700 ATK and DEF. When this card is sent from the field to the Graveyard: Return it to the top of the Deck.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64047146.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64047146.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64047146.jpg"
+  }
+}

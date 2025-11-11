@@ -1,0 +1,16 @@
+{
+  "id": 65331686,
+  "name": "Fluffal Owl",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned from the hand: You can add 1 \"Polymerization\" from your Deck to your hand. You can pay 500 LP; Fusion Summon 1 \"Frightfur\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials. You can only use 1 \"Fluffal Owl\" effect per turn, and only once that turn.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65331686.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65331686.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65331686.jpg"
+  }
+}

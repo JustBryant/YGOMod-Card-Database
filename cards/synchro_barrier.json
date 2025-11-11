@@ -1,0 +1,12 @@
+{
+  "id": 21879581,
+  "name": "Synchro Barrier",
+  "type": "Trap Card",
+  "description": "Tribute 1 Synchro Monster you control. You do not take any damage until the End Phase of the next turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21879581.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21879581.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21879581.jpg"
+  }
+}

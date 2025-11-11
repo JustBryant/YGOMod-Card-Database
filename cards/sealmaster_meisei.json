@@ -1,0 +1,16 @@
+{
+  "id": 2468169,
+  "name": "Sealmaster Meisei",
+  "type": "Normal Monster",
+  "description": "One of the few people who has a good command of Talismans. His history is a mystery.",
+  "attack": 1100,
+  "defense": 900,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2468169.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2468169.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2468169.jpg"
+  }
+}

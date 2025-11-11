@@ -1,0 +1,16 @@
+{
+  "id": 209710,
+  "name": "Flick Clown",
+  "type": "Effect Monster",
+  "description": "If you control at least 2 other Cyberse monsters and have no cards in your hand: You can pay 1000 LP; draw 1 card. You can only use this effect of \"Flick Clown\" once per turn.",
+  "attack": 1000,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/209710.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/209710.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/209710.jpg"
+  }
+}

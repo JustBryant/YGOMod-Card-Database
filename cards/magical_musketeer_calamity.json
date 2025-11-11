@@ -1,0 +1,16 @@
+{
+  "id": 68024506,
+  "name": "Magical Musketeer Calamity",
+  "type": "Effect Monster",
+  "description": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can target 1 \"Magical Musket\" monster in your GY; Special Summon it in Defense Position. You can only use this effect of \"Magical Musketeer Calamity\" once per turn.",
+  "attack": 1500,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68024506.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68024506.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68024506.jpg"
+  }
+}

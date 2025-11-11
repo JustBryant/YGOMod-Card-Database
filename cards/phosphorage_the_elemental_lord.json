@@ -1,0 +1,16 @@
+{
+  "id": 8192327,
+  "name": "Phosphorage the Elemental Lord",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 LIGHT monsters in your GY. When this card is Special Summoned: You can destroy all monsters your opponent controls. You can only use this effect of \"Phosphorage the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
+  "attack": 2800,
+  "defense": 2200,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8192327.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8192327.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8192327.jpg"
+  }
+}

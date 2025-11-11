@@ -1,0 +1,12 @@
+{
+  "id": 49251811,
+  "name": "Mystic Probe",
+  "type": "Trap Card",
+  "description": "You can only activate this card when a Continuous Spell Card is activated. Negate all Continuous Spell Cards during the turn this card is activated.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49251811.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49251811.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49251811.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 22024279,
+  "name": "Altergeist Revitalization",
+  "type": "Trap Card",
+  "description": "Target 1 \"Altergeist\" Link Monster in your GY; Special Summon it. You can banish this card from your GY; immediately after this effect resolves, Normal Summon 1 \"Altergeist\" monster. You can only use 1 \"Altergeist Revitalization\" effect per turn, and only once that turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22024279.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22024279.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22024279.jpg"
+  }
+}

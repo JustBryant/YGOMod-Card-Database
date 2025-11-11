@@ -1,0 +1,16 @@
+{
+  "id": 84224627,
+  "name": "Cat Shark",
+  "type": "XYZ Monster",
+  "description": "2 Level 2 monsters\nWhile this card has an Xyz Material attached that was originally WATER, it cannot be destroyed by battle. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 Rank 4 or lower Xyz Monster you control; its ATK and DEF each become double its original ATK and DEF until the end of this turn.",
+  "attack": 500,
+  "defense": 500,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84224627.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84224627.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84224627.jpg"
+  }
+}

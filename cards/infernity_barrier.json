@@ -1,0 +1,12 @@
+{
+  "id": 9059700,
+  "name": "Infernity Barrier",
+  "type": "Trap Card",
+  "description": "When your opponent activates a Spell/Trap Card, or monster effect, while you control a face-up Attack Position \"Infernity\" monster and have no cards in your hand: Negate the activation, and if you do, destroy that card.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9059700.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9059700.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9059700.jpg"
+  }
+}

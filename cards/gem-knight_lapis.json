@@ -1,0 +1,16 @@
+{
+  "id": 99645428,
+  "name": "Gem-Knight Lapis",
+  "type": "Normal Monster",
+  "description": "The best of friends with Lazuli, this soldier deeply cares about the well-being of her friends.",
+  "attack": 1200,
+  "defense": 100,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99645428.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99645428.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99645428.jpg"
+  }
+}

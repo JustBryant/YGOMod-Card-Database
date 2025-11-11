@@ -1,0 +1,16 @@
+{
+  "id": 43925870,
+  "name": "Windmill Genex",
+  "type": "Synchro Monster",
+  "description": "\"Genex Controller\" + 1 or more non-Tuner WIND monsters\nThis card gains 300 ATK for each face-down Spell and Trap Card on the field. You can send 1 card from your hand to the Graveyard to select and destroy 1 face-down Spell or Trap Card.",
+  "attack": 2000,
+  "defense": 1600,
+  "level": 7,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43925870.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43925870.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43925870.jpg"
+  }
+}

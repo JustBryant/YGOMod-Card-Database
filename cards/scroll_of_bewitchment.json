@@ -1,0 +1,12 @@
+{
+  "id": 10352095,
+  "name": "Scroll of Bewitchment",
+  "type": "Spell Card",
+  "description": "Select 1 Attribute. Change the Attribute of the equipped monster to the one you select.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10352095.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10352095.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10352095.jpg"
+  }
+}

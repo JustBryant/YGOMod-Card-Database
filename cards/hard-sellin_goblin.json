@@ -1,0 +1,12 @@
+{
+  "id": 68875140,
+  "name": "Hard-sellin' Goblin",
+  "type": "Trap Card",
+  "description": "Each time a monster you control inflicts Battle Damage to your opponent, return 1 card in your opponent's Spell & Trap Card Zone to its owner's hand.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68875140.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68875140.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68875140.jpg"
+  }
+}

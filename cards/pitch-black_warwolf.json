@@ -1,0 +1,16 @@
+{
+  "id": 88975532,
+  "name": "Pitch-Black Warwolf",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot activate Trap Cards during the Battle Phase.",
+  "attack": 1600,
+  "defense": 600,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88975532.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88975532.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88975532.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 79571449,
+  "name": "Graceful Charity",
+  "type": "Spell Card",
+  "description": "Draw 3 cards, then discard 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79571449.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79571449.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79571449.jpg"
+  }
+}

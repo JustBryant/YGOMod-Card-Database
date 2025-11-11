@@ -1,0 +1,12 @@
+{
+  "id": 2314238,
+  "name": "Dark Magic Attack",
+  "type": "Spell Card",
+  "description": "If you control \"Dark Magician\": Destroy all Spells and Traps your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2314238.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2314238.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2314238.jpg"
+  }
+}

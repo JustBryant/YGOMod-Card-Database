@@ -1,0 +1,16 @@
+{
+  "id": 37038993,
+  "name": "Puralis, the Purple Pyrotile",
+  "type": "Synchro Tuner Monster",
+  "description": "1 Tuner + 1 non-Tuner monster\nWhen this card is sent from the field to the Graveyard: All monsters your opponent currently controls lose 500 ATK.",
+  "attack": 800,
+  "defense": 1400,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37038993.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37038993.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37038993.jpg"
+  }
+}

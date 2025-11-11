@@ -1,0 +1,16 @@
+{
+  "id": 51020079,
+  "name": "Cyborg Doctor",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can Tribute 1 Tuner monster you control to Special Summon a monster from your Graveyard with the same Attribute and Level as the Tributed monster.",
+  "attack": 1500,
+  "defense": 1700,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51020079.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51020079.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51020079.jpg"
+  }
+}

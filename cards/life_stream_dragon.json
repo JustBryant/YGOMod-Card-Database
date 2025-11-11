@@ -1,0 +1,16 @@
+{
+  "id": 25165047,
+  "name": "Life Stream Dragon",
+  "type": "Synchro Tuner Monster",
+  "description": "1 Tuner + \"Power Tool Dragon\"\nWhen this card is Synchro Summoned: You can make your LP become 4000. You take no effect damage. If this face-up card on the field would be destroyed, you can banish 1 Equip Spell Card from your Graveyard instead.",
+  "attack": 2900,
+  "defense": 2400,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25165047.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25165047.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25165047.jpg"
+  }
+}

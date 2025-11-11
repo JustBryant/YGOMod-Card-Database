@@ -1,0 +1,16 @@
+{
+  "id": 34408491,
+  "name": "Beelze of the Diabolic Dragons",
+  "type": "Synchro Monster",
+  "description": "1 DARK Tuner + 1+ non-Tuner monsters\r\nCannot be destroyed by battle or card effects. If you take damage from an attack involving this card, or from an opponent's card effect: This card gains ATK equal to the damage you took.",
+  "attack": 3000,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34408491.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34408491.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34408491.jpg"
+  }
+}

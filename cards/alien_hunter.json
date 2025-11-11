@@ -1,0 +1,16 @@
+{
+  "id": 62315111,
+  "name": "Alien Hunter",
+  "type": "Effect Monster",
+  "description": "If this card destroys a monster with an A-Counter by battle, it can attack once again in a row.",
+  "attack": 1600,
+  "defense": 800,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62315111.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62315111.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62315111.jpg"
+  }
+}

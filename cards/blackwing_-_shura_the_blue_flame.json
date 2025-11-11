@@ -1,0 +1,16 @@
+{
+  "id": 58820853,
+  "name": "Blackwing - Shura the Blue Flame",
+  "type": "Effect Monster",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 \"Blackwing\" monster with 1500 or less ATK from your Deck, but its effects are negated.",
+  "attack": 1800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58820853.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58820853.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58820853.jpg"
+  }
+}

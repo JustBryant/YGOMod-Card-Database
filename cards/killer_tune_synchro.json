@@ -1,0 +1,12 @@
+{
+  "id": 78058681,
+  "name": "Killer Tune Synchro",
+  "type": "Spell Card",
+  "description": "Add 1 \"Killer Tune\" card from your Deck to your hand, except \"Killer Tune Synchro\", then immediately after this effect resolves, you can Synchro Summon 1 Tuner. For the rest of this turn after this card resolves, you cannot Special Summon, except Tuners. You can only activate 2 \"Killer Tune Synchro\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78058681.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78058681.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78058681.jpg"
+  }
+}

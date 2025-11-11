@@ -1,0 +1,16 @@
+{
+  "id": 77150143,
+  "name": "Zoodiac Thoroughblade",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can discard 1 \"Zoodiac\" card, and if you do, draw 1 card. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.\r\n● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "attack": 1600,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77150143.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77150143.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77150143.jpg"
+  }
+}

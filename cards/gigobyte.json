@@ -1,0 +1,16 @@
+{
+  "id": 53776525,
+  "name": "Gigobyte",
+  "type": "Normal Monster",
+  "description": "He has a tranquil soul, but carries a destiny that one day his heart shall be tainted by evil....",
+  "attack": 350,
+  "defense": 300,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53776525.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53776525.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53776525.jpg"
+  }
+}

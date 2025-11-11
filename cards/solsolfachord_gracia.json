@@ -1,0 +1,16 @@
+{
+  "id": 91598270,
+  "name": "SolSolfachord Gracia",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nYour opponent cannot activate a Spell/Trap Card, or monster effect, when your \"Solfachord\" Pendulum Monster(s) is Pendulum Summoned.\n\n[ Monster Effect ] \nWhile you have an even Pendulum Scale in your Pendulum Zone, if your \"Solfachord\" Pendulum Monster attacks, your opponent cannot activate monster effects until the end of the Damage Step. If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" Spell/Trap from your Deck to your hand. You can only use this effect of \"SolSolfachord Gracia\" once per turn.",
+  "attack": 2100,
+  "defense": 1400,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91598270.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91598270.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91598270.jpg"
+  }
+}

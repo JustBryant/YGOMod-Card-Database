@@ -1,0 +1,16 @@
+{
+  "id": 20630765,
+  "name": "Spellstone Sorcerer Karood",
+  "type": "Effect Monster",
+  "description": "Once per turn, when another Monster Card's effect is activated while there is no Spellstone Counter on this card, place 1 Spellstone Counter on this card (max. 1). This card gains 300 DEF for each Spellstone Counter on it. Once per turn, you can remove 1 Spellstone Counter from your side of the field to select 1 card in your opponent's Graveyard, and remove that card from play.",
+  "attack": 800,
+  "defense": 1900,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20630765.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20630765.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20630765.jpg"
+  }
+}

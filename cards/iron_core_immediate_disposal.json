@@ -1,0 +1,12 @@
+{
+  "id": 63018036,
+  "name": "Iron Core Immediate Disposal",
+  "type": "Spell Card",
+  "description": "Select and send 1 \"Iron Core of Koa'ki Meiru\" from your Deck to your Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63018036.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63018036.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63018036.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 49204190,
+  "name": "Nitwit Outwit",
+  "type": "Trap Card",
+  "description": "Discard 1 monster, then target 1 face-up monster on the field; it loses ATK equal to the discarded monster's original ATK.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49204190.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49204190.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49204190.jpg"
+  }
+}

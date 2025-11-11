@@ -1,0 +1,16 @@
+{
+  "id": 85505315,
+  "name": "Steelswarm Mantis",
+  "type": "Effect Monster",
+  "description": "When this card is Tribute Summoned by Tributing a \"Steelswarm\" monster: You can pay 1000 Life Points to target 1 \"Steelswarm\" monster in your Graveyard; Special Summon that target.",
+  "attack": 2200,
+  "defense": 0,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85505315.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85505315.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85505315.jpg"
+  }
+}

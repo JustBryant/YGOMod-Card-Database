@@ -1,0 +1,16 @@
+{
+  "id": 60023855,
+  "name": "Baby Spider",
+  "type": "Effect Monster",
+  "description": "You can Tribute 1 DARK monster; increase the Levels of all \"Baby Spiders\" you currently control by the Level of that Tributed monster. You can pay half your LP, banish this card from your GY, and detach 1 material from your DARK Xyz Monster, then target 1 DARK monster in your GY; Special Summon it. You can only use each effect of \"Baby Spider\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60023855.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60023855.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60023855.jpg"
+  }
+}

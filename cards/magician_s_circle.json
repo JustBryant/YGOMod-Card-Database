@@ -1,0 +1,12 @@
+{
+  "id": 50755,
+  "name": "Magician's Circle",
+  "type": "Trap Card",
+  "description": "When a Spellcaster monster declares an attack: Each player Special Summons 1 Spellcaster monster with 2000 or less ATK from their Deck in Attack Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50755.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50755.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50755.jpg"
+  }
+}

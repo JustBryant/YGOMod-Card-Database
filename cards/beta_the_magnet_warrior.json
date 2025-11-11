@@ -1,0 +1,16 @@
+{
+  "id": 39256679,
+  "name": "Beta The Magnet Warrior",
+  "type": "Normal Monster",
+  "description": "''Alpha, Beta, and Gamma meld as one to form a powerful monster.''",
+  "attack": 1700,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39256679.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39256679.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39256679.jpg"
+  }
+}

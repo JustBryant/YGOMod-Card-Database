@@ -1,0 +1,16 @@
+{
+  "id": 13803864,
+  "name": "Mokey Mokey King",
+  "type": "Fusion Monster",
+  "description": "\"Mokey Mokey\" + \"Mokey Mokey\" + \"Mokey Mokey\"\nWhen this card is removed from the field, you can Special Summon as many \"Mokey Mokey\" as possible from your Graveyard.",
+  "attack": 300,
+  "defense": 100,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13803864.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13803864.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13803864.jpg"
+  }
+}

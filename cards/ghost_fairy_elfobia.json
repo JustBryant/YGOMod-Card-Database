@@ -1,0 +1,16 @@
+{
+  "id": 44663232,
+  "name": "Ghost Fairy Elfobia",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can reveal 1 WIND monster in your hand; until the end of your opponent's next Main Phase 1, monsters with a Level higher than the revealed monster cannot activate their effects.",
+  "attack": 900,
+  "defense": 500,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44663232.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44663232.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44663232.jpg"
+  }
+}

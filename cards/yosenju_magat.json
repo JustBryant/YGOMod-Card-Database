@@ -1,0 +1,16 @@
+{
+  "id": 49249907,
+  "name": "Yosenju Magat",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned: You can Special Summon 1 \"Yosenju\" monster from your Deck, except \"Yosenju Magat\". During the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
+  "attack": 2000,
+  "defense": 100,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49249907.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49249907.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49249907.jpg"
+  }
+}

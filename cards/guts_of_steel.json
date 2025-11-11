@@ -1,0 +1,12 @@
+{
+  "id": 33970665,
+  "name": "Guts of Steel",
+  "type": "Spell Card",
+  "description": "Select 3 \"Scrap\" monsters in your Graveyard. Your opponent picks 1 of them, you Special Summon it to either player's side of the field, and remove the rest from play.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33970665.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33970665.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33970665.jpg"
+  }
+}

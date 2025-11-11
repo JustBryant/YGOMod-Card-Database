@@ -1,0 +1,16 @@
+{
+  "id": 48094997,
+  "name": "Battle Footballer",
+  "type": "Normal Monster",
+  "description": "A cyborg with high defense power. Originally it was invented for a football machine.",
+  "attack": 1000,
+  "defense": 2100,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48094997.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48094997.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48094997.jpg"
+  }
+}

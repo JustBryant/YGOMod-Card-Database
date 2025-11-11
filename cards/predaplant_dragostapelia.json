@@ -1,0 +1,16 @@
+{
+  "id": 69946549,
+  "name": "Predaplant Dragostapelia",
+  "type": "Fusion Monster",
+  "description": "1 Fusion Monster + 1 DARK monster\r\nOnce per turn (Quick Effect): You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. Negate the activated effects of your opponent's monsters that have Predator Counters.",
+  "attack": 2700,
+  "defense": 1900,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69946549.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69946549.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69946549.jpg"
+  }
+}

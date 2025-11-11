@@ -1,0 +1,16 @@
+{
+  "id": 2356994,
+  "name": "Great Long Nose",
+  "type": "Spirit Monster",
+  "description": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. If this card inflicts Battle Damage to your opponent's Life Points, your opponent skips their next Battle Phase.",
+  "attack": 1900,
+  "defense": 1700,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2356994.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2356994.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2356994.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 82593786,
+  "name": "Bacon Saver",
+  "type": "Effect Monster",
+  "description": "During either player's Battle Step, while an attack is occurring: You can banish this card from your Graveyard; negate the attack. You can only use the effect of \"Bacon Saver\" once per Duel.",
+  "attack": 700,
+  "defense": 600,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82593786.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82593786.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82593786.jpg"
+  }
+}

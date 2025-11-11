@@ -1,0 +1,16 @@
+{
+  "id": 63749102,
+  "name": "Exarion Universe",
+  "type": "Effect Monster",
+  "description": "During your Battle Step, if this card attacks a Defense Position monster: You can make this card lose exactly 400 ATK, and if it does, it will inflict piercing battle damage. These effects last until the end of this turn.",
+  "attack": 1800,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63749102.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63749102.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63749102.jpg"
+  }
+}

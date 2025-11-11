@@ -1,0 +1,16 @@
+{
+  "id": 82782870,
+  "name": "Mitsurugi no Mikoto, Kusanagi",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned, or if this card is Tributed: You can target 1 \"Mitsurugi\" card in your GY or banishment, except \"Mitsurugi no Mikoto, Kusanagi\"; add it to your hand. If another Reptile monster(s) you control would be destroyed by battle or card effect, you can Tribute this card instead. You can only use each effect of \"Mitsurugi no Mikoto, Kusanagi\" once per turn.",
+  "attack": 1600,
+  "defense": 400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82782870.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82782870.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82782870.jpg"
+  }
+}

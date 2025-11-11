@@ -1,0 +1,16 @@
+{
+  "id": 30757396,
+  "name": "Blood Mefist",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during your opponent's Standby Phase: You can inflict 300 damage to your opponent for each card your opponent controls. Each time your opponent Sets a Spell or Trap Card(s): Inflict 300 damage to your opponent.",
+  "attack": 2800,
+  "defense": 1300,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30757396.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30757396.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30757396.jpg"
+  }
+}

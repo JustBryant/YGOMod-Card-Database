@@ -1,0 +1,16 @@
+{
+  "id": 94079037,
+  "name": "Mine Mole",
+  "type": "Effect Monster",
+  "description": "Once per turn, this card cannot be destroyed by battle. If this card is sent to the Graveyard as a Synchro Material Monster of a Beast-Type monster, draw 1 card. If this card is removed from the field by your opponent's card effect, remove this card from play.",
+  "attack": 1000,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94079037.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94079037.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94079037.jpg"
+  }
+}

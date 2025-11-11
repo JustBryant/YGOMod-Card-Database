@@ -1,0 +1,16 @@
+{
+  "id": 73544866,
+  "name": "Guardian Baou",
+  "type": "Effect Monster",
+  "description": "Cannot be Summoned unless you control a face-up \"Wicked-Breaking Flamberge - Baou\". When this card destroys an opponent's monster by battle and sends it to the Graveyard: It gains 1000 ATK. Negate the effects of monsters destroyed by battle with this card.",
+  "attack": 800,
+  "defense": 400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73544866.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73544866.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73544866.jpg"
+  }
+}

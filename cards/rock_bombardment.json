@@ -1,0 +1,12 @@
+{
+  "id": 20781762,
+  "name": "Rock Bombardment",
+  "type": "Trap Card",
+  "description": "Send 1 Rock monster from your Deck to the GY; inflict 500 damage to your opponent.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20781762.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20781762.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20781762.jpg"
+  }
+}

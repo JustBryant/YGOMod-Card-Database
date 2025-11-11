@@ -1,0 +1,12 @@
+{
+  "id": 42431833,
+  "name": "Spright Gamma Burst",
+  "type": "Spell Card",
+  "description": "All Level/Rank/Link 2 monsters currently on the field gain 1400 ATK/DEF until the end of this turn. During your Main Phase: You can banish this card from your GY, then target 1 Level/Rank/Link 2 monster you control; it gains 1400 ATK until the end of your opponent's turn. You can only use 1 \"Spright Gamma Burst\" effect per turn, and only once that turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42431833.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42431833.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42431833.jpg"
+  }
+}

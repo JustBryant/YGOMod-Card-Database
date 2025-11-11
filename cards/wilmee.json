@@ -1,0 +1,16 @@
+{
+  "id": 92391084,
+  "name": "Wilmee",
+  "type": "Normal Monster",
+  "description": "A rabid rabbit that shears through opposition with its sharp skewers.",
+  "attack": 1000,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92391084.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92391084.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92391084.jpg"
+  }
+}

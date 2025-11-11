@@ -1,0 +1,16 @@
+{
+  "id": 38354937,
+  "name": "Locomotion R-Genex",
+  "type": "Synchro Monster",
+  "description": "1 \"Genex\" Tuner + 1 or more non-Tuner DARK monsters\nWhen this card is Synchro Summoned, take control of the face-up monster your opponent controls with the highest Level. (If it's a tie, you get to choose.)",
+  "attack": 2500,
+  "defense": 2000,
+  "level": 9,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38354937.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38354937.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38354937.jpg"
+  }
+}

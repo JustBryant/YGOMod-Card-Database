@@ -1,0 +1,16 @@
+{
+  "id": 23927567,
+  "name": "An Owl of Luck",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Select 1 Field Spell Card from your Deck and place it on top of your Deck. If \"Necrovalley\" is on the field, you can add the selected Field Spell Card to your hand instead.",
+  "attack": 300,
+  "defense": 500,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23927567.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23927567.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23927567.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5600127,
+  "name": "Humanoid Worm Drake",
+  "type": "Fusion Monster",
+  "description": "\"Worm Drake\" + \"Humanoid Slime\"",
+  "attack": 2200,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5600127.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5600127.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5600127.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 51925772,
+  "name": "Dread Dragon",
+  "type": "Tuner Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 3 or lower Dragon-Type monster from your Deck to your hand.",
+  "attack": 1100,
+  "defense": 400,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51925772.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51925772.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51925772.jpg"
+  }
+}

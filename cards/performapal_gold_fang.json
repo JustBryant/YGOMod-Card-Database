@@ -1,0 +1,16 @@
+{
+  "id": 64207696,
+  "name": "Performapal Gold Fang",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn, if your \"Performapal\" monster destroys an opponent's monster by battle: Inflict 1000 damage to your opponent.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: All \"Performapal\" monsters you currently control gain 200 ATK until the end of this turn.",
+  "attack": 1800,
+  "defense": 700,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64207696.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64207696.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64207696.jpg"
+  }
+}

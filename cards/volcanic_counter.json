@@ -1,0 +1,16 @@
+{
+  "id": 66436257,
+  "name": "Volcanic Counter",
+  "type": "Effect Monster",
+  "description": "When you take battle damage while this card is in your Graveyard: Banish it from your Graveyard, then if there is a FIRE monster other than \"Volcanic Counter\" in your Graveyard, inflict damage to your opponent equal to the amount of battle damage you took.",
+  "attack": 300,
+  "defense": 1300,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66436257.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66436257.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66436257.jpg"
+  }
+}

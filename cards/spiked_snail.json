@@ -1,0 +1,16 @@
+{
+  "id": 98075147,
+  "name": "Spiked Snail",
+  "type": "Normal Monster",
+  "description": "''A very fast, bipedal snail with a pair of lethal arms.''",
+  "attack": 700,
+  "defense": 1300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98075147.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98075147.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98075147.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 19844995,
+  "name": "Power Filter",
+  "type": "Spell Card",
+  "description": "Neither player can Special Summon monsters with 1000 or less ATK.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19844995.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19844995.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19844995.jpg"
+  }
+}

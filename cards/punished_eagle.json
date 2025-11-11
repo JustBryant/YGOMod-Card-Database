@@ -1,0 +1,16 @@
+{
+  "id": 74703140,
+  "name": "Punished Eagle",
+  "type": "Fusion Monster",
+  "description": "\"Blue-Winged Crown\" + \"Niwatori\"",
+  "attack": 2100,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74703140.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74703140.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74703140.jpg"
+  }
+}

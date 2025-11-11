@@ -1,0 +1,16 @@
+{
+  "id": 74631897,
+  "name": "Artmage Non Finito",
+  "type": "Fusion Monster",
+  "description": "2 \"Artmage\" monsters\r\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by discarding 1 Spell/Trap and Tributing 1 Level 7 or higher \"Artmage\" monster from your hand or field. You can only Special Summon \"Artmage Non Finito\" once per turn this way, no matter which method you use. If this card is Special Summoned: You can Set 1 \"Artmage\" Spell/Trap from your Deck. Once per opponent's turn (Quick Effect): You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control.",
+  "attack": 2400,
+  "defense": 1500,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Illusion",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74631897.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74631897.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74631897.jpg"
+  }
+}

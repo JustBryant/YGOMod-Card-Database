@@ -1,0 +1,16 @@
+{
+  "id": 36407615,
+  "name": "Chaos King Archfiend",
+  "type": "Synchro Monster",
+  "description": "1 Fiend-Type Tuner + 1 or more non-Tuner monsters\nWhen this card declares an attack: You can switch the current ATK and DEF of all face-up monsters your opponent controls, until the end of the Battle Phase.",
+  "attack": 2600,
+  "defense": 2600,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36407615.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36407615.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36407615.jpg"
+  }
+}

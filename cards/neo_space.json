@@ -1,0 +1,12 @@
+{
+  "id": 42015635,
+  "name": "Neo Space",
+  "type": "Spell Card",
+  "description": "\"Elemental HERO Neos\" and all Fusion Monsters that specifically list \"Elemental HERO Neos\" as a Fusion Material gain 500 ATK. Fusion Monsters that specifically list \"Elemental HERO Neos\" as a Fusion Material do not have to activate their effects during the End Phase that shuffle them into the Extra Deck.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42015635.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42015635.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42015635.jpg"
+  }
+}

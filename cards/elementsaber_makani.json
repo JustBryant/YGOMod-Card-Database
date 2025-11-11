@@ -1,0 +1,16 @@
+{
+  "id": 19036557,
+  "name": "Elementsaber Makani",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can send 1 \"Elementsaber\" monster from your hand to the GY; add 1 \"Elementsaber\" or \"Elemental Lord\" monster from your Deck to your hand, except \"Elementsaber Makani\". Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+  "attack": 1300,
+  "defense": 1200,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19036557.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19036557.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19036557.jpg"
+  }
+}

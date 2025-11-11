@@ -1,0 +1,12 @@
+{
+  "id": 28890974,
+  "name": "Celestial Transformation",
+  "type": "Spell Card",
+  "description": "Special Summon 1 Fairy monster from your hand. That monster's ATK is halved, also it is destroyed during the End Phase.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28890974.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28890974.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28890974.jpg"
+  }
+}

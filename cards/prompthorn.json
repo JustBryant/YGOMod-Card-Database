@@ -1,0 +1,16 @@
+{
+  "id": 50548657,
+  "name": "Prompthorn",
+  "type": "Effect Monster",
+  "description": "You can Tribute 1 Level 4 or lower Cyberse monster; Special Summon any number of Cyberse Normal Monsters from your Deck and/or GY whose total Levels equal the Tributed monster's Level on the field, but banish them during the End Phase. You can only use this effect of \"Prompthorn\" once per turn.",
+  "attack": 200,
+  "defense": 400,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50548657.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50548657.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50548657.jpg"
+  }
+}

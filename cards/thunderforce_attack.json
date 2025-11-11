@@ -1,0 +1,12 @@
+{
+  "id": 42469671,
+  "name": "Thunderforce Attack",
+  "type": "Spell Card",
+  "description": "This card's activation and effect cannot be negated. If you control a monster whose original name is \"Slifer the Sky Dragon\": Destroy as many face-up monsters your opponent controls as possible, then, if you activated this card during your Main Phase, you can apply the following effect.\r\n● Draw cards equal to the number of monsters destroyed by this effect and sent to your opponent's GY, also you can only attack with 1 monster this turn.\r\nYou can only activate 1 \"Thunderforce Attack\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42469671.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42469671.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42469671.jpg"
+  }
+}

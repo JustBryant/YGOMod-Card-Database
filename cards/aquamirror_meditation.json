@@ -1,0 +1,12 @@
+{
+  "id": 46337945,
+  "name": "Aquamirror Meditation",
+  "type": "Trap Card",
+  "description": "Reveal 1 Ritual Spell Card in your hand to target 2 \"Gishki\" monsters in your Graveyard; return them to the hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46337945.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46337945.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46337945.jpg"
+  }
+}

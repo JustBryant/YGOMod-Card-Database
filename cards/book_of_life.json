@@ -1,0 +1,12 @@
+{
+  "id": 2204140,
+  "name": "Book of Life",
+  "type": "Spell Card",
+  "description": "Target 1 Zombie monster in your GY and 1 monster in your opponent's GY; Special Summon the first target, also banish the second target.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2204140.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2204140.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2204140.jpg"
+  }
+}

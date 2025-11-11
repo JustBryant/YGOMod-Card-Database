@@ -1,0 +1,16 @@
+{
+  "id": 89832901,
+  "name": "B. Dragon Jungle King",
+  "type": "Normal Monster",
+  "description": "''A jet-black dragon found in the deepest jungles who normally devours trees.''",
+  "attack": 2100,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89832901.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89832901.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89832901.jpg"
+  }
+}

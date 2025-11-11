@@ -1,0 +1,16 @@
+{
+  "id": 79491903,
+  "name": "Reptilianne Naga",
+  "type": "Effect Monster",
+  "description": "This card cannot be destroyed by battle. The ATK of any monster that battles this card becomes 0 at the end of that Battle Phase. During your End Phase, change this face-up Defense Position card on the field to face-up Attack Position.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79491903.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79491903.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79491903.jpg"
+  }
+}

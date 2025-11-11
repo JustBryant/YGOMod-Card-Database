@@ -1,0 +1,12 @@
+{
+  "id": 99189322,
+  "name": "Arcana Call",
+  "type": "Trap Card",
+  "description": "Select 1 \"Arcana Force\" monster you control. Remove from play 1 \"Arcana Force\" monster from either player's Graveyard. Until the End Phase, the selected monster's effect becomes the removed monster's effect for the same coin toss result.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99189322.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99189322.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99189322.jpg"
+  }
+}

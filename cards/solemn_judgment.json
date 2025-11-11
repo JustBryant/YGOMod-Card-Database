@@ -1,0 +1,12 @@
+{
+  "id": 41420027,
+  "name": "Solemn Judgment",
+  "type": "Trap Card",
+  "description": "When a monster(s) would be Summoned, OR a Spell/Trap Card is activated: Pay half your LP; negate the Summon or activation, and if you do, destroy that card.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41420027.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41420027.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41420027.jpg"
+  }
+}

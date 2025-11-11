@@ -1,0 +1,16 @@
+{
+  "id": 66386380,
+  "name": "Harpie Oracle",
+  "type": "Effect Monster",
+  "description": "This card's name becomes \"Harpie Lady\" while on the field or in the GY. You can only use each of these effects of \"Harpie Oracle\" once per turn.\r\n● If you control a Level 5 or higher \"Harpie\" monster: You can Special Summon this card from your hand.\r\n● If this card is Normal or Special Summoned: You can add 1 Spell/Trap from your GY to your hand, that specifically lists the card \"Harpie Lady Sisters\" in its text, during the End Phase of this turn.",
+  "attack": 1300,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66386380.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66386380.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66386380.jpg"
+  }
+}

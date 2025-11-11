@@ -1,0 +1,12 @@
+{
+  "id": 52503575,
+  "name": "Final Attack Orders",
+  "type": "Trap Card",
+  "description": "All face-up monsters on the field are changed to Attack Position and their battle positions cannot be changed.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52503575.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52503575.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52503575.jpg"
+  }
+}

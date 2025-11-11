@@ -1,0 +1,16 @@
+{
+  "id": 77235086,
+  "name": "Cyber Angel Benten",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to that monster's original DEF in the GY. If this card is Tributed: You can add 1 LIGHT Fairy monster from your Deck to your hand.",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77235086.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77235086.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77235086.jpg"
+  }
+}

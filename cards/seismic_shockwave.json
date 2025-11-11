@@ -1,0 +1,12 @@
+{
+  "id": 79569173,
+  "name": "Seismic Shockwave",
+  "type": "Trap Card",
+  "description": "Destroy this card during your 3rd Standby Phase after activation. Activate this card when a face-up Dinosaur-Type monster you control is destroyed and sent to the Graveyard (except during the Damage Step): Choose 3 of your opponent's unused Spell & Trap Zones. Those Zones cannot be used. If this card destroys itself: You can target 1 Dinosaur-Type monster in your Graveyard; add that target to your hand.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79569173.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79569173.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79569173.jpg"
+  }
+}

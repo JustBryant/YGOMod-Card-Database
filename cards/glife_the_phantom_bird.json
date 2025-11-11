@@ -1,0 +1,16 @@
+{
+  "id": 899287,
+  "name": "Glife the Phantom Bird",
+  "type": "Effect Monster",
+  "description": "You can discard this card; add 1 \"Golden Castle of Stromberg\" from your Deck to your hand. If this card is Normal or Special Summoned: You can target 1 card in your opponent's Spell & Trap Zone; destroy it. You can only use this effect of \"Glife the Phantom Bird\" once per turn.",
+  "attack": 1500,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/899287.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/899287.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/899287.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35316708,
+  "name": "Time Seal",
+  "type": "Trap Card",
+  "description": "Skip the Draw Phase of your opponent's next turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35316708.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35316708.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35316708.jpg"
+  }
+}

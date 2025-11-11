@@ -1,0 +1,12 @@
+{
+  "id": 26120084,
+  "name": "Super Double Summon",
+  "type": "Spell Card",
+  "description": "Select 1 Gemini monster you control and Normal Summon it. During the End Phase of this turn, return it to your hand.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26120084.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26120084.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26120084.jpg"
+  }
+}

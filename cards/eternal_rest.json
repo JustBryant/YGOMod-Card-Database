@@ -1,0 +1,12 @@
+{
+  "id": 95051344,
+  "name": "Eternal Rest",
+  "type": "Spell Card",
+  "description": "Destroy all monsters equipped with Equip Cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95051344.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95051344.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95051344.jpg"
+  }
+}

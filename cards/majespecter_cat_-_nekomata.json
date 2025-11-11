@@ -1,0 +1,16 @@
+{
+  "id": 5506791,
+  "name": "Majespecter Cat - Nekomata",
+  "type": "Pendulum Effect Monster",
+  "description": "When this card is Normal or Special Summoned: You can add 1 \"Majespecter\" card from your Deck to your hand during the End Phase of this turn. You can only use this effect of \"Majespecter Cat - Nekomata\" once per turn. Cannot be targeted or destroyed by your opponent's card effects.",
+  "attack": 100,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5506791.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5506791.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5506791.jpg"
+  }
+}

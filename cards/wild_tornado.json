@@ -1,0 +1,12 @@
+{
+  "id": 47766694,
+  "name": "Wild Tornado",
+  "type": "Trap Card",
+  "description": "Target 1 face-up card in the Spell & Trap Zone; destroy that face-up card, then, its controller can Set 1 Spell/Trap from their hand. If this Set card is destroyed and sent to the GY: Target 1 face-up card on the field; destroy that target.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47766694.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47766694.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47766694.jpg"
+  }
+}

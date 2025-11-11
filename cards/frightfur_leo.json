@@ -1,0 +1,16 @@
+{
+  "id": 10383554,
+  "name": "Frightfur Leo",
+  "type": "Fusion Monster",
+  "description": "\"Edge Imp Saw\" + 1 \"Fluffal\" monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can target 1 face-up monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to the destroyed monster's original ATK. You can only use this effect of \"Frightfur Leo\" once per turn. This card cannot attack your opponent directly during the turn you activate this effect.",
+  "attack": 2400,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10383554.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10383554.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10383554.jpg"
+  }
+}

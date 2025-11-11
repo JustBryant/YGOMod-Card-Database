@@ -1,0 +1,16 @@
+{
+  "id": 37160778,
+  "name": "Fairywitch",
+  "type": "Normal Monster",
+  "description": "Though destined to be a fairy, this creature chose the way of the witch instead.",
+  "attack": 800,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37160778.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37160778.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37160778.jpg"
+  }
+}

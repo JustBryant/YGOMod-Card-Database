@@ -1,0 +1,16 @@
+{
+  "id": 88671720,
+  "name": "Black Salvo",
+  "type": "Tuner Monster",
+  "description": "When this card is Normal Summoned: You can target 1 Level 4 DARK Machine-Type monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated.",
+  "attack": 100,
+  "defense": 1100,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88671720.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88671720.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88671720.jpg"
+  }
+}

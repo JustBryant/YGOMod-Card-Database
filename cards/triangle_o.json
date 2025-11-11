@@ -1,0 +1,12 @@
+{
+  "id": 11489642,
+  "name": "Triangle O",
+  "type": "Spell Card",
+  "description": "If you control \"Crystal Skull\", \"Ashoka Pillar\", and \"Cabrera Stone\": Destroy all cards on the field, also for the rest of this turn, your opponent takes any effect damage you would have taken instead. You can banish this card from your GY, then target 1 each of \"Crystal Skull\", \"Ashoka Pillar\", and \"Cabrera Stone\" in your GY; shuffle them into the Deck, then draw 3 cards. You can only use 1 \"Triangle O\" effect per turn, and only once that turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11489642.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11489642.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11489642.jpg"
+  }
+}

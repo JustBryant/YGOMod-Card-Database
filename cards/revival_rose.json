@@ -1,0 +1,16 @@
+{
+  "id": 12469386,
+  "name": "Revival Rose",
+  "type": "Effect Monster",
+  "description": "If a Level 5 or higher Plant-Type monster you control is destroyed, you can Special Summon this card from the Graveyard.",
+  "attack": 1300,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12469386.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12469386.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12469386.jpg"
+  }
+}

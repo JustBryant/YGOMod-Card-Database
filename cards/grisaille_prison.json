@@ -1,0 +1,12 @@
+{
+  "id": 22888900,
+  "name": "Grisaille Prison",
+  "type": "Trap Card",
+  "description": "If you control a face-up monster that was Tribute, Ritual, or Fusion Summoned: Until the end of your opponent's next turn, neither player can Synchro or Xyz Summon, Synchro and Xyz Monsters cannot attack, also their effects are negated.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22888900.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22888900.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22888900.jpg"
+  }
+}

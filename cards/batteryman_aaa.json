@@ -1,0 +1,16 @@
+{
+  "id": 47346845,
+  "name": "Batteryman AAA",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned or flipped face-up, you can Special Summon 1 \"Batteryman AAA\" from your hand or Graveyard.",
+  "attack": 0,
+  "defense": 0,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47346845.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47346845.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47346845.jpg"
+  }
+}

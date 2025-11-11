@@ -1,0 +1,16 @@
+{
+  "id": 63223467,
+  "name": "Rai-Mei",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 2 or lower LIGHT monster from your Deck to your hand.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63223467.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63223467.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63223467.jpg"
+  }
+}

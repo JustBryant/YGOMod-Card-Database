@@ -1,0 +1,16 @@
+{
+  "id": 41431329,
+  "name": "Vylon Cube",
+  "type": "Tuner Monster",
+  "description": "If this card is sent to the Graveyard for the Synchro Summon of a LIGHT monster: You can add 1 Equip Spell Card from your Deck to your hand.",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41431329.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41431329.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41431329.jpg"
+  }
+}

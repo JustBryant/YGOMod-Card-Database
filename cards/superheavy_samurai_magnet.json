@@ -1,0 +1,16 @@
+{
+  "id": 89091772,
+  "name": "Superheavy Samurai Magnet",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"Superheavy Samurai\" monster from your hand, then change this card to Defense Position. Monsters your opponent controls cannot attack any monsters, except this one.",
+  "attack": 900,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89091772.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89091772.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89091772.jpg"
+  }
+}

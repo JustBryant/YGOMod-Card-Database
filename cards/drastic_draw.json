@@ -1,0 +1,12 @@
+{
+  "id": 70366448,
+  "name": "Drastic Draw",
+  "type": "Spell Card",
+  "description": "Banish all monsters you control (min. 2); draw 3 cards. You cannot Normal or Special Summon the turn you activate this card, except Cyberse monsters. You can only activate 1 \"Drastic Draw\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70366448.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70366448.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70366448.jpg"
+  }
+}

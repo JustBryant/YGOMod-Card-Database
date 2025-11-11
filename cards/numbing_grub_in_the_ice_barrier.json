@@ -1,0 +1,16 @@
+{
+  "id": 92065772,
+  "name": "Numbing Grub in the Ice Barrier",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned, select 1 unused Main Monster Zone. While this card is face-up on the field, that selected Main Monster Zone cannot be used.",
+  "attack": 1300,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92065772.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92065772.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92065772.jpg"
+  }
+}

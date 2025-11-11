@@ -1,0 +1,16 @@
+{
+  "id": 15240238,
+  "name": "Mist Bird Clausolas",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn: You can target 1 face-up monster your opponent controls; its ATK becomes 0, and if it does, its effects are negated. These changes last until the end of this turn.",
+  "attack": 0,
+  "defense": 2300,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15240238.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15240238.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15240238.jpg"
+  }
+}

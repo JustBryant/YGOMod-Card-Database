@@ -1,0 +1,16 @@
+{
+  "id": 13455953,
+  "name": "Dverg of the Nordic Alfar",
+  "type": "Effect Monster",
+  "description": "After you Normal Summon this card, you can Normal Summon 1 \"Nordic\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this face-up card on the field is sent to the GY: Target 1 \"Nordic Relic\" card in your GY; add that target to your hand.",
+  "attack": 100,
+  "defense": 1000,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13455953.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13455953.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13455953.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 44763025,
+  "name": "Delinquent Duo",
+  "type": "Spell Card",
+  "description": "Pay 1000 LP; your opponent discards 1 random card, and if they have any other cards in their hand, discard 1 more card of their choice.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44763025.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44763025.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44763025.jpg"
+  }
+}

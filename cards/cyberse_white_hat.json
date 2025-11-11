@@ -1,0 +1,16 @@
+{
+  "id": 46104361,
+  "name": "Cyberse White Hat",
+  "type": "Effect Monster",
+  "description": "If you control 2 or more monsters with the same Type, you can Special Summon this card (from your hand). You can only Special Summon \"Cyberse White Hat\" once per turn this way. If this card is sent to the GY as Link Material: You can make all monsters your opponent currently controls lose 1000 ATK until the end of this turn.",
+  "attack": 1800,
+  "defense": 2400,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46104361.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46104361.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46104361.jpg"
+  }
+}

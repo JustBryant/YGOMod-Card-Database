@@ -1,0 +1,16 @@
+{
+  "id": 70913714,
+  "name": "Old Entity Hastorr",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is sent from the Monster Zone to the Graveyard: You can target 1 face-up monster your opponent controls; equip this card from your Graveyard to that monster. That monster cannot attack, also its effects are negated. If this card leaves the field while equipped to an opponent's monster by this effect: Take control of the monster this card was equipped to.",
+  "attack": 2300,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70913714.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70913714.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70913714.jpg"
+  }
+}

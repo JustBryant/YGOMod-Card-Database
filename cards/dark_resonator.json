@@ -1,0 +1,16 @@
+{
+  "id": 97021916,
+  "name": "Dark Resonator",
+  "type": "Tuner Monster",
+  "description": "The first time this card would be destroyed by battle each turn, it is not destroyed.",
+  "attack": 1300,
+  "defense": 300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97021916.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97021916.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97021916.jpg"
+  }
+}

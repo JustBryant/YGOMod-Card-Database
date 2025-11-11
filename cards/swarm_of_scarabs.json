@@ -1,0 +1,16 @@
+{
+  "id": 15383415,
+  "name": "Swarm of Scarabs",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 monster your opponent controls; destroy that target.",
+  "attack": 500,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15383415.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15383415.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15383415.jpg"
+  }
+}

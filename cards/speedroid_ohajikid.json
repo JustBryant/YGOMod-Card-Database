@@ -1,0 +1,16 @@
+{
+  "id": 89326990,
+  "name": "Speedroid Ohajikid",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can target 1 Tuner monster in either player's Graveyard; Special Summon it to your side of the field, and if you do, immediately after this effect resolves, Synchro Summon 1 WIND Synchro Monster, using that monster and this card only.",
+  "attack": 1000,
+  "defense": 200,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89326990.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89326990.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89326990.jpg"
+  }
+}

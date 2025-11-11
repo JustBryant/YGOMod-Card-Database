@@ -3,10 +3,10 @@
   "name": "Follow Wind",
   "type": "Spell Card",
   "description": "Increase the ATK and DEF of a Winged Beast-Type monster equipped with this card by 300 points.",
+  "race": "Equip",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/98252586.jpg",
     "small_url": "https://images.ygoprodeck.com/images/cards_small/98252586.jpg",
     "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98252586.jpg"
-  },
-  "race": "Equip"
+  }
 }

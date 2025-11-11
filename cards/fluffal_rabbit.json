@@ -1,0 +1,16 @@
+{
+  "id": 38124994,
+  "name": "Fluffal Rabbit",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the Graveyard as a Fusion Material for a Fusion Summon: You can target 1 \"Edge Imp Sabres\" or 1 \"Fluffal\" monster in your Graveyard, except \"Fluffal Rabbit\"; add it to your hand. You can only use this effect of \"Fluffal Rabbit\" once per turn.",
+  "attack": 300,
+  "defense": 1200,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38124994.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38124994.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38124994.jpg"
+  }
+}

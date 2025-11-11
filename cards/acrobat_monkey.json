@@ -1,0 +1,16 @@
+{
+  "id": 47372349,
+  "name": "Acrobat Monkey",
+  "type": "Normal Monster",
+  "description": "An autonomous monkey type robot which was developed with cutting-edge technology. It moves very acrobatically.",
+  "attack": 1000,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47372349.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47372349.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47372349.jpg"
+  }
+}

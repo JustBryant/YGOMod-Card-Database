@@ -1,0 +1,16 @@
+{
+  "id": 96938777,
+  "name": "Machine Lord Ur",
+  "type": "Effect Monster",
+  "description": "This card can attack all monsters your opponent controls once each. If this card attacks or is attacked, your opponent takes no battle damage.",
+  "attack": 1600,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96938777.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96938777.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96938777.jpg"
+  }
+}

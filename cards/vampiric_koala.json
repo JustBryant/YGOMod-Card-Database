@@ -1,0 +1,16 @@
+{
+  "id": 1371589,
+  "name": "Vampiric Koala",
+  "type": "Effect Monster",
+  "description": "If this card inflicts battle damage to your opponent by battle with a monster: Gain LP equal to the battle damage inflicted.",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1371589.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1371589.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1371589.jpg"
+  }
+}

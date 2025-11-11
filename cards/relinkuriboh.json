@@ -1,0 +1,16 @@
+{
+  "id": 50185950,
+  "name": "Relinkuriboh",
+  "type": "Effect Monster",
+  "description": "If this card is Tributed: Draw 1 card. If your monster would be destroyed by battle, you can banish this card from your GY instead.",
+  "attack": 300,
+  "defense": 200,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50185950.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50185950.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50185950.jpg"
+  }
+}

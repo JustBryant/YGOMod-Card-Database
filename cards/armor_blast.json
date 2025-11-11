@@ -1,0 +1,12 @@
+{
+  "id": 79155167,
+  "name": "Armor Blast",
+  "type": "Spell Card",
+  "description": "Target 1 face-up \"Inzektor\" card you control and 2 face-up cards your opponent controls; destroy them.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79155167.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79155167.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79155167.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 70821187,
+  "name": "Regenerating Mummy",
+  "type": "Effect Monster",
+  "description": "When this card is sent from your hand to your Graveyard by an opponent's card effect: Return this card to the hand.",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70821187.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70821187.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70821187.jpg"
+  }
+}

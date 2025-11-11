@@ -1,0 +1,16 @@
+{
+  "id": 24027078,
+  "name": "Morgan, the Enchantress of Avalon",
+  "type": "Effect Monster",
+  "description": "When your opponent activates a card or effect, while you control a \"Noble Knight\" monster and a \"Noble Arms\" Equip Spell (Quick Effect): You can send this card from your hand to the GY; destroy 1 \"Noble Arms\" Equip Spell you control, and if you do, negate the activation. You can only use this effect of \"Morgan, the Enchantress of Avalon\" once per turn.",
+  "attack": 1300,
+  "defense": 1600,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24027078.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24027078.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24027078.jpg"
+  }
+}

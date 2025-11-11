@@ -1,0 +1,16 @@
+{
+  "id": 80186010,
+  "name": "Destroyersaurus",
+  "type": "Effect Monster",
+  "description": "You can discard this card to the Graveyard; add 1 \"Jurassic World\" from your Deck to your hand.",
+  "attack": 1800,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80186010.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80186010.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80186010.jpg"
+  }
+}

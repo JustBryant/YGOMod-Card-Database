@@ -1,0 +1,16 @@
+{
+  "id": 98806751,
+  "name": "Obsessive Uvualoop",
+  "type": "Tuner Monster",
+  "description": "If this card is in your hand: You can target 1 Synchro Monster you control or in your GY; banish it, and if you do, Special Summon this card. If this card is in your GY: You can target 1 Synchro Monster you control or in your GY; banish it, and if you do, add this card to your hand. You can only use each effect of \"Obsessive Uvualoop\" once per turn.",
+  "attack": 1200,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98806751.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98806751.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98806751.jpg"
+  }
+}

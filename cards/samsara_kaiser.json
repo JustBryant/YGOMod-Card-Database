@@ -1,0 +1,16 @@
+{
+  "id": 72237166,
+  "name": "Samsara Kaiser",
+  "type": "Effect Monster",
+  "description": "When you Tribute Summon a monster by Tributing this card, return this card to your hand.",
+  "attack": 200,
+  "defense": 100,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72237166.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72237166.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72237166.jpg"
+  }
+}

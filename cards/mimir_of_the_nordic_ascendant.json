@@ -1,0 +1,16 @@
+{
+  "id": 76348260,
+  "name": "Mimir of the Nordic Ascendant",
+  "type": "Effect Monster",
+  "description": "Once per turn, at the start of your Standby Phase, if you control a \"Nordic\" monster and this card is in your GY: You can send 1 Spell from your hand to the GY; Special Summon this card.",
+  "attack": 600,
+  "defense": 0,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76348260.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76348260.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76348260.jpg"
+  }
+}

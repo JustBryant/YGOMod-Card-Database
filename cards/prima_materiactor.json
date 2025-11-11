@@ -1,0 +1,16 @@
+{
+  "id": 57448410,
+  "name": "Prima Materiactor",
+  "type": "Pendulum Normal Monster",
+  "description": "[ Pendulum Effect ] \nXyz Monsters you control gain 100 ATK for each Xyz Material on the field. You can target 1 \"Materiactor\" Xyz Monster you control; attach this card to it as material, then draw 1 card. You can only use this effect of \"Prima Materiactor\" once per turn.\n\n[ Monster Effect ] \n''An alien life form that suddenly flew in from the heavens far away. Many researchers have tried to determine its true identity, but its luminosity and the miasma emitted have long shrouded its existence in mystery, making it extremely difficult to see the full extent of its existence. Recently, however, a number of new species have been discovered by up-and-coming researchers, and it appears that the full extent of the species' existence is finally being revealed.''",
+  "attack": 0,
+  "defense": 0,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57448410.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57448410.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57448410.jpg"
+  }
+}

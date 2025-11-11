@@ -1,0 +1,16 @@
+{
+  "id": 78693036,
+  "name": "Juraishin, the Cursed Thunder God",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nEach time your opponent activates a card or effect, gain 300 LP when it resolves. During your opponent's turn (Quick Effect): You can pay 1500 LP and Tribute this card, then activate 1 of these effects;\r\n● Destroy all face-up monsters your opponent controls.\r\n● Destroy all face-up Spells and Traps your opponent controls.\r\nYou can only use this effect of \"Juraishin, the Cursed Thunder God\" once per turn.",
+  "attack": 3100,
+  "defense": 3100,
+  "level": 11,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78693036.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78693036.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78693036.jpg"
+  }
+}

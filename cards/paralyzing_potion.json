@@ -1,0 +1,12 @@
+{
+  "id": 50152549,
+  "name": "Paralyzing Potion",
+  "type": "Spell Card",
+  "description": "A non Machine-Type monster equipped with this card cannot attack.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50152549.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50152549.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50152549.jpg"
+  }
+}

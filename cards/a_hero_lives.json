@@ -1,0 +1,12 @@
+{
+  "id": 8949584,
+  "name": "A Hero Lives",
+  "type": "Spell Card",
+  "description": "If you control no face-up monsters: Pay half your LP; Special Summon 1 Level 4 or lower \"Elemental HERO\" monster from your Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8949584.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8949584.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8949584.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 92518817,
+  "name": "Blazing Hiita",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can Tribute 1 FIRE monster (except this card) to Special Summon 1 FIRE monster from your hand. The monster Special Summoned by this effect is destroyed if \"Blazing Hiita\" is removed from your side of the field.",
+  "attack": 800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92518817.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92518817.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92518817.jpg"
+  }
+}

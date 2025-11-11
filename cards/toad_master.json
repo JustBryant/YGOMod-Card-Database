@@ -1,0 +1,16 @@
+{
+  "id": 62671448,
+  "name": "Toad Master",
+  "type": "Normal Monster",
+  "description": "''A hermit frog that has been in existence for thousands of years, it attacks with tadpoles.''",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62671448.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62671448.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62671448.jpg"
+  }
+}

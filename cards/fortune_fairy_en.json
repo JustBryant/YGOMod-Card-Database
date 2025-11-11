@@ -1,0 +1,16 @@
+{
+  "id": 32305461,
+  "name": "Fortune Fairy En",
+  "type": "Effect Monster",
+  "description": "When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 Set card your opponent controls; destroy it. You can only use each effect of \"Fortune Fairy En\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32305461.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32305461.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32305461.jpg"
+  }
+}

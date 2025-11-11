@@ -1,0 +1,16 @@
+{
+  "id": 29311166,
+  "name": "Assault Wyvern",
+  "type": "Effect Monster",
+  "description": "When this card destroys an opponent's monster by battle: You can Tribute this card; Special Summon 1 Dragon-Type monster from your hand or Graveyard, except \"Assault Wyvern\".",
+  "attack": 1800,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29311166.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29311166.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29311166.jpg"
+  }
+}

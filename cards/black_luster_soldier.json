@@ -1,0 +1,16 @@
+{
+  "id": 5405694,
+  "name": "Black Luster Soldier",
+  "type": "Ritual Monster",
+  "description": "You can Ritual Summon this card with \"Black Luster Ritual\".",
+  "attack": 3000,
+  "defense": 2500,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5405694.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5405694.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5405694.jpg"
+  }
+}

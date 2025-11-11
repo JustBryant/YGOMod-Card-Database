@@ -1,0 +1,16 @@
+{
+  "id": 99193444,
+  "name": "Poseidra, the Storming Atlantean",
+  "type": "Effect Monster",
+  "description": "While you control a monster, except \"Poseidra, the Storming Atlantean\", your opponent's monsters cannot target this card for attacks. You can only use each of the following effects of \"Poseidra, the Storming Atlantean\" once per turn. You can send 1 other WATER monster from your hand or face-up field to the GY; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 \"Atlantean\" or \"Mermail\" monster from your Deck to the GY, then target 1 card your opponent controls; return it to the hand.",
+  "attack": 2800,
+  "defense": 1600,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99193444.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99193444.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99193444.jpg"
+  }
+}

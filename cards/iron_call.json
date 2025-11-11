@@ -1,0 +1,12 @@
+{
+  "id": 64662453,
+  "name": "Iron Call",
+  "type": "Spell Card",
+  "description": "If you control a Machine monster: Target 1 Level 4 or lower Machine monster in your GY; Special Summon that target, but its effects are negated, also destroy it during the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64662453.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64662453.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64662453.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 28002611,
+  "name": "Gadget Hauler",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can send any number of \"Morphtronic\" monsters from your hand to the Graveyard to have this card gain 800 ATK for each.",
+  "attack": 1300,
+  "defense": 0,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28002611.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28002611.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28002611.jpg"
+  }
+}

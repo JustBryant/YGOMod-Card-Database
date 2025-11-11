@@ -1,0 +1,12 @@
+{
+  "id": 25377819,
+  "name": "Hieratic Seal of Convocation",
+  "type": "Spell Card",
+  "description": "Add 1 \"Hieratic\" monster from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25377819.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25377819.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25377819.jpg"
+  }
+}

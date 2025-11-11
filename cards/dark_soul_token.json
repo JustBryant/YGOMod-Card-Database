@@ -1,0 +1,12 @@
+{
+  "id": 8198621,
+  "name": "Dark Soul Token",
+  "type": "Token",
+  "description": "This card can be used as a \"Dark Soul Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8198621.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8198621.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8198621.jpg"
+  }
+}

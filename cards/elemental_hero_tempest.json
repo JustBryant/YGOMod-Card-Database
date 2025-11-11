@@ -1,0 +1,16 @@
+{
+  "id": 83121692,
+  "name": "Elemental HERO Tempest",
+  "type": "Fusion Monster",
+  "description": "\"Elemental HERO Avian\" + \"Elemental HERO Sparkman\" + \"Elemental HERO Bubbleman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can send 1 other card you control to the Graveyard to target 1 monster you control; while this card is face-up on the field, that monster cannot be destroyed by battle.",
+  "attack": 2800,
+  "defense": 2800,
+  "level": 8,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83121692.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83121692.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83121692.jpg"
+  }
+}

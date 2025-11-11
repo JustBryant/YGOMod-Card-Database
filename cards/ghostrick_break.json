@@ -1,0 +1,12 @@
+{
+  "id": 80802524,
+  "name": "Ghostrick Break",
+  "type": "Trap Card",
+  "description": "When exactly 1 face-up \"Ghostrick\" monster you control (and no other cards) is destroyed by battle or an opponent's card effect and sent to your Graveyard: Target 2 \"Ghostrick\" monsters in your Graveyard with different names from the destroyed monster; Special Summon them in face-down Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80802524.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80802524.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80802524.jpg"
+  }
+}

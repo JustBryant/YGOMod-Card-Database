@@ -1,0 +1,16 @@
+{
+  "id": 14644902,
+  "name": "Summoner of Illusions",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Tribute 1 other monster, and if you do, Special Summon 1 Fusion Monster from your Extra Deck, but destroy it during the End Phase of this turn.",
+  "attack": 800,
+  "defense": 900,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14644902.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14644902.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14644902.jpg"
+  }
+}

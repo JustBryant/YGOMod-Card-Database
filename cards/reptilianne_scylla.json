@@ -1,0 +1,16 @@
+{
+  "id": 16909657,
+  "name": "Reptilianne Scylla",
+  "type": "Effect Monster",
+  "description": "If this card destroys a monster with 0 ATK by battle, you can Special Summon that monster from the Graveyard to your side of the field in face-up Defense Position. The effect(s) of that monster is negated.",
+  "attack": 1800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16909657.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16909657.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16909657.jpg"
+  }
+}

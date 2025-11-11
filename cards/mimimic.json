@@ -1,0 +1,16 @@
+{
+  "id": 45651298,
+  "name": "Mimimic",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a monster and you control a Level 3 monster, you can Special Summon this card (from your hand). You can only Special Summon \"Mimimic\" once per turn this way.",
+  "attack": 300,
+  "defense": 300,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45651298.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45651298.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45651298.jpg"
+  }
+}

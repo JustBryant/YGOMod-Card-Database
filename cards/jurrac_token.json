@@ -1,0 +1,12 @@
+{
+  "id": 48411997,
+  "name": "Jurrac Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Jurrac Stauriko\". This Token cannot be Tributed for a Tribute Summon, unless it is for a \"Jurrac\" monster.",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48411997.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48411997.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48411997.jpg"
+  }
+}

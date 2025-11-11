@@ -1,0 +1,16 @@
+{
+  "id": 86915847,
+  "name": "Armored Bee",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 face-up monster your opponent controls; halve that target's ATK until the End Phase.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86915847.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86915847.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86915847.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 39238953,
+  "name": "Lullaby of Obedience",
+  "type": "Spell Card",
+  "description": "Pay 2000 LP and declare 1 Monster Card name; your opponent looks at their Deck, reveals 1 of the declared monsters if there is any, and chooses 1 of these effects to be applied.\r\n● The declared monster is added to the hand of the player who activated this card.\r\n● The player who activated this card Special Summons the declared monster to their field in Attack Position, ignoring its Summoning conditions.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39238953.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39238953.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39238953.jpg"
+  }
+}

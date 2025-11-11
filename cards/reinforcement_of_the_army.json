@@ -1,0 +1,12 @@
+{
+  "id": 32807846,
+  "name": "Reinforcement of the Army",
+  "type": "Spell Card",
+  "description": "Add 1 Level 4 or lower Warrior monster from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32807846.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32807846.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32807846.jpg"
+  }
+}

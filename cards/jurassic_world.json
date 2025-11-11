@@ -1,0 +1,12 @@
+{
+  "id": 10080320,
+  "name": "Jurassic World",
+  "type": "Spell Card",
+  "description": "All Dinosaur-Type monsters gain 300 ATK and DEF.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10080320.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10080320.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10080320.jpg"
+  }
+}

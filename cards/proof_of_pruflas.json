@@ -1,0 +1,16 @@
+{
+  "id": 85847157,
+  "name": "Proof of Pruflas",
+  "type": "Effect Monster",
+  "description": "If you control no Special Summoned monsters: You can Special Summon this card from your hand, also you cannot Special Summon other monsters for the rest of this turn. You can only use this effect of \"Proof of Pruflas\" once per turn. If this card is Normal or Special Summoned, you can (except during the Damage Step): Immediately after this effect resolves, Tribute Summon 1 monster.",
+  "attack": 100,
+  "defense": 100,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85847157.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85847157.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85847157.jpg"
+  }
+}

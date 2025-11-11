@@ -1,0 +1,12 @@
+{
+  "id": 22123627,
+  "name": "Moray of Greed",
+  "type": "Spell Card",
+  "description": "Shuffle 2 WATER monsters from your hand into the Deck, then draw 3 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22123627.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22123627.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22123627.jpg"
+  }
+}

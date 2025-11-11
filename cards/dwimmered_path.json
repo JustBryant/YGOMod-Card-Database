@@ -1,0 +1,12 @@
+{
+  "id": 24721709,
+  "name": "Dwimmered Path",
+  "type": "Spell Card",
+  "description": "Target 1 Spellcaster Effect Monster in your GY; add it to your hand. You can only activate 1 \"Dwimmered Path\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24721709.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24721709.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24721709.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 8414337,
+  "name": "Dust Storm of Gusto",
+  "type": "Trap Card",
+  "description": "Your opponent cannot activate cards or effects when \"Gusto\" monsters you control declare their attacks this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8414337.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8414337.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8414337.jpg"
+  }
+}

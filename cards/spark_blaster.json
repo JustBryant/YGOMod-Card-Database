@@ -1,0 +1,12 @@
+{
+  "id": 97362768,
+  "name": "Spark Blaster",
+  "type": "Spell Card",
+  "description": "Equip only to \"Elemental HERO Sparkman\". During your Main Phase: You can target 1 face-up monster; change the battle position of that target. After you use this effect 3 times, destroy this card.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97362768.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97362768.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97362768.jpg"
+  }
+}

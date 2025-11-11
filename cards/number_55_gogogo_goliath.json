@@ -1,0 +1,16 @@
+{
+  "id": 46871387,
+  "name": "Number 55: Gogogo Goliath",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 monsters\nAll monsters you control gain 800 DEF. You can detach 1 Xyz Material from this card, then target 1 Level 4 EARTH Rock-Type monster in your Graveyard; add that target to your hand. You can only use this effect of \"Number 55: Gogogo Goliath\" once per turn.",
+  "attack": 2400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46871387.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46871387.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46871387.jpg"
+  }
+}

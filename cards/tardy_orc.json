@@ -1,0 +1,16 @@
+{
+  "id": 64892035,
+  "name": "Tardy Orc",
+  "type": "Effect Monster",
+  "description": "This card cannot attack the turn it is Normal Summoned.",
+  "attack": 2200,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64892035.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64892035.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64892035.jpg"
+  }
+}

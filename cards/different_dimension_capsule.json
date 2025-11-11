@@ -1,0 +1,12 @@
+{
+  "id": 11961740,
+  "name": "Different Dimension Capsule",
+  "type": "Spell Card",
+  "description": "Select 1 card from your Deck and remove it from play face-down. During your 2nd Standby Phase after activation, destroy this card and add the removed card to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11961740.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11961740.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11961740.jpg"
+  }
+}

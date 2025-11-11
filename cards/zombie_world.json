@@ -1,0 +1,12 @@
+{
+  "id": 4064256,
+  "name": "Zombie World",
+  "type": "Spell Card",
+  "description": "All monsters on the field and in the GYs become Zombie monsters. Neither player can Tribute Summon monsters, except Zombie monsters.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4064256.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4064256.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4064256.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 70278545,
+  "name": "Pot of Generosity",
+  "type": "Spell Card",
+  "description": "Return 2 cards from your hand to your Deck. Then shuffle your Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70278545.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70278545.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70278545.jpg"
+  }
+}

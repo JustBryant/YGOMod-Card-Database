@@ -1,0 +1,12 @@
+{
+  "id": 94163677,
+  "name": "Infinite Cards",
+  "type": "Spell Card",
+  "description": "There is no limit to the number of cards in players' hands.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94163677.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94163677.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94163677.jpg"
+  }
+}

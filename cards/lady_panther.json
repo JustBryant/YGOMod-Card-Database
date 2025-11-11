@@ -1,0 +1,16 @@
+{
+  "id": 38480590,
+  "name": "Lady Panther",
+  "type": "Effect Monster",
+  "description": "Tribute this face-up card to return 1 of your monsters destroyed as a result of battle during this turn to the top of your Deck.",
+  "attack": 1400,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38480590.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38480590.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38480590.jpg"
+  }
+}

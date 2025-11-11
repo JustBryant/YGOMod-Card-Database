@@ -1,0 +1,12 @@
+{
+  "id": 57782164,
+  "name": "Gagagawind",
+  "type": "Spell Card",
+  "description": "Special Summon 1 \"Gagaga\" monster from your hand as a Level 4 monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57782164.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57782164.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57782164.jpg"
+  }
+}

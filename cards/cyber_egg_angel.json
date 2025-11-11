@@ -1,0 +1,16 @@
+{
+  "id": 28053106,
+  "name": "Cyber Egg Angel",
+  "type": "Effect Monster",
+  "description": "If this card is Summoned: You can add 1 \"Machine Angel\" Spell or 1 \"Ritual Sanctuary\" from your Deck to your hand. You can only use this effect of \"Cyber Egg Angel\" once per turn.",
+  "attack": 200,
+  "defense": 300,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28053106.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28053106.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28053106.jpg"
+  }
+}

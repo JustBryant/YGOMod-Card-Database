@@ -1,0 +1,16 @@
+{
+  "id": 48596760,
+  "name": "Luna the Dark Spirit",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 DARK monster from your GY. Once per turn, during your Standby Phase: Inflict 500 damage to your opponent.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48596760.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48596760.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48596760.jpg"
+  }
+}

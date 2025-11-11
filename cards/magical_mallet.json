@@ -1,0 +1,12 @@
+{
+  "id": 85852291,
+  "name": "Magical Mallet",
+  "type": "Spell Card",
+  "description": "Shuffle any number of cards from your hand into the Deck, then draw that same number of cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85852291.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85852291.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85852291.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14472500,
+  "name": "Gokipon",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the GY: You can add 1 Insect monster with 1500 or less ATK from your Deck to your hand.",
+  "attack": 800,
+  "defense": 800,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14472500.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14472500.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14472500.jpg"
+  }
+}

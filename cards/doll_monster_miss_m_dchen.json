@@ -1,0 +1,16 @@
+{
+  "id": 72717433,
+  "name": "Doll Monster Miss Mädchen",
+  "type": "Normal Monster",
+  "description": "''Welcome to our house!\r\nHere I live with Cologne, Grandpa Demetto, and all the other dolls!''",
+  "attack": 0,
+  "defense": 0,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72717433.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72717433.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72717433.jpg"
+  }
+}

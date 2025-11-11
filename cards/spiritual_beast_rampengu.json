@@ -1,0 +1,16 @@
+{
+  "id": 88123329,
+  "name": "Spiritual Beast Rampengu",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can banish 1 \"Ritual Beast\" monster from your Extra Deck and send 1 \"Ritual Beast\" monster with the same Type as that monster from your Deck to the Graveyard. You can only Special Summon \"Spiritual Beast Rampengu(s)\" once per turn.",
+  "attack": 1600,
+  "defense": 400,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88123329.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88123329.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88123329.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 34536828,
+  "name": "Branded Disciple",
+  "type": "Spell Card",
+  "description": "When a monster effect activated by your opponent resolves, if that opponent's monster has 0 ATK or DEF, and you control a Level 8 or higher Fiend Fusion Monster, you can negate that activated effect. At the end of the Damage Step, if monsters with 0 ATK battled each other: You can destroy your opponent's battling monster. You can only use each effect of \"Branded Disciple\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34536828.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34536828.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34536828.jpg"
+  }
+}

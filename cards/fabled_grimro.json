@@ -1,0 +1,16 @@
+{
+  "id": 24040093,
+  "name": "Fabled Grimro",
+  "type": "Effect Monster",
+  "description": "If you control a \"Fabled\" monster: You can send this card from your hand to the GY; add 1 \"Fabled\" monster from your Deck to your hand, except \"Fabled Grimro\".",
+  "attack": 1700,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24040093.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24040093.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24040093.jpg"
+  }
+}

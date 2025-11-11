@@ -1,0 +1,12 @@
+{
+  "id": 42671152,
+  "name": "Malus Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"The Golden Apples\". The ATK and DEF of this Token are each equal to the amount of Life Points gained by the effect of \"The Golden Apples\".",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42671152.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42671152.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42671152.jpg"
+  }
+}

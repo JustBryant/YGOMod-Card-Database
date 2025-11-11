@@ -1,0 +1,16 @@
+{
+  "id": 51827737,
+  "name": "Genex Recycled",
+  "type": "Tuner Monster",
+  "description": "Once per turn, you can select 1 \"Genex\" monster in your Graveyard. Until the End Phase, this card's name is treated as the selected monster's name.",
+  "attack": 200,
+  "defense": 400,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51827737.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51827737.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51827737.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 63977008,
+  "name": "Junk Synchron",
+  "type": "Tuner Monster",
+  "description": "When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your Graveyard; Special Summon that target in Defense Position, but it has its effects negated.",
+  "attack": 1300,
+  "defense": 500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63977008.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63977008.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63977008.jpg"
+  }
+}

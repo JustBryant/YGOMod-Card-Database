@@ -1,0 +1,16 @@
+{
+  "id": 25236056,
+  "name": "Rare Metal Dragon",
+  "type": "Effect Monster",
+  "description": "This card cannot be Normal Summoned or Set.",
+  "attack": 2400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25236056.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25236056.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25236056.jpg"
+  }
+}

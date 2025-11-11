@@ -1,0 +1,16 @@
+{
+  "id": 11321183,
+  "name": "Dark Blade",
+  "type": "Normal Monster",
+  "description": "They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11321183.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11321183.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11321183.jpg"
+  }
+}

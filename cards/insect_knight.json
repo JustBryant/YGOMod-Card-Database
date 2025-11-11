@@ -1,0 +1,16 @@
+{
+  "id": 35052053,
+  "name": "Insect Knight",
+  "type": "Normal Monster",
+  "description": "Of all Insect fighters, he is the paragon of the Indestructible Insect Invaders, which only the elite of the elite can join. We can no longer ignore their unmatched battle prowess.",
+  "attack": 1900,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35052053.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35052053.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35052053.jpg"
+  }
+}

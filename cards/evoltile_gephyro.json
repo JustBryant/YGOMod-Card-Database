@@ -1,0 +1,16 @@
+{
+  "id": 55488859,
+  "name": "Evoltile Gephyro",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can target 1 \"Evolsaur\" monster in your Graveyard; Special Summon that target.",
+  "attack": 200,
+  "defense": 400,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55488859.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55488859.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55488859.jpg"
+  }
+}

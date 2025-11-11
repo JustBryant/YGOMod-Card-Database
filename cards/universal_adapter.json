@@ -1,0 +1,12 @@
+{
+  "id": 53077251,
+  "name": "Universal Adapter",
+  "type": "Trap Card",
+  "description": "Target 1 face-up monster your opponent controls; the ATK of all other monsters currently on the field become equal to that monster's current ATK, until the end of this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53077251.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53077251.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53077251.jpg"
+  }
+}

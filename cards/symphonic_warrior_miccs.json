@@ -1,0 +1,16 @@
+{
+  "id": 5399521,
+  "name": "Symphonic Warrior Miccs",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nUnless you have a \"Symphonic Warrior\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4. Once per turn, during your End Phase: You can target 1 of your banished \"Symphonic Warrior\" monsters; add it to your hand.\n\n[ Monster Effect ] \nYou can Special Summon this card (from your hand) by removing 3 Symphonic Counters from your field. After you Normal or Special Summon this card, you can Normal Summon 1 monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+  "attack": 2300,
+  "defense": 1100,
+  "level": 5,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5399521.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5399521.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5399521.jpg"
+  }
+}

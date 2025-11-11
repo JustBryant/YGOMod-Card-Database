@@ -1,0 +1,16 @@
+{
+  "id": 32181268,
+  "name": "Amano-Iwato",
+  "type": "Spirit Monster",
+  "description": "Cannot be Special Summoned. Monsters cannot activate their effects, except Spirit monsters. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
+  "attack": 1900,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32181268.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32181268.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32181268.jpg"
+  }
+}

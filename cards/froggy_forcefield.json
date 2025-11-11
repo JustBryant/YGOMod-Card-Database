@@ -1,0 +1,12 @@
+{
+  "id": 34351849,
+  "name": "Froggy Forcefield",
+  "type": "Trap Card",
+  "description": "Activate only when a face-up \"Frog\" monster you control, except \"Frog the Jam\", is selected as an attack target. Destroy all Attack Position monsters your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34351849.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34351849.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34351849.jpg"
+  }
+}

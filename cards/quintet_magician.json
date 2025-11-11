@@ -1,0 +1,16 @@
+{
+  "id": 84433295,
+  "name": "Quintet Magician",
+  "type": "Fusion Monster",
+  "description": "5 Spellcaster monsters\r\nMust be Fusion Summoned. If this card is Fusion Summoned using 5 Spellcaster monsters with different names: You can destroy all cards your opponent controls. This face-up card on the field cannot be Tributed, nor used as Fusion Material, also it cannot be destroyed by card effects.",
+  "attack": 4500,
+  "defense": 4500,
+  "level": 12,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84433295.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84433295.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84433295.jpg"
+  }
+}

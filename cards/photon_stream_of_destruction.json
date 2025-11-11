@@ -1,0 +1,12 @@
+{
+  "id": 72044448,
+  "name": "Photon Stream of Destruction",
+  "type": "Spell Card",
+  "description": "If you control a \"Galaxy-Eyes\" monster: Target 1 card on the field; banish that target. You can only activate this card during your turn, unless you control \"Galaxy-Eyes Photon Dragon\".",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72044448.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72044448.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72044448.jpg"
+  }
+}

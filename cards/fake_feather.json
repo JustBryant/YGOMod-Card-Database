@@ -1,0 +1,12 @@
+{
+  "id": 22628574,
+  "name": "Fake Feather",
+  "type": "Trap Card",
+  "description": "Send 1 \"Blackwing\" monster from your hand to the Graveyard and select 1 Normal Trap Card in your opponent's Graveyard. The effect of this card will be same as the selected Normal Trap Card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22628574.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22628574.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22628574.jpg"
+  }
+}

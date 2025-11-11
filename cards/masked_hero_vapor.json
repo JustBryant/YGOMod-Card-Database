@@ -1,0 +1,16 @@
+{
+  "id": 10920352,
+  "name": "Masked HERO Vapor",
+  "type": "Fusion Monster",
+  "description": "Must be Special Summoned with \"Mask Change\". Cannot be destroyed by card effects.",
+  "attack": 2400,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10920352.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10920352.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10920352.jpg"
+  }
+}

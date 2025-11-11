@@ -1,0 +1,16 @@
+{
+  "id": 39188539,
+  "name": "Storm Shooter",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can select and activate 1 of these effects: ● Move this card to an adjacent (horizontal) unoccupied Monster Card Zone. ● Return 1 Spell, Trap or Monster Card on your opponent's side of the field in the same column as this card to its owner's hand.",
+  "attack": 2300,
+  "defense": 500,
+  "level": 7,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39188539.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39188539.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39188539.jpg"
+  }
+}

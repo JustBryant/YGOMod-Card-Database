@@ -1,0 +1,16 @@
+{
+  "id": 9348522,
+  "name": "Cloudcastle",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 Level 9 monster in your Graveyard; Special Summon that target. Level 8 or lower monsters cannot attack the turn they are Normal or Special Summoned.",
+  "attack": 0,
+  "defense": 3000,
+  "level": 9,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9348522.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9348522.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9348522.jpg"
+  }
+}

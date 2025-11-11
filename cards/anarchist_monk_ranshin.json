@@ -1,0 +1,16 @@
+{
+  "id": 58324930,
+  "name": "Anarchist Monk Ranshin",
+  "type": "Effect Monster",
+  "description": "When this card you control is sent to your Graveyard by your opponent's card (either by battle, by card effect, or by being destroyed): Target 1 monster in your opponent's Graveyard; banish that target.",
+  "attack": 1800,
+  "defense": 100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58324930.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58324930.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58324930.jpg"
+  }
+}

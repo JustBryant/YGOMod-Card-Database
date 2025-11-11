@@ -1,0 +1,12 @@
+{
+  "id": 76714458,
+  "name": "Spell of Pain",
+  "type": "Spell Card",
+  "description": "When your opponent activates a card or effect that would inflict effect damage to you: Your opponent takes the effect damage from that card or effect, instead.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76714458.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76714458.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76714458.jpg"
+  }
+}

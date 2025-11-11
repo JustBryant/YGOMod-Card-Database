@@ -1,0 +1,16 @@
+{
+  "id": 23220863,
+  "name": "Magical Cavalry of Cxulub",
+  "type": "Pendulum Effect Monster",
+  "description": "This card is unaffected by monsters' activated effects, except Pendulum Monsters'.",
+  "attack": 1500,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23220863.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23220863.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23220863.jpg"
+  }
+}

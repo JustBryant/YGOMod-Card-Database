@@ -1,0 +1,16 @@
+{
+  "id": 16392422,
+  "name": "Toon Masked Sorcerer",
+  "type": "Toon Monster",
+  "description": "Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Draw 1 card.",
+  "attack": 900,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16392422.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16392422.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16392422.jpg"
+  }
+}

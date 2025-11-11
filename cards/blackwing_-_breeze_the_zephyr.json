@@ -1,0 +1,16 @@
+{
+  "id": 89258906,
+  "name": "Blackwing - Breeze the Zephyr",
+  "type": "Tuner Monster",
+  "description": "If this card is added from your Deck to your hand by a card effect: You can Special Summon this card from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Blackwing\" monster.",
+  "attack": 1100,
+  "defense": 300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89258906.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89258906.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89258906.jpg"
+  }
+}

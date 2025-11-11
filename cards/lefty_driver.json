@@ -1,0 +1,16 @@
+{
+  "id": 44935634,
+  "name": "Lefty Driver",
+  "type": "Effect Monster",
+  "description": "If this card is Special Summoned: You can make this card become Level 3 until the end of this turn. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 \"Righty Driver\" from your Deck to your hand. You can only use this effect of \"Lefty Driver\" once per turn.",
+  "attack": 300,
+  "defense": 100,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44935634.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44935634.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44935634.jpg"
+  }
+}

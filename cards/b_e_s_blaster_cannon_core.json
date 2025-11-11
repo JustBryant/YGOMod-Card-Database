@@ -1,0 +1,16 @@
+{
+  "id": 84257883,
+  "name": "B.E.S. Blaster Cannon Core",
+  "type": "Effect Monster",
+  "description": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon \"B.E.S. Blaster Cannon Core\" once per turn this way. If this card is Normal or Special Summoned: Place 3 counters on this card. Cannot be destroyed by battle. At the end of the Damage Step, if this card battled: Remove 1 counter from this card. If you cannot, destroy it.",
+  "attack": 2500,
+  "defense": 3000,
+  "level": 9,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84257883.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84257883.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84257883.jpg"
+  }
+}

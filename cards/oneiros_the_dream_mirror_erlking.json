@@ -1,0 +1,16 @@
+{
+  "id": 35187185,
+  "name": "Oneiros, the Dream Mirror Erlking",
+  "type": "Fusion Monster",
+  "description": "2 \"Dream Mirror\" monsters with different Attributes\r\nWhile face-up on the field, this card is also DARK-Attribute. You can only use each of the following effects of \"Oneiros, the Dream Mirror Erlking\" once per turn.\r\n● If another monster you control is Tributed (except during the Damage Step): You can target 1 card on the field; destroy it.\r\n● If this card in its owner's possession is destroyed by an opponent's card: You can Special Summon 1 \"Dream Mirror\" monster from your GY, except \"Oneiros, the Dream Mirror Erlking\".",
+  "attack": 3000,
+  "defense": 3000,
+  "level": 10,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35187185.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35187185.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35187185.jpg"
+  }
+}

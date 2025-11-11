@@ -1,0 +1,12 @@
+{
+  "id": 90951921,
+  "name": "Chronomaly Technology",
+  "type": "Spell Card",
+  "description": "Target 1 \"Chronomaly\" monster in your Graveyard; banish it, then look at the top 2 cards of your Deck, add 1 of them to your hand, and send the other to the Graveyard. You can only activate 1 \"Chronomaly Technology\" per turn. You cannot Special Summon any monsters during the turn you activate this card, except \"Chronomaly\" monsters.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90951921.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90951921.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90951921.jpg"
+  }
+}

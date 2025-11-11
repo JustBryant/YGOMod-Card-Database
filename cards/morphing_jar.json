@@ -1,0 +1,16 @@
+{
+  "id": 33508719,
+  "name": "Morphing Jar",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Both players discard as many cards as possible from their hands, then each player draws 5 cards.",
+  "attack": 700,
+  "defense": 600,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33508719.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33508719.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33508719.jpg"
+  }
+}

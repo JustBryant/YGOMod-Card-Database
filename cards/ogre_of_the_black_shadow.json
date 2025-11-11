@@ -1,0 +1,16 @@
+{
+  "id": 45121025,
+  "name": "Ogre of the Black Shadow",
+  "type": "Normal Monster",
+  "description": "An ogre possessed by the powers of the dark. Few can withstand its rapid charge.",
+  "attack": 1200,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45121025.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45121025.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45121025.jpg"
+  }
+}

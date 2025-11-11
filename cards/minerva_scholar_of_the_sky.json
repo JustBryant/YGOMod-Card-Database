@@ -1,0 +1,16 @@
+{
+  "id": 53666449,
+  "name": "Minerva, Scholar of the Sky",
+  "type": "Effect Monster",
+  "description": "Each time a Counter Trap Card is activated, immediately after it resolves, this card gains 500 ATK, and if it does, and \"The Sanctuary in the Sky\" is on the field, add 1 Counter Trap with a different name from your GY to your hand.",
+  "attack": 1700,
+  "defense": 400,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53666449.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53666449.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53666449.jpg"
+  }
+}

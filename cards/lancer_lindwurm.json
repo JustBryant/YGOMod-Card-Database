@@ -1,0 +1,16 @@
+{
+  "id": 46272804,
+  "name": "Lancer Lindwurm",
+  "type": "Effect Monster",
+  "description": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "attack": 1800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46272804.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46272804.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46272804.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 44487250,
+  "name": "Xyz Block",
+  "type": "Trap Card",
+  "description": "When your opponent activates a monster effect: Detach 1 Xyz Material from a monster you control; negate the activation, and if you do, destroy that monster.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44487250.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44487250.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44487250.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 92812851,
+  "name": "Exceed the Pendulum",
+  "type": "Link Monster",
+  "description": "2+ Effect Monsters, including a Pendulum Monster\r\nGains 100 ATK for each Pendulum Monster Card you control. You can only use each of the following effects of \"Exceed the Pendulum\" once per turn. If this card is Link Summoned: You can add 1 face-up Pendulum Monster from your Extra Deck to your hand. During the Main Phase (Quick Effect): You can Special Summon 1 Pendulum Monster from your hand or GY in Defense Position, with a Level between the Pendulum Scales of the 2 cards in your Pendulum Zones.",
+  "attack": 2000,
+  "defense": null,
+  "level": null,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92812851.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92812851.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92812851.jpg"
+  }
+}

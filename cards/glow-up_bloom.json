@@ -1,0 +1,16 @@
+{
+  "id": 92964816,
+  "name": "Glow-Up Bloom",
+  "type": "Tuner Monster",
+  "description": "If this card is sent to the GY: You can banish this card from your GY; add 1 Level 5 or higher Zombie monster from your Deck to your hand, or, if \"Zombie World\" is in a Field Zone, you can Special Summon it from your Deck instead, also, in either case, you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. You can only use this effect of \"Glow-Up Bloom\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92964816.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92964816.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92964816.jpg"
+  }
+}

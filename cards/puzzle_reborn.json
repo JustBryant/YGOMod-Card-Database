@@ -1,0 +1,12 @@
+{
+  "id": 30585393,
+  "name": "Puzzle Reborn",
+  "type": "Trap Card",
+  "description": "If exactly 1 monster you control (and no other cards) is destroyed by a card effect: Target that monster; Special Summon that target.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30585393.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30585393.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30585393.jpg"
+  }
+}

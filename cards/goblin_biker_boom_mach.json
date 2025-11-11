@@ -1,0 +1,16 @@
+{
+  "id": 27868563,
+  "name": "Goblin Biker Boom Mach",
+  "type": "Effect Monster",
+  "description": "Once per Chain, during the Main Phase, if this card is in your hand or GY (Quick Effect): You can detach 1 Xyz Material from a monster on either field, and if you do, Special Summon this card, also you cannot Special Summon \"Goblin Biker Boom Mach\" until the end of the next turn.",
+  "attack": 1300,
+  "defense": 0,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27868563.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27868563.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27868563.jpg"
+  }
+}

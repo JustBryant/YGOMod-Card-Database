@@ -1,0 +1,16 @@
+{
+  "id": 17189532,
+  "name": "Phantom Bounzer",
+  "type": "Effect Monster",
+  "description": "If this card on the field is destroyed and sent to the Graveyard: You can add 2 \"Bounzer\" cards from your Deck to your hand.",
+  "attack": 2400,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17189532.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17189532.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17189532.jpg"
+  }
+}

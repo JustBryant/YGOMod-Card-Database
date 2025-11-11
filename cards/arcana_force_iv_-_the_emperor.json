@@ -1,0 +1,16 @@
+{
+  "id": 61175706,
+  "name": "Arcana Force IV - The Emperor",
+  "type": "Effect Monster",
+  "description": "When this card is Summoned, toss a coin: ● Heads: All \"Arcana Force\" monsters you control gain 500 ATK. ● Tails: All \"Arcana Force\" monsters you control lose 500 ATK.",
+  "attack": 1400,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61175706.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61175706.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61175706.jpg"
+  }
+}

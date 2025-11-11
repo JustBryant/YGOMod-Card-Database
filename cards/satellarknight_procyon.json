@@ -1,0 +1,16 @@
+{
+  "id": 99668578,
+  "name": "Satellarknight Procyon",
+  "type": "Effect Monster",
+  "description": "If this card is Summoned: You can send 1 \"tellarknight\" monster from your hand to the Graveyard, and if you do, draw 1 card. You can only use this effect of \"Satellarknight Procyon\" once per turn.",
+  "attack": 1300,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99668578.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99668578.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99668578.jpg"
+  }
+}

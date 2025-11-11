@@ -1,0 +1,12 @@
+{
+  "id": 98143165,
+  "name": "Synchro Boost",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 500 ATK, and its Level is increased by 1.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98143165.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98143165.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98143165.jpg"
+  }
+}

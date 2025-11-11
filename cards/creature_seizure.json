@@ -1,0 +1,12 @@
+{
+  "id": 15305240,
+  "name": "Creature Seizure",
+  "type": "Spell Card",
+  "description": "Each player gives their opponent control of 1 of their monsters (controller's choice). You must choose a face-up Normal Monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15305240.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15305240.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15305240.jpg"
+  }
+}

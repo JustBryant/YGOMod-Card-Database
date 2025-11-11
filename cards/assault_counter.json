@@ -1,0 +1,12 @@
+{
+  "id": 76407432,
+  "name": "Assault Counter",
+  "type": "Trap Card",
+  "description": "Activate only while you control an \"/Assault Mode\" monster. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76407432.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76407432.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76407432.jpg"
+  }
+}

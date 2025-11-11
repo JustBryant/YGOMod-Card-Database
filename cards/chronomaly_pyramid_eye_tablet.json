@@ -1,0 +1,12 @@
+{
+  "id": 26345570,
+  "name": "Chronomaly Pyramid Eye Tablet",
+  "type": "Spell Card",
+  "description": "All \"Chronomaly\" monsters you control gain 800 ATK.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26345570.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26345570.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26345570.jpg"
+  }
+}

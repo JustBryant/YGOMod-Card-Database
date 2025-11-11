@@ -1,0 +1,16 @@
+{
+  "id": 29146185,
+  "name": "World of Prophecy",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned by the effect of a Spellcaster-Type monster or a \"Spellbook\" Spell Card: You can target 2 \"Spellbook\" Spell Cards in your Graveyard; add those targets to your hand. You cannot Special Summon other monsters during the turn you activate this effect. When you add card(s) to your hand by this effect: You can reveal 4 \"Spellbook\" Spell Cards with different names in your hand; destroy all other cards on the field.",
+  "attack": 2900,
+  "defense": 2400,
+  "level": 9,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29146185.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29146185.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29146185.jpg"
+  }
+}

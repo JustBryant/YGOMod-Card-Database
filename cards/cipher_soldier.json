@@ -1,0 +1,16 @@
+{
+  "id": 79853073,
+  "name": "Cipher Soldier",
+  "type": "Effect Monster",
+  "description": "If this card battles a Warrior-Type monster, during damage calculation: This card gains 2000 ATK and DEF during that damage calculation only.",
+  "attack": 1350,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79853073.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79853073.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79853073.jpg"
+  }
+}

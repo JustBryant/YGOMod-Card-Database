@@ -1,0 +1,16 @@
+{
+  "id": 60071928,
+  "name": "Righty Driver",
+  "type": "Tuner Monster",
+  "description": "For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. If this card is Normal Summoned: You can Special Summon 1 \"Lefty Driver\" from your hand, Deck, or GY. You can only use this effect of \"Righty Driver\" once per turn.",
+  "attack": 100,
+  "defense": 300,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60071928.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60071928.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60071928.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 59438930,
+  "name": "Ghost Ogre & Snow Rabbit",
+  "type": "Tuner Monster",
+  "description": "When a monster on the field activates its effect, or when a Spell/Trap that is already face-up on the field activates its effect (Quick Effect): You can send this card from your hand or field to the GY; destroy that card on the field. You can only use this effect of \"Ghost Ogre & Snow Rabbit\" once per turn.",
+  "attack": 0,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59438930.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59438930.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59438930.jpg"
+  }
+}

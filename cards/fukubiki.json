@@ -1,0 +1,12 @@
+{
+  "id": 54927180,
+  "name": "Fukubiki",
+  "type": "Trap Card",
+  "description": "Each player shuffles their Deck and excavates the top card of their Deck. Add the excavated card with the higher ATK to that player's hand, also send the card with the lower ATK to that player's GY (Spells/Traps, and monsters with ? ATK, are treated as 0). If tied, place those cards on the bottoms of the Decks.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54927180.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54927180.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54927180.jpg"
+  }
+}

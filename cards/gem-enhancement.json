@@ -1,0 +1,12 @@
+{
+  "id": 41777,
+  "name": "Gem-Enhancement",
+  "type": "Trap Card",
+  "description": "Tribute 1 \"Gem-Knight\" monster, then target 1 \"Gem-Knight\" monster in your Graveyard; Special Summon that target from the Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41777.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41777.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41777.jpg"
+  }
+}

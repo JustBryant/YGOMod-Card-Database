@@ -1,0 +1,12 @@
+{
+  "id": 8632967,
+  "name": "Evo-Karma",
+  "type": "Spell Card",
+  "description": "When a monster(s) is Special Summoned by the effect of an \"Evoltile\" monster you control, your opponent cannot activate cards or effects.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8632967.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8632967.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8632967.jpg"
+  }
+}

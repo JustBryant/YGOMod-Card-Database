@@ -1,0 +1,16 @@
+{
+  "id": 52040216,
+  "name": "Harpie's Pet Dragon",
+  "type": "Effect Monster",
+  "description": "Gains 300 ATK/DEF for each \"Harpie Lady\" on the field.",
+  "attack": 2000,
+  "defense": 2500,
+  "level": 7,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52040216.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52040216.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52040216.jpg"
+  }
+}

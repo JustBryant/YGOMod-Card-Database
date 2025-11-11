@@ -1,0 +1,12 @@
+{
+  "id": 48712195,
+  "name": "Card Trader",
+  "type": "Spell Card",
+  "description": "Once per turn, during your Standby Phase: You can shuffle 1 card from your hand into the Deck; draw 1 card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48712195.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48712195.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48712195.jpg"
+  }
+}

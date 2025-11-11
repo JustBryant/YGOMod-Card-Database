@@ -1,0 +1,16 @@
+{
+  "id": 47795344,
+  "name": "Naturia Hydrangea",
+  "type": "Effect Monster",
+  "description": "If the effect of a \"Naturia\" monster you control was activated during this turn, you can Special Summon this card from your hand.",
+  "attack": 1900,
+  "defense": 2000,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47795344.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47795344.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47795344.jpg"
+  }
+}

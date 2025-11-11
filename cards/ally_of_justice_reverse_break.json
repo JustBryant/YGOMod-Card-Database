@@ -1,0 +1,16 @@
+{
+  "id": 55982698,
+  "name": "Ally of Justice Reverse Break",
+  "type": "Effect Monster",
+  "description": "If a face-up LIGHT monster is on the field, destroy this card. If this card attacks a face-down Defense Position monster, destroy that monster immediately with this card's effect without flipping it face-up or applying damage calculation.",
+  "attack": 1200,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55982698.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55982698.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55982698.jpg"
+  }
+}

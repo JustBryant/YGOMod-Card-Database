@@ -1,0 +1,16 @@
+{
+  "id": 81794107,
+  "name": "R.B. Lambda Cannon",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can target 1 \"R.B.\" monster in your GY, except \"R.B. Lambda Cannon\"; add it to your hand. While this card is linked to an \"R.B.\" Link Monster: You can pay 1200 LP; destroy this card, and if you do, look at your opponent's hand, then you can Special Summon 1 monster from it to their field, but negate its effects. You can only use each effect of \"R.B. Lambda Cannon\" once per turn.",
+  "attack": 1200,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81794107.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81794107.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81794107.jpg"
+  }
+}

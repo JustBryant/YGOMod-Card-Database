@@ -1,0 +1,12 @@
+{
+  "id": 7614732,
+  "name": "Greater Polymerization",
+  "type": "Spell Card",
+  "description": "Fusion Summon 1 Fusion Monster from your Extra Deck, using 3 or more monsters from your hand or field as Fusion Material, and if you do, it gains these effects.\r\n● This card cannot be destroyed by card effects.\r\n● If this card attacks a Defense Position monster, inflict piercing battle damage.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7614732.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7614732.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7614732.jpg"
+  }
+}

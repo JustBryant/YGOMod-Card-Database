@@ -1,0 +1,16 @@
+{
+  "id": 13846680,
+  "name": "Firestorm Prominence",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-FIRE monsters.",
+  "attack": 2000,
+  "defense": 1500,
+  "level": 7,
+  "attribute": "FIRE",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13846680.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13846680.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13846680.jpg"
+  }
+}

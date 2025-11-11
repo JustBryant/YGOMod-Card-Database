@@ -1,0 +1,16 @@
+{
+  "id": 93156774,
+  "name": "Vanquish Soul Hollie Sue",
+  "type": "Effect Monster",
+  "description": "During the Main Phase (Quick Effect): You can reveal 1 other \"Vanquish Soul\" monster in your hand; Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\r\n● EARTH & DARK: Take control of 1 monster your opponent controls with the lowest ATK (your choice, if tied) until the End Phase.\r\n● FIRE & DARK: Special Summon 1 non-Psychic \"Vanquish Soul\" monster from your Deck.\r\nYou can only use each effect of \"Vanquish Soul Hollie Sue\" once per turn, and cannot activate more than 1 in the same Chain.",
+  "attack": 500,
+  "defense": 2200,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93156774.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93156774.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93156774.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 83968380,
+  "name": "Jar of Greed",
+  "type": "Trap Card",
+  "description": "Draw 1 card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83968380.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83968380.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83968380.jpg"
+  }
+}

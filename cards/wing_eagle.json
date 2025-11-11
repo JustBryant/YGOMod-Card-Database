@@ -1,0 +1,16 @@
+{
+  "id": 47319141,
+  "name": "Wing Eagle",
+  "type": "Normal Monster",
+  "description": "''This flying creature never misses its intended target.''",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 5,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47319141.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47319141.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47319141.jpg"
+  }
+}

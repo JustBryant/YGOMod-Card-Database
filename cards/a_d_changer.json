@@ -1,0 +1,16 @@
+{
+  "id": 96146814,
+  "name": "A/D Changer",
+  "type": "Effect Monster",
+  "description": "You can banish this card from your Graveyard, then target 1 monster on the field; change its battle position.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96146814.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96146814.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96146814.jpg"
+  }
+}

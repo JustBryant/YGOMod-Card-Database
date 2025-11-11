@@ -1,0 +1,12 @@
+{
+  "id": 300302032,
+  "name": "I've Got Dino DNA!",
+  "type": "Skill Card",
+  "description": "During each of your Draw Phases, you gain 200 LP. During your Draw Phase, if you draw a Dinosaur monster for your normal draw, you can reveal it and place it on the bottom of your Deck, then draw 1 card. Once per turn, during your Main Phase, you can make 1 Dinosaur monster you control gain 200 ATK until the end of this turn.",
+  "race": "Tyranno Hassl",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302032.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302032.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302032.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 14108995,
+  "name": "Vernusylph Corolla",
+  "type": "Spell Card",
+  "description": "All EARTH monsters you control are also treated as \"Vernusylph\" monsters. Once per turn, if you would discard a \"Vernusylph\" monster(s) and 1 card to activate the effect of that \"Vernusylph\" monster in your hand, you can discard only that \"Vernusylph\" monster(s) instead.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14108995.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14108995.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14108995.jpg"
+  }
+}

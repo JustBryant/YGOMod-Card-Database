@@ -1,0 +1,16 @@
+{
+  "id": 67073561,
+  "name": "Baba Barber",
+  "type": "Link Monster",
+  "description": "2 monsters\r\nAt the start of each Battle Phase: You can target this card or 1 monster this card points to; banish it until the End Phase. You can only use this effect of \"Baba Barber\" once per turn.",
+  "attack": 200,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67073561.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67073561.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67073561.jpg"
+  }
+}

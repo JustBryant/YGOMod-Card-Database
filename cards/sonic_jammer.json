@@ -1,0 +1,16 @@
+{
+  "id": 84550200,
+  "name": "Sonic Jammer",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Your opponent cannot activate any Spell Cards until the end of the End Phase of the next turn.",
+  "attack": 350,
+  "defense": 650,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84550200.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84550200.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84550200.jpg"
+  }
+}

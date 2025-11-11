@@ -1,0 +1,16 @@
+{
+  "id": 73146473,
+  "name": "Cross Porter",
+  "type": "Effect Monster",
+  "description": "You can send 1 monster you control to the Graveyard and Special Summon 1 \"Neo-Spacian\" monster from your hand. When this card is sent to the Graveyard, you can add 1 \"Neo-Spacian\" monster from your Deck to your hand.",
+  "attack": 400,
+  "defense": 400,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73146473.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73146473.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73146473.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 86767655,
+  "name": "Ms. Judge",
+  "type": "Effect Monster",
+  "description": "If an opponent's card effect activates, before resolving that effect, toss a coin twice, and if the result is 2 Heads, negate that effect. You can only use this effect of \"Ms. Judge\" once per turn.",
+  "attack": 1800,
+  "defense": 600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86767655.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86767655.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86767655.jpg"
+  }
+}

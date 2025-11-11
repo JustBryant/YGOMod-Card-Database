@@ -1,0 +1,16 @@
+{
+  "id": 37792478,
+  "name": "Metabo-Shark",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can target 2 Fish-Type monsters in your Graveyard; shuffle those targets into your Deck.",
+  "attack": 1800,
+  "defense": 500,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37792478.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37792478.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37792478.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 94655777,
+  "name": "Nebulus, Dragon Ruler of Mishaps",
+  "type": "Effect Monster",
+  "description": "You can discard this card and 1 Dragon or DARK monster, then target 2 of your banished \"Dragon Ruler\" monsters with different Attributes, except \"Nebulus, Dragon Ruler of Mishaps\"; Special Summon them, but they cannot attack this turn. You can banish from your GY, this card and 1 Dragon or DARK monster, then target 1 \"Eclipse, Dragon Ruler of Catastrophes\" in your GY; Special Summon it. You can only use 1 \"Nebulus, Dragon Ruler of Mishaps\" effect per turn, and only once that turn.",
+  "attack": 1000,
+  "defense": 600,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94655777.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94655777.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94655777.jpg"
+  }
+}

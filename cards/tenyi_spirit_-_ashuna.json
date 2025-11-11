@@ -1,0 +1,16 @@
+{
+  "id": 87052196,
+  "name": "Tenyi Spirit - Ashuna",
+  "type": "Effect Monster",
+  "description": "If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY; Special Summon 1 \"Tenyi\" monster from your Deck, except \"Tenyi Spirit - Ashuna\", also you cannot Special Summon monsters for the rest of this turn, except Wyrm monsters. You can only use each effect of \"Tenyi Spirit - Ashuna\" once per turn.",
+  "attack": 1600,
+  "defense": 2600,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87052196.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87052196.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87052196.jpg"
+  }
+}

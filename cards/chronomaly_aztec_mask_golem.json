@@ -1,0 +1,16 @@
+{
+  "id": 94766498,
+  "name": "Chronomaly Aztec Mask Golem",
+  "type": "Effect Monster",
+  "description": "During your turn, if you have activated a \"Chronomaly\" Spell Card previously this turn, you can Special Summon this card (from your hand). You can only control 1 \"Chronomaly Aztec Mask Golem\".",
+  "attack": 1500,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94766498.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94766498.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94766498.jpg"
+  }
+}

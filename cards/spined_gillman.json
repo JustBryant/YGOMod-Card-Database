@@ -1,0 +1,16 @@
+{
+  "id": 42463414,
+  "name": "Spined Gillman",
+  "type": "Effect Monster",
+  "description": "All Fish, Sea Serpent, and Aqua-Type monsters you control gain 400 ATK.",
+  "attack": 1300,
+  "defense": 0,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42463414.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42463414.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42463414.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 68670547,
+  "name": "Paladin of the Cursed Dragon",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 Level 4 or lower Zombie monster in your opponent's GY, that was destroyed by battle; Special Summon that target.",
+  "attack": 1900,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68670547.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68670547.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68670547.jpg"
+  }
+}

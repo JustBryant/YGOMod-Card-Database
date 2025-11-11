@@ -1,0 +1,12 @@
+{
+  "id": 81231742,
+  "name": "Sorcerous Spell Wall",
+  "type": "Spell Card",
+  "description": "All monsters you control gain 300 ATK during your turn only. All monsters you control gain 300 DEF during your opponent's turn only.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81231742.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81231742.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81231742.jpg"
+  }
+}

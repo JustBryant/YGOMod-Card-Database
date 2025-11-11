@@ -1,0 +1,16 @@
+{
+  "id": 6103114,
+  "name": "Beaked Snake",
+  "type": "Normal Monster",
+  "description": "''This monster wraps itself around an opponent and pecks away with its huge beak.''",
+  "attack": 800,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6103114.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6103114.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6103114.jpg"
+  }
+}

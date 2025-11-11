@@ -1,0 +1,16 @@
+{
+  "id": 32271987,
+  "name": "Featherizer",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, you can send 1 Gemini monster from your Deck to the Graveyard and draw 1 card.",
+  "attack": 700,
+  "defense": 1100,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32271987.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32271987.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32271987.jpg"
+  }
+}

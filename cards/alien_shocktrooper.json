@@ -1,0 +1,16 @@
+{
+  "id": 97127906,
+  "name": "Alien Shocktrooper",
+  "type": "Normal Monster",
+  "description": "The Aliens have used a mysterious biological substance to create a supreme race of soldiers. They do not have the natural powers of the other Aliens, but can make stunning physical attacks.",
+  "attack": 1900,
+  "defense": 800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97127906.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97127906.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97127906.jpg"
+  }
+}

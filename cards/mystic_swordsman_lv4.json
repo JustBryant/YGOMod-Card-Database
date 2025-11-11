@@ -1,0 +1,16 @@
+{
+  "id": 74591968,
+  "name": "Mystic Swordsman LV4",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned (but can be Normal Set). At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Mystic Swordsman LV6\" from your hand or Deck.",
+  "attack": 1900,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74591968.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74591968.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74591968.jpg"
+  }
+}

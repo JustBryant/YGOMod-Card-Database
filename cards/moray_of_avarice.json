@@ -1,0 +1,12 @@
+{
+  "id": 73244186,
+  "name": "Moray of Avarice",
+  "type": "Spell Card",
+  "description": "Banish 1 face-up Fish, Sea Serpent, or Aqua monster you control; draw 2 cards. You can only activate 1 \"Moray of Avarice\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73244186.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73244186.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73244186.jpg"
+  }
+}

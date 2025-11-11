@@ -1,0 +1,16 @@
+{
+  "id": 10060427,
+  "name": "Koa'ki Meiru Rooklord",
+  "type": "Effect Monster",
+  "description": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Warrior-Type monster in your hand. You can Tribute Summon this card by Tributing 1 \"Koa'ki Meiru\" monster. When this card is Normal Summoned, you can remove from play 1 \"Koa'ki Meiru\" card in your Graveyard to destroy up to 2 cards your opponent controls.",
+  "attack": 2800,
+  "defense": 2200,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10060427.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10060427.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10060427.jpg"
+  }
+}

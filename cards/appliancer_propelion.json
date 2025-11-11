@@ -1,0 +1,16 @@
+{
+  "id": 81769387,
+  "name": "Appliancer Propelion",
+  "type": "Link Monster",
+  "description": "1 \"Appliancer\" monster\r\nCannot be used as Link Material the turn it is Link Summoned. This card can attack directly. Once per turn, during damage calculation, if your monster battles an opponent's monster, while this card is co-linked (Quick Effect): You can make that opponent's monster's ATK 0 during that damage calculation only. Once per turn, during damage calculation, if this monster that is not co-linked battles an opponent's monster (Quick Effect): You can make that opponent's monster's ATK 0 during that damage calculation only.",
+  "attack": 1200,
+  "defense": null,
+  "level": null,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81769387.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81769387.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81769387.jpg"
+  }
+}

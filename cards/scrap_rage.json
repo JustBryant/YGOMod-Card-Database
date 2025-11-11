@@ -1,0 +1,12 @@
+{
+  "id": 59699355,
+  "name": "Scrap Rage",
+  "type": "Trap Card",
+  "description": "Activate only during damage calculation, if a Defense Position \"Scrap\" monster on the field is being attacked. It gains 2000 DEF and is destroyed at the end of the Battle Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59699355.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59699355.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59699355.jpg"
+  }
+}

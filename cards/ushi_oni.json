@@ -1,0 +1,16 @@
+{
+  "id": 48649353,
+  "name": "Ushi Oni",
+  "type": "Normal Monster",
+  "description": "A bull fiend restored by the dark arts, this monster appears out of a jar.",
+  "attack": 2150,
+  "defense": 1950,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48649353.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48649353.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48649353.jpg"
+  }
+}

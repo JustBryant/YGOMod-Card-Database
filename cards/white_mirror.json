@@ -1,0 +1,12 @@
+{
+  "id": 19885332,
+  "name": "White Mirror",
+  "type": "Spell Card",
+  "description": "Target 1 Level 4 or lower Fish monster in your GY; Special Summon it, then you can add 1 monster from your Deck to your hand with the same original name as that Special Summoned monster. You can only activate \"White Mirror\" once per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19885332.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19885332.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19885332.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18964575,
+  "name": "Swift Scarecrow",
+  "type": "Effect Monster",
+  "description": "When an opponent's monster declares a direct attack (Quick Effect): You can discard this card; negate the attack, then end the Battle Phase.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18964575.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18964575.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18964575.jpg"
+  }
+}

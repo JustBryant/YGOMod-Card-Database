@@ -1,0 +1,16 @@
+{
+  "id": 24103628,
+  "name": "Phantom Magician",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 \"HERO\" monster with 1000 or less ATK from your Deck in face-up Defense Position.",
+  "attack": 600,
+  "defense": 700,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24103628.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24103628.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24103628.jpg"
+  }
+}

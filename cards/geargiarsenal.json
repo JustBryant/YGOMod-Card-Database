@@ -1,0 +1,16 @@
+{
+  "id": 73428497,
+  "name": "Geargiarsenal",
+  "type": "Effect Monster",
+  "description": "This card gains 200 ATK for each \"Geargia\" monster you control. You can Tribute this card; Special Summon 1 \"Geargia\" monster from your Deck in Defense Position, except \"Geargiarsenal\".",
+  "attack": 1500,
+  "defense": 500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73428497.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73428497.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73428497.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 60681103,
+  "name": "Divine Dragon Lord Felgrand",
+  "type": "Effect Monster",
+  "description": "If this card is Special Summoned from the Graveyard: You can target 1 monster your opponent controls or in their Graveyard; banish it, and if you do, this card gains ATK and DEF equal to the banished monster's original Level/Rank x 100. If this card destroys an opponent's monster by battle: You can target 1 Level 7 or 8 Dragon-Type monster in the Graveyard, except \"Divine Dragon Lord Felgrand\"; Special Summon it to your field.",
+  "attack": 2800,
+  "defense": 2800,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60681103.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60681103.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60681103.jpg"
+  }
+}

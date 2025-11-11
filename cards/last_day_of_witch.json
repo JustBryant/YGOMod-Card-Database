@@ -1,0 +1,12 @@
+{
+  "id": 90330453,
+  "name": "Last Day of Witch",
+  "type": "Spell Card",
+  "description": "Destroy all face-up Spellcaster-Type monsters on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90330453.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90330453.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90330453.jpg"
+  }
+}

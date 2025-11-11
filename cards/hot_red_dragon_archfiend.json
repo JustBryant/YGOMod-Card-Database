@@ -1,0 +1,16 @@
+{
+  "id": 39765958,
+  "name": "Hot Red Dragon Archfiend",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during your Main Phase 1: You can destroy all other face-up Attack Position monsters on the field. Monsters other than this card cannot attack the turn you activate this effect.",
+  "attack": 3000,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39765958.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39765958.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39765958.jpg"
+  }
+}

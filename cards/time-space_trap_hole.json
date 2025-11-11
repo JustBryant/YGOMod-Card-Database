@@ -1,0 +1,12 @@
+{
+  "id": 2055403,
+  "name": "Time-Space Trap Hole",
+  "type": "Trap Card",
+  "description": "When your opponent Special Summons a monster(s) from the hand or Extra Deck: Shuffle that monster(s) into the Deck, then you lose 1000 LP for each returned monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2055403.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2055403.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2055403.jpg"
+  }
+}

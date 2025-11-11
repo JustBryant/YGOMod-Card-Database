@@ -1,0 +1,12 @@
+{
+  "id": 73206827,
+  "name": "Light Barrier",
+  "type": "Spell Card",
+  "description": "During your Standby Phase, toss a coin. If the result is Tails, the following effects are negated until your next Standby Phase:\n● When you Summon an \"Arcana Force\" monster, choose which effect to apply without tossing a coin. If an \"Arcana Force\" monster destroys an opponent's monster by battle, you gain Life Points equal to the destroyed monster's original ATK.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73206827.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73206827.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73206827.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 48049769,
+  "name": "Thunder Sea Horse",
+  "type": "Effect Monster",
+  "description": "You can discard this card; add 2 Level 4 LIGHT Thunder-Type monsters of the same name with 1600 or less ATK from your Deck to your hand. You can only use the effect of \"Thunder Sea Horse\" once per turn. You cannot Special Summon during the turn you activate this effect.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48049769.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48049769.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48049769.jpg"
+  }
+}

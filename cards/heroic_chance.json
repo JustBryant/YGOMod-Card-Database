@@ -1,0 +1,12 @@
+{
+  "id": 53466826,
+  "name": "Heroic Chance",
+  "type": "Spell Card",
+  "description": "Target 1 face-up \"Heroic\" monster you control; this turn, double its ATK, but it cannot attack your opponent directly. You can only activate 1 \"Heroic Chance\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53466826.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53466826.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53466826.jpg"
+  }
+}

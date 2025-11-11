@@ -1,0 +1,12 @@
+{
+  "id": 98259197,
+  "name": "Ojamuscle",
+  "type": "Spell Card",
+  "description": "(This card is always treated as a \"Ojama\" card.)\r\nSelect 1 face-up \"Ojama King\". Destroy all \"Ojama\" monsters on the field, except the selected \"Ojama King\". It gains 1000 ATK for each monster destroyed this way.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98259197.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98259197.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98259197.jpg"
+  }
+}

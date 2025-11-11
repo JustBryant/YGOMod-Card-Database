@@ -1,0 +1,16 @@
+{
+  "id": 86469231,
+  "name": "Black Mamba",
+  "type": "Effect Monster",
+  "description": "If you control a Reptile monster, you can Special Summon this card (from your hand). You can only Special Summon \"Black Mamba\" once per turn this way. If this card is Normal or Special Summoned: You can target 1 monster your opponent controls; send 1 Reptile monster from your Deck to the GY, and if you do, change the targeted monster's battle position. You can only use this effect of \"Black Mamba\" once per turn.",
+  "attack": 1300,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86469231.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86469231.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86469231.jpg"
+  }
+}

@@ -3,14 +3,14 @@
   "name": "The 13th Grave",
   "type": "Normal Monster",
   "description": "A zombie that suddenly appeared from plot #13 - an empty grave.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/32864.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/32864.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32864.jpg"
-  },
   "attack": 1200,
   "defense": 900,
   "level": 3,
   "attribute": "DARK",
-  "race": "Zombie"
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32864.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32864.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32864.jpg"
+  }
 }

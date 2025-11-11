@@ -1,0 +1,16 @@
+{
+  "id": 61505339,
+  "name": "The Creator",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned from the Graveyard. Once per turn: You can target 1 monster in your Graveyard; send 1 card from your hand to the Graveyard, and if you do, Special Summon that target.",
+  "attack": 2300,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61505339.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61505339.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61505339.jpg"
+  }
+}

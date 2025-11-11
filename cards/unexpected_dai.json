@@ -1,0 +1,12 @@
+{
+  "id": 911883,
+  "name": "Unexpected Dai",
+  "type": "Spell Card",
+  "description": "If you control no monsters: Special Summon 1 Level 4 or lower Normal Monster from the Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/911883.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/911883.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/911883.jpg"
+  }
+}

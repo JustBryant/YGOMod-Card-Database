@@ -1,0 +1,16 @@
+{
+  "id": 23846921,
+  "name": "Arcana Force XXI - The World",
+  "type": "Effect Monster",
+  "description": "When this card is Summoned, toss a coin: ● Heads: During your End Phase, you can send 2 monsters you control to the Graveyard to skip your opponent's next turn. ● Tails: During your opponent's Draw Phase, add the top card of their Graveyard to their hand.",
+  "attack": 3100,
+  "defense": 3100,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23846921.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23846921.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23846921.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 71923655,
+  "name": "Sharkraken",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by Tributing 1 WATER monster.",
+  "attack": 2400,
+  "defense": 2100,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71923655.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71923655.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71923655.jpg"
+  }
+}

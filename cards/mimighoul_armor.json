@@ -1,0 +1,16 @@
+{
+  "id": 11677278,
+  "name": "Mimighoul Armor",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: If it is the Main Phase: Apply these effects in sequence.\r\n● This turn, \"Mimighoul\" monsters cannot be destroyed by battle.\r\n● Give control of this card to your opponent.\r\nDuring your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position, or if your opponent controls a monster, you can Special Summon this card face-up on your field. You can only use each effect of \"Mimighoul Armor\" once per turn.",
+  "attack": 600,
+  "defense": 1500,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11677278.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11677278.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11677278.jpg"
+  }
+}

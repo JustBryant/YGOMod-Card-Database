@@ -1,0 +1,16 @@
+{
+  "id": 84031359,
+  "name": "Darklord Gulgalta",
+  "type": "Effect Monster",
+  "description": "You can only Special Summon \"Darklord Gulgalta(s)\" once per turn. If this card is Special Summoned: You can Special Summon 2 \"Darklord Tokens\" (Fairy/DARK/Level 6/ATK 0/DEF 0), also you cannot Special Summon for the rest of this turn, except Fairy monsters. If this card is sent to the GY: You can add 1 \"Darklord\" card or \"Forbidden\" Quick-Play Spell from your Deck to your hand, except \"Darklord Gulgalta\". You can only use this effect of \"Darklord Gulgalta\" once per turn.",
+  "attack": 2400,
+  "defense": 800,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84031359.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84031359.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84031359.jpg"
+  }
+}

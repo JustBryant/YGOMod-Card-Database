@@ -1,0 +1,16 @@
+{
+  "id": 5498296,
+  "name": "Scarr, Scout of Dark World",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: Add 1 Level 4 or lower \"Dark World\" monster from your Deck to your hand.",
+  "attack": 500,
+  "defense": 500,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5498296.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5498296.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5498296.jpg"
+  }
+}

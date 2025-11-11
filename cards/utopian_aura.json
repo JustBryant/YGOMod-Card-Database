@@ -1,0 +1,12 @@
+{
+  "id": 59070329,
+  "name": "Utopian Aura",
+  "type": "Trap Card",
+  "description": "Detach 1 Xyz Material from a monster you control; the face-up Xyz Monsters you currently control cannot be destroyed by card effects until the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59070329.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59070329.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59070329.jpg"
+  }
+}

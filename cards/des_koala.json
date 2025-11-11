@@ -1,0 +1,16 @@
+{
+  "id": 69579761,
+  "name": "Des Koala",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Inflict 400 damage to your opponent for each card in their hand.",
+  "attack": 1100,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69579761.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69579761.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69579761.jpg"
+  }
+}

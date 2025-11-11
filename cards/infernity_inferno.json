@@ -1,0 +1,12 @@
+{
+  "id": 14550855,
+  "name": "Infernity Inferno",
+  "type": "Trap Card",
+  "description": "Discard up to 2 cards, and send the same number of \"Infernity\" cards from your Deck to the Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14550855.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14550855.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14550855.jpg"
+  }
+}

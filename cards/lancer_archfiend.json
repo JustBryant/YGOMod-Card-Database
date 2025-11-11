@@ -1,0 +1,16 @@
+{
+  "id": 79418153,
+  "name": "Lancer Archfiend",
+  "type": "Effect Monster",
+  "description": "Once per turn, when your monster declares an attack on your opponent's Defense Position monster: You can activate this effect; during that battle, if that monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "attack": 1600,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79418153.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79418153.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79418153.jpg"
+  }
+}

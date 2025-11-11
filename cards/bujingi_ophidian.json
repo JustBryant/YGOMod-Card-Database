@@ -1,0 +1,16 @@
+{
+  "id": 94096616,
+  "name": "Bujingi Ophidian",
+  "type": "Effect Monster",
+  "description": "During your Main Phase 1: You can send this card from your hand to the Graveyard, then target 1 \"Bujin\" monster you control; it can attack your opponent directly this turn.",
+  "attack": 1700,
+  "defense": 500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94096616.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94096616.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94096616.jpg"
+  }
+}

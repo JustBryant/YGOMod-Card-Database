@@ -1,0 +1,16 @@
+{
+  "id": 99261403,
+  "name": "Dark Rabbit",
+  "type": "Normal Monster",
+  "description": "He leaps up, down, and all around! Nobody can lay a hand on this funny bunny.",
+  "attack": 1100,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99261403.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99261403.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99261403.jpg"
+  }
+}

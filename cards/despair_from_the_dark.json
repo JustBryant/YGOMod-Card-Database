@@ -1,0 +1,16 @@
+{
+  "id": 71200730,
+  "name": "Despair from the Dark",
+  "type": "Effect Monster",
+  "description": "If this card is sent from your hand or Deck to your GY by an opponent's card effect: Special Summon this card.",
+  "attack": 2800,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71200730.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71200730.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71200730.jpg"
+  }
+}

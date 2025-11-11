@@ -1,0 +1,16 @@
+{
+  "id": 7478431,
+  "name": "Naturia Sunflower",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card and 1 \"Naturia\" monster to negate the activation of an effect of an Effect Monster your opponent controls, and destroy it.",
+  "attack": 500,
+  "defense": 0,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7478431.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7478431.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7478431.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 86871615,
+  "name": "Clone Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Cloning\". If the monster is destroyed and sent to the Graveyard, destroy this Token.",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86871615.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86871615.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86871615.jpg"
+  }
+}

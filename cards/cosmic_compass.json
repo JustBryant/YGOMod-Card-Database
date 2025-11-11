@@ -1,0 +1,16 @@
+{
+  "id": 27450400,
+  "name": "Cosmic Compass",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can Special Summon a number of \"Compass Tokens\" (Machine/EARTH/Level 1/ATK 0/DEF 0) up to the number of monsters your opponent controls.",
+  "attack": 100,
+  "defense": 300,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27450400.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27450400.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27450400.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 10759529,
+  "name": "Kid Guard",
+  "type": "Trap Card",
+  "description": "When an opponent's monster declares an attack: Tribute 1 \"Hero Kid\"; negate the attack, then add 1 \"Elemental HERO\" monster from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10759529.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10759529.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10759529.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 53618293,
+  "name": "Sunvine Maiden",
+  "type": "Effect Monster",
+  "description": "When your opponent activates a card or effect that targets a Plant monster(s) you control that was Special Summoned from the Extra Deck (Quick Effect): You can Special Summon this card from your hand, and if you do, negate that effect. You can only use this effect of \"Sunvine Maiden\" once per turn. Your opponent cannot target \"Sunavalon\" or \"Sunvine\" Spells/Traps you control with card effects.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53618293.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53618293.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53618293.jpg"
+  }
+}

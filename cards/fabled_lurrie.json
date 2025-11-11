@@ -1,0 +1,16 @@
+{
+  "id": 97651498,
+  "name": "Fabled Lurrie",
+  "type": "Effect Monster",
+  "description": "If this card is discarded to the GY: Special Summon it.",
+  "attack": 200,
+  "defense": 400,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97651498.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97651498.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97651498.jpg"
+  }
+}

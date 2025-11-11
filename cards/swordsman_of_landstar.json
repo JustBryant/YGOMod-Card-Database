@@ -1,0 +1,16 @@
+{
+  "id": 3573512,
+  "name": "Swordsman of Landstar",
+  "type": "Normal Monster",
+  "description": "An amateur with a sword, this fairy warrior relies on its mysterious powers.",
+  "attack": 500,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3573512.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3573512.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3573512.jpg"
+  }
+}

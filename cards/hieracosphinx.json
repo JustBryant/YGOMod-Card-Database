@@ -1,0 +1,16 @@
+{
+  "id": 82260502,
+  "name": "Hieracosphinx",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot select a face-down Defense Position monster as an attack target.",
+  "attack": 2400,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82260502.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82260502.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82260502.jpg"
+  }
+}

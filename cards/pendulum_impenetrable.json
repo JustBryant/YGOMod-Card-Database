@@ -1,0 +1,12 @@
+{
+  "id": 60434189,
+  "name": "Pendulum Impenetrable",
+  "type": "Spell Card",
+  "description": "This turn, cards in Pendulum Zones cannot be destroyed by your opponent's card effects, also negate any effect activated by your opponent that targeted a card(s) in the Pendulum Zones.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60434189.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60434189.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60434189.jpg"
+  }
+}

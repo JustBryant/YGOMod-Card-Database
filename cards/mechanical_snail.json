@@ -1,0 +1,16 @@
+{
+  "id": 34442949,
+  "name": "Mechanical Snail",
+  "type": "Normal Monster",
+  "description": "A cyborg snail that still travels at a slow pace.",
+  "attack": 800,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34442949.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34442949.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34442949.jpg"
+  }
+}

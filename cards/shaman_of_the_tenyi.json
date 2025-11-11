@@ -1,0 +1,16 @@
+{
+  "id": 78917791,
+  "name": "Shaman of the Tenyi",
+  "type": "Link Monster",
+  "description": "2 Wyrm monsters\r\nYou can discard 1 card, then target 1 Wyrm monster in your GY; Special Summon it, also, for the rest of this turn, you cannot activate the effects of monsters Special Summoned from the Extra Deck, except \"Tenyi\" monsters. When an attack is declared involving your face-up non-Effect Monster: You can target 1 card your opponent controls; destroy it. You can only use each effect of \"Shaman of the Tenyi\" once per turn.",
+  "attack": 1600,
+  "defense": null,
+  "level": null,
+  "attribute": "FIRE",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78917791.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78917791.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78917791.jpg"
+  }
+}

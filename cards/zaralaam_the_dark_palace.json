@@ -1,0 +1,12 @@
+{
+  "id": 64230128,
+  "name": "Zaralaam the Dark Palace",
+  "type": "Spell Card",
+  "description": "While you control a monster equipped with \"Dunnell, the Noble Arms of Light\", your opponent cannot activate cards or effects during the Battle Phase. Once per turn, when your \"Adventurer Token\" destroys an opponent's monster by battle: You can inflict damage to your opponent equal to that destroyed monster's original ATK. Once per turn, during your Main Phase, if the previous effect was activated this turn: You can add 1 Field Spell that mentions \"Adventurer Token\" from your Deck or GY to your hand, except \"Zaralaam the Dark Palace\".",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64230128.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64230128.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64230128.jpg"
+  }
+}

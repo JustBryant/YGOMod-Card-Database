@@ -1,0 +1,12 @@
+{
+  "id": 25050038,
+  "name": "Chain Healing",
+  "type": "Trap Card",
+  "description": "Gain 500 Life Points. If this card was activated as Chain Link 2 or 3, add this card to the Deck and shuffle it. If this card was activated as Chain Link 4 or higher, return this card to the hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25050038.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25050038.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25050038.jpg"
+  }
+}

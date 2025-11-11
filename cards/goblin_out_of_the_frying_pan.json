@@ -1,0 +1,12 @@
+{
+  "id": 69632396,
+  "name": "Goblin Out of the Frying Pan",
+  "type": "Trap Card",
+  "description": "Pay 500 Life Points. Negate the activation of a Spell Card and return it to the owner's hand.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69632396.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69632396.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69632396.jpg"
+  }
+}

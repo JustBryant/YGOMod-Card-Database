@@ -1,0 +1,16 @@
+{
+  "id": 81661951,
+  "name": "Dragunity Militum",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can select 1 \"Dragunity\" card in your Spell & Trap Card Zone, and Special Summon it.",
+  "attack": 1700,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81661951.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81661951.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81661951.jpg"
+  }
+}

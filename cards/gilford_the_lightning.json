@@ -1,0 +1,16 @@
+{
+  "id": 36354007,
+  "name": "Gilford the Lightning",
+  "type": "Effect Monster",
+  "description": "You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all monsters your opponent controls.",
+  "attack": 2800,
+  "defense": 1400,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36354007.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36354007.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36354007.jpg"
+  }
+}

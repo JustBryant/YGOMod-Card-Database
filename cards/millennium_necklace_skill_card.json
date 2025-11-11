@@ -1,0 +1,12 @@
+{
+  "id": 300201006,
+  "name": "Millennium Necklace (Skill Card)",
+  "type": "Skill Card",
+  "description": "[Flip this card over when you activate this Skill.] \r\n\r\nAt the start of the opponent’s turn, before they draw, you may look at the top 3 cards of their Deck and rearrange them in any order.\r\nThis Skill can only be used once per Duel.",
+  "race": "Ishizu",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300201006.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300201006.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300201006.jpg"
+  }
+}

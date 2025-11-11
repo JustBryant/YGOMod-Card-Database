@@ -1,0 +1,16 @@
+{
+  "id": 77334267,
+  "name": "Wind-Up Arsenal Zenmaioh",
+  "type": "XYZ Monster",
+  "description": "2 Level 5 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 2 Set cards on the field; destroy them.",
+  "attack": 2600,
+  "defense": 1900,
+  "level": 5,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77334267.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77334267.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77334267.jpg"
+  }
+}

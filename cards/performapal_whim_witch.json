@@ -1,0 +1,16 @@
+{
+  "id": 64450427,
+  "name": "Performapal Whim Witch",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nIf your opponent controls a face-up monster that was Special Summoned from the Extra Deck and you do not: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Performapal Whim Witch\" once per turn.\n\n[ Monster Effect ] \nThis card can be treated as 2 Tributes for the Tribute Summon of a Pendulum Monster.",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64450427.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64450427.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64450427.jpg"
+  }
+}

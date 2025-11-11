@@ -1,0 +1,16 @@
+{
+  "id": 22916281,
+  "name": "Chosen by the World Chalice",
+  "type": "Normal Monster",
+  "description": "Inspired by the World Hero legends he heard as a boy, this crusader adds a piece to his armor from every Mekkstrosity he destroys. He has set out on a quest from Fairy Lee to recover the Seven World Legacies and save their world.",
+  "attack": 1600,
+  "defense": 0,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22916281.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22916281.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22916281.jpg"
+  }
+}

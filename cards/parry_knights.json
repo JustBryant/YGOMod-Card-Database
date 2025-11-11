@@ -1,0 +1,16 @@
+{
+  "id": 17988746,
+  "name": "Parry Knights",
+  "type": "Effect Monster",
+  "description": "When you take battle damage from an opponent's attacking monster: You can Special Summon this card from your hand, then you can Special Summon 1 monster from your hand with ATK less than or equal to the damage you took.",
+  "attack": 2300,
+  "defense": 2100,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17988746.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17988746.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17988746.jpg"
+  }
+}

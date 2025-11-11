@@ -1,0 +1,16 @@
+{
+  "id": 64804316,
+  "name": "Ghostrick Siren",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn, during your Main Phase: You can change this card to face-down Defense Position. If this card is Normal Summoned or flipped face-up: Send the top 2 cards of your Deck to the GY, then if either card was a \"Ghostrick\" card, you can apply 1 of these effects.\r\n● Add 1 \"Ghostrick\" Spell/Trap from your Deck to your hand.\r\n● Change 1 Effect Monster your opponent controls to face-down Defense Position.",
+  "attack": 800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64804316.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64804316.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64804316.jpg"
+  }
+}

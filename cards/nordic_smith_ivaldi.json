@@ -1,0 +1,16 @@
+{
+  "id": 91011603,
+  "name": "Nordic Smith Ivaldi",
+  "type": "Effect Monster",
+  "description": "If you control an \"Aesir\" or \"Nordic\" monster: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Nordic Relic\" card from your Deck to your hand. You can only use each effect of \"Nordic Smith Ivaldi\" once per turn.",
+  "attack": 1500,
+  "defense": 700,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91011603.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91011603.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91011603.jpg"
+  }
+}

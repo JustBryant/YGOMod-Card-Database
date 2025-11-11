@@ -1,0 +1,16 @@
+{
+  "id": 75347539,
+  "name": "Valkyrion the Magna Warrior",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Alpha The Magnet Warrior\", \"Beta The Magnet Warrior\", and \"Gamma The Magnet Warrior\" from your hand and/or field. You can Tribute this card, then target 1 \"Alpha The Magnet Warrior\", \"Beta The Magnet Warrior\", and \"Gamma The Magnet Warrior\" in your Graveyard; Special Summon them.",
+  "attack": 3500,
+  "defense": 3850,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75347539.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75347539.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75347539.jpg"
+  }
+}

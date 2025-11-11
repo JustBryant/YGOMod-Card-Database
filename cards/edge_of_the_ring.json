@@ -1,0 +1,12 @@
+{
+  "id": 85636437,
+  "name": "Edge of the Ring",
+  "type": "Spell Card",
+  "description": "If your LP is lower than your opponent's: Target 1 face-up monster your opponent controls; inflict damage to your opponent equal to half of the original ATK of that monster, also, for the rest of this turn after this card resolves, your opponent takes no damage.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85636437.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85636437.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85636437.jpg"
+  }
+}

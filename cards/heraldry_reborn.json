@@ -1,0 +1,12 @@
+{
+  "id": 84220251,
+  "name": "Heraldry Reborn",
+  "type": "Spell Card",
+  "description": "Target 1 \"Heraldic Beast\" monster in your Graveyard; Special Summon it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84220251.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84220251.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84220251.jpg"
+  }
+}

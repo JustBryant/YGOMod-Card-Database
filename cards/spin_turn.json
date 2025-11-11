@@ -1,0 +1,12 @@
+{
+  "id": 22866836,
+  "name": "Spin Turn",
+  "type": "Trap Card",
+  "description": "Activate 1 of the following effects.\r\n● Target 1 EARTH Machine Xyz Monster you control in Attack Position and 1 monster your opponent controls; change the battle position of your monster, and if you do, destroy that opponent's monster.\r\n● Target 1 EARTH Machine Xyz Monster you control in Defense Position and 1 Spell/Trap your opponent controls; change the battle position of your monster, and if you do, destroy that opponent's Spell/Trap.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22866836.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22866836.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22866836.jpg"
+  }
+}

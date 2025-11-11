@@ -1,0 +1,16 @@
+{
+  "id": 55697723,
+  "name": "Surfacing Big Jaws",
+  "type": "Effect Monster",
+  "description": "If this card is used for the Xyz Summon of a WATER monster, it can be treated as a Level 3 or 5 monster. You can only use each of the following effects of \"Surfacing Big Jaws\" once per turn. During your Main Phase, if a Spell Card was activated this turn: You can Special Summon this card from your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. If this card is Normal or Special Summoned: You can add 1 Fish \"Shark\" monster from your Deck to your hand.",
+  "attack": 1800,
+  "defense": 300,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55697723.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55697723.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55697723.jpg"
+  }
+}

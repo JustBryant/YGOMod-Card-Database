@@ -1,0 +1,16 @@
+{
+  "id": 26973555,
+  "name": "Number F0: Utopic Draco Future",
+  "type": "XYZ Monster",
+  "description": "3 Xyz Monsters with the same Rank, except \"Number\" monsters\r\n(This card's original Rank is always treated as 1. This card is always treated as a \"Utopic Future\" card.)\r\nYou can also Xyz Summon this card by using \"Number F0: Utopic Future\" you control as material. (Transfer its materials to this card.) Cannot be destroyed by battle or card effects. Once per turn, when your opponent activates a monster effect (Quick Effect): You can detach 1 material from this card; negate the activation, then, if that monster is on the field, gain control of it.",
+  "attack": 3000,
+  "defense": 2000,
+  "level": 0,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26973555.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26973555.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26973555.jpg"
+  }
+}

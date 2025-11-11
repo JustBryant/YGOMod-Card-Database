@@ -1,0 +1,12 @@
+{
+  "id": 37053871,
+  "name": "Astral Barrier",
+  "type": "Trap Card",
+  "description": "If your opponent's monster attacks a monster you control: You can make the attack a direct attack instead.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37053871.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37053871.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37053871.jpg"
+  }
+}

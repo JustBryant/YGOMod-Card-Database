@@ -1,0 +1,16 @@
+{
+  "id": 50705071,
+  "name": "Metalzoa",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Zoa\" equipped with \"Metalmorph\".",
+  "attack": 3000,
+  "defense": 2300,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50705071.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50705071.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50705071.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 17857780,
+  "name": "Performapal Cheermole",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nAll Pendulum Monsters you control gain 300 ATK.\n\n[ Monster Effect ] \nYou can target 1 monster whose current ATK is different from its original ATK; apply the appropriate effect. You can only use this effect of \"Performapal Cheermole\" once per turn.\r\n● If that monster's current ATK is higher than its original ATK, it gains 1000 ATK.\r\n● If that monster's current ATK is lower than its original ATK, it loses 1000 ATK.",
+  "attack": 600,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17857780.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17857780.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17857780.jpg"
+  }
+}

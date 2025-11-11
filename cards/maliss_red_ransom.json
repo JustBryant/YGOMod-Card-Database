@@ -1,0 +1,16 @@
+{
+  "id": 68059897,
+  "name": "Maliss Red Ransom",
+  "type": "Link Monster",
+  "description": "2+ monsters, including a \"Maliss\" monster\r\nWhile this card points to a monster, the original ATK and DEF of all Effect Monsters your opponent controls are switched. You can only use each of the following effects of \"Maliss Red Ransom\" once per turn. If this card is Special Summoned: You can add 1 \"Maliss\" Spell from your Deck to your hand. If this card is banished: You can pay 900 LP; Special Summon it, then you can banish 1 Cyberse monster from your Deck.",
+  "attack": 2300,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68059897.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68059897.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68059897.jpg"
+  }
+}

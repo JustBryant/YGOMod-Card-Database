@@ -1,0 +1,16 @@
+{
+  "id": 93413793,
+  "name": "Ukanomitsune-no-Tamayura",
+  "type": "Tuner Monster",
+  "description": "If you control a Level 4 or lower LIGHT Beast, Plant, or Fairy monster: You can Special Summon this card from your hand. A monster that was Synchro Summoned using this card as material gains these effects.\r\n● Gains 500 DEF.\r\n● Your opponent cannot target this Defense Position card with card effects.\r\nYou can only use each effect of \"Ukanomitsune-no-Tamayura\" once per turn.",
+  "attack": 1500,
+  "defense": 300,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93413793.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93413793.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93413793.jpg"
+  }
+}

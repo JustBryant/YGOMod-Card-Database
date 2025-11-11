@@ -1,0 +1,12 @@
+{
+  "id": 7405310,
+  "name": "Extra Gate",
+  "type": "Spell Card",
+  "description": "Declare a Level between 1 and 12; your opponent banishes 1 monster of that Level from their Extra Deck. If your opponent does not have a monster of that Level in their Extra Deck, you discard 1 card.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7405310.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7405310.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7405310.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 11224934,
+  "name": "Reinforced Space",
+  "type": "Trap Card",
+  "description": "Each face-up Xyz Monster you control gains 300 ATK for each Xyz Material attached to it, until the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11224934.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11224934.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11224934.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 96864811,
+  "name": "Forbidden Dress",
+  "type": "Spell Card",
+  "description": "Target 1 face-up monster on the field; until the end of this turn, that target loses 600 ATK, but cannot be targeted or destroyed by other card effects.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96864811.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96864811.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96864811.jpg"
+  }
+}

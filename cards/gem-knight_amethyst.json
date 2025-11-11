@@ -1,0 +1,16 @@
+{
+  "id": 71616908,
+  "name": "Gem-Knight Amethyst",
+  "type": "Fusion Monster",
+  "description": "1 \"Gem-Knight\" monster + 1 Aqua-Type monster\nMust first be Fusion Summoned. When this card is sent from the field to the Graveyard: Return all Set Spell and Trap Cards on the field to the hand.",
+  "attack": 1950,
+  "defense": 2450,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71616908.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71616908.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71616908.jpg"
+  }
+}

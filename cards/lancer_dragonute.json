@@ -1,0 +1,16 @@
+{
+  "id": 11125718,
+  "name": "Lancer Dragonute",
+  "type": "Effect Monster",
+  "description": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "attack": 1500,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11125718.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11125718.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11125718.jpg"
+  }
+}

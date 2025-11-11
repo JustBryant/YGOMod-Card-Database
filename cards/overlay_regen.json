@@ -1,0 +1,12 @@
+{
+  "id": 27068117,
+  "name": "Overlay Regen",
+  "type": "Spell Card",
+  "description": "Target 1 face-up Xyz Monster on the field; attach this card to it as an Xyz Material.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27068117.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27068117.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27068117.jpg"
+  }
+}

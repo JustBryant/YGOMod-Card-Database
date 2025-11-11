@@ -1,0 +1,16 @@
+{
+  "id": 38942059,
+  "name": "Sonic Maid",
+  "type": "Normal Monster",
+  "description": "A maiden that uses sound to her advantage, she wields a scythe that's shaped like a musical note.",
+  "attack": 1200,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38942059.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38942059.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38942059.jpg"
+  }
+}

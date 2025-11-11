@@ -1,0 +1,12 @@
+{
+  "id": 73558460,
+  "name": "Cynet Recovery",
+  "type": "Spell Card",
+  "description": "If a Link Monster(s) you control is destroyed by battle or an opponent's card effect: You can target 1 monster in your GY, except a Link Monster; Special Summon it in Defense Position. You can only use this effect of \"Cynet Recovery\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73558460.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73558460.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73558460.jpg"
+  }
+}

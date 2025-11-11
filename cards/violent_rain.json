@@ -1,0 +1,16 @@
+{
+  "id": 94042337,
+  "name": "Violent Rain",
+  "type": "Normal Monster",
+  "description": "This monster can call forth sudden torrents of battering rain.",
+  "attack": 1550,
+  "defense": 800,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94042337.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94042337.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94042337.jpg"
+  }
+}

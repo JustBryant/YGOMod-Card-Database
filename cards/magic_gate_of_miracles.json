@@ -1,0 +1,12 @@
+{
+  "id": 49941059,
+  "name": "Magic Gate of Miracles",
+  "type": "Spell Card",
+  "description": "If you control 2 or more Spellcaster monsters: Change 1 Attack Position monster your opponent controls to Defense Position, then take control of it, and if you do, it cannot be destroyed by battle.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49941059.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49941059.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49941059.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 55990317,
+  "name": "Hugin the Runick Wings",
+  "type": "Fusion Monster",
+  "description": "2 \"Runick\" monsters\r\nIf this card is Special Summoned from the Extra Deck: You can discard 1 card; add 1 \"Runick\" Field Spell from your Deck to your hand. If another card(s) you control would be destroyed by card effect, you can banish this card you control instead. If this card on the field is destroyed by battle or card effect: Return this card to the Extra Deck.",
+  "attack": 0,
+  "defense": 0,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55990317.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55990317.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55990317.jpg"
+  }
+}

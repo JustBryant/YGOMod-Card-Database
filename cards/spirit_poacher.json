@@ -1,0 +1,12 @@
+{
+  "id": 85150300,
+  "name": "Spirit Poacher",
+  "type": "Trap Card",
+  "description": "Once per turn, during your opponent's Standby Phase: You can activate 1 of these effects;\r\n● Place 1 monster from your Deck in your Spell & Trap Zone as a face-up Continuous Spell.\r\n● Your opponent can Special Summon 1 Monster Card with less original ATK than their LP from your Spell & Trap Zone to their field, then they pay LP equal to its original ATK.\r\nIf an Effect Monster(s) you own is Special Summoned to your opponent's field: You can send this face-up card from the Spell & Trap Zone to the GY; Special Summon 1 Level 4 or lower monster from your Deck.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85150300.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85150300.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85150300.jpg"
+  }
+}

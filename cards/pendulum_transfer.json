@@ -1,0 +1,12 @@
+{
+  "id": 19501924,
+  "name": "Pendulum Transfer",
+  "type": "Spell Card",
+  "description": "Target up to 2 Pendulum Monsters you control; place those targets in your Pendulum Zones. You can only activate 1 \"Pendulum Transfer\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19501924.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19501924.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19501924.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 82116191,
+  "name": "Gigantic Cephalotus",
+  "type": "Effect Monster",
+  "description": "This card gains 200 ATK each time a Plant-Type monster is sent from the field to the Graveyard.",
+  "attack": 1850,
+  "defense": 700,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82116191.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82116191.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82116191.jpg"
+  }
+}

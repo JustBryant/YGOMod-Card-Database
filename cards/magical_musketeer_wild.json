@@ -1,0 +1,16 @@
+{
+  "id": 94418111,
+  "name": "Magical Musketeer Wild",
+  "type": "Effect Monster",
+  "description": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can target 3 \"Magical Musket\" cards in your GY; shuffle all 3 into the Deck, then draw 1 card. You can only use this effect of \"Magical Musketeer Wild\" once per turn.",
+  "attack": 1700,
+  "defense": 900,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94418111.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94418111.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94418111.jpg"
+  }
+}

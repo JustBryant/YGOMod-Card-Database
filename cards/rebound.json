@@ -1,0 +1,12 @@
+{
+  "id": 983995,
+  "name": "Rebound",
+  "type": "Trap Card",
+  "description": "When your opponent activates a Spell Card, Trap Card, or monster effect that returns a card(s) from the field to the hand: Negate that effect, and if you do, send 1 card from your opponent's hand (at random) or from their side of the field to the Graveyard. When this Set card is destroyed by your opponent's card effect and sent to the Graveyard: Draw 1 card.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/983995.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/983995.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/983995.jpg"
+  }
+}

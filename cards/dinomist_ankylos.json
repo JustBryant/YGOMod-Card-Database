@@ -1,0 +1,16 @@
+{
+  "id": 32134638,
+  "name": "Dinomist Ankylos",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card(s) you control, then destroy this card.\n\n[ Monster Effect ] \nBanish any monster destroyed by battle with a \"Dinomist\" monster you control.",
+  "attack": 1500,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32134638.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32134638.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32134638.jpg"
+  }
+}

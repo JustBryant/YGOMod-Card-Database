@@ -1,0 +1,12 @@
+{
+  "id": 95194279,
+  "name": "Dimension Distortion",
+  "type": "Spell Card",
+  "description": "You can only activate this card if there are no cards in your Graveyard. Select 1 removed from play monster and Special Summon it on your side of the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95194279.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95194279.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95194279.jpg"
+  }
+}

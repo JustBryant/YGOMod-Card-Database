@@ -1,0 +1,16 @@
+{
+  "id": 17985575,
+  "name": "Lord of D.",
+  "type": "Effect Monster",
+  "description": "Neither player can target Dragon monsters on the field with card effects.",
+  "attack": 1200,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17985575.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17985575.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17985575.jpg"
+  }
+}

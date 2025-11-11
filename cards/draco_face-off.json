@@ -1,0 +1,12 @@
+{
+  "id": 14733538,
+  "name": "Draco Face-Off",
+  "type": "Spell Card",
+  "description": "Reveal 1 \"Dracoslayer\" Pendulum Monster and 1 \"Dracoverlord\" Pendulum Monster from your Deck, your opponent randomly picks 1 of them for you to place in your Pendulum Zone or Special Summon (your choice), and you add the other card to your Extra Deck face-up. You can only activate 1 \"Draco Face-Off\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14733538.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14733538.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14733538.jpg"
+  }
+}

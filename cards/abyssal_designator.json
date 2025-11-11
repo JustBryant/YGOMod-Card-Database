@@ -1,0 +1,12 @@
+{
+  "id": 89801755,
+  "name": "Abyssal Designator",
+  "type": "Spell Card",
+  "description": "Pay 1000 Life Points. Declare a Type and an Attribute. Your opponent must send 1 monster with both the declared Type and Attribute from their hand or Deck to the Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89801755.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89801755.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89801755.jpg"
+  }
+}

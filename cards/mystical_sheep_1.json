@@ -1,0 +1,16 @@
+{
+  "id": 30451366,
+  "name": "Mystical Sheep #1",
+  "type": "Effect Monster",
+  "description": "You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster(s) must be the correct one(s).",
+  "attack": 1150,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30451366.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30451366.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30451366.jpg"
+  }
+}

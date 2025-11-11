@@ -1,0 +1,16 @@
+{
+  "id": 77384395,
+  "name": "Pazuzule",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn: You can target 1 card in your other Pendulum Zone; this card's Pendulum Scale becomes the Level of that Pendulum Monster Card until the end of this turn, also you cannot Special Summon for the rest of this turn, except by Pendulum Summon.\n\n[ Monster Effect ] \nPendulum Summons of your monsters cannot be negated.",
+  "attack": 500,
+  "defense": 500,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77384395.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77384395.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77384395.jpg"
+  }
+}

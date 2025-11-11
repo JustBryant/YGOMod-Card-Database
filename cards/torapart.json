@@ -1,0 +1,16 @@
+{
+  "id": 83370323,
+  "name": "Torapart",
+  "type": "Tuner Monster",
+  "description": "This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Warrior-Type Synchro Monster. If the Synchro Monster that used this card as a Synchro Material Monster attacks, your opponent cannot activate Trap Cards until the end of the Damage Step.",
+  "attack": 600,
+  "defense": 600,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83370323.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83370323.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83370323.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 69105797,
+  "name": "Predaplant Squid Drosera",
+  "type": "Effect Monster",
+  "description": "You can send this card from your hand to the Graveyard, then target 1 face-up monster you control; this turn, it can attack all monsters your opponent controls with a Predator Counter, once each. If this face-up card leaves the field: Place 1 Predator Counter on each Special Summoned monster your opponent controls, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
+  "attack": 800,
+  "defense": 400,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69105797.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69105797.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69105797.jpg"
+  }
+}

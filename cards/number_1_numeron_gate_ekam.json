@@ -1,0 +1,16 @@
+{
+  "id": 15232745,
+  "name": "Number 1: Numeron Gate Ekam",
+  "type": "XYZ Monster",
+  "description": "3 Level 1 monsters\r\nCannot be destroyed by battle. At the end of the Damage Step, if this card battled an opponent's monster: You can detach 1 material from this card; double the ATK of all \"Numeron\" monsters you currently control, until the end of this turn.",
+  "attack": 1000,
+  "defense": 100,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15232745.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15232745.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15232745.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 30929786,
+  "name": "Brotherhood of the Fire Fist - Rooster",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned by the effect of a \"Fire Fist\" monster: You can add 1 \"Fire Fist\" monster from your Deck to your hand. You can only use this effect of \"Brotherhood of the Fire Fist - Rooster\" once per turn. Once per turn: You can send 1 face-up \"Fire Formation\" Spell/Trap you control to the GY; Set 1 \"Fire Formation\" Spell/Trap directly from your Deck.",
+  "attack": 1500,
+  "defense": 100,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30929786.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30929786.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30929786.jpg"
+  }
+}

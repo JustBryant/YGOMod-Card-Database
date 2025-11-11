@@ -1,0 +1,12 @@
+{
+  "id": 95561280,
+  "name": "Poisonous Winds",
+  "type": "Spell Card",
+  "description": "WIND monsters cannot be Special Summoned. All face-up WIND monsters on the field lose 500 ATK.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95561280.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95561280.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95561280.jpg"
+  }
+}

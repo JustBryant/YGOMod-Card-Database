@@ -1,0 +1,12 @@
+{
+  "id": 37684215,
+  "name": "Fusion Sword Murasame Blade",
+  "type": "Spell Card",
+  "description": "Equip only to a Warrior-Type monster. It gains 800 ATK. While equipped to a monster, this card cannot be destroyed by card effects.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37684215.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37684215.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37684215.jpg"
+  }
+}

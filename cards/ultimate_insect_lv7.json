@@ -1,0 +1,16 @@
+{
+  "id": 19877898,
+  "name": "Ultimate Insect LV7",
+  "type": "Effect Monster",
+  "description": "If this card was Special Summoned by the effect of \"Ultimate Insect LV5\", while it remains on the field all your opponent's monsters lose 700 ATK and DEF.",
+  "attack": 2600,
+  "defense": 1200,
+  "level": 7,
+  "attribute": "WIND",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19877898.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19877898.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19877898.jpg"
+  }
+}

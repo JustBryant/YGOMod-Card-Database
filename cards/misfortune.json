@@ -1,0 +1,12 @@
+{
+  "id": 1036974,
+  "name": "Misfortune",
+  "type": "Spell Card",
+  "description": "Select 1 face-up monster your opponent controls. Inflict damage to your opponent equal to half that monster's original ATK. Your monsters cannot attack this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1036974.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1036974.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1036974.jpg"
+  }
+}

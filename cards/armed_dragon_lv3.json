@@ -1,0 +1,16 @@
+{
+  "id": 980973,
+  "name": "Armed Dragon LV3",
+  "type": "Effect Monster",
+  "description": "During your Standby Phase: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV5\" from your hand or Deck.",
+  "attack": 1200,
+  "defense": 900,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/980973.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/980973.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/980973.jpg"
+  }
+}

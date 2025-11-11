@@ -1,0 +1,16 @@
+{
+  "id": 72291412,
+  "name": "D/D Necro Slime",
+  "type": "Effect Monster",
+  "description": "If this card is in your Graveyard: You can Fusion Summon 1 \"D/D/D\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your Graveyard, including this card. You can only use this effect of \"D/D Necro Slime\" once per turn.",
+  "attack": 300,
+  "defense": 300,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72291412.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72291412.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72291412.jpg"
+  }
+}

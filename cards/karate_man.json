@@ -1,0 +1,16 @@
+{
+  "id": 23289281,
+  "name": "Karate Man",
+  "type": "Effect Monster",
+  "description": "You can double the original ATK of this card once per turn. If you used this effect, destroy this card during the End Phase.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23289281.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23289281.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23289281.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 78211862,
+  "name": "Rising Energy",
+  "type": "Trap Card",
+  "description": "Discard 1 card, then target 1 face-up monster on the field; that target gains 1500 ATK until the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78211862.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78211862.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78211862.jpg"
+  }
+}

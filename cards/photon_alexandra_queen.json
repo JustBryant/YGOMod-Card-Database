@@ -1,0 +1,16 @@
+{
+  "id": 75797046,
+  "name": "Photon Alexandra Queen",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 \"Butterspy\" monsters\nYou can detach 1 Xyz Material from this card; return all monsters on the field to the hand, then inflict 300 damage to each player for each card returned to their hand.",
+  "attack": 2400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75797046.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75797046.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75797046.jpg"
+  }
+}

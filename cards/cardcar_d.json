@@ -1,0 +1,16 @@
+{
+  "id": 45812361,
+  "name": "Cardcar D",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned. During your Main Phase 1, if this card was Normal Summoned this turn: You can Tribute this card; draw 2 cards, then it becomes the End Phase. You cannot Special Summon during the turn you activate this effect.",
+  "attack": 800,
+  "defense": 400,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45812361.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45812361.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45812361.jpg"
+  }
+}

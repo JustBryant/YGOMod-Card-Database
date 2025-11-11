@@ -1,0 +1,12 @@
+{
+  "id": 81218874,
+  "name": "Infestation Ripples",
+  "type": "Trap Card",
+  "description": "Pay 500 Life Points to target 1 Level 4 or lower \"Steelswarm\" monster in your Graveyard; Special Summon it from the Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81218874.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81218874.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81218874.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 33413638,
+  "name": "Cockroach Knight",
+  "type": "Effect Monster",
+  "description": "When this card is sent to the Graveyard, it is returned to the top of the Deck.",
+  "attack": 800,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33413638.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33413638.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33413638.jpg"
+  }
+}

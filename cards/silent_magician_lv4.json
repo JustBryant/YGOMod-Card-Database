@@ -1,0 +1,16 @@
+{
+  "id": 73665146,
+  "name": "Silent Magician LV4",
+  "type": "Effect Monster",
+  "description": "Each time your opponent draws a card(s), place 1 Spell Counter on this card (max. 5). This card gains 500 ATK for each Spell Counter on it. During the Standby Phase of your next turn after the 5th Spell Counter is placed on this card: You can send this face-up card with 5 Spell Counters on it to the Graveyard; Special Summon 1 \"Silent Magician LV8\" from your hand or Deck.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73665146.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73665146.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73665146.jpg"
+  }
+}

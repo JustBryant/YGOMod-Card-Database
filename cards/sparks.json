@@ -3,10 +3,10 @@
   "name": "Sparks",
   "type": "Spell Card",
   "description": "Inflict 200 points of damage to your opponent's Life Points.",
+  "race": "Normal",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/76103675.jpg",
     "small_url": "https://images.ygoprodeck.com/images/cards_small/76103675.jpg",
     "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76103675.jpg"
-  },
-  "race": "Normal"
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "id": 12493482,
+  "name": "Dunames Dark Witch",
+  "type": "Normal Monster",
+  "description": "Even when all odds are against this brave fairy, she will press onwards in battle and never retreat.",
+  "attack": 1800,
+  "defense": 1050,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12493482.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12493482.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12493482.jpg"
+  }
+}

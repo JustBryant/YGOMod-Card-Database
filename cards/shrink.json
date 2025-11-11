@@ -1,0 +1,12 @@
+{
+  "id": 55713623,
+  "name": "Shrink",
+  "type": "Spell Card",
+  "description": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55713623.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55713623.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55713623.jpg"
+  }
+}

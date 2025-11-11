@@ -1,0 +1,16 @@
+{
+  "id": 41762634,
+  "name": "Giant Flea",
+  "type": "Normal Monster",
+  "description": "A massive flea that feeds on the blood of its enemies.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41762634.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41762634.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41762634.jpg"
+  }
+}

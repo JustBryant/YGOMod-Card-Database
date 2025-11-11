@@ -1,0 +1,16 @@
+{
+  "id": 68774379,
+  "name": "Cyber Barrier Dragon",
+  "type": "Effect Monster",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Attack Reflector Unit\". Once per turn, while this card is in Attack Position, your opponent's next attack is negated.",
+  "attack": 800,
+  "defense": 2800,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68774379.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68774379.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68774379.jpg"
+  }
+}

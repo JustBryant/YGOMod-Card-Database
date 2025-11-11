@@ -1,0 +1,16 @@
+{
+  "id": 79627627,
+  "name": "Conbirdable",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can Special Summon 1 Level 5 or higher Flip monster from your Deck in face-down Defense Position, except \"Conbirdable\".\r\nDuring the Battle Phase, if this card is in your hand (Quick Effect): You can target 1 face-down monster on the field; send it to the GY, and if you do, Special Summon this card in face-down Defense Position. You can only use each effect of \"Conbirdable\" once per turn.",
+  "attack": 1400,
+  "defense": 2800,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79627627.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79627627.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79627627.jpg"
+  }
+}

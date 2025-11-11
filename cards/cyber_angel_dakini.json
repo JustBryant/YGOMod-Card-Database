@@ -1,0 +1,16 @@
+{
+  "id": 39618799,
+  "name": "Cyber Angel Dakini",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can make your opponent send 1 monster they control to the GY (their choice). If a Ritual Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, during your End Phase: You can target 1 Ritual Monster or 1 \"Machine Angel Ritual\" in your GY; add it to your hand.",
+  "attack": 2700,
+  "defense": 2400,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39618799.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39618799.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39618799.jpg"
+  }
+}

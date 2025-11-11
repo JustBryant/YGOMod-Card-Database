@@ -1,0 +1,12 @@
+{
+  "id": 37313786,
+  "name": "Gamble",
+  "type": "Trap Card",
+  "description": "You can only activate this card when your opponent's hand is 6 or more cards and your hand is 2 or less. Toss a coin and call heads or tails. If you call it right, draw until your hand has 5 cards. If you call it wrong, skip your next turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37313786.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37313786.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37313786.jpg"
+  }
+}

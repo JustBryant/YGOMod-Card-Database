@@ -1,0 +1,16 @@
+{
+  "id": 76908448,
+  "name": "Gem-Knight Crystal",
+  "type": "Normal Monster",
+  "description": "A Gem-Knight officer of high rank, who has optimized the use of the crystal powers. Despite his ability to overwhelm most opponents, he's wary of stretching himself too thin, and opts for solidarity with his comrades.",
+  "attack": 2450,
+  "defense": 1950,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76908448.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76908448.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76908448.jpg"
+  }
+}

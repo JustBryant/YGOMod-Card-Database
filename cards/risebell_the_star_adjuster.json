@@ -1,0 +1,16 @@
+{
+  "id": 25788011,
+  "name": "Risebell the Star Adjuster",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned: You can target 1 face-up monster on the field; increase its Level by up to 3 until the end of this turn.",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25788011.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25788011.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25788011.jpg"
+  }
+}

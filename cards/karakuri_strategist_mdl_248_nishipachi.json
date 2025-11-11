@@ -1,0 +1,16 @@
+{
+  "id": 66625883,
+  "name": "Karakuri Strategist mdl 248 \"Nishipachi\"",
+  "type": "Tuner Monster",
+  "description": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. When this card is Normal or Special Summoned, select 1 monster on the field, and change its battle position.",
+  "attack": 500,
+  "defense": 1600,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66625883.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66625883.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66625883.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 33114323,
+  "name": "Metalsilver Armor",
+  "type": "Spell Card",
+  "description": "As long as you control the monster equipped with this card, your opponent cannot use the effect of a Spell, Trap, or Effect Monster that targets 1 monster, except the equipped monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33114323.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33114323.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33114323.jpg"
+  }
+}

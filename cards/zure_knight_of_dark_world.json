@@ -1,0 +1,16 @@
+{
+  "id": 7459013,
+  "name": "Zure, Knight of Dark World",
+  "type": "Normal Monster",
+  "description": "The name of this illustrious knight is known by all residents of Dark World. He never oppresses the commoners.",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7459013.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7459013.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7459013.jpg"
+  }
+}

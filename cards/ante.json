@@ -1,0 +1,12 @@
+{
+  "id": 34236961,
+  "name": "Ante",
+  "type": "Spell Card",
+  "description": "Each Player reveals 1 card from their hand. If one card is higher Level than the other, the card with the lower Level is sent to the Graveyard, and the player who revealed it takes 1000 damage. (Non-Monster Cards are treated as Level 0.)",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34236961.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34236961.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34236961.jpg"
+  }
+}

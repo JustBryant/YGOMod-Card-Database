@@ -1,0 +1,12 @@
+{
+  "id": 32061744,
+  "name": "Wattkeeper",
+  "type": "Trap Card",
+  "description": "Select 1 Level 4 or lower \"Watt\" monster in your Graveyard. Special Summon that monster from the Graveyard. Destroy it during the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32061744.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32061744.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32061744.jpg"
+  }
+}

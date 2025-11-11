@@ -1,0 +1,16 @@
+{
+  "id": 88139289,
+  "name": "Psychic Blaster Mk-II",
+  "type": "Synchro Monster",
+  "description": "1 Psychic Tuner + 1+ non-Tuner Psychic monsters\r\nYou can target 1 banished monster; Special Summon it to your field. During the Main Phase (Quick Effect): You can banish 1 monster from your GY, then target 1 other face-up monster on the field; banish it, then gain LP equal to that banished monster's original ATK. You can only use 1 \"Psychic Blaster Mk-II\" effect per turn, and only once that turn.",
+  "attack": 3200,
+  "defense": 2700,
+  "level": 9,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88139289.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88139289.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88139289.jpg"
+  }
+}

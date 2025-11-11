@@ -1,0 +1,12 @@
+{
+  "id": 72029628,
+  "name": "Fragment Fusion",
+  "type": "Trap Card",
+  "description": "Banish from your Graveyard the Fusion Material Monsters that are listed on a \"Gem-Knight\" Fusion Monster Card, then Special Summon that Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) Destroy it during the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72029628.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72029628.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72029628.jpg"
+  }
+}

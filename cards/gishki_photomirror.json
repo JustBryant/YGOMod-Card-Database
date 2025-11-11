@@ -1,0 +1,12 @@
+{
+  "id": 9236985,
+  "name": "Gishki Photomirror",
+  "type": "Spell Card",
+  "description": "This card can be used to Ritual Summon any \"Gishki\" Ritual Monster. You must also pay Life Points equal to the Level of the Ritual Summoned monster x 500 (when this card resolves).",
+  "race": "Ritual",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9236985.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9236985.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9236985.jpg"
+  }
+}

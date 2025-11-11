@@ -1,0 +1,16 @@
+{
+  "id": 76512652,
+  "name": "Krokodilus",
+  "type": "Normal Monster",
+  "description": "''A vicious crocodile with great intelligence.''",
+  "attack": 1100,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76512652.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76512652.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76512652.jpg"
+  }
+}

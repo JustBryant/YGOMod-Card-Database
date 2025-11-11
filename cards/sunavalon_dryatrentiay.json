@@ -1,0 +1,16 @@
+{
+  "id": 92770064,
+  "name": "Sunavalon Dryatrentiay",
+  "type": "Link Monster",
+  "description": "2+ Link Monsters\r\nIf this card is Link Summoned: You can add 1 \"Sunavalon\" Spell/Trap from your Deck to your hand. This card cannot be destroyed by your opponent's card effects, and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Once per turn: You can Tribute 1 Link Monster this card points to; destroy any number of cards your opponent controls, up to that monster's Link Rating.",
+  "attack": 0,
+  "defense": null,
+  "level": null,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92770064.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92770064.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92770064.jpg"
+  }
+}

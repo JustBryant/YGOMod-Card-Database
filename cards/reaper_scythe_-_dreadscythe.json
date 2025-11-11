@@ -1,0 +1,12 @@
+{
+  "id": 81954378,
+  "name": "Reaper Scythe - Dreadscythe",
+  "type": "Spell Card",
+  "description": "Equip only to \"Guardian Dreadscythe\". It gains 500 ATK for each monster in the Graveyards.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81954378.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81954378.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81954378.jpg"
+  }
+}

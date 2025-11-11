@@ -1,0 +1,12 @@
+{
+  "id": 31980955,
+  "name": "Quiet Life",
+  "type": "Spell Card",
+  "description": "Activate this card at the start of your Main Phase 1, if you control no monsters. If any player Normal Summons/Sets a monster, that player cannot Special Summon that turn. If any player Special Summons a monster, that player cannot Normal Summon/Set that turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31980955.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31980955.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31980955.jpg"
+  }
+}

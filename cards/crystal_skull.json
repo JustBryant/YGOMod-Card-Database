@@ -1,0 +1,16 @@
+{
+  "id": 7903368,
+  "name": "Crystal Skull",
+  "type": "Effect Monster",
+  "description": "If this card is Summoned: Take 1000 damage, then change this card to Defense Position. During the End Phase, if you did not take effect damage this turn: You can either add to your hand or Special Summon 1 Rock monster with 0 ATK from your Deck. You can only use this effect of \"Crystal Skull\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7903368.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7903368.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7903368.jpg"
+  }
+}

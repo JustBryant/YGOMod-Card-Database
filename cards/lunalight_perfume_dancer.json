@@ -1,0 +1,16 @@
+{
+  "id": 81196066,
+  "name": "Lunalight Perfume Dancer",
+  "type": "Fusion Monster",
+  "description": "2 \"Lunalight\" monsters\r\nIf this card is Fusion Summoned: You can add 1 \"Luna Light Perfume\" from your Deck to your hand. You can target 1 other \"Lunalight\" card you control; return it to the hand/Extra Deck, then you can Special Summon 1 \"Lunalight\" monster from your hand. You can banish this card from your GY; this turn, all monsters your opponent controls lose ATK equal to their original DEF. You can only use each effect of \"Lunalight Perfume Dancer\" once per turn.",
+  "attack": 2000,
+  "defense": 1500,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81196066.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81196066.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81196066.jpg"
+  }
+}

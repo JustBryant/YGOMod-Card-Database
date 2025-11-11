@@ -1,0 +1,16 @@
+{
+  "id": 30299166,
+  "name": "Worm Tentacles",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can remove from play 1 Reptile-Type \"Worm\" monster in your Graveyard to allow this card to attack twice during the same Battle Phase.",
+  "attack": 1700,
+  "defense": 700,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30299166.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30299166.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30299166.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 45885288,
+  "name": "Neo Kaiser Glider",
+  "type": "Effect Monster",
+  "description": "You can discard this card and 1 monster, then target 1 Dragon Normal Monster in your GY; Special Summon it. If this card is sent to the GY: You can make all monsters your opponent currently controls lose 500 ATK until the end of this turn. You can only use each effect of \"Neo Kaiser Glider\" once per turn.",
+  "attack": 2400,
+  "defense": 2200,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45885288.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45885288.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45885288.jpg"
+  }
+}

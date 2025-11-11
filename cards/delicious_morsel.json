@@ -1,0 +1,12 @@
+{
+  "id": 300302063,
+  "name": "Delicious Morsel!",
+  "type": "Skill Card",
+  "description": "During the End Phase, if a Zombie \"Vampire\" monster you control inflicted battle damage to your opponent this turn, gain LP equal to half the total battle damage your monsters inflicted to your opponent this turn.",
+  "race": "Camula",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302063.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302063.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302063.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 89538537,
+  "name": "Altergeist Silquitous",
+  "type": "Effect Monster",
+  "description": "(Quick Effect): You can return 1 other \"Altergeist\" card you control to the hand, then target 1 card your opponent controls; return it to the hand. If this card is sent from the field to the GY: You can target 1 \"Altergeist\" Trap in your GY; add that card to your hand. You can only use each effect of \"Altergeist Silquitous\" once per turn.",
+  "attack": 800,
+  "defense": 1500,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89538537.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89538537.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89538537.jpg"
+  }
+}

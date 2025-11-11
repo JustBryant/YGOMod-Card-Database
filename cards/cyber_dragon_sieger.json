@@ -1,0 +1,16 @@
+{
+  "id": 46724542,
+  "name": "Cyber Dragon Sieger",
+  "type": "Link Monster",
+  "description": "2 Machine monsters, including \"Cyber Dragon\"\nThis card's name becomes \"Cyber Dragon\" while on the field or in the GY. During each Battle Phase, if this card has not declared an attack (Quick Effect): You can target 1 Machine monster you control with 2100 or more ATK; for the rest of this turn, that monster gains 2100 ATK/DEF, also neither player takes any battle damage from attacks involving this monster. You can only use this effect of \"Cyber Dragon Sieger\" once per turn.",
+  "attack": 2100,
+  "defense": null,
+  "level": null,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46724542.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46724542.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46724542.jpg"
+  }
+}

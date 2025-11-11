@@ -1,0 +1,12 @@
+{
+  "id": 28604635,
+  "name": "Weed Out",
+  "type": "Trap Card",
+  "description": "Pay 500 Life Points. Destroy all face-up Attack Position Level 3 monsters.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28604635.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28604635.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28604635.jpg"
+  }
+}

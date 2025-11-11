@@ -1,0 +1,16 @@
+{
+  "id": 45702357,
+  "name": "Reversible Beetle",
+  "type": "Effect Monster",
+  "description": "FLIP: Shuffle this card, and any face-up monsters in its column, into the Deck(s).\r\nIf this card is Normal or Special Summoned: Change this card, and any monsters in its column, to face-down Defense Position. You can only use each effect of \"Reversible Beetle\" once per turn.",
+  "attack": 1100,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45702357.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45702357.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45702357.jpg"
+  }
+}

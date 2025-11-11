@@ -1,0 +1,16 @@
+{
+  "id": 57566760,
+  "name": "Uzuhime the Manifested Mikanko",
+  "type": "XYZ Monster",
+  "description": "2 Level 3 \"Mikanko\" monsters\r\nIf this card is Special Summoned: You can add 1 Equip Spell from your Deck or GY to your hand. You can only use this effect of \"Uzuhime the Manifested Mikanko\" once per turn. Cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card. If this card attacks, at the end of the Damage Step: You can detach 1 material from this card; it can make another attack in a row.",
+  "attack": 0,
+  "defense": 0,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57566760.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57566760.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57566760.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 87008374,
+  "name": "ZW - Phoenix Bow",
+  "type": "Effect Monster",
+  "description": "You can target 1 face-up \"Number C39: Utopia Ray\" you control; equip this card from your hand to that target. It gains 1100 ATK. When the equipped monster destroys an opponent's monster by battle: Inflict 1000 damage to your opponent. You can only control 1 face-up \"ZW - Phoenix Bow\".",
+  "attack": 1100,
+  "defense": 0,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87008374.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87008374.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87008374.jpg"
+  }
+}

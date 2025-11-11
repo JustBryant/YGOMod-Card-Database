@@ -1,0 +1,16 @@
+{
+  "id": 3507053,
+  "name": "Appliancer Dryer Drake",
+  "type": "Link Monster",
+  "description": "1 \"Appliancer\" monster\r\nCannot be used as Link Material the turn it is Link Summoned. This linked card gains 1000 ATK. Once per turn, during your Battle Phase, if this card is co-linked (except during the Damage Step): You can switch the locations of 2 \"Appliancer\" monsters in your Main Monster Zones, including this card, and if you do, the other monster can make a second attack during each Battle Phase this turn. Once per turn, when this card that is not co-linked is targeted for an attack: You can negate that attack.",
+  "attack": 0,
+  "defense": null,
+  "level": null,
+  "attribute": "FIRE",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3507053.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3507053.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3507053.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 41197012,
+  "name": "Red Carpet",
+  "type": "Trap Card",
+  "description": "If a Dragon-Type Synchro Monster is on the field: Target up to 2 \"Resonator\" monsters in your Graveyard; Special Summon them.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41197012.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41197012.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41197012.jpg"
+  }
+}

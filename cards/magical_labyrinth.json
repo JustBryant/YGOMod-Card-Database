@@ -1,0 +1,12 @@
+{
+  "id": 64389297,
+  "name": "Magical Labyrinth",
+  "type": "Spell Card",
+  "description": "Equip only to \"Labyrinth Wall\". You can Tribute the equipped monster; Special Summon \"Wall Shadow\" from your Deck.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64389297.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64389297.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64389297.jpg"
+  }
+}

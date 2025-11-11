@@ -1,0 +1,16 @@
+{
+  "id": 5908650,
+  "name": "Shopina the Melodious Maestra",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 LIGHT Fairy-Type monster in your Graveyard; add it to your hand. You cannot activate non-LIGHT monster effects during the turn you activate this effect.",
+  "attack": 2300,
+  "defense": 1700,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5908650.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5908650.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5908650.jpg"
+  }
+}

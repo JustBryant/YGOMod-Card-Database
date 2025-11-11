@@ -3,14 +3,14 @@
   "name": "Ray & Temperature",
   "type": "Normal Monster",
   "description": "The Sun and the North Wind join hands to deliver a devastating combination of heat and gale-force winds.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/85309439.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/85309439.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85309439.jpg"
-  },
   "attack": 1000,
   "defense": 1000,
   "level": 3,
   "attribute": "LIGHT",
-  "race": "Fairy"
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85309439.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85309439.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85309439.jpg"
+  }
 }

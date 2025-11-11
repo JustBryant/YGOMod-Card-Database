@@ -1,0 +1,16 @@
+{
+  "id": 21088856,
+  "name": "Spy-C-Spy",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned: Look at 1 random card in your opponent's Extra Deck, and if it has 2000 or more ATK, this card gains 1000 ATK. If it has less than 2000 ATK, you gain LP equal to that monster's ATK.",
+  "attack": 1200,
+  "defense": 1300,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21088856.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21088856.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21088856.jpg"
+  }
+}

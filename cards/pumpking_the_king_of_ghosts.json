@@ -1,0 +1,16 @@
+{
+  "id": 29155212,
+  "name": "Pumpking the King of Ghosts",
+  "type": "Effect Monster",
+  "description": "If \"Castle of Dark Illusions\" is face-up on the field, increase the ATK and DEF of this card by 100 points. As long as this \"Castle of Dark Illusions\" remains face-up on the field, the ATK and DEF of this card continues to increase by 100 points during each of your Standby Phases. This effect continues until your 4th turn after the card is activated.",
+  "attack": 1800,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29155212.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29155212.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29155212.jpg"
+  }
+}

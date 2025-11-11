@@ -1,0 +1,16 @@
+{
+  "id": 61019812,
+  "name": "Red Duston",
+  "type": "Effect Monster",
+  "description": "Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. When this card on the field is destroyed: The controller takes 500 damage. You can only control 1 face-up \"Red Duston\".",
+  "attack": 0,
+  "defense": 1000,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61019812.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61019812.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61019812.jpg"
+  }
+}

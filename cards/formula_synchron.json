@@ -1,0 +1,16 @@
+{
+  "id": 50091196,
+  "name": "Formula Synchron",
+  "type": "Synchro Tuner Monster",
+  "description": "1 Tuner + 1 non-Tuner monster\nWhen this card is Synchro Summoned: You can draw 1 card. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
+  "attack": 200,
+  "defense": 1500,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50091196.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50091196.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50091196.jpg"
+  }
+}

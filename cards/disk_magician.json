@@ -1,0 +1,16 @@
+{
+  "id": 76446915,
+  "name": "Disk Magician",
+  "type": "Normal Monster",
+  "description": "This monster hides in a saucer and only appears when executing an attack.",
+  "attack": 1350,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76446915.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76446915.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76446915.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 54562327,
+  "name": "Stake your Soul!",
+  "type": "Spell Card",
+  "description": "Reveal 1 monster in your hand; Special Summon 1 \"Vanquish Soul\" monster with the same Attribute, but a different name, from your Deck, but return it to the hand during the End Phase. You can only activate 1 \"Stake your Soul!\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54562327.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54562327.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54562327.jpg"
+  }
+}

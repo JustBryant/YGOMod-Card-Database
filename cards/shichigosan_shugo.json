@@ -1,0 +1,12 @@
+{
+  "id": 11035075,
+  "name": "Shichigosan Shugo",
+  "type": "Trap Card",
+  "description": "Special Summon 1 Level/Rank 1 monster from either GY to your field, and if you do, equip this card to it. Once per turn, during the End Phase: Increase the equipped monster's Level/Rank by 1. Apply these effects based on the equipped monster's Level/Rank.\r\n● 3+: It gains ATK equal to its original ATK.\r\n● 5+: It is unaffected by your opponent's activated effects.\r\nOnce per turn, during your Standby Phase, if the equipped monster's Level/Rank is 7 or higher: Send all cards on the field to the GY.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11035075.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11035075.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11035075.jpg"
+  }
+}

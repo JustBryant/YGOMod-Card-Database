@@ -1,0 +1,16 @@
+{
+  "id": 30394645,
+  "name": "Dogmatika Chaplain",
+  "type": "Effect Monster",
+  "description": "If a monster Special Summoned from the Extra Deck is on the field: You can Special Summon this card from your hand. If this card is Special Summoned from the hand: You can make each player send 1 monster from their Extra Deck to the GY. If this card is sent to the GY: You can target 1 \"Dogmatika\" card in your GY, except \"Dogmatika Chaplain\"; add it to your hand. You can only use each effect of \"Dogmatika Chaplain\" once per turn.",
+  "attack": 2000,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30394645.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30394645.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30394645.jpg"
+  }
+}

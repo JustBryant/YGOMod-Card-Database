@@ -1,0 +1,12 @@
+{
+  "id": 19089195,
+  "name": "Sea Stealth Attack",
+  "type": "Trap Card",
+  "description": "When this card is activated: You can activate 1 \"Umi\" from your hand or GY. While \"Umi\" is on the field, this face-up card gains these effects.\r\n● Once per turn: You can banish 1 WATER monster you control until the End Phase; this turn, face-up Spells/Traps you control cannot be destroyed by your opponent's card effects (even if this card leaves the field).\r\n● At the start of the Damage Step, if your WATER monster whose original Level is 5 or higher battles an opponent's monster: Destroy that opponent's monster.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19089195.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19089195.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19089195.jpg"
+  }
+}

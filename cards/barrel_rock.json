@@ -1,0 +1,16 @@
+{
+  "id": 10476868,
+  "name": "Barrel Rock",
+  "type": "Normal Monster",
+  "description": "''Shouldering a pair of machine guns, this monster is unstoppable.''",
+  "attack": 1000,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10476868.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10476868.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10476868.jpg"
+  }
+}

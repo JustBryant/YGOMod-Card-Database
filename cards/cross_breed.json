@@ -1,0 +1,12 @@
+{
+  "id": 20862918,
+  "name": "Cross Breed",
+  "type": "Spell Card",
+  "description": "Banish 2 monsters from your hand and/or face-up field with the same original Type and Attribute, but different names; add 1 monster with the same original Type and Attribute as those monsters, but a different name, from your Deck to your hand. You can only activate 1 \"Cross Breed\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20862918.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20862918.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20862918.jpg"
+  }
+}

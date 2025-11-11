@@ -1,0 +1,16 @@
+{
+  "id": 6142213,
+  "name": "Turbo Rocket",
+  "type": "Tuner Monster",
+  "description": "While attacking, this card cannot be destroyed by battle. If this card attacks, after damage calculation, inflict damage equal to half the ATK of the attack target to your opponent.",
+  "attack": 0,
+  "defense": 0,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6142213.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6142213.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6142213.jpg"
+  }
+}

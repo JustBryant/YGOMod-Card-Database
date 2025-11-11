@@ -1,0 +1,16 @@
+{
+  "id": 76815942,
+  "name": "Lyrilusc - Independent Nightingale",
+  "type": "Fusion Monster",
+  "description": "\"Lyrilusc - Assembled Nightingale\" + 1 \"Lyrilusc\" monster\r\nIf this card is Fusion Summoned using an Xyz Monster on the field as Fusion Material whose original name includes \"Lyrilusc\": You can increase this card's Level by the number of Xyz Materials that monster(s) had. This card gains ATK equal to its Level x 500. Unaffected by other cards' effects. Once per turn: You can inflict damage to your opponent equal to this card's Level x 500.",
+  "attack": 1000,
+  "defense": 0,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76815942.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76815942.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76815942.jpg"
+  }
+}

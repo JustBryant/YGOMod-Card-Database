@@ -1,0 +1,16 @@
+{
+  "id": 75064463,
+  "name": "Harpie Queen",
+  "type": "Effect Monster",
+  "description": "This card's name becomes \"Harpie Lady\" while on the field or in the GY. You can discard this card to the GY; add 1 \"Harpies' Hunting Ground\" from your Deck to your hand.",
+  "attack": 1900,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75064463.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75064463.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75064463.jpg"
+  }
+}

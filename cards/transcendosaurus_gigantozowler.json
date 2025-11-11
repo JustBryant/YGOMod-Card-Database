@@ -1,0 +1,16 @@
+{
+  "id": 67745632,
+  "name": "Transcendosaurus Gigantozowler",
+  "type": "Fusion Monster",
+  "description": "1 Dinosaur monster + 1 Normal Monster\r\nIf this card is Special Summoned: You can target 1 Dinosaur monster in your GY; add it to your hand, then, if this card was Special Summoned from the GY, you can destroy 2 cards (1 from your hand or field, and 1 your opponent controls). If this card is destroyed: You can shuffle 1 Normal Monster from your GY into the Deck, then you can Special Summon this card. You can only use each effect of \"Transcendosaurus Gigantozowler\" once per turn.",
+  "attack": 3800,
+  "defense": 2000,
+  "level": 12,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67745632.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67745632.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67745632.jpg"
+  }
+}

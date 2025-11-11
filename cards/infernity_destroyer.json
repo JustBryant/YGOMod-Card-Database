@@ -1,0 +1,16 @@
+{
+  "id": 98954375,
+  "name": "Infernity Destroyer",
+  "type": "Effect Monster",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 1600 damage to your opponent. You must have no cards in your hand to activate and to resolve this effect.",
+  "attack": 2300,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98954375.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98954375.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98954375.jpg"
+  }
+}

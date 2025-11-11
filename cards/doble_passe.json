@@ -1,0 +1,12 @@
+{
+  "id": 79997591,
+  "name": "Doble Passe",
+  "type": "Trap Card",
+  "description": "When an opponent's monster declares an attack on a face-up Attack Position monster you control: Make your opponent's attack a direct attack instead and inflict damage to your opponent equal to the ATK of the attack target you control. Also, that monster you control can attack your opponent directly during your next turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79997591.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79997591.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79997591.jpg"
+  }
+}

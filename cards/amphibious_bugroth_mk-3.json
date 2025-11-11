@@ -1,0 +1,16 @@
+{
+  "id": 64342551,
+  "name": "Amphibious Bugroth MK-3",
+  "type": "Effect Monster",
+  "description": "While \"Umi\" is face-up on the field, this card can attack your opponent's Life Points directly.",
+  "attack": 1500,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64342551.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64342551.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64342551.jpg"
+  }
+}

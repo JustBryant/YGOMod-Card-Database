@@ -1,0 +1,12 @@
+{
+  "id": 68400115,
+  "name": "The Emperor's Holiday",
+  "type": "Trap Card",
+  "description": "Negate all Equip Card effects on the field.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68400115.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68400115.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68400115.jpg"
+  }
+}

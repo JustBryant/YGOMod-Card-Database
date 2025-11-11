@@ -1,0 +1,16 @@
+{
+  "id": 46148485,
+  "name": "Sphinx of the Cycle",
+  "type": "Effect Monster",
+  "description": "Once per turn, if another monster's battle position is changed (except during the Damage Step): You can target 1 card on the field; return it to the hand. You can only use each of the following effects of \"Sphinx of the Cycle\" once per turn. If a monster's battle position is changed (except during the Damage Step): You can banish 1 Spell from your GY; Special Summon this card from your GY (if it was there when the battle position was changed) or hand (even if not). During your Main Phase: You can Set 1 \"Book of Taiyou\" and/or 1 \"Book of Moon\" from your Deck or GY.",
+  "attack": 2500,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46148485.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46148485.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46148485.jpg"
+  }
+}

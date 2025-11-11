@@ -1,0 +1,12 @@
+{
+  "id": 1200843,
+  "name": "Mirror of Yata",
+  "type": "Spell Card",
+  "description": "Equip only to a Spirit monster. The equipped monster does not have to have its effect that returns it to the hand activated. If it would be destroyed by battle, destroy this card instead.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1200843.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1200843.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1200843.jpg"
+  }
+}

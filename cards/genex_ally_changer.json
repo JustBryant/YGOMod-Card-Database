@@ -1,0 +1,16 @@
+{
+  "id": 20127343,
+  "name": "Genex Ally Changer",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can select 1 face-up monster on the field and declare 1 Attribute. The selected monster's Attribute becomes the declared Attribute until the End Phase.",
+  "attack": 1200,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20127343.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20127343.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20127343.jpg"
+  }
+}

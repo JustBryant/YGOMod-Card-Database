@@ -1,0 +1,16 @@
+{
+  "id": 33883834,
+  "name": "Shien's Squire",
+  "type": "Tuner Monster",
+  "description": "During damage calculation, in either player's turn, if a \"Six Samurai\" monster you control battles: You can send this card from your hand to the Graveyard; that monster cannot be destroyed by battle this turn.",
+  "attack": 300,
+  "defense": 700,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33883834.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33883834.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33883834.jpg"
+  }
+}

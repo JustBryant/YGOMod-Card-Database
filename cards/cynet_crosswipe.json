@@ -1,0 +1,12 @@
+{
+  "id": 77449773,
+  "name": "Cynet Crosswipe",
+  "type": "Spell Card",
+  "description": "Tribute 1 Cyberse monster, then target 1 card on the field; destroy it.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77449773.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77449773.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77449773.jpg"
+  }
+}

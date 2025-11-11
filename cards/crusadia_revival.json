@@ -1,0 +1,12 @@
+{
+  "id": 69039982,
+  "name": "Crusadia Revival",
+  "type": "Spell Card",
+  "description": "All \"Crusadia\" Link Monsters on the field gain 500 ATK. Once per turn: You can target 1 \"Crusadia\" Link Monster you control; this turn (even if this card leaves the field), it can attack all monsters your opponent controls once each, also other monsters you control cannot attack.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69039982.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69039982.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69039982.jpg"
+  }
+}

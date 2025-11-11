@@ -1,0 +1,12 @@
+{
+  "id": 300302003,
+  "name": "Low Blow",
+  "type": "Skill Card",
+  "description": "Activate this Skill during your Main Phase. Once per Duel, you can make 1 monster on the field lose 500 ATK/DEF until the end of this turn.",
+  "race": "Andrew",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302003.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302003.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302003.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 45379225,
+  "name": "Psychic Lifetrancer",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, you can remove from play 1 Psychic-Type monster from your Graveyard to gain 1200 Life Points.",
+  "attack": 2400,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45379225.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45379225.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45379225.jpg"
+  }
+}

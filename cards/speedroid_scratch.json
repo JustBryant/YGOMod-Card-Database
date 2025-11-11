@@ -1,0 +1,12 @@
+{
+  "id": 29114773,
+  "name": "Speedroid Scratch",
+  "type": "Spell Card",
+  "description": "Send 1 \"Speedroid\" card from your hand to the GY; add 1 \"Speedroid\" monster from your Deck to your hand. You can only activate 1 \"Speedroid Scratch\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29114773.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29114773.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29114773.jpg"
+  }
+}

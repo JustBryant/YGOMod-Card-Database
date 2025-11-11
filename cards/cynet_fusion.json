@@ -1,0 +1,12 @@
+{
+  "id": 65801012,
+  "name": "Cynet Fusion",
+  "type": "Spell Card",
+  "description": "Fusion Summon 1 Cyberse Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you control no monsters in the Extra Monster Zone, you can also banish up to 1 Cyberse Link Monster from your GY as Fusion Material.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65801012.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65801012.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65801012.jpg"
+  }
+}

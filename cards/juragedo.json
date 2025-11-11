@@ -1,0 +1,16 @@
+{
+  "id": 59546797,
+  "name": "Juragedo",
+  "type": "Effect Monster",
+  "description": "During the Battle Step (Quick Effect): You can Special Summon this card from your hand, and if you do, gain 1000 LP. You can only use this effect of \"Juragedo\" once per turn. (Quick Effect): You can Tribute this card, then target 1 face-up monster you control; it gains 1000 ATK until the end of the next turn.",
+  "attack": 1700,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59546797.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59546797.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59546797.jpg"
+  }
+}

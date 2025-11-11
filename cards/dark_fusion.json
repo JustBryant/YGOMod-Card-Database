@@ -1,0 +1,12 @@
+{
+  "id": 94820406,
+  "name": "Dark Fusion",
+  "type": "Spell Card",
+  "description": "Fusion Summon 1 Fiend Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. Your opponent cannot target it with card effects this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94820406.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94820406.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94820406.jpg"
+  }
+}

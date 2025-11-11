@@ -1,0 +1,16 @@
+{
+  "id": 17502671,
+  "name": "Infernity General",
+  "type": "Effect Monster",
+  "description": "If you have no cards in your hand: You can banish this card from your Graveyard to target 2 Level 3 or lower \"Infernity\" monsters in your Graveyard; Special Summon them from the Graveyard, but their effects are negated.",
+  "attack": 2700,
+  "defense": 1500,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17502671.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17502671.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17502671.jpg"
+  }
+}

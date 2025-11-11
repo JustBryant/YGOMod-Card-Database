@@ -1,0 +1,16 @@
+{
+  "id": 21502796,
+  "name": "Ryko, Lightsworn Hunter",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Apply these effects (simultaneously).\r\n● You can destroy 1 card on the field.\r\n● Send the top 3 cards of your Deck to the GY.",
+  "attack": 200,
+  "defense": 100,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21502796.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21502796.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21502796.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8978197,
+  "name": "The King of D.",
+  "type": "Effect Monster",
+  "description": "This card's name becomes \"Lord of D.\" while on the field. When this card is Normal Summoned: You can discard 1 Spell/Trap; add 1 \"The Flute of Summoning Dragon\", \"The Melody of Awakening Dragon\", or \"Dragon Revival Rhapsody\" from your Deck to your hand.",
+  "attack": 1200,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8978197.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8978197.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8978197.jpg"
+  }
+}

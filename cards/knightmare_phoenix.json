@@ -1,0 +1,16 @@
+{
+  "id": 2857636,
+  "name": "Knightmare Phoenix",
+  "type": "Link Monster",
+  "description": "2 monsters with different names\r\nIf this card is Link Summoned: You can discard 1 card, then target 1 Spell/Trap your opponent controls; destroy it, then, if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Knightmare Phoenix\" once per turn. Co-linked monsters you control cannot be destroyed by battle.",
+  "attack": 1900,
+  "defense": null,
+  "level": 0,
+  "attribute": "FIRE",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2857636.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2857636.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2857636.jpg"
+  }
+}

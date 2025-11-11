@@ -1,0 +1,16 @@
+{
+  "id": 21844576,
+  "name": "Elemental HERO Avian",
+  "type": "Normal Monster",
+  "description": "A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21844576.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21844576.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21844576.jpg"
+  }
+}

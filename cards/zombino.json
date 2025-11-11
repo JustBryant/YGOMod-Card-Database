@@ -1,0 +1,16 @@
+{
+  "id": 14575467,
+  "name": "Zombino",
+  "type": "Normal Monster",
+  "description": "The two are so close\r\nThey die and return to life\r\nInseparable",
+  "attack": 2000,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14575467.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14575467.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14575467.jpg"
+  }
+}

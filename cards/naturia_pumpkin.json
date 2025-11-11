@@ -1,0 +1,16 @@
+{
+  "id": 96653775,
+  "name": "Naturia Pumpkin",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned, if your opponent controls a monster, you can Special Summon 1 \"Naturia\" monster from your hand.",
+  "attack": 1400,
+  "defense": 800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96653775.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96653775.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96653775.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 70456282,
+  "name": "Assault Blackwing - Kunai the Drizzle",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by Tributing 1 \"Blackwing\" monster. If Summoned this way, this card is treated as a Tuner monster. Once per turn: You can target 1 Synchro Monster you control, and declare a Level from 1 to 8; it becomes that Level until the end of this turn.",
+  "attack": 2100,
+  "defense": 1600,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70456282.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70456282.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70456282.jpg"
+  }
+}

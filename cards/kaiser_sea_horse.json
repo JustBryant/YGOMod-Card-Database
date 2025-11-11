@@ -1,0 +1,16 @@
+{
+  "id": 17444133,
+  "name": "Kaiser Sea Horse",
+  "type": "Effect Monster",
+  "description": "This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT monster.",
+  "attack": 1700,
+  "defense": 1650,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17444133.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17444133.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17444133.jpg"
+  }
+}

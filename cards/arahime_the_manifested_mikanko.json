@@ -1,0 +1,16 @@
+{
+  "id": 75771170,
+  "name": "Arahime the Manifested Mikanko",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with \"Mikanko Kagura\". Cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card. If you have this card in your hand or GY, and another \"Mikanko\" card in your GY: You can target 1 face-up monster on the field; equip this card to it as an Equip Spell. You can only use this effect of \"Arahime the Manifested Mikanko\" once per turn. Once per turn, during the End Phase, while this card is equipped to a monster: You can return this card and the equipped monster to the hand.",
+  "attack": 0,
+  "defense": 0,
+  "level": 9,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75771170.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75771170.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75771170.jpg"
+  }
+}

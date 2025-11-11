@@ -1,0 +1,16 @@
+{
+  "id": 68231287,
+  "name": "Jupiter the Power Patron of Destruction",
+  "type": "XYZ Monster",
+  "description": "3 Level 10 monsters\r\nOnce per turn, you can also Xyz Summon \"Jupiter the Power Patron of Destruction\" by using 1 monster you control equipped with 3 or more Equip Cards (transfer its materials). If this card is Xyz Summoned: You can equip any number of Equip Spells from your GY to this card that can equip to it. Gains 3000 ATK while it has an Xyz Monster as material. Once per turn: You can detach 1 material from this card; Special Summon 1 \"DoomZ\" monster from your GY, then you can destroy 1 card on the field.",
+  "attack": 3500,
+  "defense": 2500,
+  "level": 10,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68231287.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68231287.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68231287.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 93187568,
+  "name": "Spell Striker",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by banishing 1 Spell Card from your Graveyard. This card can attack directly. You take no battle damage from attacks involving this card.",
+  "attack": 600,
+  "defense": 200,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93187568.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93187568.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93187568.jpg"
+  }
+}

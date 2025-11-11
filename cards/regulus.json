@@ -1,0 +1,16 @@
+{
+  "id": 20210570,
+  "name": "Regulus",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can select 1 Field Spell Card in your Graveyard. Return it to the Deck.",
+  "attack": 1700,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20210570.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20210570.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20210570.jpg"
+  }
+}

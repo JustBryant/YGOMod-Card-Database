@@ -1,0 +1,16 @@
+{
+  "id": 26914168,
+  "name": "Dark Honest",
+  "type": "Effect Monster",
+  "description": "Once per turn, during your Main Phase: You can return this face-up card to the hand. During the Damage Step, when your DARK monster battles an opponent's monster (Quick Effect): You can send this card from your hand to the GY; that opponent's monster loses ATK equal to its own ATK, until the end of this turn.",
+  "attack": 1100,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26914168.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26914168.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26914168.jpg"
+  }
+}

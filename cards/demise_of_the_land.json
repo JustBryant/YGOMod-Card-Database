@@ -1,0 +1,12 @@
+{
+  "id": 48934760,
+  "name": "Demise of the Land",
+  "type": "Spell Card",
+  "description": "Activate only when your opponent Special Summons a monster. Select 1 Field Spell Card from your Deck and activate it.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48934760.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48934760.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48934760.jpg"
+  }
+}

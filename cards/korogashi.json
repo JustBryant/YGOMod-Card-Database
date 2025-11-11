@@ -1,0 +1,16 @@
+{
+  "id": 32569498,
+  "name": "Korogashi",
+  "type": "Normal Monster",
+  "description": "''A high-powered dung beetle that can roll dung larger than itself. It crushes its foes with its massive ball of dung.''",
+  "attack": 550,
+  "defense": 400,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32569498.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32569498.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32569498.jpg"
+  }
+}

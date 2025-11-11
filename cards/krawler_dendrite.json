@@ -1,0 +1,16 @@
+{
+  "id": 46083111,
+  "name": "Krawler Dendrite",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can send 1 monster from your Deck to the GY.\r\nIf this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 2 \"Krawler\" monsters with different names from your Deck in face-down Defense Position, except \"Krawler Dendrite\". You can only use each effect of \"Krawler Dendrite\" once per turn.",
+  "attack": 1300,
+  "defense": 600,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46083111.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46083111.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46083111.jpg"
+  }
+}

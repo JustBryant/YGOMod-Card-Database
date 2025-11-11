@@ -1,0 +1,12 @@
+{
+  "id": 85704698,
+  "name": "Re-dyce-cle",
+  "type": "Trap Card",
+  "description": "Target 1 \"Speedroid\" Tuner monster in your Graveyard; Special Summon it, but its effects are negated, also roll a six-sided die, and its Level becomes the result until the end of this turn. You can banish this card from your Graveyard; immediately after this effect resolves, Synchro Summon 1 WIND Synchro Monster, using monsters you control including a \"Speedroid\" Tuner monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85704698.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85704698.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85704698.jpg"
+  }
+}

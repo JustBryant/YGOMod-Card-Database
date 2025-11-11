@@ -1,0 +1,16 @@
+{
+  "id": 36849933,
+  "name": "Megalith Och",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with a \"Megalith\" card. If this card is Ritual Summoned: You can draw 1 card, then discard 1 card. During the Main Phase (Quick Effect): You can activate this effect; Ritual Summon 1 Ritual Monster from your hand, by Tributing monsters from your hand or field, including this card on your field, whose total Levels equal or exceed the Level of the Ritual Monster. You can only use this effect of \"Megalith Och\" once per turn.",
+  "attack": 1000,
+  "defense": 2700,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36849933.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36849933.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36849933.jpg"
+  }
+}

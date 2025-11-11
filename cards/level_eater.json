@@ -1,0 +1,16 @@
+{
+  "id": 57421866,
+  "name": "Level Eater",
+  "type": "Effect Monster",
+  "description": "If this card is in your Graveyard: You can target 1 Level 5 or higher monster you control; reduce its Level by 1, and if you do, Special Summon this card. This face-up card on the field cannot be Tributed, except for a Tribute Summon.",
+  "attack": 600,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57421866.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57421866.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57421866.jpg"
+  }
+}

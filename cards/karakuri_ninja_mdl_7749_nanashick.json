@@ -1,0 +1,16 @@
+{
+  "id": 50615578,
+  "name": "Karakuri Ninja mdl 7749 \"Nanashick\"",
+  "type": "Effect Monster",
+  "description": "This card must attack if able. When this face-up card is selected as an attack target, change its battle position. When this card is Normal Summoned, you can draw a number of cards equal to the number of face-up Defense Position \"Karakuri\" monsters you control.",
+  "attack": 2200,
+  "defense": 1800,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50615578.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50615578.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50615578.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 19578592,
+  "name": "Axe of Fools",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 1000 ATK, also its effects are negated. Once per turn, during your Standby Phase: Inflict 500 damage to the controller of the equipped monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19578592.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19578592.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19578592.jpg"
+  }
+}

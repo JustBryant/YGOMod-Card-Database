@@ -1,0 +1,12 @@
+{
+  "id": 28062326,
+  "name": "Plant Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Bamboo Scrap\".",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28062326.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28062326.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28062326.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 81650695,
+  "name": "Power Patron DoomZ",
+  "type": "Effect Monster",
+  "description": "You cannot Special Summon from the Extra Deck, except Xyz Monsters. You can only use each of the following effects of \"Power Patron DoomZ\" once per turn. You can target 1 other Effect Monster you control; Special Summon from your Extra Deck, 1 \"DoomZ\" Xyz Monster or \"Jupiter the Power Patron of Destruction\", with the same Rank as the Level of that monster you control, by using that monster as material (this is treated as an Xyz Summon), and if you do, equip this card you control to it as an Equip Spell. If this card is destroyed: You can add 1 \"DoomZ\" card from your Deck to your hand.",
+  "attack": 300,
+  "defense": 200,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81650695.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81650695.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81650695.jpg"
+  }
+}

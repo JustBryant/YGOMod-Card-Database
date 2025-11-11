@@ -1,0 +1,12 @@
+{
+  "id": 84613836,
+  "name": "Swiftstrike Armor",
+  "type": "Trap Card",
+  "description": "During your Draw Phase, each time you draw a \"Six Samurai\" Monster Card(s): You can reveal it; Special Summon it.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84613836.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84613836.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84613836.jpg"
+  }
+}

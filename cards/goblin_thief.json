@@ -1,0 +1,12 @@
+{
+  "id": 45311864,
+  "name": "Goblin Thief",
+  "type": "Spell Card",
+  "description": "Inflict 500 points of damage to your opponent's Life Points and increase your Life Points by 500 points.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45311864.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45311864.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45311864.jpg"
+  }
+}

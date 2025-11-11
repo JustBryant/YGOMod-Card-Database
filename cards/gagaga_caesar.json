@@ -1,0 +1,16 @@
+{
+  "id": 9583383,
+  "name": "Gagaga Caesar",
+  "type": "Effect Monster",
+  "description": "Cannot attack unless you control another face-up \"Gagaga\" monster. Once per turn: You can banish 1 monster from your Graveyard that has a Level; the Levels of all face-up \"Gagaga\" monsters you currently control become the Level of that monster. This card cannot be used as a Synchro Material Monster.",
+  "attack": 1800,
+  "defense": 600,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9583383.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9583383.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9583383.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 34206604,
+  "name": "Magical Scientist",
+  "type": "Effect Monster",
+  "description": "Pay 1000 Life Points to Special Summon 1 level 6 or lower Fusion Monster from your Extra Deck in face-up Attack or Defense Position. That Fusion Monster cannot attack your opponent's Life Points directly, and is returned to your Extra Deck at the end of the turn.",
+  "attack": 300,
+  "defense": 300,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34206604.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34206604.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34206604.jpg"
+  }
+}

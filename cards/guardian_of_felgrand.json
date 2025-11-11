@@ -1,0 +1,16 @@
+{
+  "id": 33460840,
+  "name": "Guardian of Felgrand",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can equip 1 Level 7 or 8 Dragon-Type monster from your hand or Graveyard to this card. This card gains ATK and DEF equal to half the ATK and DEF of the monster equipped to it by this effect. You can Tribute 1 monster and this card, then target 1 Level 7 or 8 Dragon-Type monster in your Graveyard; Special Summon it.",
+  "attack": 500,
+  "defense": 500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33460840.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33460840.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33460840.jpg"
+  }
+}

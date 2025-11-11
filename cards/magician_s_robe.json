@@ -1,0 +1,16 @@
+{
+  "id": 71696014,
+  "name": "Magician's Robe",
+  "type": "Effect Monster",
+  "description": "During your opponent's turn (Quick Effect): You can discard 1 Spell/Trap; Special Summon 1 \"Dark Magician\" from your Deck. During your opponent's turn, if you activate a Spell/Trap Card or effect while this card is in your GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Magician's Robe\" once per turn.",
+  "attack": 700,
+  "defense": 2000,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71696014.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71696014.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71696014.jpg"
+  }
+}

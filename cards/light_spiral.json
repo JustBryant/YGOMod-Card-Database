@@ -1,0 +1,12 @@
+{
+  "id": 35577420,
+  "name": "Light Spiral",
+  "type": "Trap Card",
+  "description": "Each time a card(s) is sent from your Deck to the Graveyard by the effect of a \"Lightsworn\" monster, remove from play the top card of your opponent's Deck.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35577420.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35577420.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35577420.jpg"
+  }
+}

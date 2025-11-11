@@ -1,0 +1,16 @@
+{
+  "id": 76650663,
+  "name": "Ally of Justice Nullfier",
+  "type": "Effect Monster",
+  "description": "Any LIGHT monster that has battled this card has its effects negated (starting after damage calculation).",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76650663.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76650663.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76650663.jpg"
+  }
+}

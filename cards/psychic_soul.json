@@ -1,0 +1,12 @@
+{
+  "id": 33323657,
+  "name": "Psychic Soul",
+  "type": "Trap Card",
+  "description": "Tribute 1 Psychic-Type monster you control. Gain Life Points equal to the Level of the Tributed monster x 300.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33323657.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33323657.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33323657.jpg"
+  }
+}

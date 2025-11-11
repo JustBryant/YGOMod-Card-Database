@@ -1,0 +1,12 @@
+{
+  "id": 86801872,
+  "name": "Poisonous Snake Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Cobra Jar\". When this Token is destroyed as a result of battle, inflict 500 points of damage to your opponent's Life Points.",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86801872.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86801872.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86801872.jpg"
+  }
+}

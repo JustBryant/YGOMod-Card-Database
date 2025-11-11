@@ -1,0 +1,16 @@
+{
+  "id": 26885836,
+  "name": "Heroic Challenger - War Hammer",
+  "type": "Effect Monster",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can equip the destroyed monster to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains ATK equal to that equipped monster's ATK.",
+  "attack": 2100,
+  "defense": 1300,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26885836.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26885836.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26885836.jpg"
+  }
+}

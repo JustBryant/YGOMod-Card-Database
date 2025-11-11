@@ -1,0 +1,16 @@
+{
+  "id": 89194103,
+  "name": "The Fabled Kudabbi",
+  "type": "Synchro Monster",
+  "description": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nThis card gains the following effect based on the number of cards in your hand.\r\n● 0: Cannot be destroyed by battle or card effects.\r\n● 3+: Once per turn, during the End Phase: Destroy this card.",
+  "attack": 2200,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89194103.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89194103.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89194103.jpg"
+  }
+}

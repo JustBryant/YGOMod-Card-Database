@@ -1,0 +1,16 @@
+{
+  "id": 10860121,
+  "name": "Bujingi Pavo",
+  "type": "Effect Monster",
+  "description": "When a Beast-Warrior-Type \"Bujin\" monster you control is destroyed by battle and sent to the Graveyard: You can send this card from your hand to the Graveyard; Special Summon 1 \"Bujin\" monster from your Deck. You can only use the effect of \"Bujingi Pavo\" once per turn.",
+  "attack": 1700,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10860121.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10860121.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10860121.jpg"
+  }
+}

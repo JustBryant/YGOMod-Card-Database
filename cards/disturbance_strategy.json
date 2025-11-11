@@ -1,0 +1,12 @@
+{
+  "id": 77561728,
+  "name": "Disturbance Strategy",
+  "type": "Trap Card",
+  "description": "Your opponent shuffles their entire hand into the Deck, then draws the same number of cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77561728.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77561728.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77561728.jpg"
+  }
+}

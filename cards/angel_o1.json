@@ -1,0 +1,16 @@
+{
+  "id": 82243738,
+  "name": "Angel O1",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by revealing 1 Level 7 or higher monster from your hand. You can only Special Summon \"Angel O1\" once per turn this way. While you control this Special Summoned card, you can Tribute Summon 1 Level 7 or higher monster in Attack Position during your Main Phase, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+  "attack": 200,
+  "defense": 300,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82243738.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82243738.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82243738.jpg"
+  }
+}

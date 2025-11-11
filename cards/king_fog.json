@@ -3,14 +3,14 @@
   "name": "King Fog",
   "type": "Normal Monster",
   "description": "A fiend that dwells in a blinding curtain of smoke.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/84686841.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/84686841.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84686841.jpg"
-  },
   "attack": 1000,
   "defense": 900,
   "level": 3,
   "attribute": "DARK",
-  "race": "Fiend"
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84686841.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84686841.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84686841.jpg"
+  }
 }

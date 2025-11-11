@@ -1,0 +1,16 @@
+{
+  "id": 53830602,
+  "name": "Fungi of the Musk",
+  "type": "Normal Monster",
+  "description": "''Melts away anything that dares to stand before it.''",
+  "attack": 400,
+  "defense": 300,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53830602.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53830602.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53830602.jpg"
+  }
+}

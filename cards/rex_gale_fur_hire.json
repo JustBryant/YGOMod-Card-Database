@@ -1,0 +1,16 @@
+{
+  "id": 47647354,
+  "name": "Rex, Gale Fur Hire",
+  "type": "Effect Monster",
+  "description": "You can reveal this card in your hand; Special Summon 1 monster \"Fur Hire\" from your hand, except \"Rex, Gale Fur Hire\", then Special Summon this card. You can only use this effect of \"Rex, Gale Fur Hire\" once per turn. If a card(s) is added from the Deck to your opponent's hand by a non-\"Fur Hire\" card's effect and you control another monster \"Fur Hire\" (except during the Damage Step): You can draw 1 card.",
+  "attack": 2000,
+  "defense": 1200,
+  "level": 5,
+  "attribute": "WIND",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47647354.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47647354.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47647354.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 42874792,
+  "name": "Wind-Up Rabbit",
+  "type": "Effect Monster",
+  "description": "(Quick Effect): You can target 1 \"Wind-Up\" monster you control; banish it until your next Standby Phase. This effect can be used only once while this card is face-up on the field.",
+  "attack": 1400,
+  "defense": 600,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42874792.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42874792.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42874792.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 47480070,
+  "name": "Amazoness Paladin",
+  "type": "Effect Monster",
+  "description": "This card gains 100 ATK for each \"Amazoness\" monster you control.",
+  "attack": 1700,
+  "defense": 300,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47480070.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47480070.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47480070.jpg"
+  }
+}

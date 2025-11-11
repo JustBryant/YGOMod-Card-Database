@@ -1,0 +1,16 @@
+{
+  "id": 5464695,
+  "name": "Blazing Inpachi",
+  "type": "Normal Monster",
+  "description": "A wicked wooden spirit now burning in flames. Its fire attack is powerful, but it will soon be nothing but ashes.",
+  "attack": 1850,
+  "defense": 0,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5464695.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5464695.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5464695.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 7653207,
+  "name": "Aqua Jet",
+  "type": "Spell Card",
+  "description": "Target 1 face-up Fish, Sea Serpent, or Aqua-Type monster you control; it gains 1000 ATK.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7653207.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7653207.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7653207.jpg"
+  }
+}

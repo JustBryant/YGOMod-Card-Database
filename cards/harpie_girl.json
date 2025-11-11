@@ -1,0 +1,16 @@
+{
+  "id": 34100324,
+  "name": "Harpie Girl",
+  "type": "Normal Monster",
+  "description": "A Harpie chick who aspires to flit about beautifully and gorgeously, but attack sharply.",
+  "attack": 500,
+  "defense": 500,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34100324.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34100324.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34100324.jpg"
+  }
+}

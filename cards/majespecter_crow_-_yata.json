@@ -1,0 +1,16 @@
+{
+  "id": 68395509,
+  "name": "Majespecter Crow - Yata",
+  "type": "Pendulum Effect Monster",
+  "description": "When this card is Normal or Special Summoned: You can add 1 \"Majespecter\" Spell Card from your Deck to your hand. You can only use this effect of \"Majespecter Crow - Yata\" once per turn. Cannot be targeted or destroyed by your opponent's card effects.",
+  "attack": 1000,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68395509.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68395509.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68395509.jpg"
+  }
+}

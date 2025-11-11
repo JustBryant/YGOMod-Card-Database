@@ -1,0 +1,12 @@
+{
+  "id": 85709845,
+  "name": "Gamushara",
+  "type": "Trap Card",
+  "description": "When a Defense Position monster you control is targeted for an attack: Change that Defense Position monster to face-up Attack Position. Then, if the attacking monster is destroyed by that battle and sent to the Graveyard: Inflict damage to your opponent equal to that monster's original ATK in the Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85709845.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85709845.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85709845.jpg"
+  }
+}

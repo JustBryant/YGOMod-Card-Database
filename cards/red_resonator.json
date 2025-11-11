@@ -1,0 +1,16 @@
+{
+  "id": 40975574,
+  "name": "Red Resonator",
+  "type": "Tuner Monster",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand. When this card is Special Summoned: You can target 1 face-up monster on the field; gain LP equal to its ATK. You can only use this effect of \"Red Resonator\" once per turn.",
+  "attack": 600,
+  "defense": 200,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40975574.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40975574.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40975574.jpg"
+  }
+}

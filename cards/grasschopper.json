@@ -1,0 +1,16 @@
+{
+  "id": 95166228,
+  "name": "Grasschopper",
+  "type": "Gemini Monster",
+  "description": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● This card can attack all monsters your opponent controls once each.",
+  "attack": 2350,
+  "defense": 1000,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95166228.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95166228.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95166228.jpg"
+  }
+}

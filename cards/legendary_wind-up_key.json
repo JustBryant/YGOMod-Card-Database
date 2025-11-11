@@ -1,0 +1,12 @@
+{
+  "id": 69320362,
+  "name": "Legendary Wind-Up Key",
+  "type": "Spell Card",
+  "description": "Change all face-up \"Wind-Up\" monsters you control to face-down Defense Position.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69320362.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69320362.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69320362.jpg"
+  }
+}

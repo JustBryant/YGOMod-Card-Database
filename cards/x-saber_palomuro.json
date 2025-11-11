@@ -1,0 +1,16 @@
+{
+  "id": 96099959,
+  "name": "X-Saber Palomuro",
+  "type": "Tuner Monster",
+  "description": "When another \"Saber\" monster you control is destroyed by battle and sent to the Graveyard, you can pay 500 Life Points to Special Summon this card from the Graveyard.",
+  "attack": 200,
+  "defense": 300,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96099959.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96099959.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96099959.jpg"
+  }
+}

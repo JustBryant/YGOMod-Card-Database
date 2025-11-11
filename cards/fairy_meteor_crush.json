@@ -1,0 +1,12 @@
+{
+  "id": 97687912,
+  "name": "Fairy Meteor Crush",
+  "type": "Spell Card",
+  "description": "If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97687912.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97687912.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97687912.jpg"
+  }
+}

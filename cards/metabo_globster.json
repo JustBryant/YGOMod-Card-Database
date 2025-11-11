@@ -1,0 +1,16 @@
+{
+  "id": 49808196,
+  "name": "Metabo Globster",
+  "type": "Effect Monster",
+  "description": "When you Tribute this card for the Tribute Summon of a DARK monster, Special Summon 3 \"Metabo Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon.",
+  "attack": 800,
+  "defense": 300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49808196.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49808196.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49808196.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 89181369,
+  "name": "Stardust Shimmer",
+  "type": "Spell Card",
+  "description": "Select 1 Dragon-Type Synchro Monster in your Graveyard. Remove from play other monsters in your Graveyard whose total Levels equal the Level of the selected monster and Special Summon it from the Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89181369.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89181369.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89181369.jpg"
+  }
+}

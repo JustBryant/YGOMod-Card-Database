@@ -1,0 +1,16 @@
+{
+  "id": 21347810,
+  "name": "Rainbow Flower",
+  "type": "Effect Monster",
+  "description": "This monster may attack your opponent's Life Points directly.",
+  "attack": 400,
+  "defense": 500,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21347810.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21347810.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21347810.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 29280589,
+  "name": "Edge Imp Scythe",
+  "type": "Effect Monster",
+  "description": "During your opponent's Main Phase (Quick Effect): You can reveal this card in your hand; Fusion Summon 1 \"Frightfur\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material, including this card in your hand. If a \"Frightfur\" Fusion Monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of \"Edge Imp Scythe\" once per turn.",
+  "attack": 1000,
+  "defense": 0,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29280589.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29280589.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29280589.jpg"
+  }
+}

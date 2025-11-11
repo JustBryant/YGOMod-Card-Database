@@ -1,0 +1,16 @@
+{
+  "id": 48995978,
+  "name": "Number 88: Gimmick Puppet of Leo",
+  "type": "XYZ Monster",
+  "description": "3 Level 8 monsters\nOnce per turn, if you have no cards in your Spell & Trap Card Zone: You can detach 1 Xyz Material from this card, and if you do, place 1 Destiny Counter on this card. You cannot conduct your Battle Phase the turn you activate this effect. When 3 Destiny Counters are on this card, you win the Duel.",
+  "attack": 3200,
+  "defense": 2300,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48995978.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48995978.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48995978.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 111000561,
+  "name": "Get Your Game On!",
+  "type": "Spell Card",
+  "description": "You can only play this card if you were present at the 2007 Yu-Gi-Oh! TRADING CARD GAME World Championship. The ATK of all your \"Elemental Hero\" and \"Neo-Spacian\" monsters on the field is doubled.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/111000561.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/111000561.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/111000561.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 85243784,
+  "name": "Linkross",
+  "type": "Link Monster",
+  "description": "1 Link-2 or higher Link Monster\r\nIf this card is Link Summoned: You can activate this effect; Special Summon a number of \"Link Tokens\" (Cyberse/LIGHT/Level 1/ATK 0/DEF 0) up to the Link Rating of the monster used for this card's Link Summon, also you cannot use \"Link Tokens\" as Link Material for the rest of this turn. You can only use this effect of \"Linkross\" once per turn.",
+  "attack": 900,
+  "defense": null,
+  "level": null,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85243784.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85243784.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85243784.jpg"
+  }
+}

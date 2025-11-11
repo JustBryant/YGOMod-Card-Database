@@ -1,0 +1,12 @@
+{
+  "id": 78942513,
+  "name": "Purushaddoll Aeon",
+  "type": "Trap Card",
+  "description": "Target 1 \"Shaddoll\" monster you control; send 1 \"Shaddoll\" card from your hand to the GY, and if you do, the targeted monster gains 1000 ATK/DEF, but is changed to face-down Defense Position during the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78942513.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78942513.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78942513.jpg"
+  }
+}

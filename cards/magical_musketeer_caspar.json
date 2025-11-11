@@ -1,0 +1,16 @@
+{
+  "id": 32841045,
+  "name": "Magical Musketeer Caspar",
+  "type": "Effect Monster",
+  "description": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column (except during the Damage Step): You can add 1 \"Magical Musket\" card from your Deck to your hand, but not a card with the same name as that activated card. You can only use this effect of \"Magical Musketeer Caspar\" once per turn.",
+  "attack": 1200,
+  "defense": 2000,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32841045.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32841045.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32841045.jpg"
+  }
+}

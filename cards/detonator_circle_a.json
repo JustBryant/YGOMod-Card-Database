@@ -1,0 +1,12 @@
+{
+  "id": 20985997,
+  "name": "Detonator Circle \"A\"",
+  "type": "Trap Card",
+  "description": "Destroy 1 face-up monster with an A-Counter(s), and then inflict 1000 damage to each player.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20985997.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20985997.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20985997.jpg"
+  }
+}

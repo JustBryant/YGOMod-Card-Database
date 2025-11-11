@@ -1,0 +1,16 @@
+{
+  "id": 78486968,
+  "name": "Constellar Sheratan",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can add 1 \"Constellar\" monster from your Deck to your hand.",
+  "attack": 700,
+  "defense": 1900,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78486968.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78486968.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78486968.jpg"
+  }
+}

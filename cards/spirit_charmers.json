@@ -1,0 +1,12 @@
+{
+  "id": 91530236,
+  "name": "Spirit Charmers",
+  "type": "Spell Card",
+  "description": "Discard 1 card; take 2 cards from your Deck with different names from each other, that are \"Charmer\" monsters, \"Familiar-Possessed\" monsters, and/or \"Possessed\" Spells/Traps, add 1 of them to your hand, and Set the other. You can only activate 1 \"Spirit Charmers\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91530236.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91530236.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91530236.jpg"
+  }
+}

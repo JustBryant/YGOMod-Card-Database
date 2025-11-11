@@ -1,0 +1,12 @@
+{
+  "id": 28325165,
+  "name": "Aqua Story - Urashima",
+  "type": "Trap Card",
+  "description": "If you have an \"Aquaactress\" monster in your Graveyard: Target 1 monster on the field; until the end of this turn, its effects are negated, its ATK and DEF become 100, also it is unaffected by your opponent's card effects.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28325165.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28325165.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28325165.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 49479374,
+  "name": "Quick Charger",
+  "type": "Spell Card",
+  "description": "Add 2 Level 4 or lower \"Batteryman\" monsters from your Graveyard to your hand.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49479374.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49479374.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49479374.jpg"
+  }
+}

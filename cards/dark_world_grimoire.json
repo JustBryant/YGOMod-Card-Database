@@ -1,0 +1,12 @@
+{
+  "id": 61623148,
+  "name": "Dark World Grimoire",
+  "type": "Spell Card",
+  "description": "During your End Phase, if you discard a monster(s) to the Graveyard because you had more cards than your hand size limit: You can target 1 of those monsters; Special Summon that target.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61623148.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61623148.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61623148.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 44508094,
+  "name": "Stardust Dragon",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nWhen a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY.",
+  "attack": 2500,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44508094.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44508094.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44508094.jpg"
+  }
+}

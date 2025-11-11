@@ -1,0 +1,16 @@
+{
+  "id": 55401221,
+  "name": "Batteryman D",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot select a Thunder-Type monster you control as an attack target (except \"Batteryman D\").",
+  "attack": 0,
+  "defense": 1900,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55401221.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55401221.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55401221.jpg"
+  }
+}

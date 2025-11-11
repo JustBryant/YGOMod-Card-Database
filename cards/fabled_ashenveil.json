@@ -1,0 +1,16 @@
+{
+  "id": 12235475,
+  "name": "Fabled Ashenveil",
+  "type": "Effect Monster",
+  "description": "Once per battle, if this card battles, during damage calculation (Quick Effect): You can send 1 card from your hand to the GY; this card gains 600 ATK during that damage calculation only.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12235475.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12235475.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12235475.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 75646520,
+  "name": "Metal Detector",
+  "type": "Trap Card",
+  "description": "You can only activate this card when a Continuous Trap Card is activated. Negate all Continuous Trap Cards during the turn this card is activated.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75646520.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75646520.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75646520.jpg"
+  }
+}

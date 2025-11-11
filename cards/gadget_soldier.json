@@ -1,0 +1,16 @@
+{
+  "id": 86281779,
+  "name": "Gadget Soldier",
+  "type": "Normal Monster",
+  "description": "A rust-free machine warrior born to battle.",
+  "attack": 1800,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86281779.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86281779.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86281779.jpg"
+  }
+}

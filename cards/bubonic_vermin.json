@@ -1,0 +1,16 @@
+{
+  "id": 6104968,
+  "name": "Bubonic Vermin",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can Special Summon 1 \"Bubonic Vermin\" from your Deck in face-down Defense Position. Then shuffle your Deck.",
+  "attack": 900,
+  "defense": 600,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6104968.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6104968.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6104968.jpg"
+  }
+}

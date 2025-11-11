@@ -1,0 +1,16 @@
+{
+  "id": 90407382,
+  "name": "The Kick Man",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned, you can equip 1 appropriate Equip Spell Card from your Graveyard to this card.",
+  "attack": 1300,
+  "defense": 300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90407382.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90407382.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90407382.jpg"
+  }
+}

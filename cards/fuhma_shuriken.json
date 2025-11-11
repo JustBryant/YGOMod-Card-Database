@@ -1,0 +1,12 @@
+{
+  "id": 9373534,
+  "name": "Fuhma Shuriken",
+  "type": "Spell Card",
+  "description": "Equip only to a \"Ninja\" monster. It gains 700 ATK. When this card is sent from the field to the Graveyard: Inflict 700 damage to your opponent.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9373534.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9373534.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9373534.jpg"
+  }
+}

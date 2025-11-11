@@ -1,0 +1,16 @@
+{
+  "id": 47879985,
+  "name": "Guardian of the Throne Room",
+  "type": "Normal Monster",
+  "description": "A robot guard built to protect throne rooms, it is armed with homing missiles.",
+  "attack": 1650,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47879985.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47879985.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47879985.jpg"
+  }
+}

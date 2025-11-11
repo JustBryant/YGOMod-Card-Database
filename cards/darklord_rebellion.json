@@ -1,0 +1,12 @@
+{
+  "id": 50501121,
+  "name": "Darklord Rebellion",
+  "type": "Trap Card",
+  "description": "Send 1 \"Darklord\" monster from your hand or face-up from your field to the Graveyard; destroy 1 card on the field. You can only activate 1 \"Darklord Rebellion\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50501121.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50501121.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50501121.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 93454062,
+  "name": "Naturia Mole Cricket",
+  "type": "Effect Monster",
+  "description": "During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Naturia\" monster from your Deck, or you can Special Summon 2 \"Naturia\" monsters if your opponent controls a monster with the highest ATK on the field (even if it's tied). If your opponent Special Summons a monster(s) from the Extra Deck or you Special Summon a \"Naturia\" monster(s) from the Extra Deck, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Naturia Mole Cricket\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93454062.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93454062.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93454062.jpg"
+  }
+}

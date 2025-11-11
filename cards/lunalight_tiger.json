@@ -1,0 +1,16 @@
+{
+  "id": 83190280,
+  "name": "Lunalight Tiger",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn: You can target 1 \"Lunalight\" monster in your Graveyard; Special Summon it, but it cannot attack, its effects are negated, also it is destroyed during the End Phase.\n\n[ Monster Effect ] \nIf this card on the field is destroyed by battle or card effect: You can target 1 \"Lunalight\" monster in your Graveyard; Special Summon it. You can only use this effect of \"Lunalight Tiger\" once per turn.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83190280.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83190280.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83190280.jpg"
+  }
+}

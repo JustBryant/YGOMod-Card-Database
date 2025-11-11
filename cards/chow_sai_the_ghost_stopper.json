@@ -1,0 +1,16 @@
+{
+  "id": 38412161,
+  "name": "Chow Sai the Ghost Stopper",
+  "type": "Effect Monster",
+  "description": "Neither player can activate the effects of Spell/Trap Cards in the GY. If this card is sent from the field to your GY: You can target 1 Spell/Trap in your opponent's GY; banish it.",
+  "attack": 1900,
+  "defense": 800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38412161.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38412161.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38412161.jpg"
+  }
+}

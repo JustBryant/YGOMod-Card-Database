@@ -1,0 +1,12 @@
+{
+  "id": 22377092,
+  "name": "Trap Holic",
+  "type": "Trap Card",
+  "description": "Target 1 Spell/Trap you control; destroy it, and if you do, Set 1 Normal Trap from your Deck, except \"Trap Holic\". It can be activated this turn, while you have 3 or more Traps in your GY. You can only activate 1 \"Trap Holic\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22377092.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22377092.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22377092.jpg"
+  }
+}

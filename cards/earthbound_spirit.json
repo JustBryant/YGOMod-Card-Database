@@ -1,0 +1,16 @@
+{
+  "id": 67105242,
+  "name": "Earthbound Spirit",
+  "type": "Normal Monster",
+  "description": "A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth.",
+  "attack": 500,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67105242.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67105242.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67105242.jpg"
+  }
+}

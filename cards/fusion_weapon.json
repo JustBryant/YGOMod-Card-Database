@@ -1,0 +1,12 @@
+{
+  "id": 27967615,
+  "name": "Fusion Weapon",
+  "type": "Spell Card",
+  "description": "Equip only to a Level 6 or lower Fusion Monster. The equipped monster gains 1500 ATK and DEF.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27967615.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27967615.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27967615.jpg"
+  }
+}

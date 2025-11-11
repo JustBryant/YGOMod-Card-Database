@@ -1,0 +1,16 @@
+{
+  "id": 13220032,
+  "name": "Vylon Charger",
+  "type": "Effect Monster",
+  "description": "All face-up LIGHT monsters you control gain 300 ATK for each Equip Card equipped to this card.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13220032.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13220032.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13220032.jpg"
+  }
+}

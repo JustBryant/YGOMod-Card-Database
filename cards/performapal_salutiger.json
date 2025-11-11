@@ -1,0 +1,16 @@
+{
+  "id": 44364077,
+  "name": "Performapal Salutiger",
+  "type": "Effect Monster",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can add 1 \"Performapal\" Pendulum Monster from your Deck to your hand. You can only use this effect of \"Performapal Salutiger\" once per turn.",
+  "attack": 1700,
+  "defense": 500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44364077.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44364077.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44364077.jpg"
+  }
+}

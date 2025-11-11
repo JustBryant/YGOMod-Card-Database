@@ -1,0 +1,16 @@
+{
+  "id": 14702066,
+  "name": "Cannon Soldier MK-2",
+  "type": "Effect Monster",
+  "description": "You can Tribute 2 monsters to inflict 1500 damage to your opponent.",
+  "attack": 1900,
+  "defense": 1200,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14702066.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14702066.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14702066.jpg"
+  }
+}

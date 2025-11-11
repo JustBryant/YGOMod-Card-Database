@@ -1,0 +1,12 @@
+{
+  "id": 904185,
+  "name": "Vertical Landing",
+  "type": "Spell Card",
+  "description": "Tribute any number of WIND monsters, except Tokens; Special Summon an equal number of \"Mecha Phantom Beast Tokens\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). You can only activate 1 \"Vertical Landing\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/904185.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/904185.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/904185.jpg"
+  }
+}

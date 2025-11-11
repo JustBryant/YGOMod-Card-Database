@@ -1,0 +1,12 @@
+{
+  "id": 75560629,
+  "name": "Flint",
+  "type": "Spell Card",
+  "description": "The equipped monster loses 300 ATK and cannot change its battle position or declare an attack. If this card is destroyed because the equipped monster is destroyed: Target 1 monster on the field; equip this card to that monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75560629.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75560629.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75560629.jpg"
+  }
+}

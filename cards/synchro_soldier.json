@@ -1,0 +1,16 @@
+{
+  "id": 79796561,
+  "name": "Synchro Soldier",
+  "type": "Effect Monster",
+  "description": "Once per turn, during your Main Phase 1, you can select 1 face-up Synchro Monster you control. Remove that face-up Synchro Monster you control from play and inflict 600 damage to your opponent. If you use this effect, during your next Standby Phase the removed from play monster returns to the field.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79796561.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79796561.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79796561.jpg"
+  }
+}

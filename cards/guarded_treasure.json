@@ -1,0 +1,12 @@
+{
+  "id": 17052477,
+  "name": "Guarded Treasure",
+  "type": "Spell Card",
+  "description": "Activate this card by discarding 5 cards; draw 2 cards. While this card is on the field, draw 2 cards instead of 1 for your normal draw during your Draw Phase.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17052477.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17052477.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17052477.jpg"
+  }
+}

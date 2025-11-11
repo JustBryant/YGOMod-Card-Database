@@ -1,0 +1,16 @@
+{
+  "id": 27143874,
+  "name": "Dino-Sewing",
+  "type": "Effect Monster",
+  "description": "Cannot be destroyed by battle. If this card is targeted for an attack: This card gains 1000 ATK and DEF. If this card attacked, after damage calculation: The ATK and DEF gained from this effect returns to 0.",
+  "attack": 0,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27143874.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27143874.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27143874.jpg"
+  }
+}

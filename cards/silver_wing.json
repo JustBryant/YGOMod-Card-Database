@@ -1,0 +1,12 @@
+{
+  "id": 25231813,
+  "name": "Silver Wing",
+  "type": "Spell Card",
+  "description": "Equip only to a Level 8 or higher Dragon-Type Synchro Monster. Twice per turn, it cannot be destroyed by battle. If it would be destroyed by a card effect, you can destroy this card instead.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25231813.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25231813.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25231813.jpg"
+  }
+}

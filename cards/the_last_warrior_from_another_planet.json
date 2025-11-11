@@ -1,0 +1,16 @@
+{
+  "id": 86099788,
+  "name": "The Last Warrior from Another Planet",
+  "type": "Fusion Monster",
+  "description": "\"Zombyra the Dark\" + \"Maryokutai\"\nIf this card is Special Summoned: Destroy all other monsters you control. Neither player can Summon monsters.",
+  "attack": 2350,
+  "defense": 2300,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86099788.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86099788.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86099788.jpg"
+  }
+}

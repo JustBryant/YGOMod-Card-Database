@@ -1,0 +1,16 @@
+{
+  "id": 47558785,
+  "name": "Mild Turkey",
+  "type": "Pendulum Normal Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn: You can roll a six-sided die. Until the end of this turn, reduce this card's Pendulum Scale by that number (min. 1).\n\n[ Monster Effect ] \n''The taste of victory will bowl you over.''",
+  "attack": 1000,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47558785.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47558785.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47558785.jpg"
+  }
+}

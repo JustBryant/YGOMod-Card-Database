@@ -1,0 +1,16 @@
+{
+  "id": 8662794,
+  "name": "Codebreaker Zero Day",
+  "type": "Effect Monster",
+  "description": "All Link Monsters pointing to this card lose 1000 ATK, except \"Codebreaker\" Link Monsters. If a \"Codebreaker\" Link Monster(s) on the field is destroyed by battle or card effect, while this card is on the field: Destroy this card. If this card is destroyed by battle or card effect: You can add 1 \"Codebreaker Zero Day\" from your Deck to your hand.",
+  "attack": 1800,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8662794.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8662794.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8662794.jpg"
+  }
+}

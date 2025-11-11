@@ -1,0 +1,12 @@
+{
+  "id": 51773900,
+  "name": "Calming Magic",
+  "type": "Spell Card",
+  "description": "This card can only be activated at the start of Main Phase 1. During the Main Phases and Battle Phase of this turn, neither player can Summon monsters.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51773900.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51773900.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51773900.jpg"
+  }
+}

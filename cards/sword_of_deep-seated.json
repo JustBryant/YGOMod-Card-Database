@@ -1,0 +1,12 @@
+{
+  "id": 98495314,
+  "name": "Sword of Deep-Seated",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 500 ATK/DEF. If this card is sent to your GY: Place it on top of your Deck.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98495314.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98495314.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98495314.jpg"
+  }
+}

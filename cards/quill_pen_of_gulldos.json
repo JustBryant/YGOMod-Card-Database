@@ -1,0 +1,12 @@
+{
+  "id": 27980138,
+  "name": "Quill Pen of Gulldos",
+  "type": "Spell Card",
+  "description": "Target 2 WIND monsters in your Graveyard and 1 card on the field; shuffle both of those first 2 targets into your Deck and return the other to the hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27980138.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27980138.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27980138.jpg"
+  }
+}

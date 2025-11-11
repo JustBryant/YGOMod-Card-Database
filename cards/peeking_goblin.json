@@ -1,0 +1,12 @@
+{
+  "id": 52263685,
+  "name": "Peeking Goblin",
+  "type": "Spell Card",
+  "description": "Your opponent reveals the top 3 cards of their Deck. Choose one to place on the bottom of the Deck and place the other two on top of the Deck in any order.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52263685.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52263685.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52263685.jpg"
+  }
+}

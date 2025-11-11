@@ -1,0 +1,12 @@
+{
+  "id": 53519297,
+  "name": "Blackboost",
+  "type": "Trap Card",
+  "description": "Banish 2 face-up \"Blackwing\" Tuner monsters you control; draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53519297.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53519297.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53519297.jpg"
+  }
+}

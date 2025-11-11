@@ -1,0 +1,16 @@
+{
+  "id": 34334692,
+  "name": "Ritual Raven",
+  "type": "Effect Monster",
+  "description": "If you Ritual Summon a DARK Ritual Monster, this 1 card can be used as the entire Tribute.",
+  "attack": 300,
+  "defense": 300,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34334692.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34334692.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34334692.jpg"
+  }
+}

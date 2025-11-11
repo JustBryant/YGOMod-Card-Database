@@ -1,0 +1,12 @@
+{
+  "id": 42899204,
+  "name": "Evil Eye Mesmerism",
+  "type": "Trap Card",
+  "description": "When your opponent Special Summons a monster(s): Activate this card by targeting 1 of those Summoned monsters in Attack Position, with less ATK than an \"Evil Eye\" monster you control; take control of that monster. When that monster leaves the field, destroy this card. While \"Evil Eye of Selene\" is in your Spell & Trap Zone, that targeted monster is also treated as an \"Evil Eye\" monster. You can only activate 1 \"Evil Eye Mesmerism\" per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42899204.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42899204.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42899204.jpg"
+  }
+}

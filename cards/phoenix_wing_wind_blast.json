@@ -1,0 +1,12 @@
+{
+  "id": 63356631,
+  "name": "Phoenix Wing Wind Blast",
+  "type": "Trap Card",
+  "description": "Discard 1 card, then target 1 card your opponent controls; place that target on the top of the Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63356631.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63356631.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63356631.jpg"
+  }
+}

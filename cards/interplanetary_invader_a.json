@@ -1,0 +1,16 @@
+{
+  "id": 14729426,
+  "name": "Interplanetary Invader \"A\"",
+  "type": "Effect Monster",
+  "description": "Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.",
+  "attack": 0,
+  "defense": 500,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14729426.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14729426.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14729426.jpg"
+  }
+}

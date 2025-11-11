@@ -1,0 +1,12 @@
+{
+  "id": 68815402,
+  "name": "Wild Fire Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Wild Fire\".",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68815402.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68815402.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68815402.jpg"
+  }
+}

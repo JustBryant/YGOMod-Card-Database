@@ -1,0 +1,16 @@
+{
+  "id": 43598843,
+  "name": "Gimmick Puppet Terror Baby",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can target 1 \"Gimmick Puppet\" monster in your GY, except \"Gimmick Puppet Terror Baby\"; Special Summon it in Defense Position. You can banish this card from your GY; your opponent cannot activate cards or effects in response to the activation of your \"Gimmick Puppet\" monster effects this turn.",
+  "attack": 500,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43598843.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43598843.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43598843.jpg"
+  }
+}

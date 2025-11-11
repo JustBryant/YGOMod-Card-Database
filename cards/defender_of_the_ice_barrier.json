@@ -1,0 +1,16 @@
+{
+  "id": 82498947,
+  "name": "Defender of the Ice Barrier",
+  "type": "Tuner Monster",
+  "description": "While you control another face-up \"Ice Barrier\" monster, monsters your opponent controls cannot declare an attack if their ATK is greater than or equal to this card's DEF.",
+  "attack": 200,
+  "defense": 1600,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82498947.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82498947.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82498947.jpg"
+  }
+}

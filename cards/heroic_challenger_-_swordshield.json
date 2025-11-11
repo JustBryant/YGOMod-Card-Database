@@ -1,0 +1,16 @@
+{
+  "id": 52370835,
+  "name": "Heroic Challenger - Swordshield",
+  "type": "Effect Monster",
+  "description": "During either player's turn, if you control a face-up \"Heroic\" monster: You can send this card from your hand to the Graveyard; for the rest of this turn, you take no Battle Damage and \"Heroic\" monsters you control cannot be destroyed by battle.",
+  "attack": 0,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52370835.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52370835.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52370835.jpg"
+  }
+}

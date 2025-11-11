@@ -1,0 +1,16 @@
+{
+  "id": 652362,
+  "name": "Alien Ammonite",
+  "type": "Tuner Monster",
+  "description": "When this card is Normal Summoned, you can Special Summon 1 Level 4 or lower \"Alien\" monster from your Graveyard. Destroy it during the End Phase.",
+  "attack": 500,
+  "defense": 200,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/652362.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/652362.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/652362.jpg"
+  }
+}

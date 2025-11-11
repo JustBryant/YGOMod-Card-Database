@@ -1,0 +1,12 @@
+{
+  "id": 67287533,
+  "name": "Spirit Message \"N\"",
+  "type": "Spell Card",
+  "description": "This card can only be placed on the field by the effect of \"Destiny Board\".",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67287533.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67287533.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67287533.jpg"
+  }
+}

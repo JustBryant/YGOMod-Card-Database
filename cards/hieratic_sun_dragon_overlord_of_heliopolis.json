@@ -1,0 +1,16 @@
+{
+  "id": 64332231,
+  "name": "Hieratic Sun Dragon Overlord of Heliopolis",
+  "type": "XYZ Monster",
+  "description": "2 Level 8 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; Tribute any number of monsters from your hand and/or your side of the field (minimum 1), then destroy an equal number of cards on the field.",
+  "attack": 3000,
+  "defense": 2400,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64332231.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64332231.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64332231.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 80304126,
+  "name": "Magician's Valkyria",
+  "type": "Effect Monster",
+  "description": "Monsters your opponent controls cannot target face-up Spellcaster-Type monsters for attacks, except this one.",
+  "attack": 1600,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80304126.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80304126.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80304126.jpg"
+  }
+}

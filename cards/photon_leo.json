@@ -1,0 +1,16 @@
+{
+  "id": 38757297,
+  "name": "Photon Leo",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can have your opponent shuffle their entire hand into the Deck, then they draw the same number of cards as they shuffled into the Deck.",
+  "attack": 2100,
+  "defense": 1100,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38757297.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38757297.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38757297.jpg"
+  }
+}

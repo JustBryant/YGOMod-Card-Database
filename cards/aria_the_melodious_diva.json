@@ -1,0 +1,16 @@
+{
+  "id": 40502912,
+  "name": "Aria the Melodious Diva",
+  "type": "Effect Monster",
+  "description": "While this Special Summoned card is on the field, \"Melodious\" monsters you control cannot be targeted by card effects, or be destroyed by battle.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40502912.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40502912.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40502912.jpg"
+  }
+}

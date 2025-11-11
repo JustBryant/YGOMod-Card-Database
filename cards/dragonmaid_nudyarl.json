@@ -1,0 +1,16 @@
+{
+  "id": 49575521,
+  "name": "Dragonmaid Nudyarl",
+  "type": "Effect Monster",
+  "description": "Cannot be destroyed by card effects while you control a Fusion Monster. You can only use each of the following effects of \"Dragonmaid Nudyarl\" once per turn.\r\n● You can discard this card, then target 1 monster in either GY; shuffle it into the Deck.\r\n● At the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 2 \"Dragonmaid\" monster from your hand.",
+  "attack": 2600,
+  "defense": 1600,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49575521.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49575521.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49575521.jpg"
+  }
+}

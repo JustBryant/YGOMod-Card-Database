@@ -1,0 +1,16 @@
+{
+  "id": 3134241,
+  "name": "Flying Kamakiri #2",
+  "type": "Normal Monster",
+  "description": "A flying mantis that feeds primarily on insects.",
+  "attack": 1500,
+  "defense": 800,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3134241.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3134241.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3134241.jpg"
+  }
+}

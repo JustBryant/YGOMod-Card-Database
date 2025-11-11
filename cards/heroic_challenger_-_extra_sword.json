@@ -1,0 +1,16 @@
+{
+  "id": 34143852,
+  "name": "Heroic Challenger - Extra Sword",
+  "type": "Effect Monster",
+  "description": "An Xyz Monster that was Summoned using this card as Xyz Material gains this effect.\n● When it is Xyz Summoned: It gains 1000 ATK.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34143852.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34143852.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34143852.jpg"
+  }
+}

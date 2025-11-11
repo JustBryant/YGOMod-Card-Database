@@ -1,0 +1,16 @@
+{
+  "id": 43426903,
+  "name": "Reptilianne Gorgon",
+  "type": "Effect Monster",
+  "description": "If this card attacks a monster, after damage calculation: The ATK of that monster becomes 0, also it cannot change its battle position.",
+  "attack": 1400,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43426903.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43426903.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43426903.jpg"
+  }
+}

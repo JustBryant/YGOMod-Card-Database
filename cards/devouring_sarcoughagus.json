@@ -1,0 +1,16 @@
+{
+  "id": 30037118,
+  "name": "Devouring Sarcoughagus",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle with an opponent's monster: You can take control of that opponent's monster, and if you do, it becomes a Zombie monster, also its ATK/DEF become 0. When your Zombie monster is destroyed by battle with an opponent's monster, while this card is in your GY: You can banish this card; take control of that opponent's monster, and if you do, it becomes a Zombie monster, also its ATK/DEF become 0. You can only use this effect of \"Devouring Sarcoughagus\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30037118.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30037118.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30037118.jpg"
+  }
+}

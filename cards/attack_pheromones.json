@@ -1,0 +1,12 @@
+{
+  "id": 68786330,
+  "name": "Attack Pheromones",
+  "type": "Spell Card",
+  "description": "If a monster you control attacks a Defense Position monster, change that monster to face-up Attack Position at the end of the Damage Step if your attacking monster is Reptile-Type.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68786330.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68786330.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68786330.jpg"
+  }
+}

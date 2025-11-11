@@ -1,0 +1,16 @@
+{
+  "id": 51916853,
+  "name": "Magical Hound",
+  "type": "Tuner Monster",
+  "description": "If this card is in your hand or GY: You can target 1 face-up Spell/Trap your opponent controls; return it to the hand, and if you do, Special Summon this card. You can only use this effect of \"Magical Hound\" once per Duel.",
+  "attack": 500,
+  "defense": 800,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51916853.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51916853.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51916853.jpg"
+  }
+}

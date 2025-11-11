@@ -1,0 +1,16 @@
+{
+  "id": 20541432,
+  "name": "Key Mace #2",
+  "type": "Normal Monster",
+  "description": "This fiend brings out the worst in everyone.",
+  "attack": 1050,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20541432.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20541432.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20541432.jpg"
+  }
+}

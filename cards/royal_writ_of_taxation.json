@@ -1,0 +1,12 @@
+{
+  "id": 86742443,
+  "name": "Royal Writ of Taxation",
+  "type": "Trap Card",
+  "description": "Activate only during your opponent's Standby Phase. Select 1 random card from your opponent's hand and look at it. Unless the selected card or a card with the same name is Normal Summoned or activated by the end of your next turn, inflict 1000 damage to your opponent. If the selected card or a card with the same name is Normal Summoned or activated by the end of your next turn, you take 1000 damage.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86742443.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86742443.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86742443.jpg"
+  }
+}

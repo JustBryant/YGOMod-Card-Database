@@ -1,0 +1,16 @@
+{
+  "id": 58268433,
+  "name": "Blade Rabbit",
+  "type": "Effect Monster",
+  "description": "When this card is changed from Attack Position to face-up Defense Position, destroy 1 monster on your opponent's side of the field.",
+  "attack": 400,
+  "defense": 300,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58268433.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58268433.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58268433.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 24194033,
+  "name": "Dorover",
+  "type": "Normal Monster",
+  "description": "''This ugly monster emits a highly poisonous gas.''",
+  "attack": 900,
+  "defense": 800,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24194033.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24194033.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24194033.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 29590752,
+  "name": "Gladiator Beast Octavius",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: Target 1 face-down Spell or Trap Card in the Spell & Trap Card Zone; destroy that target. At the end of your Battle Phase, if this card attacked or was attacked: Shuffle this card into the Deck or discard 1 card.",
+  "attack": 2500,
+  "defense": 1200,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29590752.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29590752.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29590752.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 28754338,
+  "name": "Legendary Atlantean Tridon",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card and 1 Sea Serpent-Type monster; Special Summon 1 \"Poseidra, the Atlantean Dragon\" from your hand or Deck, then all monsters your opponent currently controls lose 300 ATK.",
+  "attack": 1600,
+  "defense": 800,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28754338.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28754338.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28754338.jpg"
+  }
+}

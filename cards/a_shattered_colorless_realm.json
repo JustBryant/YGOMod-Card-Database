@@ -1,0 +1,12 @@
+{
+  "id": 44553392,
+  "name": "A Shattered, Colorless Realm",
+  "type": "Trap Card",
+  "description": "If \"Vicious Astraloud\" is on the field: Target 1 card on the field; destroy it, then, if the destroyed card's original name was \"Vicious Astraloud\", you can Special Summon 1 of your banished \"Visas Starfrost\", or if it was not, you can make 1 \"Vicious Astraloud\" you control gain 1500 ATK.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44553392.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44553392.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44553392.jpg"
+  }
+}

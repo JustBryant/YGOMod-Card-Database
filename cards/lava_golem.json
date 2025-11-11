@@ -1,0 +1,16 @@
+{
+  "id": 102380,
+  "name": "Lava Golem",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent's field by Tributing 2 monsters they control. You cannot Normal Summon/Set the turn you Special Summon this card. Once per turn, during your Standby Phase: Take 1000 damage.",
+  "attack": 3000,
+  "defense": 2500,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/102380.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/102380.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/102380.jpg"
+  }
+}

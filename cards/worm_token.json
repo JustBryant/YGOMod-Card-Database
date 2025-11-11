@@ -1,0 +1,12 @@
+{
+  "id": 43140792,
+  "name": "Worm Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Worm Bait\".",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43140792.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43140792.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43140792.jpg"
+  }
+}

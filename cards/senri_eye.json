@@ -1,0 +1,12 @@
+{
+  "id": 60391791,
+  "name": "Senri Eye",
+  "type": "Spell Card",
+  "description": "Once per turn, during each of your Standby Phases, you can pay 100 Life Points to look at 1 card on the top of your opponent's Deck and return it to its original position. Your opponent cannot look at the card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60391791.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60391791.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60391791.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 98596597,
+  "name": "Fireball Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Goka, the Pyre of Malice\".",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98596597.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98596597.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98596597.jpg"
+  }
+}

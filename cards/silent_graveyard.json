@@ -1,0 +1,12 @@
+{
+  "id": 53778229,
+  "name": "Silent Graveyard",
+  "type": "Spell Card",
+  "description": "Discard 1 card; effects that activate in the GY this turn are negated.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53778229.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53778229.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53778229.jpg"
+  }
+}

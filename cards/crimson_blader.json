@@ -1,0 +1,16 @@
+{
+  "id": 80321197,
+  "name": "Crimson Blader",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys an opponent's monster by battle and sends it to the Graveyard: Your opponent cannot Normal or Special Summon Level 5 or higher monsters during their next turn.",
+  "attack": 2800,
+  "defense": 2600,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80321197.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80321197.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80321197.jpg"
+  }
+}

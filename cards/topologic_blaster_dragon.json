@@ -1,0 +1,16 @@
+{
+  "id": 30064423,
+  "name": "Topologic Blaster Dragon",
+  "type": "Link Monster",
+  "description": "2+ Effect Monsters\r\nYou cannot Summon/Set monsters to any Extra Monster Zone this card points to. If a monster(s) is Special Summoned to a zone a Link Monster points to, while this card is in the Extra Monster Zone: Apply 1 of these effects, but you cannot apply that same effect of \"Topologic Blaster Dragon\" again this turn.\r\n● Shuffle all other monsters on the field into the Deck.\r\n● Shuffle all Spells and Traps on the field into the Deck.\r\n● Look at your opponent's Extra Deck and banish 1 card from it.",
+  "attack": 3500,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30064423.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30064423.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30064423.jpg"
+  }
+}

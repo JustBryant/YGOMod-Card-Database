@@ -1,0 +1,16 @@
+{
+  "id": 75366958,
+  "name": "Dinowrestler Coelasilat",
+  "type": "Tuner Monster",
+  "description": "If you control no monsters, you can Special Summon this card (from your hand). If Summoned this way, this card cannot be used as Link Material, except for the Link Summon of a \"Dinowrestler\" monster. You can only Special Summon \"Dinowrestler Coelasilat\" once per Duel this way.",
+  "attack": 100,
+  "defense": 800,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75366958.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75366958.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75366958.jpg"
+  }
+}

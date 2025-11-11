@@ -1,0 +1,12 @@
+{
+  "id": 73729209,
+  "name": "Skill Successor",
+  "type": "Trap Card",
+  "description": "Target 1 face-up monster you control; it gains 400 ATK until the end of this turn. During your turn, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up monster you control; that target gains 800 ATK until the end of this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73729209.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73729209.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73729209.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15090429,
+  "name": "Whirlwind Prodigy",
+  "type": "Effect Monster",
+  "description": "When Tribute Summoning a WIND monster, you can treat this 1 monster as 2 Tributes.",
+  "attack": 1500,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15090429.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15090429.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15090429.jpg"
+  }
+}

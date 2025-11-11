@@ -1,0 +1,16 @@
+{
+  "id": 49441499,
+  "name": "Ultimate Insect LV1",
+  "type": "Effect Monster",
+  "description": "While this card is on the field, it is unaffected by the effects of Spell Cards. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV3\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49441499.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49441499.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49441499.jpg"
+  }
+}

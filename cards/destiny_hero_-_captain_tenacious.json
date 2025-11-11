@@ -1,0 +1,16 @@
+{
+  "id": 77608643,
+  "name": "Destiny HERO - Captain Tenacious",
+  "type": "Effect Monster",
+  "description": "Once per turn, during your Standby Phase: You can target 1 \"Destiny HERO\" monster in your Graveyard that was destroyed by battle since your last Standby Phase, if you controlled this face-up card when the target was destroyed; Special Summon that target.",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77608643.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77608643.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77608643.jpg"
+  }
+}

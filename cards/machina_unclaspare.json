@@ -1,0 +1,16 @@
+{
+  "id": 45674286,
+  "name": "Machina Unclaspare",
+  "type": "Effect Monster",
+  "description": "If this card is added to your hand, except by drawing it: You can Special Summon it, also you cannot Special Summon for the rest of this turn, except Machine monsters. If this card is Normal or Special Summoned: You can send 1 \"Machina\" monster from your Deck to the GY, except \"Machina Unclaspare\". You can only use each effect of \"Machina Unclaspare\" once per turn.",
+  "attack": 1800,
+  "defense": 800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45674286.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45674286.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45674286.jpg"
+  }
+}

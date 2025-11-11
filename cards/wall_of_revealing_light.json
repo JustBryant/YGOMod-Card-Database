@@ -1,0 +1,12 @@
+{
+  "id": 17078030,
+  "name": "Wall of Revealing Light",
+  "type": "Trap Card",
+  "description": "Activate by paying any multiple of 1000 Life Points. Monsters your opponent controls cannot attack if their ATK is less than or equal to the amount you paid.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17078030.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17078030.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17078030.jpg"
+  }
+}

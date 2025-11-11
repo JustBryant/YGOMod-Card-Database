@@ -1,0 +1,12 @@
+{
+  "id": 82361206,
+  "name": "Tokkosho of Ghost Destroying",
+  "type": "Spell Card",
+  "description": "When the equipped monster inflicts Battle Damage to your opponent, you can select up to 2 monsters in your opponent's Graveyard, and remove them from play.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82361206.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82361206.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82361206.jpg"
+  }
+}

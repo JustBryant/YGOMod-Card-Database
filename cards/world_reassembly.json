@@ -1,0 +1,12 @@
+{
+  "id": 42172465,
+  "name": "World Reassembly",
+  "type": "Trap Card",
+  "description": "Special Summon 1 \"World Legacy\" monster from your hand or Deck, but destroy it during the End Phase of the next turn. You can only activate 1 \"World Reassembly\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42172465.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42172465.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42172465.jpg"
+  }
+}

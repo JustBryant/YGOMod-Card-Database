@@ -3,14 +3,14 @@
   "name": "Trial of Nightmare",
   "type": "Normal Monster",
   "description": "This fiend passes judgment on enemies that are locked in coffins.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/77827521.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/77827521.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77827521.jpg"
-  },
   "attack": 1300,
   "defense": 900,
   "level": 4,
   "attribute": "DARK",
-  "race": "Fiend"
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77827521.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77827521.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77827521.jpg"
+  }
 }

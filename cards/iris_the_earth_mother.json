@@ -1,0 +1,16 @@
+{
+  "id": 9628664,
+  "name": "Iris, the Earth Mother",
+  "type": "Effect Monster",
+  "description": "After a Chain with 3 or more Links resolves, draw 1 card. This effect cannot activate if multiple cards/effects with the same name were activated in that Chain.",
+  "attack": 2400,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9628664.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9628664.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9628664.jpg"
+  }
+}

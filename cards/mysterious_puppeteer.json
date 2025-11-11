@@ -1,0 +1,16 @@
+{
+  "id": 54098121,
+  "name": "Mysterious Puppeteer",
+  "type": "Effect Monster",
+  "description": "Each time you or your opponent Normal Summons or Flip Summons a monster, increase your Life Points by 500 points.",
+  "attack": 1000,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54098121.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54098121.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54098121.jpg"
+  }
+}

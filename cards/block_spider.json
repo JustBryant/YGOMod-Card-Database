@@ -1,0 +1,16 @@
+{
+  "id": 79636594,
+  "name": "Block Spider",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot target Insect-Type monsters for attacks, except this one. If this card is Special Summoned: You can Special Summon 1 \"Block Spider\" from your Deck. You can only use this effect of \"Block Spider\" once per turn.",
+  "attack": 0,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79636594.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79636594.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79636594.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 64926005,
+  "name": "Samurai of the Ice Barrier",
+  "type": "Effect Monster",
+  "description": "When this face-up Attack Position card is changed to face-up Defense Position: Destroy this card, and if you do, draw 1 card.",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64926005.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64926005.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64926005.jpg"
+  }
+}

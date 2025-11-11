@@ -1,0 +1,16 @@
+{
+  "id": 88095331,
+  "name": "Evoltile Najasho",
+  "type": "Effect Monster",
+  "description": "If this card on the field is Tributed: You can Special Summon 1 \"Evolsaur\" monster from your Deck.",
+  "attack": 100,
+  "defense": 2000,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88095331.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88095331.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88095331.jpg"
+  }
+}

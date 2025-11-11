@@ -1,0 +1,16 @@
+{
+  "id": 93920745,
+  "name": "Penguin Soldier",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can target up to 2 monsters on the field; return those targets to the hand.",
+  "attack": 750,
+  "defense": 500,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93920745.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93920745.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93920745.jpg"
+  }
+}

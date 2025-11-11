@@ -1,0 +1,16 @@
+{
+  "id": 4239451,
+  "name": "Performapal Turn Toad",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn: You can target 1 face-up monster on the field; switch its current ATK and DEF until the end of this turn.\n\n[ Monster Effect ] \nOnce per turn, during your Battle Phase (except during the Damage Step): You can target 1 monster you control; change its battle position, and if you do, switch its current ATK and DEF until the end of this turn.",
+  "attack": 0,
+  "defense": 800,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4239451.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4239451.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4239451.jpg"
+  }
+}

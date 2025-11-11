@@ -1,0 +1,12 @@
+{
+  "id": 31986289,
+  "name": "Regenerating Rose Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Regenerating Rose\".",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31986289.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31986289.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31986289.jpg"
+  }
+}

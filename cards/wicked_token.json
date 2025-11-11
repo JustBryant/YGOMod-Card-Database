@@ -1,0 +1,12 @@
+{
+  "id": 65810490,
+  "name": "Wicked Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Statue of the Wicked\".",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65810490.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65810490.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65810490.jpg"
+  }
+}

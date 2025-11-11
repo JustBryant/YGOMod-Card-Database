@@ -1,0 +1,12 @@
+{
+  "id": 72083436,
+  "name": "Pegasus Wing",
+  "type": "Spell Card",
+  "description": "If you have a Union monster in your GY: Target any number of \"Valkyrie\" monsters you control; those monsters can attack directly this turn, but if they do so using this effect, their battle damage inflicted to your opponent is halved.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72083436.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72083436.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72083436.jpg"
+  }
+}

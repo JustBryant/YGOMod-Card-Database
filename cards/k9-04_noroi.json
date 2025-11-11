@@ -1,0 +1,16 @@
+{
+  "id": 47960073,
+  "name": "K9-04 Noroi",
+  "type": "Effect Monster",
+  "description": "If your opponent has 2 or more cards in their hand, you can Normal Summon this card without Tributing. You can only use each of the following effects of \"K9-04 Noroi\" once per turn. If this card is Normal Summoned: You can Special Summon 1 non-Machine \"K9\" monster from your Deck, but you cannot Special Summon from the Extra Deck, except \"K9\" monsters, while you control that face-up monster. You can send 1 face-up \"K9\" card you control to the GY; look at your opponent's hand.",
+  "attack": 2200,
+  "defense": 1500,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47960073.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47960073.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47960073.jpg"
+  }
+}

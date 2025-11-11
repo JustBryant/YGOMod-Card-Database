@@ -1,0 +1,12 @@
+{
+  "id": 300104005,
+  "name": "Switcheroo",
+  "type": "Skill Card",
+  "description": "Activate this Skill during your Main Phase. Once per turn, you can shuffle 1 card from your hand into the Deck, then draw 1 card, also flip this card over. You can use this Skill up to twice per Duel.",
+  "race": "Keith",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300104005.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300104005.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300104005.jpg"
+  }
+}

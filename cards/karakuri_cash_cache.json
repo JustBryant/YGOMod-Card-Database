@@ -1,0 +1,12 @@
+{
+  "id": 80204957,
+  "name": "Karakuri Cash Cache",
+  "type": "Spell Card",
+  "description": "Select 1 face-up \"Karakuri\" monster you control. Add 1 Level 4 or lower \"Karakuri\" monster from your Deck to your hand and change the battle position of the selected monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80204957.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80204957.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80204957.jpg"
+  }
+}

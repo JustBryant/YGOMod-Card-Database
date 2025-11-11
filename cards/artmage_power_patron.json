@@ -1,0 +1,16 @@
+{
+  "id": 23829452,
+  "name": "Artmage Power Patron",
+  "type": "Effect Monster",
+  "description": "You cannot Special Summon from the Extra Deck, except Fusion Monsters. You can only use each of the following effects of \"Artmage Power Patron\" once per turn. During the Main Phase (Quick Effect): You can Fusion Summon 1 \"Artmage\" Fusion Monster or 1 \"Nerva the Power Patron of Creation\" from your Extra Deck, using this card you control and monsters from your hand or field. If this card is sent from the hand or field to the GY: You can add 1 \"Artmage\" Spell/Trap from your Deck to your hand, with a different name from the cards in your GY.",
+  "attack": 300,
+  "defense": 200,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Illusion",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23829452.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23829452.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23829452.jpg"
+  }
+}

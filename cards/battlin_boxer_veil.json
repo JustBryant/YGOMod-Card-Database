@@ -1,0 +1,16 @@
+{
+  "id": 13313278,
+  "name": "Battlin' Boxer Veil",
+  "type": "Effect Monster",
+  "description": "When you take battle damage: You can Special Summon this card from your hand, and if you do, gain Life Points equal to the damage you took.",
+  "attack": 0,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13313278.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13313278.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13313278.jpg"
+  }
+}

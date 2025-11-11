@@ -1,0 +1,16 @@
+{
+  "id": 47910940,
+  "name": "Marincess Great Bubble Reef",
+  "type": "Link Monster",
+  "description": "2+ WATER monsters\r\nOnce per turn, during each Standby Phase: You can banish 1 WATER monster from your GY or face-up field; draw 1 card. Each time a monster(s) is banished face-up: This card gains 600 ATK for each, until the end of this turn. You can send 1 WATER monster from your hand to the GY; Special Summon 1 of your banished \"Marincess\" monsters. You can only use this effect of \"Marincess Great Bubble Reef\" once per turn.",
+  "attack": 2600,
+  "defense": null,
+  "level": null,
+  "attribute": "WATER",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47910940.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47910940.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47910940.jpg"
+  }
+}

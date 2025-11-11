@@ -1,0 +1,16 @@
+{
+  "id": 96945958,
+  "name": "Speedroid CarTurbo",
+  "type": "Tuner Monster",
+  "description": "If you control a WIND monster: You can Special Summon this card from your hand, also you cannot activate monster effects for the rest of this turn, except WIND monsters. You can banish this card and 1 \"Speedroid\" monster from your GY; all WIND monsters you currently control gain 800 ATK until the end of this turn. You can only use each effect of \"Speedroid CarTurbo\" once per turn.",
+  "attack": 800,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96945958.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96945958.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96945958.jpg"
+  }
+}

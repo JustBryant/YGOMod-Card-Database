@@ -1,0 +1,16 @@
+{
+  "id": 41382147,
+  "name": "Rallis the Star Bird",
+  "type": "Effect Monster",
+  "description": "This card gains ATK equal to the Level of the monster that it battles x 200 during the Damage Step only. If this card attacks, it is removed from play at the end of the Damage Step and returned to your side of the field in face-up Attack Position at the beginning of your next turn's Battle Phase.",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41382147.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41382147.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41382147.jpg"
+  }
+}

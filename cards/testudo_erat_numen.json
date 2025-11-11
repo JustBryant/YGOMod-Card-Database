@@ -1,0 +1,16 @@
+{
+  "id": 74952447,
+  "name": "Testudo erat Numen",
+  "type": "Effect Monster",
+  "description": "Neither player can Special Summon monsters with 1800 or more ATK.",
+  "attack": 0,
+  "defense": 1800,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74952447.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74952447.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74952447.jpg"
+  }
+}

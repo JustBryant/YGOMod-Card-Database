@@ -1,0 +1,16 @@
+{
+  "id": 5645210,
+  "name": "Splendid Venus",
+  "type": "Effect Monster",
+  "description": "All non-Fairy monsters lose 500 ATK/DEF. The activation and effects of Spell/Trap Cards activated on your field cannot be negated.",
+  "attack": 2800,
+  "defense": 2400,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5645210.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5645210.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5645210.jpg"
+  }
+}

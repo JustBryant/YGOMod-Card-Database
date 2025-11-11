@@ -1,0 +1,12 @@
+{
+  "id": 13504844,
+  "name": "Gottoms' Emergency Call",
+  "type": "Trap Card",
+  "description": "If a face-up \"X-Saber\" monster is on the field: Target 2 \"X-Saber\" monsters in any Graveyard; Special Summon both to your side of the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13504844.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13504844.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13504844.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 97947705,
+  "name": "Backup Operator",
+  "type": "Effect Monster",
+  "description": "You can target 1 face-up monster that a Link Monster you control points to; Special Summon this card from your hand, and if you do, return that monster to the hand. If Special Summoned this way, banish this card when it leaves the field. You can only use this effect of \"Backup Operator\" once per turn.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97947705.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97947705.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97947705.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 78861134,
+  "name": "Darkfire Soldier #2",
+  "type": "Normal Monster",
+  "description": "A warrior who gained immeasurable power from the heart of a volcano.",
+  "attack": 1700,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78861134.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78861134.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78861134.jpg"
+  }
+}

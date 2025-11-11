@@ -1,0 +1,12 @@
+{
+  "id": 46259438,
+  "name": "Contract Laundering",
+  "type": "Trap Card",
+  "description": "Destroy as many \"Dark Contract\" cards in your Spell & Trap Zone as possible, and if you do, draw the same number of cards you destroyed, then gain 1000 LP for each card you drew with this effect.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46259438.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46259438.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46259438.jpg"
+  }
+}

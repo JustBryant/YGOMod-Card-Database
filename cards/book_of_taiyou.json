@@ -1,0 +1,12 @@
+{
+  "id": 38699854,
+  "name": "Book of Taiyou",
+  "type": "Spell Card",
+  "description": "Flip 1 face-down monster on the field into face-up Attack Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38699854.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38699854.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38699854.jpg"
+  }
+}

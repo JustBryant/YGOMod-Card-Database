@@ -1,0 +1,12 @@
+{
+  "id": 53046408,
+  "name": "Emergency Provisions",
+  "type": "Spell Card",
+  "description": "Send any number of other Spell/Trap Cards you control to the Graveyard; gain 1000 LP for each card sent to the Graveyard this way.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53046408.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53046408.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53046408.jpg"
+  }
+}

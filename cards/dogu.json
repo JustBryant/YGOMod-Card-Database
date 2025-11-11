@@ -1,0 +1,16 @@
+{
+  "id": 95816395,
+  "name": "Dogu",
+  "type": "Effect Monster",
+  "description": "During the End Phase, if this card is in the Graveyard because it was sent there by an opponent's card effect this turn while in your possession: You can add, from your Deck to your hand, 1 monster with a different Level from the monsters you control and the monsters in your Graveyard. You can only use this effect of \"Dogu\" once per turn.",
+  "attack": 1900,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95816395.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95816395.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95816395.jpg"
+  }
+}

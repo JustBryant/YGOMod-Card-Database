@@ -1,0 +1,16 @@
+{
+  "id": 67316075,
+  "name": "Darklord Nurse Reficule",
+  "type": "Effect Monster",
+  "description": "Any effect that would make your opponent gain LP inflicts the same amount of damage to them, instead.",
+  "attack": 1400,
+  "defense": 600,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67316075.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67316075.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67316075.jpg"
+  }
+}

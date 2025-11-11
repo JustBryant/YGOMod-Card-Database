@@ -1,0 +1,16 @@
+{
+  "id": 28332833,
+  "name": "Flamvell Poun",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can add 1 monster with 200 DEF from your Deck to your hand.",
+  "attack": 200,
+  "defense": 200,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28332833.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28332833.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28332833.jpg"
+  }
+}

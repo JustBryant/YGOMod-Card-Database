@@ -1,0 +1,16 @@
+{
+  "id": 60694662,
+  "name": "Skelengel",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Draw 1 card.",
+  "attack": 900,
+  "defense": 400,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60694662.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60694662.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60694662.jpg"
+  }
+}

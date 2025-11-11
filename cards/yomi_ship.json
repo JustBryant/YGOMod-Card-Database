@@ -1,0 +1,16 @@
+{
+  "id": 51534754,
+  "name": "Yomi Ship",
+  "type": "Effect Monster",
+  "description": "If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card.",
+  "attack": 800,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51534754.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51534754.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51534754.jpg"
+  }
+}

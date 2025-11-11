@@ -1,0 +1,12 @@
+{
+  "id": 12965762,
+  "name": "Wicked Plant Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Des Dendle\".",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12965762.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12965762.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12965762.jpg"
+  }
+}

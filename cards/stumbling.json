@@ -1,0 +1,12 @@
+{
+  "id": 34646691,
+  "name": "Stumbling",
+  "type": "Spell Card",
+  "description": "Any monster that is Normal Summoned, Flip Summoned or Special Summoned is changed to Defense Position.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34646691.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34646691.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34646691.jpg"
+  }
+}

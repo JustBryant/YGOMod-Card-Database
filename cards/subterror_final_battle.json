@@ -1,0 +1,12 @@
+{
+  "id": 74640994,
+  "name": "Subterror Final Battle",
+  "type": "Trap Card",
+  "description": "Activate 1 of these effects, also, after that, Set this card face-down instead of sending it to the GY.\r\n● Change 1 Set \"Subterror\" monster on the field to face-up Attack or Defense Position.\r\n● Change 1 face-up \"Subterror\" monster on the field to face-down Defense Position.\r\n● ATK/DEF of 1 \"Subterror\" monster on the field become equal to its combined original ATK/DEF until the end of this turn.\r\n● This turn, activated effects of \"Subterror\" cards cannot be negated.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74640994.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74640994.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74640994.jpg"
+  }
+}

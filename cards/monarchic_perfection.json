@@ -1,0 +1,12 @@
+{
+  "id": 59983249,
+  "name": "Monarchic Perfection",
+  "type": "Trap Card",
+  "description": "Once per Chain, if your opponent Special Summons a monster(s), and you control a Tribute Summoned monster (except during the Damage Step): You can banish 1 \"Monarch\" Spell/Trap from your GY, then activate 1 of these effects (but you can only use each effect of \"Monarchic Perfection\" once per turn);\r\n● Destroy 1 monster on the field.\r\n● Destroy up to 2 Spells/Traps on the field.\r\n● Discard 1 random card from your opponent's hand.\r\n● Destroy 1 face-down card on the field.\r\n● Place 1 card from the field on top of the Deck.\r\n● Banish 1 card on the field.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59983249.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59983249.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59983249.jpg"
+  }
+}

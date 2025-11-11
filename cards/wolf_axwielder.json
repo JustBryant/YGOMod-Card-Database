@@ -1,0 +1,16 @@
+{
+  "id": 56369281,
+  "name": "Wolf Axwielder",
+  "type": "Normal Monster",
+  "description": "Once it has started battle, this monster attacks fiercely and cannot stop.",
+  "attack": 1650,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56369281.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56369281.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56369281.jpg"
+  }
+}

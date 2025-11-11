@@ -1,0 +1,16 @@
+{
+  "id": 87814728,
+  "name": "Magnet Warrior Σ－",
+  "type": "Effect Monster",
+  "description": "Once per turn, when an attack is declared involving 2 EARTH monsters: You can negate the attack. You can only use each of the following effects of \"Magnet Warrior Σ－\" once per turn. You can reveal this card in your hand; Fusion Summon 1 Fusion Monster from your Extra Deck, using Rock monsters from your hand or field, including this card in your hand. If this card is Normal or Special Summoned: You can send 1 Level 8 \"Magna Warrior\" monster from your Deck to your GY.",
+  "attack": 1500,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87814728.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87814728.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87814728.jpg"
+  }
+}

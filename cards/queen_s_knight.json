@@ -1,0 +1,16 @@
+{
+  "id": 25652259,
+  "name": "Queen's Knight",
+  "type": "Normal Monster",
+  "description": "This knight catches her opponents off guard, dominating them with swift yet graceful attacks.",
+  "attack": 1500,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25652259.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25652259.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25652259.jpg"
+  }
+}

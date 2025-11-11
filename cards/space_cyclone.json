@@ -1,0 +1,12 @@
+{
+  "id": 69176131,
+  "name": "Space Cyclone",
+  "type": "Spell Card",
+  "description": "Detach 1 Xyz Material from a monster.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69176131.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69176131.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69176131.jpg"
+  }
+}

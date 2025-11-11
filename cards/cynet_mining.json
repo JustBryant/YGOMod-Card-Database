@@ -1,0 +1,12 @@
+{
+  "id": 57160136,
+  "name": "Cynet Mining",
+  "type": "Spell Card",
+  "description": "Send 1 card from your hand to the GY; add 1 Level 4 or lower Cyberse monster from your Deck to your hand. You can only activate 1 \"Cynet Mining\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57160136.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57160136.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57160136.jpg"
+  }
+}

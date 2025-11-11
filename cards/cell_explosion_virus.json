@@ -1,0 +1,12 @@
+{
+  "id": 84491298,
+  "name": "Cell Explosion Virus",
+  "type": "Trap Card",
+  "description": "Activate only when an opponent's monster with an A-Counter declares an attack. Destroy all Attack Position monsters your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84491298.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84491298.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84491298.jpg"
+  }
+}

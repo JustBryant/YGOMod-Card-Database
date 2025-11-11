@@ -1,0 +1,12 @@
+{
+  "id": 42829885,
+  "name": "The Forceful Sentry",
+  "type": "Spell Card",
+  "description": "Look at your opponent's hand. Select 1 card among them and return it to his/her Deck. The Deck is then shuffled.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42829885.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42829885.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42829885.jpg"
+  }
+}

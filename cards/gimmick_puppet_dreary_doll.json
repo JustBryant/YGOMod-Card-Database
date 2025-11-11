@@ -1,0 +1,16 @@
+{
+  "id": 92418590,
+  "name": "Gimmick Puppet Dreary Doll",
+  "type": "Effect Monster",
+  "description": "If this card is in your GY: You can banish 1 other \"Gimmick Puppet\" monster from your GY; Special Summon this card. You can only use this effect of \"Gimmick Puppet Dreary Doll\" once per turn. Cannot be used as material for an Xyz Summon, except for the Xyz Summon of a \"Gimmick Puppet\" monster.",
+  "attack": 0,
+  "defense": 0,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92418590.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92418590.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92418590.jpg"
+  }
+}

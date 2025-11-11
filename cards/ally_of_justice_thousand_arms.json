@@ -1,0 +1,16 @@
+{
+  "id": 85876417,
+  "name": "Ally of Justice Thousand Arms",
+  "type": "Effect Monster",
+  "description": "This card can attack all face-up LIGHT monsters your opponent controls once each. If this card battles a non-LIGHT monster, destroy this card before damage calculation.",
+  "attack": 1700,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85876417.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85876417.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85876417.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 48210156,
+  "name": "D/D Nighthowl",
+  "type": "Tuner Monster",
+  "description": "When this card is Normal Summoned: You can target 1 \"D/D\" monster in your Graveyard; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters. That monster's ATK and DEF become 0. If it is destroyed, you take 1000 damage.",
+  "attack": 300,
+  "defense": 600,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48210156.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48210156.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48210156.jpg"
+  }
+}

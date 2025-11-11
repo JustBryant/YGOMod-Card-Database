@@ -1,0 +1,16 @@
+{
+  "id": 22873798,
+  "name": "Hyena",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon any number of \"Hyenas\" from your Deck.",
+  "attack": 1000,
+  "defense": 300,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22873798.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22873798.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22873798.jpg"
+  }
+}

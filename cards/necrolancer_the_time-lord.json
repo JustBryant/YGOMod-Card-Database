@@ -1,0 +1,16 @@
+{
+  "id": 61454890,
+  "name": "Necrolancer the Time-lord",
+  "type": "Normal Monster",
+  "description": "The one-eyed Necrolancer launches his onslaught from a dimensional ring that can appear out of thin air.",
+  "attack": 800,
+  "defense": 900,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61454890.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61454890.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61454890.jpg"
+  }
+}

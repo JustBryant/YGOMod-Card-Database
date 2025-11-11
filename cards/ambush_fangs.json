@@ -1,0 +1,12 @@
+{
+  "id": 77972406,
+  "name": "Ambush Fangs",
+  "type": "Trap Card",
+  "description": "Activate only when a face-up \"Venom\" monster you control is declared as an attack target. Negate the attack and end the Battle Phase. Then place 1 Venom Counter on the monster that attacked.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77972406.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77972406.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77972406.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 97705809,
+  "name": "Supercharge",
+  "type": "Trap Card",
+  "description": "When your opponent declares an attack while the only monsters you control are Machine-Type \"roid\" monster(s): Draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97705809.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97705809.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97705809.jpg"
+  }
+}

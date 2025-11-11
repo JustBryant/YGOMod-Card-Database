@@ -1,0 +1,16 @@
+{
+  "id": 86164529,
+  "name": "Aqua Dragon",
+  "type": "Fusion Monster",
+  "description": "\"Fairy Dragon\" + \"Amazon of the Seas\" + \"Zone Eater\"",
+  "attack": 2250,
+  "defense": 1900,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86164529.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86164529.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86164529.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 36045450,
+  "name": "Magicians Unite",
+  "type": "Spell Card",
+  "description": "If you control 2 or more Attack Position Spellcaster monsters: Target 1 of them; its ATK becomes 3000 until the end of this turn, also for the rest of this turn after this card resolves, other Spellcaster monsters you control cannot attack.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36045450.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36045450.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36045450.jpg"
+  }
+}

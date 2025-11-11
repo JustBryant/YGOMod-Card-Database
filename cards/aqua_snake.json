@@ -1,0 +1,16 @@
+{
+  "id": 12436646,
+  "name": "Aqua Snake",
+  "type": "Normal Monster",
+  "description": "''This monster hypnotizes an opponent with the ball on its tail and draws them to a watery doom.''",
+  "attack": 1050,
+  "defense": 900,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12436646.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12436646.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12436646.jpg"
+  }
+}

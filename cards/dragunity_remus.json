@@ -1,0 +1,16 @@
+{
+  "id": 26577155,
+  "name": "Dragunity Remus",
+  "type": "Tuner Monster",
+  "description": "Cannot be used as Synchro Material, except for the Synchro Summon of a \"Dragunity\" monster. You can discard this card; add 1 \"Dragon Ravine\" from your Deck to your hand. If you control a \"Dragunity\" monster: You can Special Summon this card from your GY, but banish it when it leaves the field, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Dragon monsters. You can only use each effect of \"Dragunity Remus\" once per turn.",
+  "attack": 800,
+  "defense": 800,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26577155.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26577155.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26577155.jpg"
+  }
+}

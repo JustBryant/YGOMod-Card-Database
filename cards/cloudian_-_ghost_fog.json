@@ -1,0 +1,16 @@
+{
+  "id": 83604828,
+  "name": "Cloudian - Ghost Fog",
+  "type": "Effect Monster",
+  "description": "This card cannot be Special Summoned. All Battle Damage to either player from a battle involving this monster becomes 0. If this card is destroyed by battle, distribute new Fog Counters equal to the Level of the monster that destroyed it among face-up monsters.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83604828.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83604828.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83604828.jpg"
+  }
+}

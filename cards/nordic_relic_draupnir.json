@@ -1,0 +1,12 @@
+{
+  "id": 55154048,
+  "name": "Nordic Relic Draupnir",
+  "type": "Spell Card",
+  "description": "Equip only to an \"Aesir\" or \"Nordic\" monster. It gains 800 ATK. If this face-up card on the field is destroyed by a card effect: You can add 1 \"Nordic Relic\" card from your Deck to your hand.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55154048.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55154048.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55154048.jpg"
+  }
+}

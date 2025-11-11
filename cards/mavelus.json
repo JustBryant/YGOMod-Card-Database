@@ -1,0 +1,16 @@
+{
+  "id": 59036972,
+  "name": "Mavelus",
+  "type": "Fusion Monster",
+  "description": "\"Tyhone\" + \"Wings of Wicked Flame\"",
+  "attack": 1300,
+  "defense": 900,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59036972.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59036972.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59036972.jpg"
+  }
+}

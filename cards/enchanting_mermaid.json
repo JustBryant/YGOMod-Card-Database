@@ -3,14 +3,14 @@
   "name": "Enchanting Mermaid",
   "type": "Normal Monster",
   "description": "A beautiful mermaid that lures voyagers to a watery grave.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/75376965.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/75376965.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75376965.jpg"
-  },
   "attack": 1200,
   "defense": 900,
   "level": 3,
   "attribute": "WATER",
-  "race": "Fish"
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75376965.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75376965.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75376965.jpg"
+  }
 }

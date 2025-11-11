@@ -1,0 +1,12 @@
+{
+  "id": 70825459,
+  "name": "Trap Tracks",
+  "type": "Trap Card",
+  "description": "Target 1 monster you control; destroy it, and if you do, Set 1 Normal Trap directly from your Deck, except \"Trap Tracks\". It can be activated this turn. You can only activate 1 Trap Card for the rest of this turn after this card resolves. You can only activate 1 \"Trap Tracks\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70825459.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70825459.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70825459.jpg"
+  }
+}

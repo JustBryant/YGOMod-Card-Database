@@ -1,0 +1,16 @@
+{
+  "id": 52918032,
+  "name": "Mementotlan Ghattic",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can target 1 \"Memento\" card in your GY, except \"Mementotlan Ghattic\"; add it to your hand. If this card is sent to the GY by a \"Memento\" monster's effect: You can Special Summon this card. You can only use each effect of \"Mementotlan Ghattic\" once per turn.",
+  "attack": 550,
+  "defense": 400,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52918032.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52918032.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52918032.jpg"
+  }
+}

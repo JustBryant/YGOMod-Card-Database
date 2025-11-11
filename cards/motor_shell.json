@@ -1,0 +1,16 @@
+{
+  "id": 78394032,
+  "name": "Motor Shell",
+  "type": "Effect Monster",
+  "description": "If this card is sent from the field to the GY: You can Special Summon 1 \"Engine Token\" (Machine/EARTH/Level 1/ATK 200/DEF 200) in Attack Position. You can only use this effect of \"Motor Shell\" once per turn.",
+  "attack": 1300,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78394032.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78394032.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78394032.jpg"
+  }
+}

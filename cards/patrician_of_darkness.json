@@ -1,0 +1,16 @@
+{
+  "id": 19153634,
+  "name": "Patrician of Darkness",
+  "type": "Effect Monster",
+  "description": "You choose the attack targets for your opponent's attacks.",
+  "attack": 2000,
+  "defense": 1400,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19153634.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19153634.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19153634.jpg"
+  }
+}

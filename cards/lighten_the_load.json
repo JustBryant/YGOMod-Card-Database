@@ -1,0 +1,12 @@
+{
+  "id": 37231841,
+  "name": "Lighten the Load",
+  "type": "Spell Card",
+  "description": "Once per turn, you can add 1 Level 7 or higher monster from your hand to your Deck and shuffle it, then draw 1 card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37231841.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37231841.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37231841.jpg"
+  }
+}

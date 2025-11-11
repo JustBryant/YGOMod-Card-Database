@@ -1,0 +1,16 @@
+{
+  "id": 9416697,
+  "name": "Eanoc, Sentry of the Ghoti",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can target 1 of your banished Level 4 or lower Fish monsters; Special Summon it in Defense Position, but negate its effects. You can banish 1 Fish monster from your hand or face-up field; add 1 \"Ghoti\" Trap from your Deck to your hand. You can only use each effect of \"Eanoc, Sentry of the Ghoti\" once per turn.",
+  "attack": 2100,
+  "defense": 0,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9416697.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9416697.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9416697.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 74854609,
+  "name": "Zekt Conversion",
+  "type": "Trap Card",
+  "description": "When a face-up \"Inzektor\" monster you control is targeted for an attack: Target the attacking monster; equip the attack target to that attacking monster. Take control of the equipped monster while it is equipped with an \"Inzektor\" monster by this effect.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74854609.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74854609.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74854609.jpg"
+  }
+}

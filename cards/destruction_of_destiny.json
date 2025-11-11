@@ -1,0 +1,12 @@
+{
+  "id": 62980542,
+  "name": "Destruction of Destiny",
+  "type": "Trap Card",
+  "description": "Send 3 cards from the top of your Deck to the Graveyard, and take 1000 damage for each Spell or Trap Card sent to the Graveyard this way.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62980542.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62980542.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62980542.jpg"
+  }
+}

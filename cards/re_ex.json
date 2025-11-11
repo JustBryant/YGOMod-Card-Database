@@ -1,0 +1,16 @@
+{
+  "id": 18000338,
+  "name": "Re: EX",
+  "type": "Effect Monster",
+  "description": "If this card battles a monster in the Extra Monster Zone, it gains 800 ATK and DEF during the Damage Step only.",
+  "attack": 1900,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18000338.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18000338.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18000338.jpg"
+  }
+}

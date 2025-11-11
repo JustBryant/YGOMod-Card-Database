@@ -1,0 +1,12 @@
+{
+  "id": 69296555,
+  "name": "Array of Revealing Light",
+  "type": "Spell Card",
+  "description": "Declare 1 Type of monster. Any monster of the declared Type cannot declare an attack during the turn it is Normal Summoned, Flip Summoned or Special Summoned.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69296555.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69296555.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69296555.jpg"
+  }
+}

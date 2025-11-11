@@ -1,0 +1,16 @@
+{
+  "id": 6483224,
+  "name": "Radius, the Half-Moon Dragon",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand). If you do, this card's Level becomes 8.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6483224.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6483224.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6483224.jpg"
+  }
+}

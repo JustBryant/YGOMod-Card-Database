@@ -1,0 +1,16 @@
+{
+  "id": 78636495,
+  "name": "Slate Warrior",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: This card gains 500 ATK and DEF.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+  "attack": 1900,
+  "defense": 400,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78636495.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78636495.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78636495.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2047519,
+  "name": "Hidden Soldiers",
+  "type": "Trap Card",
+  "description": "When your opponent Normal or Flip Summons a monster: Special Summon 1 Level 4 or lower DARK monster from your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2047519.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2047519.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2047519.jpg"
+  }
+}

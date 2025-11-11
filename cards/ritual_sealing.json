@@ -1,0 +1,12 @@
+{
+  "id": 9145181,
+  "name": "Ritual Sealing",
+  "type": "Trap Card",
+  "description": "Destroy 1 face-up Ritual Monster on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9145181.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9145181.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9145181.jpg"
+  }
+}

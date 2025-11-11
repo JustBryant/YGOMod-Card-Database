@@ -1,0 +1,16 @@
+{
+  "id": 40200834,
+  "name": "Sleeping Lion",
+  "type": "Normal Monster",
+  "description": "A ferocious animal that sleeps all day. Sometimes it's better to let Sleeping Lions lie.",
+  "attack": 700,
+  "defense": 1700,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40200834.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40200834.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40200834.jpg"
+  }
+}

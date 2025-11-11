@@ -1,0 +1,16 @@
+{
+  "id": 83116692,
+  "name": "Doombearer Psychopompos",
+  "type": "Tuner Monster",
+  "description": "If this card is Special Summoned: Apply this effect, based on whether your opponent has more monsters in their GY, or more Spells & Traps. (If they have more monsters, banish this card, and if you do, your opponent banishes 1 monster from their GY. If they have more Spells & Traps, send this card to the GY, and if you do, your opponent sends 1 monster they control to the GY.) During the End Phase of the next turn after this card was banished: You can Special Summon this banished card. You can only use each effect of \"Doombearer Psychopompos\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83116692.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83116692.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83116692.jpg"
+  }
+}

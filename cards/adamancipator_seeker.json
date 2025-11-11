@@ -1,0 +1,16 @@
+{
+  "id": 48519867,
+  "name": "Adamancipator Seeker",
+  "type": "Tuner Monster",
+  "description": "If you control an \"Adamancipator\" monster, except \"Adamancipator Seeker\": You can Special Summon this card from your hand. During your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can Special Summon 1 excavated Level 4 or lower non-Tuner Rock monster, also place the rest on the bottom of your Deck in any order. You can only use each effect of \"Adamancipator Seeker\" once per turn.",
+  "attack": 1200,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48519867.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48519867.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48519867.jpg"
+  }
+}

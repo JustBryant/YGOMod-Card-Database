@@ -1,0 +1,16 @@
+{
+  "id": 43694650,
+  "name": "Danger!? Jackalope?",
+  "type": "Effect Monster",
+  "description": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger!? Jackalope?\", Special Summon 1 \"Danger!? Jackalope?\" from your hand, and if you do, draw 1 card. If this card is discarded: You can Special Summon 1 \"Danger!\" monster from your Deck in Defense Position, except \"Danger!? Jackalope?\". You can only use this effect of \"Danger!? Jackalope?\" once per turn.",
+  "attack": 500,
+  "defense": 2000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43694650.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43694650.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43694650.jpg"
+  }
+}

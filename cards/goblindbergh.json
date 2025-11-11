@@ -1,0 +1,16 @@
+{
+  "id": 25259669,
+  "name": "Goblindbergh",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand, also, after that, change this card to Defense Position.",
+  "attack": 1400,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25259669.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25259669.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25259669.jpg"
+  }
+}

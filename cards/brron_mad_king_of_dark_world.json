@@ -1,0 +1,16 @@
+{
+  "id": 6214884,
+  "name": "Brron, Mad King of Dark World",
+  "type": "Effect Monster",
+  "description": "When this card inflicts battle damage to your opponent: You can discard 1 card.",
+  "attack": 1800,
+  "defense": 400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6214884.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6214884.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6214884.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14089428,
+  "name": "Blue Thunder T-45",
+  "type": "Effect Monster",
+  "description": "If this card destroys an opponent's monster by battle: Special Summon 1 \"Thunder Option Token\" (Machine-Type/LIGHT/Level 4/ATK 1500/DEF 1500). This Token cannot be Tributed for a Tribute Summon.",
+  "attack": 1700,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14089428.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14089428.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14089428.jpg"
+  }
+}

@@ -3,14 +3,14 @@
   "name": "Charubin the Fire Knight",
   "type": "Fusion Monster",
   "description": "\"Monster Egg\" + \"Hinotama Soul\"",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/37421579.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/37421579.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37421579.jpg"
-  },
   "attack": 1100,
   "defense": 800,
   "level": 3,
   "attribute": "FIRE",
-  "race": "Pyro"
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37421579.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37421579.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37421579.jpg"
+  }
 }

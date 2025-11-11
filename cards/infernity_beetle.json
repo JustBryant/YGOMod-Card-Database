@@ -1,0 +1,16 @@
+{
+  "id": 49080532,
+  "name": "Infernity Beetle",
+  "type": "Tuner Monster",
+  "description": "While you have no cards in your hand, you can Tribute this card to Special Summon up to 2 \"Infernity Beetle\" from your Deck.",
+  "attack": 1200,
+  "defense": 0,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49080532.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49080532.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49080532.jpg"
+  }
+}

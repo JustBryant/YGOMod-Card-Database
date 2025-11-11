@@ -1,0 +1,12 @@
+{
+  "id": 63193536,
+  "name": "Over Capacity",
+  "type": "Trap Card",
+  "description": "When your opponent Special Summons a monster: Banish all face-up Level 2 or lower monsters on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63193536.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63193536.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63193536.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4079728,
+  "name": "Gung-ho! Springans!",
+  "type": "XYZ Monster",
+  "description": "2+ Level 4 \"Springans\" monsters\r\nIf this card is Xyz Summoned or sent to the GY: You can Special Summon 1 \"Springans Captain Sargas\" from your Deck or GY. You can detach 2 materials from this card; add to your hand, or Special Summon, 1 of the following monsters from your Deck.\r\n● \"Springans\" monster ● \"Therion\" monster ● \"Fallen of Albaz\" or monster that mentions it\r\nYou can only use 1 \"Gung-ho! Springans!\" effect per turn, and only once that turn.",
+  "attack": 2500,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4079728.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4079728.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4079728.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 86825483,
+  "name": "Constellar Belt",
+  "type": "Spell Card",
+  "description": "The activation of LIGHT monsters' effects cannot be negated.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86825483.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86825483.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86825483.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 99510761,
+  "name": "Lord of the Lamp",
+  "type": "Normal Monster",
+  "description": "This spirit emerges from the mystic lamp and obeys the wishes of its summoner.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99510761.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99510761.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99510761.jpg"
+  }
+}

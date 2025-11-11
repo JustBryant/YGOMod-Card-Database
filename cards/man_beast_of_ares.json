@@ -1,0 +1,16 @@
+{
+  "id": 71395725,
+  "name": "Man Beast of Ares",
+  "type": "Effect Monster",
+  "description": "After a Chain (of 2 or more Links) resolves, this card gains 500 ATK.",
+  "attack": 500,
+  "defense": 500,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71395725.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71395725.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71395725.jpg"
+  }
+}

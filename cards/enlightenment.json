@@ -1,0 +1,12 @@
+{
+  "id": 57274196,
+  "name": "Enlightenment",
+  "type": "Trap Card",
+  "description": "You cannot Summon the turn you activate this card. Activate at the end of the Damage Step, if a Spellcaster-Type monster you control attacked and destroyed an opponent's monster by battle. That monster can attack again (immediately).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57274196.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57274196.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57274196.jpg"
+  }
+}

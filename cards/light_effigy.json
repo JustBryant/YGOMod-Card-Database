@@ -1,0 +1,16 @@
+{
+  "id": 54766667,
+  "name": "Light Effigy",
+  "type": "Effect Monster",
+  "description": "If you Tribute Summon a LIGHT Normal Monster, you can treat this 1 monster as 2 Tributes.",
+  "attack": 1500,
+  "defense": 0,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54766667.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54766667.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54766667.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 65305468,
+  "name": "Number F0: Utopic Future",
+  "type": "XYZ Monster",
+  "description": "2 Xyz Monsters with the same Rank, except \"Number\" monsters\n(This card's original Rank is always treated as 1.)\nCannot be destroyed by battle, and neither player takes any battle damage from attacks involving this card. At the end of the Damage Step, if this card battled an opponent's monster: You can take control of that opponent's monster until the end of the Battle Phase. If this face-up card on the field would be destroyed by a card effect, you can detach 1 material from this card instead.",
+  "attack": 0,
+  "defense": 0,
+  "level": 0,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65305468.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65305468.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65305468.jpg"
+  }
+}

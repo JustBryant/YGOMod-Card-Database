@@ -1,0 +1,16 @@
+{
+  "id": 94845226,
+  "name": "The Fabled Rubyruda",
+  "type": "Tuner Monster",
+  "description": "When this face-up card you control is selected as an attack target, you can discard 1 \"Fabled\" monster to negate the attack.",
+  "attack": 1100,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94845226.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94845226.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94845226.jpg"
+  }
+}

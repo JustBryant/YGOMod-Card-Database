@@ -1,0 +1,16 @@
+{
+  "id": 44373896,
+  "name": "Destruction Dragon",
+  "type": "Fusion Monster",
+  "description": "Must be Special Summoned with \"The Fang of Critias\", using \"Ring of Destruction\". Once per turn: You can target 1 card your opponent controls; destroy it. Then, if it was a Monster Card, inflict damage to your opponent equal to its original ATK.",
+  "attack": 2000,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44373896.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44373896.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44373896.jpg"
+  }
+}

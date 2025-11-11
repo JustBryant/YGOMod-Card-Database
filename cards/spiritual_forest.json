@@ -1,0 +1,12 @@
+{
+  "id": 69112325,
+  "name": "Spiritual Forest",
+  "type": "Spell Card",
+  "description": "Each turn, the first face-up Beast, Beast-Warrior, or Plant-Type monster you control that would be destroyed by battle, is not destroyed.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69112325.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69112325.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69112325.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2833249,
+  "name": "D. Tribe",
+  "type": "Trap Card",
+  "description": "All monsters on your side of the field are treated as Dragon-Type until the End Phase of this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2833249.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2833249.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2833249.jpg"
+  }
+}

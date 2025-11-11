@@ -1,0 +1,16 @@
+{
+  "id": 84430950,
+  "name": "Armed Samurai - Ben Kei",
+  "type": "Effect Monster",
+  "description": "For each Equip Card equipped to this card, it gains 1 additional attack during each Battle Phase.",
+  "attack": 500,
+  "defense": 800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84430950.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84430950.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84430950.jpg"
+  }
+}

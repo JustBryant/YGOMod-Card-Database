@@ -1,0 +1,16 @@
+{
+  "id": 30608985,
+  "name": "Magical Undertaker",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can target 1 Level 4 or lower Spellcaster monster in your GY; Special Summon that target.",
+  "attack": 400,
+  "defense": 400,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30608985.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30608985.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30608985.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 30012506,
+  "name": "A-Assault Core",
+  "type": "Union Effect Monster",
+  "description": "Once per turn, you can either: Target 1 LIGHT Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card is unaffected by your opponent's monster effects (except its own), also if the equipped monster would be destroyed by battle or card effect, destroy this card instead. If this card is sent from the field to the GY: You can add 1 other Union monster from your GY to your hand.",
+  "attack": 1900,
+  "defense": 200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30012506.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30012506.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30012506.jpg"
+  }
+}

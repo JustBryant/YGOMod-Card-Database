@@ -1,0 +1,16 @@
+{
+  "id": 5329790,
+  "name": "Protocol Gardna",
+  "type": "Link Monster",
+  "description": "2 Cyberse monsters\r\nYour opponent's monsters cannot target monsters this card points to for attacks. The first time this card would be destroyed by battle each turn, it is not destroyed, and you take no battle damage from that battle.",
+  "attack": 1000,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5329790.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5329790.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5329790.jpg"
+  }
+}

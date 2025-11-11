@@ -1,0 +1,16 @@
+{
+  "id": 25119460,
+  "name": "YZ-Tank Dragon",
+  "type": "Fusion Monster",
+  "description": "\"Y-Dragon Head\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 face-down monster your opponent controls; destroy that target.",
+  "attack": 2100,
+  "defense": 2200,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25119460.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25119460.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25119460.jpg"
+  }
+}

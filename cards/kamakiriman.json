@@ -1,0 +1,16 @@
+{
+  "id": 68928540,
+  "name": "Kamakiriman",
+  "type": "Normal Monster",
+  "description": "''A man-shaped mantis with two razor-sharp scythes.''",
+  "attack": 1150,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68928540.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68928540.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68928540.jpg"
+  }
+}

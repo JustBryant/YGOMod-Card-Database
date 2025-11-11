@@ -1,0 +1,16 @@
+{
+  "id": 28363749,
+  "name": "Fire Opal Head",
+  "type": "Pendulum Normal Monster",
+  "description": "''This dinosaur pack leader with a burning head of stone is named after his finishing move.''",
+  "attack": 2500,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28363749.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28363749.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28363749.jpg"
+  }
+}

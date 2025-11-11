@@ -1,0 +1,16 @@
+{
+  "id": 45815891,
+  "name": "Scrap Archfiend",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters",
+  "attack": 2700,
+  "defense": 1800,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45815891.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45815891.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45815891.jpg"
+  }
+}

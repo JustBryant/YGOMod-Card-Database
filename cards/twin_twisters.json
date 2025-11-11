@@ -1,0 +1,12 @@
+{
+  "id": 43898403,
+  "name": "Twin Twisters",
+  "type": "Spell Card",
+  "description": "Discard 1 card, then target up to 2 Spells/Traps on the field; destroy them.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43898403.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43898403.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43898403.jpg"
+  }
+}

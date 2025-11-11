@@ -1,0 +1,16 @@
+{
+  "id": 12624008,
+  "name": "Radiant Spirit",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-LIGHT monsters.",
+  "attack": 2000,
+  "defense": 1500,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12624008.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12624008.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12624008.jpg"
+  }
+}

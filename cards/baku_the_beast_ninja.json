@@ -1,0 +1,16 @@
+{
+  "id": 94670654,
+  "name": "Baku the Beast Ninja",
+  "type": "Effect Monster",
+  "description": "If this card is added to your hand, except by drawing it: You can Special Summon it. If this card is Special Summoned or flipped face-up: You can target 1 \"Ninja\" or \"Ninjitsu Art\" card from your GY or face-up Spell & Trap Zone, except \"Baku the Beast Ninja\"; return it to the hand. You can only use each effect of \"Baku the Beast Ninja\" once per turn.",
+  "attack": 1500,
+  "defense": 600,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94670654.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94670654.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94670654.jpg"
+  }
+}

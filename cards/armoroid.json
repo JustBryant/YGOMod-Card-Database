@@ -1,0 +1,16 @@
+{
+  "id": 73333463,
+  "name": "Armoroid",
+  "type": "Effect Monster",
+  "description": "If this card is Tribute Summoned by Tributing at least 1 \"roid\" monster: Banish all Spells and Traps on the field.",
+  "attack": 2700,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73333463.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73333463.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73333463.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 95519486,
+  "name": "The Six Samurai - Zanji",
+  "type": "Effect Monster",
+  "description": "At the end of the Damage Step, if this card attacked: Destroy the monster this card attacked. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+  "attack": 1800,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95519486.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95519486.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95519486.jpg"
+  }
+}

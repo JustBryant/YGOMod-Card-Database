@@ -1,0 +1,16 @@
+{
+  "id": 99747800,
+  "name": "Legendary Fiend",
+  "type": "Effect Monster",
+  "description": "Once per turn, during your Standby Phase: This card gains 700 ATK.",
+  "attack": 1500,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99747800.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99747800.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99747800.jpg"
+  }
+}

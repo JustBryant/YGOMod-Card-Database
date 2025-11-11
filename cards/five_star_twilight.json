@@ -1,0 +1,12 @@
+{
+  "id": 6309986,
+  "name": "Five Star Twilight",
+  "type": "Spell Card",
+  "description": "If the only monster you control is 1 Level 5 monster: Tribute that monster; Special Summon 5 monsters (1 \"Kuribah\", 1 \"Kuribee\", 1 \"Kuriboo\", 1 \"Kuribeh\", and 1 \"Kuriboh\") from your hand, Deck, and/or GY, but they cannot be Tributed for a Tribute Summon. You can only activate 1 \"Five Star Twilight\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6309986.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6309986.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6309986.jpg"
+  }
+}

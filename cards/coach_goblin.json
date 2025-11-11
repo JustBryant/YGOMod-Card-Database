@@ -1,0 +1,16 @@
+{
+  "id": 42541548,
+  "name": "Coach Goblin",
+  "type": "Effect Monster",
+  "description": "While this card is face-up on your side of the field, you can return 1 Normal Monster Card in your hand to the bottom of your Deck during your End Phase to draw 1 card from your Deck. You can only use this effect once per turn.",
+  "attack": 1200,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42541548.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42541548.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42541548.jpg"
+  }
+}

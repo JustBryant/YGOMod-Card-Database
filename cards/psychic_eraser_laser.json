@@ -1,0 +1,12 @@
+{
+  "id": 9322133,
+  "name": "Psychic Eraser Laser",
+  "type": "Spell Card",
+  "description": "Send 1 monster your opponent controls that was Special Summoned from the Extra Deck to the GY, then your opponent gains LP equal to the original ATK or DEF of that monster (whichever is higher). You can only activate 1 \"Psychic Eraser Laser\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9322133.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9322133.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9322133.jpg"
+  }
+}

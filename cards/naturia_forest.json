@@ -1,0 +1,12 @@
+{
+  "id": 37322745,
+  "name": "Naturia Forest",
+  "type": "Spell Card",
+  "description": "If you negate the activation of a card your opponent controls, you can add 1 Level 3 or lower \"Naturia\" monster from your Deck to your hand.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37322745.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37322745.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37322745.jpg"
+  }
+}

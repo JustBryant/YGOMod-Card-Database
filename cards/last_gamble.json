@@ -1,0 +1,12 @@
+{
+  "id": 300202005,
+  "name": "Last Gamble",
+  "type": "Skill Card",
+  "description": "[At the start of the 5th turn, activate this Skill (count both players' turns).]\r\n\r\nDuring your Main Phase, you can reduce your LP to 100 and discard 2 cards from your hand. Roll a six-sided die and draw cards equal to the result. This Skill can only be used once per Duel. ",
+  "race": "Joey",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300202005.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300202005.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300202005.jpg"
+  }
+}

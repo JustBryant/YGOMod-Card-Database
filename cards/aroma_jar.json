@@ -1,0 +1,16 @@
+{
+  "id": 21452275,
+  "name": "Aroma Jar",
+  "type": "Flip Effect Monster",
+  "description": "If this card is flipped face-up, this card cannot be destroyed by battle while it is face-up on the field. If this card is flipped face-up, during each player's End Phase: You gain 500 LP.",
+  "attack": 500,
+  "defense": 400,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21452275.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21452275.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21452275.jpg"
+  }
+}

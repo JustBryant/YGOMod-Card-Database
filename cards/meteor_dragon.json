@@ -1,0 +1,16 @@
+{
+  "id": 64271667,
+  "name": "Meteor Dragon",
+  "type": "Normal Monster",
+  "description": "This dragon appeared from the sky and crashed to the earth.",
+  "attack": 1800,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64271667.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64271667.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64271667.jpg"
+  }
+}

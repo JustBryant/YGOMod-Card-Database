@@ -1,0 +1,12 @@
+{
+  "id": 44413654,
+  "name": "Morphtronic Impact Return",
+  "type": "Trap Card",
+  "description": "Target up to 2 Spells/Traps your opponent controls; shuffle 1 \"Morphtronic\" monster from your hand into the Deck, and if you do, shuffle the targeted card(s) into the Deck. You can banish this card from your GY, then target 1 of your \"Morphtronic\" monsters that is banished or in your GY; Special Summon it in Defense Position. You can only use 1 \"Morphtronic Impact Return\" effect per turn, and only once that turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44413654.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44413654.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44413654.jpg"
+  }
+}

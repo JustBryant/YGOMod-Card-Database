@@ -1,0 +1,12 @@
+{
+  "id": 81332143,
+  "name": "Yu-Jo Friendship",
+  "type": "Spell Card",
+  "description": "Offer your opponent a handshake. If they accept your handshake, each player's Life Points become half the combined Life Points of both players. If you have \"Unity\" in your hand and show it to your opponent, they must accept the handshake.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81332143.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81332143.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81332143.jpg"
+  }
+}

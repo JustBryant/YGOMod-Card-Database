@@ -1,0 +1,16 @@
+{
+  "id": 92327802,
+  "name": "Defect Compiler",
+  "type": "Effect Monster",
+  "description": "Once per turn, if you would take damage from an opponent's card effect, place 1 Defect Counter on this card instead (max. 1). Once per turn (Quick Effect): You can remove 1 Defect Counter from this card, then target 1 Cyberse monster you control; it gains 800 ATK until the end of this turn.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92327802.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92327802.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92327802.jpg"
+  }
+}

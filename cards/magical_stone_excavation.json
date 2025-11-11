@@ -1,0 +1,12 @@
+{
+  "id": 98494543,
+  "name": "Magical Stone Excavation",
+  "type": "Spell Card",
+  "description": "Discard 2 cards, then target 1 Spell in your GY; add it to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98494543.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98494543.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98494543.jpg"
+  }
+}

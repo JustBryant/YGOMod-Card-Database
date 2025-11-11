@@ -1,0 +1,16 @@
+{
+  "id": 23051413,
+  "name": "Naturia Stag Beetle",
+  "type": "Effect Monster",
+  "description": "Once per turn, during the Battle Step or Damage Step of this card's attack, when your opponent activates a card or effect, you can select 1 \"Naturia\" monster in your Graveyard. Special Summon that monster from the Graveyard.",
+  "attack": 2200,
+  "defense": 1500,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23051413.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23051413.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23051413.jpg"
+  }
+}

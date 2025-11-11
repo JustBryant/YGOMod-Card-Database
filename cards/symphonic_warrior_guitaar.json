@@ -1,0 +1,16 @@
+{
+  "id": 12525049,
+  "name": "Symphonic Warrior Guitaar",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nYou can discard 1 card; Special Summon 1 \"Symphonic Warrior\" monster from your Deck, except \"Symphonic Warrior Guitaar\". You can only use this effect of \"Symphonic Warrior Guitaar\" once per turn.\n\n[ Monster Effect ] \nWhen this card is Normal Summoned: You can target 1 \"Symphonic Warrior\" monster in your Graveyard; Special Summon it.",
+  "attack": 1500,
+  "defense": 100,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12525049.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12525049.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12525049.jpg"
+  }
+}

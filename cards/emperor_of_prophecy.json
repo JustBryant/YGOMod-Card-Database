@@ -1,0 +1,16 @@
+{
+  "id": 53136004,
+  "name": "Emperor of Prophecy",
+  "type": "Effect Monster",
+  "description": "You can banish both 1 face-up Spellcaster-Type monster you control, except this card, and 1 \"Spellbook\" card from your Graveyard to target 1 face-up monster your opponent controls; take control of that target until the End Phase. You can only use the effect of \"Emperor of Prophecy\" once per turn. This card cannot attack during the turn you activate this effect.",
+  "attack": 2300,
+  "defense": 2000,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53136004.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53136004.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53136004.jpg"
+  }
+}

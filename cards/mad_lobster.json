@@ -1,0 +1,16 @@
+{
+  "id": 97240270,
+  "name": "Mad Lobster",
+  "type": "Normal Monster",
+  "description": "A gourmet food renowned by the Dark World upper crust. It has sensational flavor.",
+  "attack": 1700,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97240270.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97240270.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97240270.jpg"
+  }
+}

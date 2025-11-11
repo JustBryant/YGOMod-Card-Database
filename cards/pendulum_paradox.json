@@ -1,0 +1,12 @@
+{
+  "id": 38203732,
+  "name": "Pendulum Paradox",
+  "type": "Spell Card",
+  "description": "Add 2 face-up Pendulum Monsters with the same Pendulum Scale, but different names, from your Extra Deck to your hand. You can only activate 1 \"Pendulum Paradox\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38203732.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38203732.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38203732.jpg"
+  }
+}

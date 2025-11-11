@@ -1,0 +1,16 @@
+{
+  "id": 55063681,
+  "name": "Power Supplier",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can select 1 face-up monster you control. It gains 400 ATK while you control this face-up card. (A monster cannot gain more than 400 ATK from this card's effect.)",
+  "attack": 400,
+  "defense": 400,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55063681.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55063681.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55063681.jpg"
+  }
+}

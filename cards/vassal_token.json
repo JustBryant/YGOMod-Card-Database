@@ -1,0 +1,12 @@
+{
+  "id": 22404676,
+  "name": "Vassal Token",
+  "type": "Token",
+  "description": "This card can be used as any Token.",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22404676.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22404676.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22404676.jpg"
+  }
+}

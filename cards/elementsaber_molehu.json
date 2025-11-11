@@ -1,0 +1,16 @@
+{
+  "id": 45702014,
+  "name": "Elementsaber Molehu",
+  "type": "Effect Monster",
+  "description": "Once per turn (Quick Effect): You can send 1 \"Elementsaber\" monster from your hand to the GY, then target 1 face-up monster on the field; change it to face-down Defense Position. Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+  "attack": 1900,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45702014.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45702014.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45702014.jpg"
+  }
+}

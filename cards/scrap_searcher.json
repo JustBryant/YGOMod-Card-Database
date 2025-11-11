@@ -1,0 +1,16 @@
+{
+  "id": 92901944,
+  "name": "Scrap Searcher",
+  "type": "Effect Monster",
+  "description": "When a \"Scrap\" monster you control, except \"Scrap Searcher\", is destroyed and sent to the Graveyard while this card is in the Graveyard, you can Special Summon this card from your Graveyard. When this card is Special Summoned, destroy all face-up monsters you control, except \"Scrap\" monsters.",
+  "attack": 100,
+  "defense": 300,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92901944.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92901944.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92901944.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 78275321,
+  "name": "Fire Ant Ascator",
+  "type": "Tuner Monster",
+  "description": "When this card is destroyed by battle and sent to the GY: You can target 1 Level 5 monster in your GY; Special Summon that target, but its effects are negated, also send it to the GY during the End Phase of this turn.",
+  "attack": 700,
+  "defense": 1300,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78275321.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78275321.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78275321.jpg"
+  }
+}

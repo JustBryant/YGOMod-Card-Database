@@ -1,0 +1,16 @@
+{
+  "id": 63612442,
+  "name": "X-Saber Souza",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nYou can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.\n● At the start of the Damage Step, if this card battles an opponent's monster: Destroy that monster.\n● This card cannot be destroyed by Trap effects.",
+  "attack": 2500,
+  "defense": 1600,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63612442.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63612442.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63612442.jpg"
+  }
+}

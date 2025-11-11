@@ -1,0 +1,16 @@
+{
+  "id": 6614221,
+  "name": "Fog King",
+  "type": "Effect Monster",
+  "description": "You can Tribute 1 monster, or no monsters, to Normal Summon (but not Set) this card. The ATK of this card becomes the combined original ATK of the Tributed monsters. Neither player can Tribute cards.",
+  "attack": 0,
+  "defense": 0,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6614221.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6614221.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6614221.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 81616639,
+  "name": "Zombina",
+  "type": "Effect Monster",
+  "description": "If this card in its owner's possession is destroyed by an opponent's card: You can target 1 Level 4 or lower monster in your GY, except \"Zombina\"; Special Summon it.",
+  "attack": 1400,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81616639.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81616639.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81616639.jpg"
+  }
+}

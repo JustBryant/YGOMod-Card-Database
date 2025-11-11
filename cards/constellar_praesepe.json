@@ -1,0 +1,16 @@
+{
+  "id": 2091298,
+  "name": "Constellar Praesepe",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 \"Constellar\" monsters\nOnce per turn, during the Damage Step of either player's turn, when a \"Constellar\" monster you control is attacking or being attacked: You can detach 1 Xyz Material from this card; that monster gains 1000 ATK, until the End Phase.",
+  "attack": 2400,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2091298.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2091298.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2091298.jpg"
+  }
+}

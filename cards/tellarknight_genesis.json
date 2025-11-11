@@ -1,0 +1,12 @@
+{
+  "id": 65236257,
+  "name": "Tellarknight Genesis",
+  "type": "Spell Card",
+  "description": "Destroy Spell/Trap Cards on the field equal to the number of other \"tellarknight\" cards you control.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65236257.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65236257.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65236257.jpg"
+  }
+}

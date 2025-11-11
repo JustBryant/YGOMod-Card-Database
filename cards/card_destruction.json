@@ -1,0 +1,12 @@
+{
+  "id": 72892473,
+  "name": "Card Destruction",
+  "type": "Spell Card",
+  "description": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72892473.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72892473.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72892473.jpg"
+  }
+}

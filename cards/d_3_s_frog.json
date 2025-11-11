@@ -1,0 +1,16 @@
+{
+  "id": 9910360,
+  "name": "D.3.S. Frog",
+  "type": "Fusion Monster",
+  "description": "\"Des Frog\" + \"Des Frog\" + \"Des Frog\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card gains 500 ATK for each \"Treeborn Frog\" in your Graveyard.",
+  "attack": 2500,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9910360.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9910360.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9910360.jpg"
+  }
+}

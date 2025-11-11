@@ -1,0 +1,16 @@
+{
+  "id": 72291078,
+  "name": "Mecha Phantom Beast O-Lion",
+  "type": "Tuner Monster",
+  "description": "You can banish this card from your Graveyard; immediately after this effect resolves, Normal Summon 1 \"Mecha Phantom Beast\" monster from your hand. While you control a Token, this card cannot be destroyed by battle or card effects. If this card is sent to the Graveyard: You can Special Summon 1 \"Mecha Phantom Beast Token\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). You can only use this effect of \"Mecha Phantom Beast O-Lion\" once per turn.",
+  "attack": 600,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72291078.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72291078.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72291078.jpg"
+  }
+}

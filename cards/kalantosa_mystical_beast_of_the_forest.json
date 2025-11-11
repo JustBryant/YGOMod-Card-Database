@@ -1,0 +1,16 @@
+{
+  "id": 97317530,
+  "name": "Kalantosa, Mystical Beast of the Forest",
+  "type": "Effect Monster",
+  "description": "If this card is Special Summoned by the effect of a Beast-Type monster: You can target 1 card on the field; destroy that target.",
+  "attack": 200,
+  "defense": 1400,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97317530.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97317530.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97317530.jpg"
+  }
+}

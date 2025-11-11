@@ -1,0 +1,12 @@
+{
+  "id": 84970821,
+  "name": "Curse of Darkness",
+  "type": "Trap Card",
+  "description": "Each time a Spell Card is activated, immediately after it resolves, the player that activated it takes 1000 damage.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84970821.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84970821.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84970821.jpg"
+  }
+}

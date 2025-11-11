@@ -1,0 +1,12 @@
+{
+  "id": 5832914,
+  "name": "Toon Briefcase",
+  "type": "Trap Card",
+  "description": "When your opponent Summons a monster(s) while you control a Toon monster: Shuffle that monster(s) into the Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5832914.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5832914.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5832914.jpg"
+  }
+}

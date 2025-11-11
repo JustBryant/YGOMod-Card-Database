@@ -1,0 +1,16 @@
+{
+  "id": 83334932,
+  "name": "Superheavy Samurai Motorbike",
+  "type": "Tuner Monster",
+  "description": "If you have no Spells/Traps in your GY: You can discard this card; add 1 \"Superheavy Samurai\" monster from your Deck to your hand, except \"Superheavy Samurai Motorbike\". You can only use this effect of \"Superheavy Samurai Motorbike\" once per turn. Once per turn: You can target 1 Machine monster you control; increase its Level by 2.",
+  "attack": 800,
+  "defense": 1200,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83334932.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83334932.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83334932.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 32062913,
+  "name": "Mega Ton Magical Cannon",
+  "type": "Spell Card",
+  "description": "Remove 10 Spell Counters on your side of the field. Destroy all cards on your opponent's side of the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32062913.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32062913.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32062913.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 23979249,
+  "name": "Bujin Arasuda",
+  "type": "Effect Monster",
+  "description": "If a \"Bujin\" monster in your Graveyard or face-up on your side of the field is banished (except during the Damage Step): You can Special Summon this card from your hand in face-up Defense Position. Once per turn, during the End Phase, if a \"Bujin\" card was added from your Deck to your hand this turn, except by drawing it, while you controlled this face-up card: You can draw 1 card, then discard 1 card. You can only control 1 \"Bujin Arasuda\".",
+  "attack": 1600,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23979249.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23979249.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23979249.jpg"
+  }
+}

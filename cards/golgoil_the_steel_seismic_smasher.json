@@ -1,0 +1,16 @@
+{
+  "id": 59369430,
+  "name": "Golgoil the Steel Seismic Smasher",
+  "type": "Effect Monster",
+  "description": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Golgoil the Steel Seismic Smasher\" once per turn. After damage calculation, if your Machine or Illusion monster battled: You can target 1 of your monsters that is banished or in your GY; Special Summon it. If this card is banished from the field: You can Special Summon it.",
+  "attack": 1800,
+  "defense": 3200,
+  "level": 10,
+  "attribute": "EARTH",
+  "race": "Illusion",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59369430.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59369430.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59369430.jpg"
+  }
+}

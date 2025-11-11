@@ -1,0 +1,16 @@
+{
+  "id": 51232472,
+  "name": "Gren, Tactician of Dark World",
+  "type": "Effect Monster",
+  "description": "If this card is discarded to the Graveyard by a card effect: Target 1 Spell/Trap Card on the field; destroy that target.",
+  "attack": 300,
+  "defense": 500,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51232472.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51232472.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51232472.jpg"
+  }
+}

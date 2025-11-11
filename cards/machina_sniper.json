@@ -1,0 +1,16 @@
+{
+  "id": 23782705,
+  "name": "Machina Sniper",
+  "type": "Effect Monster",
+  "description": "Monsters cannot attack \"Machina\" monsters, except \"Machina Sniper\".",
+  "attack": 1800,
+  "defense": 800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23782705.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23782705.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23782705.jpg"
+  }
+}

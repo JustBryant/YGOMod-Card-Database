@@ -1,0 +1,12 @@
+{
+  "id": 24643836,
+  "name": "Ojamagic",
+  "type": "Spell Card",
+  "description": "If this card is sent from the hand or field to the GY: Add 1 each of \"Ojama Green\", \"Ojama Yellow\" and \"Ojama Black\" from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24643836.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24643836.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24643836.jpg"
+  }
+}

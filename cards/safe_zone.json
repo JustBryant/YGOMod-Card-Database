@@ -1,0 +1,12 @@
+{
+  "id": 38296564,
+  "name": "Safe Zone",
+  "type": "Trap Card",
+  "description": "Activate this card by targeting 1 face-up Attack Position monster on the field; that face-up monster cannot be destroyed by battle or your opponent's card effects, your opponent cannot target it with card effects, also it cannot attack your opponent directly. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38296564.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38296564.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38296564.jpg"
+  }
+}

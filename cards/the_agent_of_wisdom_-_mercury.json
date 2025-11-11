@@ -1,0 +1,16 @@
+{
+  "id": 38730226,
+  "name": "The Agent of Wisdom - Mercury",
+  "type": "Effect Monster",
+  "description": "During your Standby Phase, if you controlled this face-up card and had no cards in your hand at the end of the opponent's last End Phase: Draw 1 card.",
+  "attack": 0,
+  "defense": 1700,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38730226.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38730226.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38730226.jpg"
+  }
+}

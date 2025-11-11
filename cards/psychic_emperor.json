@@ -1,0 +1,16 @@
+{
+  "id": 77600660,
+  "name": "Psychic Emperor",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned, gain 500 Life Points for each Psychic-Type monster in your Graveyard.",
+  "attack": 2400,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77600660.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77600660.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77600660.jpg"
+  }
+}

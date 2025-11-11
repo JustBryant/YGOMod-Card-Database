@@ -1,0 +1,16 @@
+{
+  "id": 78371393,
+  "name": "Yubel",
+  "type": "Effect Monster",
+  "description": "This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. Before damage calculation, when this face-up Attack Position card is attacked by an opponent's monster: Inflict damage to your opponent equal to that monster's ATK. During your End Phase: Tribute 1 other monster or destroy this card. When this card is destroyed, except by its own effect: Its owner can Special Summon 1 \"Yubel - Terror Incarnate\" from their hand, Deck, or Graveyard.",
+  "attack": 0,
+  "defense": 0,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78371393.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78371393.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78371393.jpg"
+  }
+}

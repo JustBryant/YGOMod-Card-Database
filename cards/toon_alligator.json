@@ -1,0 +1,16 @@
+{
+  "id": 59383041,
+  "name": "Toon Alligator",
+  "type": "Normal Monster",
+  "description": "An alligator monster straight from the cartoons.",
+  "attack": 800,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59383041.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59383041.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59383041.jpg"
+  }
+}

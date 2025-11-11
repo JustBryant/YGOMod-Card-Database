@@ -1,0 +1,16 @@
+{
+  "id": 63265554,
+  "name": "Power Tool Braver Dragon",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Special Summoned: You can equip up to 3 Equip Spells with different names from your Deck and/or GY to this card. During the Main Phase (Quick Effect): You can send 1 of your Equip Spells equipped to this card to the GY, then target 1 Effect Monster on the field; either change its battle position, or until the end of this turn, negate its effects. You can only use each effect of \"Power Tool Braver Dragon\" once per turn.",
+  "attack": 2500,
+  "defense": 2300,
+  "level": 9,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63265554.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63265554.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63265554.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8841431,
+  "name": "Centur-Ion Primera Primus",
+  "type": "Synchro Tuner Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nCannot be destroyed by battle, unless it was Special Summoned from the Extra Deck. You can only use each of the following effects of \"Centur-Ion Primera Primus\" once per turn. If this card is Synchro Summoned: You can add 1 \"Emblema\" card from your Deck or GY to your hand, then you can destroy 2 cards (1 on each field). If a face-up \"Centur-Ion\" card(s) you control leaves the field by an opponent's card effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card.",
+  "attack": 2600,
+  "defense": 2600,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8841431.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8841431.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8841431.jpg"
+  }
+}

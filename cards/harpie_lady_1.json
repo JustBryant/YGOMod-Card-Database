@@ -1,0 +1,16 @@
+{
+  "id": 91932350,
+  "name": "Harpie Lady 1",
+  "type": "Effect Monster",
+  "description": "(This card's name is always treated as \"Harpie Lady\".)\nAll WIND monsters gain 300 ATK.",
+  "attack": 1300,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91932350.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91932350.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91932350.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 26533075,
+  "name": "Security Orb",
+  "type": "Trap Card",
+  "description": "When your opponent's monster declares an attack: Target that attacking monster; change that target's battle position. If this Set card is destroyed by your opponent's Spell/Trap effect and sent to the GY: Destroy 1 monster on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26533075.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26533075.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26533075.jpg"
+  }
+}

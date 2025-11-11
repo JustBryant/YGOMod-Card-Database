@@ -1,0 +1,16 @@
+{
+  "id": 8353769,
+  "name": "Air Eater",
+  "type": "Normal Monster",
+  "description": "''A monster that feeds on oxygen, suffocating any who stand near.''",
+  "attack": 2100,
+  "defense": 1600,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8353769.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8353769.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8353769.jpg"
+  }
+}

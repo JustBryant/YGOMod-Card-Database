@@ -1,0 +1,12 @@
+{
+  "id": 53956001,
+  "name": "The Weather Cloudy Canvas",
+  "type": "Spell Card",
+  "description": "\"The Weather\" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.\r\n● You can banish this card, then target 1 face-up monster on the field (except during the Damage Step) (Quick Effect); halve its current ATK for the rest of this turn, but it can attack directly this turn.\r\nYou can only control 1 \"The Weather Cloudy Canvas\".",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53956001.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53956001.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53956001.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 95789089,
+  "name": "Kangaroo Champ",
+  "type": "Effect Monster",
+  "description": "A monster that battles with this card is changed to Defense Position after damage calculation.",
+  "attack": 800,
+  "defense": 700,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95789089.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95789089.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95789089.jpg"
+  }
+}

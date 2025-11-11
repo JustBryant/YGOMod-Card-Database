@@ -1,0 +1,16 @@
+{
+  "id": 17733394,
+  "name": "Wood Remains",
+  "type": "Normal Monster",
+  "description": "''A living corpse of wood re-animated by the power of darkness.''",
+  "attack": 1000,
+  "defense": 900,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17733394.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17733394.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17733394.jpg"
+  }
+}

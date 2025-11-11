@@ -1,0 +1,12 @@
+{
+  "id": 97970833,
+  "name": "Last Resort",
+  "type": "Trap Card",
+  "description": "Activate only when your opponent's monster declares an attack. You can select 1 \"Ancient City - Rainbow Ruins\" from your Deck and activate it. If your opponent had an active Field Spell Card when this card was activated, they can draw 1 card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97970833.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97970833.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97970833.jpg"
+  }
+}

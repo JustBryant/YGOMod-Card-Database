@@ -1,0 +1,12 @@
+{
+  "id": 29628180,
+  "name": "Magical Musket - Last Stand",
+  "type": "Trap Card",
+  "description": "When your opponent activates a Spell/Trap Card while you control a \"Magical Musket\" monster: Negate the activation, and if you do, destroy that card. You can only activate 1 \"Magical Musket - Last Stand\" per turn.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29628180.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29628180.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29628180.jpg"
+  }
+}

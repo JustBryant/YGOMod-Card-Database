@@ -1,0 +1,16 @@
+{
+  "id": 44155002,
+  "name": "The Fabled Unicore",
+  "type": "Synchro Monster",
+  "description": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nWhile you and your opponent have the same number of cards in hand, negate all cards and effects activated by your opponent, and if you do, destroy those cards.",
+  "attack": 2300,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44155002.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44155002.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44155002.jpg"
+  }
+}

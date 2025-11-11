@@ -1,0 +1,12 @@
+{
+  "id": 88279736,
+  "name": "Robbin' Goblin",
+  "type": "Trap Card",
+  "description": "Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88279736.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88279736.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88279736.jpg"
+  }
+}

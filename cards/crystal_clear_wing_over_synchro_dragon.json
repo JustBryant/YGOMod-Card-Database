@@ -1,0 +1,16 @@
+{
+  "id": 84343351,
+  "name": "Crystal Clear Wing Over Synchro Dragon",
+  "type": "Synchro Monster",
+  "description": "2+ Tuners or 1 Tuner Synchro Monster + \"Clear Wing Synchro Dragon\"\r\nMust be Synchro Summoned. Once per turn, when another card, or its effect, is activated (Quick Effect): You can negate the activation, and if you do, destroy that card, and if you destroyed a monster, this card gains ATK equal to that monster's original ATK until the end of this turn. If this face-up Synchro Summoned card in its owner's control leaves the field by an opponent's card: You can Special Summon 1 \"Clear Wing\" monster from your Extra Deck.",
+  "attack": 3500,
+  "defense": 3000,
+  "level": 12,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84343351.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84343351.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84343351.jpg"
+  }
+}

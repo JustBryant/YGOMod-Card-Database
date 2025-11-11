@@ -1,0 +1,16 @@
+{
+  "id": 94410955,
+  "name": "Hecahands Xeno",
+  "type": "Fusion Monster",
+  "description": "3 \"Hecahands\" monsters\r\nIf this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Hecahands Xeno\" once per turn. During the Main Phase (Quick Effect): You can look at 2 random face-down cards in your opponent's Extra Deck, and if you do, you can Special Summon 1 of them to your field. If this Fusion Summoned card in its owner's control is destroyed by an opponent's card effect: You can take control of any number of monsters they control.",
+  "attack": 3400,
+  "defense": 3500,
+  "level": 9,
+  "attribute": "DARK",
+  "race": "Illusion",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94410955.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94410955.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94410955.jpg"
+  }
+}

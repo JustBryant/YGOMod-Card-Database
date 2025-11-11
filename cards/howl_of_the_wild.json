@@ -1,0 +1,12 @@
+{
+  "id": 97922283,
+  "name": "Howl of the Wild",
+  "type": "Trap Card",
+  "description": "When a monster you control destroys an opponent's monster by battle and sends it to the Graveyard, inflict 300 damage to your opponent for each face-up Beast-Type monster you control.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97922283.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97922283.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97922283.jpg"
+  }
+}

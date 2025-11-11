@@ -1,0 +1,16 @@
+{
+  "id": 87303357,
+  "name": "Shining Abyss",
+  "type": "Normal Monster",
+  "description": "This monster employs the powers of both Light and Darkness.",
+  "attack": 1600,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87303357.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87303357.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87303357.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 58921041,
+  "name": "Anti-Spell Fragrance",
+  "type": "Trap Card",
+  "description": "Both players must Set Spell Cards before activating them, and cannot activate them until their next turn after Setting them.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58921041.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58921041.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58921041.jpg"
+  }
+}

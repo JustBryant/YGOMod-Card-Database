@@ -1,0 +1,16 @@
+{
+  "id": 21620076,
+  "name": "Pain Painter",
+  "type": "Tuner Monster",
+  "description": "While this card is face-up on the field, its name is treated as \"Plaguespreader Zombie\". Once per turn: You can target up to 2 face-up Zombie-Type monsters you control, except this card; they become Level 2 until the End Phase. They cannot be used as Synchro Material Monsters, except for the Synchro Summon of a Zombie-Type monster.",
+  "attack": 400,
+  "defense": 200,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21620076.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21620076.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21620076.jpg"
+  }
+}

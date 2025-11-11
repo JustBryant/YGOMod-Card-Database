@@ -1,0 +1,12 @@
+{
+  "id": 56260110,
+  "name": "Raimei",
+  "type": "Spell Card",
+  "description": "Decrease your opponent's Life Points by 300 points.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56260110.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56260110.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56260110.jpg"
+  }
+}

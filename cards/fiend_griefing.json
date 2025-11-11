@@ -1,0 +1,12 @@
+{
+  "id": 60743819,
+  "name": "Fiend Griefing",
+  "type": "Trap Card",
+  "description": "Target 1 monster in your opponent's Graveyard; shuffle it into the Deck, then you can send 1 Fiend-Type monster from your Deck to the Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60743819.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60743819.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60743819.jpg"
+  }
+}

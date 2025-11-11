@@ -1,0 +1,16 @@
+{
+  "id": 21281085,
+  "name": "Fabled Levilazebul",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nOnce per turn, during the Main Phase (Quick Effect): You can Tribute any number of \"Fabled\" monsters, and if you do, take control of that many face-up monsters your opponent controls, but their effects are negated. If this card is in your GY: You can target 1 other \"Fabled\" card in your GY; return this card to the Extra Deck, and if you do, add that target to your hand. You can only use this effect of \"Fabled Levilazebul\" once per turn.",
+  "attack": 3050,
+  "defense": 1950,
+  "level": 10,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21281085.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21281085.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21281085.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 37042505,
+  "name": "Everlasting Alloy",
+  "type": "Spell Card",
+  "description": "If you control \"Jinzo\": Activate 1 of these effects;\r\n● All Machine monsters you currently control cannot be destroyed by your opponent's card effects, until the end of this turn.\r\n● When a card or effect is activated that targets a Machine monster(s) you control: Negate that effect.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37042505.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37042505.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37042505.jpg"
+  }
+}

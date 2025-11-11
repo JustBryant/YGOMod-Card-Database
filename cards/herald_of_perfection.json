@@ -1,0 +1,16 @@
+{
+  "id": 44665365,
+  "name": "Herald of Perfection",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with \"Dawn of the Herald\". During either player's turn, when your opponent activates a Spell Card, Trap Card, or monster effect: You can send 1 Fairy-Type monster from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+  "attack": 1800,
+  "defense": 2800,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44665365.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44665365.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44665365.jpg"
+  }
+}

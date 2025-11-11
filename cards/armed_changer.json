@@ -1,0 +1,12 @@
+{
+  "id": 90374791,
+  "name": "Armed Changer",
+  "type": "Spell Card",
+  "description": "Send 1 Equip Spell Card from your hand to the Graveyard to activate this card. If the equipped monster destroys a monster by battle, the controller of this Equip Card can add 1 monster with ATK equal to or less than the equipped monster from their Graveyard to their hand.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90374791.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90374791.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90374791.jpg"
+  }
+}

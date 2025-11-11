@@ -1,0 +1,16 @@
+{
+  "id": 58818411,
+  "name": "Empress Mantis",
+  "type": "Normal Monster",
+  "description": "Queen of an army of giant mantises whose command moves legions.",
+  "attack": 2200,
+  "defense": 1400,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58818411.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58818411.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58818411.jpg"
+  }
+}

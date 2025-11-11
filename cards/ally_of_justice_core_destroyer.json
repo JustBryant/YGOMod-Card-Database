@@ -1,0 +1,16 @@
+{
+  "id": 36629203,
+  "name": "Ally of Justice Core Destroyer",
+  "type": "Effect Monster",
+  "description": "At the start of the Damage Step, if this card battles a LIGHT monster: Destroy that monster.",
+  "attack": 1200,
+  "defense": 200,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36629203.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36629203.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36629203.jpg"
+  }
+}

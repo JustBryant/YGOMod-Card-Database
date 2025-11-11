@@ -1,0 +1,12 @@
+{
+  "id": 24050692,
+  "name": "Ogdoadic Water Lily",
+  "type": "Spell Card",
+  "description": "Send 1 Reptile monster from your Deck to the GY, then if you have 5 or more Reptile monsters with different names in your GY, you can Special Summon 1 Reptile monster from your GY. You can only activate 1 \"Ogdoadic Water Lily\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24050692.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24050692.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24050692.jpg"
+  }
+}

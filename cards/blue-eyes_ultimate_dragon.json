@@ -1,0 +1,16 @@
+{
+  "id": 23995346,
+  "name": "Blue-Eyes Ultimate Dragon",
+  "type": "Fusion Monster",
+  "description": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
+  "attack": 4500,
+  "defense": 3800,
+  "level": 12,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23995346.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23995346.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23995346.jpg"
+  }
+}

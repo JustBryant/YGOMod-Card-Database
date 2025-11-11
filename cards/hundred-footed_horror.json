@@ -1,0 +1,16 @@
+{
+  "id": 36029076,
+  "name": "Hundred-Footed Horror",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a monster and you control no monsters, you can Normal Summon this card without Tributing, but its original ATK becomes 1300.",
+  "attack": 2600,
+  "defense": 1300,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36029076.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36029076.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36029076.jpg"
+  }
+}

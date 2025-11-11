@@ -1,0 +1,16 @@
+{
+  "id": 67284107,
+  "name": "Scapeghost",
+  "type": "Tuner Monster",
+  "description": "FLIP: You can Special Summon any number of \"Black Sheep Tokens\" (Zombie/DARK/Level 1/ATK 0/DEF 0).",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67284107.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67284107.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67284107.jpg"
+  }
+}

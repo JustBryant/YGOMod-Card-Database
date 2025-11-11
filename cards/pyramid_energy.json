@@ -1,0 +1,12 @@
+{
+  "id": 76754619,
+  "name": "Pyramid Energy",
+  "type": "Spell Card",
+  "description": "You can select and activate 1 of the following effects:\n● Increase the ATK of all face-up monsters on your side of the field by 200 points until the End Phase of the turn this card is activated.\n● Increase the DEF of all face-up monsters on your side of the field by 500 points until the End Phase of the turn this card is activated.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76754619.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76754619.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76754619.jpg"
+  }
+}

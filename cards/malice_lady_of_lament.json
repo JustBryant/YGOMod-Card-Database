@@ -1,0 +1,16 @@
+{
+  "id": 25643346,
+  "name": "Malice, Lady of Lament",
+  "type": "Effect Monster",
+  "description": "(Quick Effect): You can Tribute 2 monsters, then target 1 of your Normal Traps that is banished or in your GY; Set that target, but place it on the bottom of the Deck when it leaves the field. You can only use this effect of \"Malice, Lady of Lament\" once per turn.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25643346.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25643346.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25643346.jpg"
+  }
+}

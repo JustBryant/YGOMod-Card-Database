@@ -1,0 +1,12 @@
+{
+  "id": 9113513,
+  "name": "Ostinato",
+  "type": "Spell Card",
+  "description": "If you control no monsters: Fusion Summon 1 \"Melodious\" Fusion Monster from your Extra Deck, using 2 monsters from your hand and/or Deck as Fusion Material. During the End Phase of this turn, destroy the monster Fusion Summoned by this effect, and if you do, if all the Fusion Materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9113513.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9113513.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9113513.jpg"
+  }
+}

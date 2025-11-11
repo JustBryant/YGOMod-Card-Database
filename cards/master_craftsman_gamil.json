@@ -1,0 +1,16 @@
+{
+  "id": 25727454,
+  "name": "Master Craftsman Gamil",
+  "type": "Effect Monster",
+  "description": "During the Damage Step, when a face-up monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains 300 ATK until the end of this turn.",
+  "attack": 200,
+  "defense": 200,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25727454.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25727454.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25727454.jpg"
+  }
+}

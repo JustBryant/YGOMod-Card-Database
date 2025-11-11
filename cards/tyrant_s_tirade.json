@@ -1,0 +1,12 @@
+{
+  "id": 76721030,
+  "name": "Tyrant's Tirade",
+  "type": "Trap Card",
+  "description": "Tribute 2 monsters. Effects of Effect Monsters that activate in the hand or on the field cannot be activated.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76721030.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76721030.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76721030.jpg"
+  }
+}

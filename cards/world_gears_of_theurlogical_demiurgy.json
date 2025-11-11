@@ -1,0 +1,16 @@
+{
+  "id": 57282724,
+  "name": "World Gears of Theurlogical Demiurgy",
+  "type": "Link Monster",
+  "description": "3 Level 5 or higher monsters\r\nCannot be used as Link Material. This Link Summoned card is unaffected by other monsters' effects. You can only use each of the following effects of \"World Gears of Theurlogical Demiurgy\" once per turn.\r\n● During your Main Phase, if you control this card that was Link Summoned using 3 monsters that had 3 different Types and Attributes on the field: You can destroy all other cards on the field.\r\n● If your opponent Special Summons a monster(s) from the Extra Deck (except during the Damage Step): You can Special Summon 1 \"World Legacy\" monster from your Deck.",
+  "attack": 3500,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57282724.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57282724.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57282724.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 39168895,
+  "name": "Berserk Gorilla",
+  "type": "Effect Monster",
+  "description": "If this card is in face-up Defense Position, destroy this card. This card must attack if able.",
+  "attack": 2000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39168895.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39168895.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39168895.jpg"
+  }
+}

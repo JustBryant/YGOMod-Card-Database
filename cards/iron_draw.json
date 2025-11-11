@@ -1,0 +1,12 @@
+{
+  "id": 34559295,
+  "name": "Iron Draw",
+  "type": "Spell Card",
+  "description": "If you control exactly 2 Machine Effect Monsters and no other monsters: Draw 2 cards. For the rest of this turn after this card resolves, you can only Special Summon once. You can only activate 1 \"Iron Draw\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34559295.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34559295.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34559295.jpg"
+  }
+}

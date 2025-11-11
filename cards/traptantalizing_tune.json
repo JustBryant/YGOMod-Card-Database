@@ -1,0 +1,12 @@
+{
+  "id": 48805472,
+  "name": "Traptantalizing Tune",
+  "type": "Spell Card",
+  "description": "Discard 1 Level 4 Insect or Plant monster, or 1 Normal Trap; draw 2 cards. You can banish this card from your GY, then target 1 of your banished Level 4 Insect or Plant monsters, or Normal Traps; place it on the bottom of the Deck. You can only use each effect of \"Traptantalizing Tune\" once per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48805472.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48805472.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48805472.jpg"
+  }
+}

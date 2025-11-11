@@ -1,0 +1,16 @@
+{
+  "id": 15028680,
+  "name": "HTS Psyhemuth",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nAfter damage calculation, when this card battles an opponent's monster: You can banish that monster, also banish this card.",
+  "attack": 2400,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15028680.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15028680.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15028680.jpg"
+  }
+}

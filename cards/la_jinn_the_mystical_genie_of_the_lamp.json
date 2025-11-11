@@ -1,0 +1,16 @@
+{
+  "id": 97590747,
+  "name": "La Jinn the Mystical Genie of the Lamp",
+  "type": "Normal Monster",
+  "description": "A genie of the lamp that is at the beck and call of its master.",
+  "attack": 1800,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97590747.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97590747.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97590747.jpg"
+  }
+}

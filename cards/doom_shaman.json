@@ -1,0 +1,16 @@
+{
+  "id": 94944637,
+  "name": "Doom Shaman",
+  "type": "Gemini Monster",
+  "description": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● Once per turn: You can Special Summon 1 Fiend-Type monster from your hand or from either Graveyard. When this card leaves the field, destroy all Fiend-Type monsters Special Summoned by this effect.",
+  "attack": 2400,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94944637.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94944637.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94944637.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 59911557,
+  "name": "Gogogo Goram",
+  "type": "Effect Monster",
+  "description": "If this card is Summoned: Change the battle position of this card. If this card on the field is destroyed and sent to the Graveyard: Send 1 \"Gogogo\" monster from your Deck to the Graveyard.",
+  "attack": 2300,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59911557.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59911557.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59911557.jpg"
+  }
+}

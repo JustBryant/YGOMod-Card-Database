@@ -1,0 +1,16 @@
+{
+  "id": 7152333,
+  "name": "Umbral Horror Ghoul",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can make this card's ATK 0, and if you do, Special Summon 1 \"Umbral Horror\" monster with 0 ATK from your hand.",
+  "attack": 1800,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7152333.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7152333.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7152333.jpg"
+  }
+}

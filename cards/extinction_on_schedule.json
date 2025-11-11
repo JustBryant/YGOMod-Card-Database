@@ -1,0 +1,12 @@
+{
+  "id": 95676943,
+  "name": "Extinction on Schedule",
+  "type": "Trap Card",
+  "description": "During the Main Phase: Pay 2000 LP; make both players send all cards they control to the Graveyard at the end of the 3rd Battle Phase after this card's activation.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95676943.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95676943.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95676943.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 83239739,
+  "name": "Oyster Meister",
+  "type": "Effect Monster",
+  "description": "If this card is sent from the field to the Graveyard, except when destroyed by battle: Special Summon 1 \"Oyster Token\" (Fish-Type/WATER/Level 1/ATK 0/DEF 0).",
+  "attack": 1600,
+  "defense": 200,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83239739.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83239739.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83239739.jpg"
+  }
+}

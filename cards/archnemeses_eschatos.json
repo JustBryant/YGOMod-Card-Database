@@ -1,0 +1,16 @@
+{
+  "id": 33212663,
+  "name": "Archnemeses Eschatos",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 monsters with different Types from your GY and/or face-up field. Cannot be destroyed by card effects. You can declare 1 Monster Type on the field; destroy all monsters on the field with that Type, also until the end of the next turn, neither player can Special Summon monsters with that Type. You can only use this effect of \"Archnemeses Eschatos\" once per turn.",
+  "attack": 3000,
+  "defense": 2500,
+  "level": 11,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33212663.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33212663.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33212663.jpg"
+  }
+}

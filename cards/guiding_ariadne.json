@@ -1,0 +1,16 @@
+{
+  "id": 98301564,
+  "name": "Guiding Ariadne",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nApply these effects.\r\n● You do not pay LP to activate Counter Trap Cards.\r\n● You do not discard to activate Counter Trap Cards.\n\n[ Monster Effect ] \nIf this card is destroyed by battle or card effect: You can reveal 3 Counter Traps from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the rest back into your Deck.",
+  "attack": 1700,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98301564.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98301564.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98301564.jpg"
+  }
+}

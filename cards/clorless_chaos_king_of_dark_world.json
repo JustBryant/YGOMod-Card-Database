@@ -1,0 +1,16 @@
+{
+  "id": 22723778,
+  "name": "Clorless, Chaos King of Dark World",
+  "type": "Fusion Monster",
+  "description": "\"Reign-Beaux, Overlord of Dark World\" + 2+ Fiend monsters\r\nIf this card is Fusion Summoned: You can destroy all cards your opponent controls. This card's original ATK/DEF each become the number of materials used for its Summon x 1000. Once per turn (Quick Effect): You can target 1 face-up card you control; discard 1 card, also your opponent cannot target that face-up card with card effects for the rest of this turn.",
+  "attack": -1,
+  "defense": -1,
+  "level": 12,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22723778.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22723778.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22723778.jpg"
+  }
+}

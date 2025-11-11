@@ -1,0 +1,16 @@
+{
+  "id": 12076263,
+  "name": "Wind-Up Dog",
+  "type": "Effect Monster",
+  "description": "During your Main Phase: You can increase this card's Level by 2 and ATK by 600, until the End Phase. This effect can be used only once while this card is face-up on the field.",
+  "attack": 1200,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12076263.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12076263.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12076263.jpg"
+  }
+}

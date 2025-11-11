@@ -1,0 +1,16 @@
+{
+  "id": 67688478,
+  "name": "Gemini Imps",
+  "type": "Effect Monster",
+  "description": "During either player's turn, when your opponent activates a Spell Card, Trap Card, or monster effect that could make you discard when it resolves: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it. Then draw 1 card.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67688478.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67688478.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67688478.jpg"
+  }
+}

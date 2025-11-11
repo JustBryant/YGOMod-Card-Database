@@ -1,0 +1,16 @@
+{
+  "id": 84824601,
+  "name": "Botanical Girl",
+  "type": "Effect Monster",
+  "description": "When this card is sent from the field to the Graveyard, you can add 1 Plant-Type monster with 1000 or less DEF from your Deck to your hand.",
+  "attack": 1300,
+  "defense": 1100,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84824601.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84824601.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84824601.jpg"
+  }
+}

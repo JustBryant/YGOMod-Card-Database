@@ -1,0 +1,16 @@
+{
+  "id": 45796834,
+  "name": "Maha Vailo, Light of the Heavens",
+  "type": "Effect Monster",
+  "description": "This card gains the following effect(s), based on the number of Equip Cards equipped to it.\r\n● 1+: Gains 1000 ATK for each Equip Card equipped to it.\r\n● 2+: Your opponent cannot activate monster effects during the Battle Phase.\r\n● 3+: When your opponent's card or effect is activated that targets this card (Quick Effect): You can send 1 Equip Card you control to the GY; negate that effect.\r\n● 4+: Your opponent cannot activate cards or effects during the Battle Phase.\r\n● 5+: Any battle damage this card inflicts to your opponent is doubled.",
+  "attack": 1550,
+  "defense": 1400,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45796834.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45796834.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45796834.jpg"
+  }
+}

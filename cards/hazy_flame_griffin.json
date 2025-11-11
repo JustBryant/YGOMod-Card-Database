@@ -1,0 +1,16 @@
+{
+  "id": 74010769,
+  "name": "Hazy Flame Griffin",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a monster, and all the monsters (if any) on your side of the field and in your Graveyard are FIRE (and only FIRE), you can Special Summon this card (from your hand). Your opponent cannot target this card with card effects.",
+  "attack": 200,
+  "defense": 2100,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74010769.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74010769.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74010769.jpg"
+  }
+}

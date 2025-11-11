@@ -1,0 +1,16 @@
+{
+  "id": 46425662,
+  "name": "Elementsaber Nalu",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can send 1 \"Elementsaber\" monster from your hand to the GY, then target 1 \"Elementsaber\" or \"Elemental Lord\" monster in your GY, except \"Elementsaber Nalu\"; add it to your hand. Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+  "attack": 1500,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46425662.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46425662.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46425662.jpg"
+  }
+}

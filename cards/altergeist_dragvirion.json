@@ -1,0 +1,16 @@
+{
+  "id": 21187631,
+  "name": "Altergeist Dragvirion",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nWhen an opponent's Special Summoned monster declares an attack: You can return 1 \"Altergeist\" monster you control to the hand; negate that attack. If this card is Tributed and sent to the GY: You can Special Summon this card. You can only use each effect of \"Altergeist Dragvirion\" once per turn.",
+  "attack": 2200,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21187631.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21187631.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21187631.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8508055,
+  "name": "Chu-Ske the Mouse Fighter",
+  "type": "Normal Monster",
+  "description": "A fiery mouse, travelling the world to become the strongest fighter in the world of mice. Be careful not to touch him, or you will get burned.",
+  "attack": 1200,
+  "defense": 0,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8508055.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8508055.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8508055.jpg"
+  }
+}

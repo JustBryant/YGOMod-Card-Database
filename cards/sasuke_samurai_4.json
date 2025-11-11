@@ -1,0 +1,16 @@
+{
+  "id": 64538655,
+  "name": "Sasuke Samurai #4",
+  "type": "Effect Monster",
+  "description": "If this card battles a monster, toss a coin and call heads or tails before damage calculation. If you call it right, destroy the opponent's monster with this effect.",
+  "attack": 1200,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64538655.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64538655.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64538655.jpg"
+  }
+}

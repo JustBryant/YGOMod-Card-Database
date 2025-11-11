@@ -1,0 +1,16 @@
+{
+  "id": 62379337,
+  "name": "Violet Witch",
+  "type": "Effect Monster",
+  "description": "If this card is destroyed by battle and sent to the Graveyard: Add 1 Plant-Type monster with 1500 or less DEF from your Deck to your hand.",
+  "attack": 1100,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62379337.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62379337.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62379337.jpg"
+  }
+}

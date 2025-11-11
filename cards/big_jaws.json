@@ -1,0 +1,16 @@
+{
+  "id": 51254277,
+  "name": "Big Jaws",
+  "type": "Effect Monster",
+  "description": "At the end of the Battle Phase, if this card attacked: Banish it.",
+  "attack": 1800,
+  "defense": 300,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51254277.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51254277.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51254277.jpg"
+  }
+}

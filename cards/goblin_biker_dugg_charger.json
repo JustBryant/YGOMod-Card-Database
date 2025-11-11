@@ -1,0 +1,16 @@
+{
+  "id": 24079759,
+  "name": "Goblin Biker Dugg Charger",
+  "type": "Effect Monster",
+  "description": "If this card is in your hand: You can detach 1 Xyz Material from a monster on either field, and if you do, Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Goblin Biker\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Goblin Biker Dugg Charger\" once per turn.",
+  "attack": 1600,
+  "defense": 0,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24079759.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24079759.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24079759.jpg"
+  }
+}

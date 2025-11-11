@@ -1,0 +1,12 @@
+{
+  "id": 56119752,
+  "name": "Present Card",
+  "type": "Trap Card",
+  "description": "Your opponent discards their entire hand, then draws 5 cards. You can only activate 1 \"Present Card\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56119752.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56119752.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56119752.jpg"
+  }
+}

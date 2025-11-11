@@ -1,0 +1,12 @@
+{
+  "id": 2122975,
+  "name": "Trap Reclamation",
+  "type": "Trap Card",
+  "description": "Discard 1 card and chain this card to a Trap Card you activated. Whenever that Trap Card is sent to the Graveyard, return it to its owner's hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2122975.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2122975.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2122975.jpg"
+  }
+}

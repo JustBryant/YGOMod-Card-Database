@@ -1,0 +1,16 @@
+{
+  "id": 85154941,
+  "name": "Duke Archfiend",
+  "type": "Effect Monster",
+  "description": "Gains ATK equal to its Level x 200. You can only use each of the following effects of \"Duke Archfiend\" once per turn. You can target 1 face-up monster you control; send 1 \"Archfiend\" monster from your Deck to the GY, except \"Duke Archfiend\", and if you do, increase the targeted monster's Level by the sent monster's. When your Ritual Monster is destroyed by battle while this card is in your GY: You can Special Summon this card.",
+  "attack": 0,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85154941.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85154941.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85154941.jpg"
+  }
+}

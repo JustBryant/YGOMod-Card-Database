@@ -1,0 +1,12 @@
+{
+  "id": 22346472,
+  "name": "Blustering Winds",
+  "type": "Spell Card",
+  "description": "Target 1 face-up monster you control; it gains 1000 ATK and DEF until your next Standby Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22346472.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22346472.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22346472.jpg"
+  }
+}

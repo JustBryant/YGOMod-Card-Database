@@ -1,0 +1,16 @@
+{
+  "id": 52550973,
+  "name": "Pharaoh's Servant",
+  "type": "Normal Monster",
+  "description": "An apparition of those said to formerly serve the Pharaoh. It has tremendous loyalty that does not waiver.",
+  "attack": 900,
+  "defense": 0,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52550973.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52550973.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52550973.jpg"
+  }
+}

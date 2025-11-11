@@ -1,0 +1,12 @@
+{
+  "id": 49587034,
+  "name": "Lightforce Sword",
+  "type": "Trap Card",
+  "description": "Banish 1 random card from your opponent's hand, face-down. During your opponent's 4th Standby Phase after this card's activation, return that card to their hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49587034.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49587034.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49587034.jpg"
+  }
+}

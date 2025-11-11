@@ -1,0 +1,16 @@
+{
+  "id": 87350908,
+  "name": "Masked Chopper",
+  "type": "Effect Monster",
+  "description": "If this card destroys an opponent's monster by battle, inflict 2000 damage to your opponent.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87350908.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87350908.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87350908.jpg"
+  }
+}

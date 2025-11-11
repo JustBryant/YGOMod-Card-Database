@@ -1,0 +1,16 @@
+{
+  "id": 10992251,
+  "name": "Gradius",
+  "type": "Normal Monster",
+  "description": "A high-performance jet fighter with power capsules for variable attack capabilities.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10992251.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10992251.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10992251.jpg"
+  }
+}

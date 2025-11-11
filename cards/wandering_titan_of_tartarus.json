@@ -1,0 +1,16 @@
+{
+  "id": 43363035,
+  "name": "Wandering Titan of Tartarus",
+  "type": "Effect Monster",
+  "description": "If this card is sent from the Deck to the GY: Send as many cards you control as possible to the GY, and if you do, Special Summon this card, then send cards your opponent controls to the GY up to the number sent to the GY by this effect. Neither player can activate monster effects in response to this effect's activation. If this card is sent to the GY, except from the Deck: You can send 1 card from your hand to the GY; send 1 card on the field to the GY. You can only use 1 \"Wandering Titan of Tartarus\" effect per turn, and only once that turn.",
+  "attack": 2600,
+  "defense": 0,
+  "level": 9,
+  "attribute": "EARTH",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43363035.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43363035.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43363035.jpg"
+  }
+}

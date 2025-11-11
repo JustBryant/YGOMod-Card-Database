@@ -1,0 +1,16 @@
+{
+  "id": 86569121,
+  "name": "Melchid the Four-Face Beast",
+  "type": "Normal Monster",
+  "description": "This monster has four different masks for four different attacks.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86569121.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86569121.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86569121.jpg"
+  }
+}

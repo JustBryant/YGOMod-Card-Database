@@ -1,0 +1,12 @@
+{
+  "id": 13556444,
+  "name": "Stardust Mirage",
+  "type": "Trap Card",
+  "description": "If you control a Level 8 or higher Dragon Synchro Monster: Special Summon as many monsters as possible from your GY that were destroyed and sent to your GY by battle or an opponent's card effect this turn. You can only activate 1 \"Stardust Mirage\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13556444.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13556444.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13556444.jpg"
+  }
+}

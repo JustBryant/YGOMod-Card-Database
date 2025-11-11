@@ -1,0 +1,16 @@
+{
+  "id": 78193831,
+  "name": "Buster Blader",
+  "type": "Effect Monster",
+  "description": "Gains 500 ATK for each Dragon monster your opponent controls or is in their GY.",
+  "attack": 2600,
+  "defense": 2300,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78193831.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78193831.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78193831.jpg"
+  }
+}

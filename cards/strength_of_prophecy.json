@@ -1,0 +1,16 @@
+{
+  "id": 13002461,
+  "name": "Strength of Prophecy",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can shuffle 1 \"Spellbook\" Spell Card from your Graveyard into your Deck to target 1 face-up Spellcaster-Type monster on the field; increase its Level by 1 and its ATK by 500.",
+  "attack": 1500,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13002461.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13002461.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13002461.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 46435376,
+  "name": "Infernity Sage",
+  "type": "Tuner Monster",
+  "description": "During your Main Phase: You can discard your entire hand. If this card is sent to the GY: You can send 1 \"Infernity\" monster from your Deck to the GY. You must have no cards in your hand to activate and to resolve this effect. You can only use each effect of \"Infernity Sage\" once per turn.",
+  "attack": 400,
+  "defense": 800,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46435376.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46435376.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46435376.jpg"
+  }
+}

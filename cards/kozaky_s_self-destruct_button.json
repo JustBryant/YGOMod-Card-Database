@@ -1,0 +1,12 @@
+{
+  "id": 21908319,
+  "name": "Kozaky's Self-Destruct Button",
+  "type": "Trap Card",
+  "description": "Inflict 1000 damage to the player who destroyed this Set card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21908319.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21908319.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21908319.jpg"
+  }
+}

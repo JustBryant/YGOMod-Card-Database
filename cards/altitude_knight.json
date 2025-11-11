@@ -1,0 +1,16 @@
+{
+  "id": 27632240,
+  "name": "Altitude Knight",
+  "type": "Effect Monster",
+  "description": "Once per turn, if another monster on the field returns to the hand or Main Deck: Send 1 WIND monster from your Deck to the Graveyard.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27632240.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27632240.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27632240.jpg"
+  }
+}

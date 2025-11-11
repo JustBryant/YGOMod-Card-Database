@@ -1,0 +1,12 @@
+{
+  "id": 91078716,
+  "name": "Pollinosis",
+  "type": "Trap Card",
+  "description": "When a monster(s) would be Normal or Special Summoned, OR a Spell/Trap Card is activated: Tribute 1 Plant monster; negate the Summon or activation, and if you do, destroy that card.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91078716.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91078716.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91078716.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 80032567,
+  "name": "Jurrac Giganoto",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner Dinosaur-Type monsters\nAll face-up \"Jurrac\" monsters you control gain 200 ATK for each \"Jurrac\" monster in your Graveyard.",
+  "attack": 2100,
+  "defense": 1800,
+  "level": 7,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80032567.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80032567.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80032567.jpg"
+  }
+}

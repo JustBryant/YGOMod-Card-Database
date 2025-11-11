@@ -1,0 +1,16 @@
+{
+  "id": 25773409,
+  "name": "Legendary Jujitsu Master",
+  "type": "Effect Monster",
+  "description": "If this Defense Position card battled a monster, at the end of the Damage Step: Place that monster on the top of the Deck.",
+  "attack": 1300,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25773409.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25773409.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25773409.jpg"
+  }
+}

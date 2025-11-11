@@ -1,0 +1,16 @@
+{
+  "id": 80538728,
+  "name": "Wind-Up Knight",
+  "type": "Effect Monster",
+  "description": "When a face-up \"Wind-Up\" monster you control is targeted for an attack: You can negate the attack. This effect can only be used once while this card is face-up on the field.",
+  "attack": 1800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80538728.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80538728.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80538728.jpg"
+  }
+}

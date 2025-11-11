@@ -1,0 +1,12 @@
+{
+  "id": 22201234,
+  "name": "Lightsworn Barrier",
+  "type": "Trap Card",
+  "description": "When a \"Lightsworn\" monster you control is targeted for an attack: You can send the top 2 cards of your Deck to the Graveyard, then target the attacking monster; negate the attack.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22201234.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22201234.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22201234.jpg"
+  }
+}

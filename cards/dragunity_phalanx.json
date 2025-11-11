@@ -1,0 +1,16 @@
+{
+  "id": 59755122,
+  "name": "Dragunity Phalanx",
+  "type": "Tuner Monster",
+  "description": "Once per turn, while this card is equipped to a monster: You can Special Summon this equipped card.",
+  "attack": 500,
+  "defense": 1100,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59755122.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59755122.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59755122.jpg"
+  }
+}

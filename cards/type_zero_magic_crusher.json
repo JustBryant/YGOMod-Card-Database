@@ -1,0 +1,12 @@
+{
+  "id": 21237481,
+  "name": "Type Zero Magic Crusher",
+  "type": "Trap Card",
+  "description": "Discard 1 Spell Card from your hand to inflict 500 points of damage to your opponent's Life Points.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21237481.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21237481.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21237481.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 81384993,
+  "name": "Malefic Divide",
+  "type": "Spell Card",
+  "description": "Target 1 \"Malefic\" monster in your GY; Special Summon it, ignoring its Summoning conditions, but its effects are negated, also banish it during the End Phase.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81384993.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81384993.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81384993.jpg"
+  }
+}

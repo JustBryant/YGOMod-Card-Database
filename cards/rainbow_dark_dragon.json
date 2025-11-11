@@ -1,0 +1,16 @@
+{
+  "id": 79407975,
+  "name": "Rainbow Dark Dragon",
+  "type": "Effect Monster",
+  "description": "(This card is always treated as an \"Ultimate Crystal\" card.)\r\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 7 DARK monsters with different names from your GY. You can banish all other DARK monsters from your field and GY; this card gains 500 ATK for each card banished this way.",
+  "attack": 4000,
+  "defense": 0,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79407975.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79407975.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79407975.jpg"
+  }
+}

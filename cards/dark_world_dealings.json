@@ -1,0 +1,12 @@
+{
+  "id": 74117290,
+  "name": "Dark World Dealings",
+  "type": "Spell Card",
+  "description": "Each player draws 1 card, then each player discards 1 card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74117290.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74117290.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74117290.jpg"
+  }
+}

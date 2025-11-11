@@ -1,0 +1,16 @@
+{
+  "id": 87526784,
+  "name": "Crashbug X",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 \"Crashbug Z\" from your Deck. You must control a face-up \"Crashbug Y\" to activate and to resolve this effect.",
+  "attack": 0,
+  "defense": 2000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87526784.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87526784.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87526784.jpg"
+  }
+}

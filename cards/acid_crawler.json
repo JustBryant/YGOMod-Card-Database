@@ -1,0 +1,16 @@
+{
+  "id": 77568553,
+  "name": "Acid Crawler",
+  "type": "Normal Monster",
+  "description": "''A giant caterpillar that secretes an acid mist that melts anything.''",
+  "attack": 900,
+  "defense": 700,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77568553.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77568553.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77568553.jpg"
+  }
+}

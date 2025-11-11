@@ -1,0 +1,16 @@
+{
+  "id": 69380702,
+  "name": "Bunilla",
+  "type": "Normal Monster",
+  "description": "This rabbit's got a sweet tooth! He's on a quest for the world's sweetest carrot, and just wants to nibble carrots all day today, tomorrow, and the day after that!",
+  "attack": 150,
+  "defense": 2050,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69380702.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69380702.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69380702.jpg"
+  }
+}

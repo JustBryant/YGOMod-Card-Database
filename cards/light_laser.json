@@ -1,0 +1,12 @@
+{
+  "id": 11471117,
+  "name": "Light Laser",
+  "type": "Spell Card",
+  "description": "Equip only to a LIGHT Warrior-Type monster. Remove from play any monsters that battle with it at the end of Damage Step.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11471117.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11471117.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11471117.jpg"
+  }
+}

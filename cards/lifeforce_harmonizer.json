@@ -1,0 +1,16 @@
+{
+  "id": 76214441,
+  "name": "Lifeforce Harmonizer",
+  "type": "Effect Monster",
+  "description": "When your opponent activates a card's effect that inflicts damage, you can discard this card to negate its activation and destroy it.",
+  "attack": 800,
+  "defense": 400,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76214441.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76214441.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76214441.jpg"
+  }
+}

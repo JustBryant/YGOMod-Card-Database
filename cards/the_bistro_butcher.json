@@ -1,0 +1,16 @@
+{
+  "id": 71107816,
+  "name": "The Bistro Butcher",
+  "type": "Effect Monster",
+  "description": "When this card inflicts Battle Damage to your opponent, your opponent draws 2 cards.",
+  "attack": 1800,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71107816.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71107816.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71107816.jpg"
+  }
+}

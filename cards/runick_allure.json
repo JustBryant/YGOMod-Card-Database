@@ -1,0 +1,12 @@
+{
+  "id": 29595202,
+  "name": "Runick Allure",
+  "type": "Spell Card",
+  "description": "Each time a Quick-Play Spell Card activates: Banish the top card of your opponent's Deck. You can only control 1 \"Runick Allure\".",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29595202.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29595202.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29595202.jpg"
+  }
+}

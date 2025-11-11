@@ -1,0 +1,12 @@
+{
+  "id": 99657399,
+  "name": "Asleep at the Switch",
+  "type": "Trap Card",
+  "description": "When your opponent gains Life Points: Target 1 monster your opponent controls; destroy that target.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99657399.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99657399.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99657399.jpg"
+  }
+}

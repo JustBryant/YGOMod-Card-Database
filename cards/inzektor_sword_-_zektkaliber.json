@@ -1,0 +1,12 @@
+{
+  "id": 16550875,
+  "name": "Inzektor Sword - Zektkaliber",
+  "type": "Spell Card",
+  "description": "Equip only to an \"Inzektor\" monster. It gains 800 ATK and DEF. When this face-up card on the field is sent to the Graveyard: Target 1 \"Inzektor\" monster in your Graveyard; add that target to your hand.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16550875.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16550875.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16550875.jpg"
+  }
+}

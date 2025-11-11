@@ -1,0 +1,16 @@
+{
+  "id": 29095552,
+  "name": "Masked HERO Acid",
+  "type": "Fusion Monster",
+  "description": "Must be Special Summoned with \"Mask Change\". When this card is Special Summoned: Destroy as many Spells and Traps your opponent controls as possible, and if you do, all monsters they control lose 300 ATK.",
+  "attack": 2600,
+  "defense": 2100,
+  "level": 8,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29095552.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29095552.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29095552.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 23842445,
+  "name": "Nitro Unit",
+  "type": "Spell Card",
+  "description": "Equip only to a monster on your opponent's side of the field. When the equipped monster is destroyed by battle and sent to the Graveyard, inflict damage to your opponent equal to the ATK of the equipped monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23842445.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23842445.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23842445.jpg"
+  }
+}

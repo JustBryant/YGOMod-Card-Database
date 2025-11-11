@@ -1,0 +1,16 @@
+{
+  "id": 14466224,
+  "name": "The Atmosphere",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 monsters you control and 1 monster from your Graveyard. Once per turn: You can target 1 face-up monster your opponent controls; equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains ATK and DEF equal to the ATK and DEF of that equipped monster.",
+  "attack": 1000,
+  "defense": 800,
+  "level": 8,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14466224.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14466224.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14466224.jpg"
+  }
+}

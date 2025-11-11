@@ -1,0 +1,12 @@
+{
+  "id": 85775486,
+  "name": "Reboot",
+  "type": "Spell Card",
+  "description": "Shuffle 1 \"Meklord\" monster from your hand into the Deck, then target 1 \"Meklord\" card in your Graveyard; add that target to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85775486.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85775486.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85775486.jpg"
+  }
+}

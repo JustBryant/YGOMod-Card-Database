@@ -1,0 +1,16 @@
+{
+  "id": 44910027,
+  "name": "Victory Dragon",
+  "type": "Effect Monster",
+  "description": "This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Dragon-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.",
+  "attack": 2400,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44910027.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44910027.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44910027.jpg"
+  }
+}

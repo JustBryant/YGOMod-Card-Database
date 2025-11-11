@@ -1,0 +1,16 @@
+{
+  "id": 2420921,
+  "name": "Shire, Lightsworn Spirit",
+  "type": "Effect Monster",
+  "description": "This card gains 300 ATK for each \"Lightsworn\" monster with a different name in your Graveyard. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.",
+  "attack": 400,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2420921.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2420921.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2420921.jpg"
+  }
+}

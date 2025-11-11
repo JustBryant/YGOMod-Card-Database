@@ -1,0 +1,16 @@
+{
+  "id": 89494469,
+  "name": "Dark Titan of Terror",
+  "type": "Normal Monster",
+  "description": "A fiend said to dwell in the world of dreams, it attacks enemies in their sleep.",
+  "attack": 1300,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89494469.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89494469.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89494469.jpg"
+  }
+}

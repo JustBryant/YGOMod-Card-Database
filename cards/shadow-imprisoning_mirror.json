@@ -1,0 +1,12 @@
+{
+  "id": 99735427,
+  "name": "Shadow-Imprisoning Mirror",
+  "type": "Trap Card",
+  "description": "Negate all DARK monster effects activated on the field or in the Graveyard.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99735427.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99735427.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99735427.jpg"
+  }
+}

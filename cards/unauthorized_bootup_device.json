@@ -1,0 +1,16 @@
+{
+  "id": 81951640,
+  "name": "Unauthorized Bootup Device",
+  "type": "Union Effect Monster",
+  "description": "Once per turn, you can either: Target 1 face-up monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead. If this card is destroyed and sent to the GY while equipped to a monster: You can Special Summon this card. You can only use this effect of \"Unauthorized Bootup Device\" once per turn.",
+  "attack": 500,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81951640.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81951640.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81951640.jpg"
+  }
+}

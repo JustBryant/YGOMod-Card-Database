@@ -1,0 +1,16 @@
+{
+  "id": 98147766,
+  "name": "Genetic Woman",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can pay 1000 Life Points and select 1 of your removed from play Psychic-Type monsters. Add it to your hand.",
+  "attack": 1700,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98147766.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98147766.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98147766.jpg"
+  }
+}

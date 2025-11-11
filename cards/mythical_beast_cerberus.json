@@ -1,0 +1,16 @@
+{
+  "id": 55424270,
+  "name": "Mythical Beast Cerberus",
+  "type": "Effect Monster",
+  "description": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 500 ATK for each Spell Counter on it. At the end of the Battle Phase, if this card battled, remove all Spell Counters on it.",
+  "attack": 1400,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55424270.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55424270.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55424270.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 300302002,
+  "name": "Ritual Ceremony",
+  "type": "Skill Card",
+  "description": "Activate this Skill during your Main Phase. Once per Duel, you can reveal 1 Ritual Monster from your hand, then add 1 Ritual Spell from your Deck to your hand that can Ritual Summon that monster.",
+  "race": "Emma",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302002.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302002.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302002.jpg"
+  }
+}

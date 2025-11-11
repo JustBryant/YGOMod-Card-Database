@@ -1,0 +1,16 @@
+{
+  "id": 87010442,
+  "name": "Legacy Hunter",
+  "type": "Effect Monster",
+  "description": "When this card attacks a face-down Defense Position monster and destroys it and sends it to the Graveyard as a result of battle, your opponent returns 1 random card from their hand to their Deck. Their Deck is then shuffled.",
+  "attack": 1000,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87010442.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87010442.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87010442.jpg"
+  }
+}

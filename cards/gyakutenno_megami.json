@@ -1,0 +1,16 @@
+{
+  "id": 31122090,
+  "name": "Gyakutenno Megami",
+  "type": "Normal Monster",
+  "description": "This fairy uses her mystical power to protect the weak and provide spiritual support.",
+  "attack": 1800,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31122090.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31122090.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31122090.jpg"
+  }
+}

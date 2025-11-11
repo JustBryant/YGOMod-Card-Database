@@ -1,0 +1,12 @@
+{
+  "id": 91351370,
+  "name": "Black Whirlwind",
+  "type": "Spell Card",
+  "description": "When a \"Blackwing\" monster is Normal Summoned to your field: You can add 1 \"Blackwing\" monster from your Deck to your hand with less ATK than that monster.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91351370.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91351370.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91351370.jpg"
+  }
+}

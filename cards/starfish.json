@@ -1,0 +1,16 @@
+{
+  "id": 44717069,
+  "name": "Starfish",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can increase the Levels of all \"Starfish\" you currently control by 1.",
+  "attack": 300,
+  "defense": 300,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44717069.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44717069.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44717069.jpg"
+  }
+}

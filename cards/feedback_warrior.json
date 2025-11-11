@@ -1,0 +1,16 @@
+{
+  "id": 50785356,
+  "name": "Feedback Warrior",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned: You can target 1 face-up monster you control; it becomes Level 3.",
+  "attack": 800,
+  "defense": 700,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50785356.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50785356.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50785356.jpg"
+  }
+}

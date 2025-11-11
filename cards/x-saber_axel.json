@@ -1,0 +1,16 @@
+{
+  "id": 53100061,
+  "name": "X-Saber Axel",
+  "type": "Effect Monster",
+  "description": "While you control this face-up card, when a \"Saber\" monster is destroyed by battle and sent to the Graveyard, draw 1 card.",
+  "attack": 400,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53100061.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53100061.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53100061.jpg"
+  }
+}

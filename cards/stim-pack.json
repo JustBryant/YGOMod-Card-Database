@@ -1,0 +1,12 @@
+{
+  "id": 83225447,
+  "name": "Stim-Pack",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 700 ATK. During each of your Standby Phases, the equipped monster loses 200 ATK.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83225447.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83225447.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83225447.jpg"
+  }
+}

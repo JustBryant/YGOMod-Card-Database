@@ -1,0 +1,16 @@
+{
+  "id": 39389320,
+  "name": "Battleguard King",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can Tribute any number of Warrior-Type monsters, except this card; for each Tributed monster, this card gains 1 additional attack during each Battle Phase this turn.",
+  "attack": 3000,
+  "defense": 1100,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39389320.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39389320.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39389320.jpg"
+  }
+}

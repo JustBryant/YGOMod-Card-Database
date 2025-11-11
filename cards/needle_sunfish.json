@@ -1,0 +1,16 @@
+{
+  "id": 56223084,
+  "name": "Needle Sunfish",
+  "type": "Effect Monster",
+  "description": "When this card is sent to the Graveyard: Target 1 face-up monster your opponent controls; that target loses 500 ATK.",
+  "attack": 1500,
+  "defense": 100,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56223084.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56223084.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56223084.jpg"
+  }
+}

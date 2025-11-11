@@ -1,0 +1,16 @@
+{
+  "id": 99030164,
+  "name": "Happy Lover",
+  "type": "Normal Monster",
+  "description": "Enemies become overjoyed when struck by the Heart Ray emitted from the forehead of this tiny cherub.",
+  "attack": 800,
+  "defense": 500,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99030164.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99030164.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99030164.jpg"
+  }
+}

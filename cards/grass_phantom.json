@@ -1,0 +1,16 @@
+{
+  "id": 41249545,
+  "name": "Grass Phantom",
+  "type": "Effect Monster",
+  "description": "This card gains 500 ATK for each \"Grass Phantom\" in your Graveyard.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41249545.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41249545.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41249545.jpg"
+  }
+}

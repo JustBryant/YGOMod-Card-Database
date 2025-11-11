@@ -1,0 +1,12 @@
+{
+  "id": 1644289,
+  "name": "Vylon Segment",
+  "type": "Spell Card",
+  "description": "Equip only to a \"Vylon\" monster. It cannot be targeted by the opponent's monster effects or Trap effects. If this face-up card on the field is sent to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1644289.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1644289.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1644289.jpg"
+  }
+}

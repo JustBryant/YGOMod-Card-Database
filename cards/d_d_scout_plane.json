@@ -1,0 +1,16 @@
+{
+  "id": 3773196,
+  "name": "D.D. Scout Plane",
+  "type": "Effect Monster",
+  "description": "Once per turn, during the End Phase, if this card is currently banished, and was banished this turn: Special Summon it in face-up Attack Position.",
+  "attack": 800,
+  "defense": 1200,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3773196.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3773196.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3773196.jpg"
+  }
+}

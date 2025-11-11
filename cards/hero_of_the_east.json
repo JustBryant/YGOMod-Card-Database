@@ -1,0 +1,16 @@
+{
+  "id": 89987208,
+  "name": "Hero of the East",
+  "type": "Normal Monster",
+  "description": "Feel da strength ah dis sword-swingin' samurai from da Far East.",
+  "attack": 1100,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89987208.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89987208.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89987208.jpg"
+  }
+}

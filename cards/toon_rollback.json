@@ -1,0 +1,12 @@
+{
+  "id": 70560957,
+  "name": "Toon Rollback",
+  "type": "Spell Card",
+  "description": "Target 1 Toon monster you control; it can make a second attack during each Battle Phase this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70560957.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70560957.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70560957.jpg"
+  }
+}

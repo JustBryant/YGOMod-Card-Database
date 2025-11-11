@@ -1,0 +1,16 @@
+{
+  "id": 39931513,
+  "name": "Tenpai Dragon Paidra",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can add to your hand or Set 1 \"Sangen\" Spell/Trap from your Deck. You can only use this effect of \"Tenpai Dragon Paidra\" once per turn. You take no battle damage from battles involving your FIRE Dragon monsters. Once per turn, during the Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
+  "attack": 1700,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39931513.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39931513.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39931513.jpg"
+  }
+}

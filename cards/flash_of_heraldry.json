@@ -1,0 +1,12 @@
+{
+  "id": 31809476,
+  "name": "Flash of Heraldry",
+  "type": "Spell Card",
+  "description": "Target any number of face-up monsters your opponent controls; those monsters' names become \"Unknown\". During your End Phase, if you control a Psychic Xyz Monster and this card is in your GY: You can Set this card, but banish it when it leaves the field. You can only use this effect of \"Flash of Heraldry\" once per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31809476.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31809476.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31809476.jpg"
+  }
+}

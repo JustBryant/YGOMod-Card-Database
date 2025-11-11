@@ -1,0 +1,12 @@
+{
+  "id": 48605591,
+  "name": "Terminal World NEXT",
+  "type": "Spell Card",
+  "description": "Activate this card if your opponent controls 3 or fewer monsters and 3 or fewer Spell/Trap Cards, while you control no other cards. Cards cannot be placed on the field if it would give any player more than 3 monsters or more than 3 Spell/Trap Cards on their field.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48605591.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48605591.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48605591.jpg"
+  }
+}

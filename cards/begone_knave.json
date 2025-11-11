@@ -1,0 +1,12 @@
+{
+  "id": 20374520,
+  "name": "Begone, Knave!",
+  "type": "Trap Card",
+  "description": "If a monster inflicts battle damage to a player: Return that monster to the hand.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20374520.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20374520.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20374520.jpg"
+  }
+}

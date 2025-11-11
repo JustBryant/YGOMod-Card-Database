@@ -1,0 +1,16 @@
+{
+  "id": 33365932,
+  "name": "Volcanic Shell",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can pay 500 LP; add 1 \"Volcanic Shell\" from your Deck to your hand. This card must be in the GY to activate and to resolve this effect.",
+  "attack": 100,
+  "defense": 0,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33365932.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33365932.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33365932.jpg"
+  }
+}

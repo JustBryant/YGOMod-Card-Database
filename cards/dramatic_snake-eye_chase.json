@@ -1,0 +1,12 @@
+{
+  "id": 26700718,
+  "name": "Dramatic Snake-Eye Chase",
+  "type": "Spell Card",
+  "description": "Place 1 \"Diabellstar\" monster from your hand, Deck, or GY face-up in its owner's Spell & Trap Zone as a Continuous Spell. During the End Phase: You can banish this card from your GY, then target 1 Monster Card treated as a Continuous Spell you control; Special Summon it. You can only use each effect of \"Dramatic Snake-Eye Chase\" once per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26700718.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26700718.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26700718.jpg"
+  }
+}

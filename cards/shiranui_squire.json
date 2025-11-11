@@ -1,0 +1,16 @@
+{
+  "id": 41562624,
+  "name": "Shiranui Squire",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned, you can: Special Summon 1 \"Shiranui Spectralsword\" monster from your hand or Deck, also you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. If this card is banished: You can draw 1 card, then discard 1 card. You can only use each effect of \"Shiranui Squire\" once per turn.",
+  "attack": 1500,
+  "defense": 0,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41562624.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41562624.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41562624.jpg"
+  }
+}

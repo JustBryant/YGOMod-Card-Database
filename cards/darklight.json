@@ -1,0 +1,12 @@
+{
+  "id": 29876529,
+  "name": "Darklight",
+  "type": "Trap Card",
+  "description": "Tribute 1 DARK monster with 1500 or more ATK; destroy all monsters that were Special Summoned this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29876529.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29876529.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29876529.jpg"
+  }
+}

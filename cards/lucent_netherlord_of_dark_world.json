@@ -1,0 +1,16 @@
+{
+  "id": 34968834,
+  "name": "Lucent, Netherlord of Dark World",
+  "type": "Effect Monster",
+  "description": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard, then, if this card was discarded from your hand to your Graveyard by an opponent's card effect, you can Special Summon 1 Fiend-Type monster from your Deck to either side of the field.",
+  "attack": 2400,
+  "defense": 0,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34968834.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34968834.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34968834.jpg"
+  }
+}

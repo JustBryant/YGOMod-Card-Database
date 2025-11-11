@@ -1,0 +1,12 @@
+{
+  "id": 75719089,
+  "name": "Glory of the Noble Knights",
+  "type": "Spell Card",
+  "description": "Target 1 \"Noble Knight\" monster you control; equip it with 1 Equip Spell from your Deck that can equip to that target. You can only activate 1 \"Glory of the Noble Knights\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75719089.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75719089.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75719089.jpg"
+  }
+}

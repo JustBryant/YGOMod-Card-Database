@@ -1,0 +1,12 @@
+{
+  "id": 98299011,
+  "name": "Gift of The Mystical Elf",
+  "type": "Trap Card",
+  "description": "Increase your Life Points by 300 points for each monster on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98299011.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98299011.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98299011.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 89333528,
+  "name": "Genex Gaia",
+  "type": "Effect Monster",
+  "description": "If this card would be destroyed, you can destroy 1 \"Genex Controller\" monster you control instead.",
+  "attack": 1000,
+  "defense": 1900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89333528.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89333528.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89333528.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 48305365,
+  "name": "Axe Raider",
+  "type": "Normal Monster",
+  "description": "An axe-wielding monster of tremendous strength and agility.",
+  "attack": 1700,
+  "defense": 1150,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48305365.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48305365.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48305365.jpg"
+  }
+}

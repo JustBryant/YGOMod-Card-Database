@@ -1,0 +1,16 @@
+{
+  "id": 42822433,
+  "name": "Tellarknight Altairan",
+  "type": "Effect Monster",
+  "description": "(This card is always treated as a \"Constellar\" card.)\r\nIf this card is Summoned: You can target cards on the field, up to the number of LIGHT and DARK Xyz Monsters you control; destroy them. If a \"tellarknight\" or \"Constellar\" monster(s) is Special Summoned to your field, except \"Tellarknight Altairan\" (except during the Damage Step): You can Special Summon this card from your GY, also you cannot declare attacks for the rest of this turn, except with Xyz Monsters. You can only use each effect of \"Tellarknight Altairan\" once per turn.",
+  "attack": 1700,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42822433.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42822433.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42822433.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 44956694,
+  "name": "ROM Cloudia",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can target 1 Cyberse monster in your GY, except \"ROM Cloudia\"; add it to your hand. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 or lower Cyberse monster from your Deck, except \"ROM Cloudia\".",
+  "attack": 1800,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44956694.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44956694.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44956694.jpg"
+  }
+}

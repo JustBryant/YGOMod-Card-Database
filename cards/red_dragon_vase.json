@@ -1,0 +1,12 @@
+{
+  "id": 87614611,
+  "name": "Red Dragon Vase",
+  "type": "Spell Card",
+  "description": "If you control a \"Red Dragon Archfiend\": Draw 2 cards. You cannot Normal or Special Summon monsters the turn you activate this card, and until the end of your opponent's turn after this card is activated.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87614611.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87614611.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87614611.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 60187739,
+  "name": "Turbo Booster",
+  "type": "Effect Monster",
+  "description": "If you have Normal Summoned a monster this turn, you can Special Summon this card from your hand. You can Tribute this card to destroy 1 monster your opponent controls that battled one of your monsters this turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60187739.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60187739.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60187739.jpg"
+  }
+}

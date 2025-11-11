@@ -1,0 +1,16 @@
+{
+  "id": 13429800,
+  "name": "Great White",
+  "type": "Normal Monster",
+  "description": "A giant white shark with razor-sharp teeth.",
+  "attack": 1600,
+  "defense": 800,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13429800.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13429800.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13429800.jpg"
+  }
+}

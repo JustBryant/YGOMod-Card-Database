@@ -1,0 +1,12 @@
+{
+  "id": 5616412,
+  "name": "Destruction Punch",
+  "type": "Trap Card",
+  "description": "If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster you control, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5616412.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5616412.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5616412.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 300201005,
+  "name": "Gravekeeper's Lot",
+  "type": "Skill Card",
+  "description": "[If you lose 1800 or more LP, you can activate this Skill during your next Draw Phase.]\r\n\r\nDuring your Draw Phase, you may search your Deck for a “Gravekeeper’s” card, reveal it to your opponent, and add it to your hand instead of drawing. If you do that, flip this card over.",
+  "race": "Ishizu",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300201005.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300201005.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300201005.jpg"
+  }
+}

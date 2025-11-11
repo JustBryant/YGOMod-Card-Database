@@ -1,0 +1,12 @@
+{
+  "id": 26708437,
+  "name": "Xyz Reborn",
+  "type": "Trap Card",
+  "description": "Target 1 Xyz Monster in your Graveyard; Special Summon it, and if you do, attach this card to it as an Xyz Material.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26708437.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26708437.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26708437.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 77189532,
+  "name": "Rokket Coder",
+  "type": "Effect Monster",
+  "description": "If this card would be used for the Link Summon of a \"Borrel\" monster, you can treat this card as a Dragon. You can only use each of the following effects of \"Rokket Coder\" once per turn. If a Cyberse monster you control would be used as Link Material for a \"Code Talker\" monster, this card in your hand can also be used as material. If this card you control would be used as Link Material for a \"Borrel\" monster, 1 DARK monster in your hand can also be used as material.",
+  "attack": 1700,
+  "defense": 300,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77189532.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77189532.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77189532.jpg"
+  }
+}

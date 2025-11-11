@@ -1,0 +1,16 @@
+{
+  "id": 91499077,
+  "name": "Gagaga Samurai",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 monsters\r\nOnce per turn: You can detach 1 material from this card, then target 1 \"Gagaga\" monster you control; it can make a second attack during each Battle Phase this turn. When another monster you control is targeted for an attack while this card is in Attack Position: You can change this card to face-up Defense Position, and if you do, change the attack target to this card and perform damage calculation.",
+  "attack": 1900,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91499077.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91499077.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91499077.jpg"
+  }
+}

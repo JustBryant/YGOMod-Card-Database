@@ -1,0 +1,12 @@
+{
+  "id": 7392746,
+  "name": "Chewbone Jr. Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Chewbone\".",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7392746.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7392746.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7392746.jpg"
+  }
+}

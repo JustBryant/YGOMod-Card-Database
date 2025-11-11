@@ -1,0 +1,12 @@
+{
+  "id": 43034264,
+  "name": "Laser Qlip",
+  "type": "Spell Card",
+  "description": "During your Main Phase, you can Normal Summon 1 \"Qli\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Normal Summons of \"Qli\" monsters cannot be negated.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43034264.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43034264.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43034264.jpg"
+  }
+}

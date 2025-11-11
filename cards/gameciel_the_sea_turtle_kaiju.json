@@ -1,0 +1,16 @@
+{
+  "id": 55063751,
+  "name": "Gameciel, the Sea Turtle Kaiju",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. When your opponent activates a card or effect, except \"Gameciel, the Sea Turtle Kaiju\" (Quick Effect): You can remove 2 Kaiju Counters from anywhere on the field; negate the activation, and if you do, banish that card.",
+  "attack": 2200,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55063751.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55063751.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55063751.jpg"
+  }
+}

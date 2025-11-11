@@ -1,0 +1,16 @@
+{
+  "id": 64631466,
+  "name": "Relinquished",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with \"Black Illusion Ritual\". Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64631466.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64631466.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64631466.jpg"
+  }
+}

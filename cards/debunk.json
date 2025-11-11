@@ -1,0 +1,12 @@
+{
+  "id": 65703851,
+  "name": "Debunk",
+  "type": "Trap Card",
+  "description": "When a monster effect is activated in the hand or GY: Negate the activation, and if you do, banish it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65703851.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65703851.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65703851.jpg"
+  }
+}

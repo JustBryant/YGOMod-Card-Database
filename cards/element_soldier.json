@@ -1,0 +1,16 @@
+{
+  "id": 66712593,
+  "name": "Element Soldier",
+  "type": "Effect Monster",
+  "description": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● WATER: Control of this card cannot switch. ● EARTH: Negate the effect of an Effect Monster that this card destroyed by battle.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66712593.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66712593.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66712593.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 99690140,
+  "name": "Gravekeeper's Vassal",
+  "type": "Effect Monster",
+  "description": "Any battle damage this card inflicts to your opponent is treated as effect damage instead.",
+  "attack": 700,
+  "defense": 500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99690140.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99690140.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99690140.jpg"
+  }
+}

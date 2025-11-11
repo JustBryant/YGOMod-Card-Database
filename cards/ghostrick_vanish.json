@@ -1,0 +1,12 @@
+{
+  "id": 50527144,
+  "name": "Ghostrick Vanish",
+  "type": "Trap Card",
+  "description": "Reveal 1 \"Ghostrick\" monster in your hand; this turn, \"Ghostrick\" cards you control, and face-down Defense Position monsters you control, cannot be targeted by, or be destroyed by, card effects.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50527144.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50527144.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50527144.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 31477025,
+  "name": "Mr. Volcano",
+  "type": "Normal Monster",
+  "description": "This seemingly mild-mannered creature has an extremely volatile temper.",
+  "attack": 2100,
+  "defense": 1300,
+  "level": 5,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31477025.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31477025.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31477025.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 44203504,
+  "name": "Robotic Knight",
+  "type": "Normal Monster",
+  "description": "The Commander of Machine-Types, he serves the Machine King. He is famous for the way he controls his troops.",
+  "attack": 1600,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44203504.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44203504.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44203504.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 55875323,
+  "name": "Electric Lizard",
+  "type": "Effect Monster",
+  "description": "A non Zombie-Type monster attacking \"Electric Lizard\" cannot attack on its following turn.",
+  "attack": 850,
+  "defense": 800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55875323.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55875323.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55875323.jpg"
+  }
+}

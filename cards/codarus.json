@@ -1,0 +1,16 @@
+{
+  "id": 65496056,
+  "name": "Codarus",
+  "type": "Effect Monster",
+  "description": "You can send 1 face-up \"Umi\" you control to the Graveyard to target up to 2 cards your opponent controls; send those targets to the Graveyard.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65496056.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65496056.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65496056.jpg"
+  }
+}

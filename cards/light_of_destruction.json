@@ -1,0 +1,12 @@
+{
+  "id": 83027236,
+  "name": "Light of Destruction",
+  "type": "Trap Card",
+  "description": "When an opponent's card effect sends a card(s) from their Deck to the Graveyard, send the top 3 cards of their Deck to the Graveyard.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83027236.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83027236.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83027236.jpg"
+  }
+}

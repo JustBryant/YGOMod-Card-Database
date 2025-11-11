@@ -1,0 +1,16 @@
+{
+  "id": 29601381,
+  "name": "Springans Captain Sargas",
+  "type": "Effect Monster",
+  "description": "If this card is in your hand, field, or GY: You can target 1 \"Springans\" Xyz Monster you control; attach this card to it as material. During your opponent's turn (Quick Effect): You can detach 1 material from an Xyz Monster you control, then target 1 face-up card on the field; destroy it. You can only use each of the previous effects of \"Springans Captain Sargas\" once per turn. A \"Springans\" Xyz Monster that has this card as material gains this effect.\r\n● This card gains 500 ATK.",
+  "attack": 1500,
+  "defense": 2800,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29601381.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29601381.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29601381.jpg"
+  }
+}

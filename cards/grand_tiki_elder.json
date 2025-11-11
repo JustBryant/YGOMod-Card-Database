@@ -1,0 +1,16 @@
+{
+  "id": 13676474,
+  "name": "Grand Tiki Elder",
+  "type": "Normal Monster",
+  "description": "A masked monster that wields the most deadly of curses.",
+  "attack": 1500,
+  "defense": 800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13676474.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13676474.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13676474.jpg"
+  }
+}

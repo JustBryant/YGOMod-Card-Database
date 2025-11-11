@@ -1,0 +1,16 @@
+{
+  "id": 88358139,
+  "name": "Performapal Helpprincess",
+  "type": "Effect Monster",
+  "description": "When you Normal or Special Summon a \"Performapal\" monster(s), except \"Performapal Helpprincess\" (except during the Damage Step): You can Special Summon this card from your hand.",
+  "attack": 1200,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88358139.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88358139.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88358139.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 83258273,
+  "name": "Robbin' Zombie",
+  "type": "Trap Card",
+  "description": "If your monster inflicts battle damage to your opponent: Send the top card of their Deck to the GY.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83258273.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83258273.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83258273.jpg"
+  }
+}

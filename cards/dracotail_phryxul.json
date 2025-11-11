@@ -1,0 +1,16 @@
+{
+  "id": 84477320,
+  "name": "Dracotail Phryxul",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can target 1 \"Dracotail\" monster in your GY, except \"Dracotail Phryxul\"; Special Summon it, then return 1 monster you control to the hand. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Phryxul\" once per turn.",
+  "attack": 800,
+  "defense": 1500,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84477320.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84477320.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84477320.jpg"
+  }
+}

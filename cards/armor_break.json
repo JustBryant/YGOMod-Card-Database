@@ -1,0 +1,12 @@
+{
+  "id": 79649195,
+  "name": "Armor Break",
+  "type": "Trap Card",
+  "description": "Negate the activation of an Equip Spell Card and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79649195.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79649195.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79649195.jpg"
+  }
+}

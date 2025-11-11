@@ -1,0 +1,12 @@
+{
+  "id": 52335937,
+  "name": "Exosister Bat Mater",
+  "type": "Spell Card",
+  "description": "When this card is activated: Add 2 \"Exosister\" monsters from your Deck to your hand, then discard 1 card. You can target 1 face-up monster you control; immediately after this effect resolves, Normal Summon 1 \"Exosister\" monster that is mentioned on that monster. If a monster(s) is sent to your opponent's GY, even during the Damage Step: You can make your opponent banish 1 of them. You can only use each effect of \"Exosister Bat Mater\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52335937.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52335937.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52335937.jpg"
+  }
+}

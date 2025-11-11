@@ -1,0 +1,16 @@
+{
+  "id": 58185394,
+  "name": "Giant Kozaky",
+  "type": "Effect Monster",
+  "description": "If there is no face-up \"Kozaky\" on the field, destroy this card. If this face-up card is destroyed, inflict damage equal to the original ATK of this card to its current controller.",
+  "attack": 2500,
+  "defense": 2400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58185394.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58185394.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58185394.jpg"
+  }
+}

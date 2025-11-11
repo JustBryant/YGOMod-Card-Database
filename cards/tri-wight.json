@@ -1,0 +1,12 @@
+{
+  "id": 96383838,
+  "name": "Tri-Wight",
+  "type": "Spell Card",
+  "description": "Target 3 Level 2 or lower Normal Monsters in your Graveyard; Special Summon them from the Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96383838.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96383838.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96383838.jpg"
+  }
+}

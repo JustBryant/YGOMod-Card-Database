@@ -1,0 +1,16 @@
+{
+  "id": 25577965,
+  "name": "Flametongue the Burning Blade",
+  "type": "Link Monster",
+  "description": "2 FIRE monsters\r\nFace-up Spells/Traps you control cannot be destroyed by your opponent's card effects. You can target 1 of your banished FIRE monsters; add it to your hand, but you cannot activate cards, or the effects of cards, with its name for the rest of this turn. You can only use this effect of \"Flametongue the Burning Blade\" once per turn.",
+  "attack": 1400,
+  "defense": null,
+  "level": null,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25577965.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25577965.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25577965.jpg"
+  }
+}

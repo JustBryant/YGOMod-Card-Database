@@ -1,0 +1,16 @@
+{
+  "id": 51987571,
+  "name": "Rockstone Warrior",
+  "type": "Effect Monster",
+  "description": "You take no Battle Damage from battles involving this card. When this attacking card is destroyed by battle and sent to the Graveyard, Special Summon 2 \"Rockstone Tokens\" (Rock-Type/EARTH/Level 1/ATK 0/DEF 0). These Tokens cannot be Tributed for a Tribute Summon.",
+  "attack": 1800,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51987571.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51987571.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51987571.jpg"
+  }
+}

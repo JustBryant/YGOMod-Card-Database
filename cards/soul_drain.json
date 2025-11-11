@@ -1,0 +1,12 @@
+{
+  "id": 73599290,
+  "name": "Soul Drain",
+  "type": "Trap Card",
+  "description": "Activate by paying 1000 LP. Monsters that are banished, as well as monsters in the GY, cannot activate their effects.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73599290.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73599290.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73599290.jpg"
+  }
+}

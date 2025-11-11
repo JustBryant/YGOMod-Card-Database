@@ -1,0 +1,16 @@
+{
+  "id": 44913552,
+  "name": "Timeater",
+  "type": "Effect Monster",
+  "description": "If this card destroys an opponent's monster by battle: Your opponent skips their next Main Phase 1.",
+  "attack": 1900,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44913552.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44913552.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44913552.jpg"
+  }
+}

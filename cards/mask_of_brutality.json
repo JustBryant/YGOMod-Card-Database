@@ -1,0 +1,12 @@
+{
+  "id": 82432018,
+  "name": "Mask of Brutality",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 1000 ATK and loses 1000 DEF. During each of your Standby Phases, pay 1000 LP or destroy this card.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82432018.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82432018.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82432018.jpg"
+  }
+}

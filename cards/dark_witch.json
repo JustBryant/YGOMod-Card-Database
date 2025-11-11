@@ -1,0 +1,16 @@
+{
+  "id": 35565537,
+  "name": "Dark Witch",
+  "type": "Normal Monster",
+  "description": "A popular creature in mythology that delivers fatal attacks with a sharp spear.",
+  "attack": 1800,
+  "defense": 1700,
+  "level": 5,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35565537.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35565537.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35565537.jpg"
+  }
+}

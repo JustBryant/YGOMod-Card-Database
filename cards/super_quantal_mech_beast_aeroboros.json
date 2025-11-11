@@ -1,0 +1,16 @@
+{
+  "id": 11646785,
+  "name": "Super Quantal Mech Beast Aeroboros",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 monsters\nCannot attack unless it has Xyz Material. Once per turn: You can detach 1 Xyz Material from this card, then target 1 other face-up monster on the field; change it to face-down Defense Position. This effect can be activated during either player's turn, if this card has \"Super Quantum Green Layer\" as Xyz Material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card as an Xyz Material.",
+  "attack": 2200,
+  "defense": 2400,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11646785.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11646785.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11646785.jpg"
+  }
+}

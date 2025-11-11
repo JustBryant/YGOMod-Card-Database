@@ -1,0 +1,16 @@
+{
+  "id": 50712728,
+  "name": "Gravekeeper's Curse",
+  "type": "Effect Monster",
+  "description": "If this card is Summoned: Inflict 500 damage to your opponent.",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50712728.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50712728.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50712728.jpg"
+  }
+}

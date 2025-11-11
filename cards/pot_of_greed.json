@@ -3,15 +3,10 @@
   "name": "Pot of Greed",
   "type": "Spell Card",
   "description": "Draw 2 cards.",
+  "race": "Normal",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/55144522.jpg",
     "small_url": "https://images.ygoprodeck.com/images/cards_small/55144522.jpg",
     "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55144522.jpg"
-  },
-  "race": "Normal",
-  "banlist_info": {
-    "ban_tcg": "Forbidden",
-    "ban_ocg": "Forbidden",
-    "ban_goat": "Limited"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "id": 39522887,
+  "name": "Snopios, Shade of the Ghoti",
+  "type": "Effect Monster",
+  "description": "During the Main Phase (Quick Effect): You can banish 2 Fish monsters from your hand and/or GY; Special Summon this card from your hand. If this card is Special Summoned: You can target 1 face-up card on the field; banish it when it leaves the field. If this card is banished: You can banish 1 Fish monster from your GY; add this card to your hand. You can only use each effect of \"Snopios, Shade of the Ghoti\" once per turn.",
+  "attack": 2100,
+  "defense": 0,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39522887.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39522887.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39522887.jpg"
+  }
+}

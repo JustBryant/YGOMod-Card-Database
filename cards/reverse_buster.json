@@ -1,0 +1,16 @@
+{
+  "id": 90640901,
+  "name": "Reverse Buster",
+  "type": "Effect Monster",
+  "description": "This card can only attack face-down Defense Position monsters. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacked a face-down Defense Position monster, at the start of the Damage Step: You can destroy that face-down monster.",
+  "attack": 1500,
+  "defense": 0,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90640901.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90640901.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90640901.jpg"
+  }
+}

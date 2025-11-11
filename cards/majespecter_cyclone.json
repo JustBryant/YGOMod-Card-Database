@@ -1,0 +1,12 @@
+{
+  "id": 49366157,
+  "name": "Majespecter Cyclone",
+  "type": "Spell Card",
+  "description": "Tribute 1 WIND Spellcaster-Type monster, then target 1 monster your opponent controls; destroy it.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49366157.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49366157.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49366157.jpg"
+  }
+}

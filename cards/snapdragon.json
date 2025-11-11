@@ -1,0 +1,16 @@
+{
+  "id": 75673220,
+  "name": "Snapdragon",
+  "type": "Effect Monster",
+  "description": "When this card is sent to the Graveyard: Banish 1 random card from your opponent's hand, until the End Phase. You can only use the effect of \"Snapdragon\" once per turn.",
+  "attack": 300,
+  "defense": 100,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75673220.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75673220.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75673220.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 56570271,
+  "name": "Destiny HERO - Disk Commander",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned from the GY the turn this card was sent to the GY. If this card is Special Summoned from the GY: You can draw 2 cards. You can only use this effect of \"Destiny HERO - Disk Commander\" once per Duel.",
+  "attack": 300,
+  "defense": 300,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56570271.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56570271.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56570271.jpg"
+  }
+}

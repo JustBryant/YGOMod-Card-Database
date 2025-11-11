@@ -1,0 +1,12 @@
+{
+  "id": 31222701,
+  "name": "Wavering Eyes",
+  "type": "Spell Card",
+  "description": "Destroy as many cards in each player's Pendulum Zones as possible, then apply these effects, in sequence, depending on the number of cards destroyed by this effect.\n● 1 or more: Inflict 500 damage to your opponent.\n● 2 or more: You can add 1 Pendulum Monster from your Main Deck to your hand.\n● 3 or more: You can banish 1 card on the field.\n● 4: You can add 1 \"Wavering Eyes\" from your Deck to your hand.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31222701.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31222701.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31222701.jpg"
+  }
+}

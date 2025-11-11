@@ -1,0 +1,16 @@
+{
+  "id": 17749468,
+  "name": "Azamina",
+  "type": "Fusion Monster",
+  "description": "\"Queen Azamina\" + 1 Fusion or Synchro Monster\r\nMust first be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 \"Saint Azamina\" you control and 1 face-up monster your opponent controls. Cannot be destroyed by card effects. Each time your opponent activates a card or effect, all monsters they control lose 500 ATK when it resolves. Your opponent cannot activate the effects of monsters with 0 ATK.",
+  "attack": 4000,
+  "defense": 4000,
+  "level": 12,
+  "attribute": "LIGHT",
+  "race": "Illusion",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17749468.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17749468.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17749468.jpg"
+  }
+}

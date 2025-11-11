@@ -1,0 +1,16 @@
+{
+  "id": 81985784,
+  "name": "Des Feral Imp",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Target 1 card in your Graveyard; shuffle that target into the Deck.",
+  "attack": 1600,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81985784.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81985784.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81985784.jpg"
+  }
+}

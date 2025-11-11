@@ -1,0 +1,16 @@
+{
+  "id": 74131780,
+  "name": "Exiled Force",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card to target 1 monster on the field; destroy that target.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74131780.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74131780.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74131780.jpg"
+  }
+}

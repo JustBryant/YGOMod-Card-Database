@@ -1,0 +1,16 @@
+{
+  "id": 56105047,
+  "name": "Gogogo Ghost",
+  "type": "Effect Monster",
+  "description": "If this card is Special Summoned: You can target 1 \"Gogogo Golem\" in your Graveyard; Special Summon that target in face-up Defense Position, then change this card to Defense Position. You can only use the effect of \"Gogogo Ghost\" once per turn.",
+  "attack": 1900,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56105047.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56105047.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56105047.jpg"
+  }
+}

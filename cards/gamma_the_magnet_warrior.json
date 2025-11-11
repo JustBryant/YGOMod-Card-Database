@@ -1,0 +1,16 @@
+{
+  "id": 11549357,
+  "name": "Gamma the Magnet Warrior",
+  "type": "Normal Monster",
+  "description": "Alpha, Beta, and Gamma meld as one to form a powerful monster.",
+  "attack": 1500,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11549357.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11549357.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11549357.jpg"
+  }
+}

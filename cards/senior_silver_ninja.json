@@ -1,0 +1,16 @@
+{
+  "id": 87483942,
+  "name": "Senior Silver Ninja",
+  "type": "Effect Monster",
+  "description": "When this card is flipped face-up: You can Special Summon any number of \"Ninja\" monsters, except \"Senior Silver Ninja\", from your hand and/or Graveyard in face-down Defense Position. There can only be 1 face-up \"Senior Silver Ninja\" on the field.",
+  "attack": 2300,
+  "defense": 2200,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87483942.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87483942.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87483942.jpg"
+  }
+}

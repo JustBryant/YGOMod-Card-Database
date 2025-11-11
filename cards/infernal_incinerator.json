@@ -1,0 +1,16 @@
+{
+  "id": 23309606,
+  "name": "Infernal Incinerator",
+  "type": "Effect Monster",
+  "description": "This card can only be Normal Summoned or Set by discarding all other card(s) in your hand and Tributing 1 card you control with 2000 or more ATK. This card gains 200 ATK for each monster your opponent controls. This card loses 500 ATK for each other monster you control.",
+  "attack": 2800,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23309606.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23309606.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23309606.jpg"
+  }
+}

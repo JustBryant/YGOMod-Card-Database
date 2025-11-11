@@ -1,0 +1,16 @@
+{
+  "id": 89662401,
+  "name": "Salamangreat Fowl",
+  "type": "Effect Monster",
+  "description": "If a \"Salamangreat\" monster(s), except \"Salamangreat Fowl\" is Normal or Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of \"Salamangreat Fowl\" once per turn. You can send 1 \"Salamangreat\" card from your hand or face-up field to the GY, then target 1 Set Spell/Trap your opponent controls; that Set card cannot be activated this turn.",
+  "attack": 1800,
+  "defense": 200,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89662401.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89662401.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89662401.jpg"
+  }
+}

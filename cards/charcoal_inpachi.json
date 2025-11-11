@@ -1,0 +1,16 @@
+{
+  "id": 13179332,
+  "name": "Charcoal Inpachi",
+  "type": "Normal Monster",
+  "description": "A wicked wooden spirit that has burned out. The barbecue grilled with this charcoal is so awesome that everybody thinks it's priceless.",
+  "attack": 100,
+  "defense": 2100,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13179332.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13179332.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13179332.jpg"
+  }
+}

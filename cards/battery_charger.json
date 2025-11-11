@@ -1,0 +1,12 @@
+{
+  "id": 61181383,
+  "name": "Battery Charger",
+  "type": "Spell Card",
+  "description": "Pay 500 Life Points. Special Summon 1 \"Batteryman\" monster from your Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61181383.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61181383.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61181383.jpg"
+  }
+}

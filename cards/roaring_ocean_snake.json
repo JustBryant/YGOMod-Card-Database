@@ -1,0 +1,16 @@
+{
+  "id": 19066538,
+  "name": "Roaring Ocean Snake",
+  "type": "Fusion Monster",
+  "description": "\"Mystic Lamp\" + \"Hyosube\"",
+  "attack": 2100,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19066538.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19066538.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19066538.jpg"
+  }
+}

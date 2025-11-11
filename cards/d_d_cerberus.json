@@ -1,0 +1,16 @@
+{
+  "id": 39153655,
+  "name": "D/D Cerberus",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn: You can target 1 \"D/D\" monster you control; change its Level to 4, and if you do, it gains 400 ATK and DEF (even if this card leaves the field).\n\n[ Monster Effect ] \nWhen this card is Pendulum Summoned from the hand, while you control a \"D/D\" monster other than \"D/D Cerberus\": You can target 1 Continuous Spell Card in your Graveyard; add it to your hand.",
+  "attack": 1800,
+  "defense": 600,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39153655.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39153655.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39153655.jpg"
+  }
+}

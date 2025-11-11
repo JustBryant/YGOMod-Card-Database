@@ -1,0 +1,16 @@
+{
+  "id": 85310252,
+  "name": "Dododo Driver",
+  "type": "Effect Monster",
+  "description": "Up to twice per turn, if this card was Special Summoned by the effect of a \"Dododo\" monster this turn: You can target 1 \"Dododo\" monster you control, then activate 1 of these effects;\n● Increase its Level by 1.\n● Reduce its Level by 1.",
+  "attack": 1800,
+  "defense": 200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85310252.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85310252.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85310252.jpg"
+  }
+}

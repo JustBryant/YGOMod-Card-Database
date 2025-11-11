@@ -1,0 +1,16 @@
+{
+  "id": 58843503,
+  "name": "Medium Piece Golem",
+  "type": "Effect Monster",
+  "description": "When this card is Summoned, if you control a \"Big Piece Golem\", you can Special Summon 1 \"Small Piece Golem\" from your Deck. That monster's effect is negated while it is face-up on the field.",
+  "attack": 1600,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58843503.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58843503.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58843503.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 263926,
+  "name": "Bonze Alone",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal or Special Summoned if you control a monster. You can Special Summon this card (from your hand) in Attack Position. If another monster(s) is Summoned to your field while you control this monster: Destroy this card.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/263926.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/263926.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/263926.jpg"
+  }
+}

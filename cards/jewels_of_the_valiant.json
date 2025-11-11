@@ -1,0 +1,12 @@
+{
+  "id": 72710085,
+  "name": "Jewels of the Valiant",
+  "type": "Spell Card",
+  "description": "If exactly 1 monster is banished from your Graveyard (and no other cards are banished at the same time), except during the Damage Step: You can send, from your Deck to the Graveyard, 1 monster that has a different Attribute from that banished monster. You can only use the effect of \"Jewels of the Valiant\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72710085.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72710085.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72710085.jpg"
+  }
+}

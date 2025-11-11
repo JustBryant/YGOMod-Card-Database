@@ -1,0 +1,16 @@
+{
+  "id": 24573625,
+  "name": "Deskbot 008",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"Deskbot\" monsters. This effect cannot be negated.\n\n[ Monster Effect ] \nThis card gains 500 ATK for each \"Deskbot\" card in your Graveyard. Your opponent cannot target face-up \"Deskbot\" cards with card effects, except this one. This card can make up to 2 attacks on monsters during each Battle Phase.",
+  "attack": 500,
+  "defense": 500,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24573625.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24573625.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24573625.jpg"
+  }
+}

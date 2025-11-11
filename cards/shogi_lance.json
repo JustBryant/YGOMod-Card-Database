@@ -1,0 +1,16 @@
+{
+  "id": 32476434,
+  "name": "Shogi Lance",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 other Level 3 Beast-Warrior-Type monster you control; the Levels of that monster and this card become the combined Levels of those monsters.",
+  "attack": 500,
+  "defense": 500,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32476434.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32476434.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32476434.jpg"
+  }
+}

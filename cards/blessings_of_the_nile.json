@@ -1,0 +1,12 @@
+{
+  "id": 30653113,
+  "name": "Blessings of the Nile",
+  "type": "Spell Card",
+  "description": "Each time card(s) are discarded from your hand to the Graveyard by the effect of a card controlled by your opponent, increase your Life Points by 1000 points.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30653113.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30653113.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30653113.jpg"
+  }
+}

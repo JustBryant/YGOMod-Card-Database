@@ -1,0 +1,16 @@
+{
+  "id": 23693634,
+  "name": "Colossal Fighter",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nThis card gains 100 ATK for every Warrior-Type monster in any Graveyard. When this card is destroyed by battle and sent to the Graveyard: You can target 1 Warrior-Type monster in either Graveyard; Special Summon that target.",
+  "attack": 2800,
+  "defense": 1000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23693634.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23693634.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23693634.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10189126,
+  "name": "Masked Sorcerer",
+  "type": "Effect Monster",
+  "description": "When this card inflicts Battle Damage to your opponent's Life Points, draw 1 card from your Deck.",
+  "attack": 900,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10189126.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10189126.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10189126.jpg"
+  }
+}

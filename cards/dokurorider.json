@@ -1,0 +1,16 @@
+{
+  "id": 99721536,
+  "name": "Dokurorider",
+  "type": "Ritual Monster",
+  "description": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Revival of Dokurorider\". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.",
+  "attack": 1900,
+  "defense": 1850,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99721536.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99721536.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99721536.jpg"
+  }
+}

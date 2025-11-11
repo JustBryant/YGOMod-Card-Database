@@ -3,10 +3,10 @@
   "name": "Vile Germs",
   "type": "Spell Card",
   "description": "A Plant-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+  "race": "Equip",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/39774685.jpg",
     "small_url": "https://images.ygoprodeck.com/images/cards_small/39774685.jpg",
     "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39774685.jpg"
-  },
-  "race": "Equip"
+  }
 }

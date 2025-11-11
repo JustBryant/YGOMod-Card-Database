@@ -1,0 +1,16 @@
+{
+  "id": 94092230,
+  "name": "Steelswarm Hercules",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned. Requires 3 \"Steelswarm\" Tributes to Normal Summon (cannot be Normal Set). Once per turn: You can pay half your Life Points; destroy all other cards on the field.",
+  "attack": 3200,
+  "defense": 0,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94092230.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94092230.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94092230.jpg"
+  }
+}

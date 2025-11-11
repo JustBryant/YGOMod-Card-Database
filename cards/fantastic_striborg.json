@@ -1,0 +1,16 @@
+{
+  "id": 79176962,
+  "name": "Fantastic Striborg",
+  "type": "Effect Monster",
+  "description": "Monsters Tributed for the face-up Tribute Summon of this card are returned to the hand instead of going to the GY. Once per turn: You can discard 1 card; return all cards your opponent controls in this card's column to the hand.",
+  "attack": 2200,
+  "defense": 2200,
+  "level": 5,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79176962.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79176962.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79176962.jpg"
+  }
+}

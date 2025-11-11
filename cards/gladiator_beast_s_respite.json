@@ -1,0 +1,12 @@
+{
+  "id": 98891840,
+  "name": "Gladiator Beast's Respite",
+  "type": "Spell Card",
+  "description": "Shuffle 2 \"Gladiator Beast\" cards from your hand into the Deck, then draw 3 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98891840.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98891840.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98891840.jpg"
+  }
+}

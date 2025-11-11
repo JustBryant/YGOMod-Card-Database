@@ -1,0 +1,12 @@
+{
+  "id": 54031490,
+  "name": "Shien's Smoke Signal",
+  "type": "Spell Card",
+  "description": "Add 1 Level 3 or lower \"Six Samurai\" monster from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54031490.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54031490.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54031490.jpg"
+  }
+}

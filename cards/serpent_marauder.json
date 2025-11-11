@@ -1,0 +1,16 @@
+{
+  "id": 82742611,
+  "name": "Serpent Marauder",
+  "type": "Normal Monster",
+  "description": "''A snake with a single eye that blows an icy breath to freeze its opponents.''",
+  "attack": 700,
+  "defense": 600,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82742611.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82742611.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82742611.jpg"
+  }
+}

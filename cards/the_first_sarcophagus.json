@@ -1,0 +1,12 @@
+{
+  "id": 31076103,
+  "name": "The First Sarcophagus",
+  "type": "Trap Card",
+  "description": "During each of your opponent's End Phases, place 1 card face-up on your side of the field from your hand or Deck in this order: \"The Second Sarcophagus\", \"The Third Sarcophagus\". If 1 Sarcophagus card is removed from your side of the field, all of them on your side of the field are sent to the Graveyard. When you have all 3 Sarcophagus cards on your side of the field, send all Sarcophagus cards on your side of the field to the Graveyard to Special Summon 1 \"Spirit of the Pharaoh\" from your hand or Deck.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31076103.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31076103.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31076103.jpg"
+  }
+}

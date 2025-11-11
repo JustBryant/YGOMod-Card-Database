@@ -1,0 +1,12 @@
+{
+  "id": 21007444,
+  "name": "Double-Edged Sword Technique",
+  "type": "Trap Card",
+  "description": "Target 2 \"Six Samurai\" monsters in your GY; Special Summon those targets in Attack Position. During the End Phase of this turn, destroy them, and if you do, take damage equal to those destroyed monsters' ATK.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21007444.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21007444.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21007444.jpg"
+  }
+}

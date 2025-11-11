@@ -1,0 +1,16 @@
+{
+  "id": 56286179,
+  "name": "Drill Synchron",
+  "type": "Tuner Monster",
+  "description": "If a Warrior-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, when you inflict battle damage to your opponent with this effect: You can draw 1 card.",
+  "attack": 800,
+  "defense": 300,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56286179.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56286179.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56286179.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 22011689,
+  "name": "Predaplant Moray Nepenthes",
+  "type": "Effect Monster",
+  "description": "This card gains 200 ATK for each Predator Counter on the field. When this card destroys an opponent's monster by battle: You can equip that monster to this card. Once per turn: You can target 1 Monster Card equipped to this card by this card's effect; destroy it, and if you do, gain LP equal to its original ATK.",
+  "attack": 1600,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22011689.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22011689.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22011689.jpg"
+  }
+}

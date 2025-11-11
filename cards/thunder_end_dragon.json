@@ -1,0 +1,16 @@
+{
+  "id": 698785,
+  "name": "Thunder End Dragon",
+  "type": "XYZ Monster",
+  "description": "2 Level 8 Normal Monsters\nOnce per turn: You can detach 1 Xyz Material from this card; destroy all other monsters on the field.",
+  "attack": 3000,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/698785.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/698785.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/698785.jpg"
+  }
+}

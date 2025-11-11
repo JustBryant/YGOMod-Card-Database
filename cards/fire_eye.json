@@ -1,0 +1,16 @@
+{
+  "id": 88435542,
+  "name": "Fire Eye",
+  "type": "Normal Monster",
+  "description": "''An eye engulfed in flames that flaps its wings to create hot blasts of air.''",
+  "attack": 800,
+  "defense": 600,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88435542.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88435542.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88435542.jpg"
+  }
+}

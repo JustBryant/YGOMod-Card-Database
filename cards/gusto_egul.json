@@ -1,0 +1,16 @@
+{
+  "id": 91662792,
+  "name": "Gusto Egul",
+  "type": "Tuner Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 or lower non-Tuner \"Gusto\" monster from your Deck.",
+  "attack": 200,
+  "defense": 400,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91662792.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91662792.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91662792.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 49879995,
+  "name": "Phantom Dragon",
+  "type": "Effect Monster",
+  "description": "When your opponent Special Summons a monster (except during the Damage Step): You can Special Summon this card from your hand. 2 of your Monster Card Zones cannot be used.",
+  "attack": 2300,
+  "defense": 2200,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49879995.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49879995.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49879995.jpg"
+  }
+}

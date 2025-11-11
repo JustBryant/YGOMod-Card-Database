@@ -1,0 +1,16 @@
+{
+  "id": 71521025,
+  "name": "Red Blossoms from Underroot",
+  "type": "Effect Monster",
+  "description": "If this card is in your hand: You can target 1 Spell/Trap in each GY; banish them, and if you do, Special Summon this card. You can Tribute this card, then target 1 Fusion, Synchro, Xyz, or Link Monster in either GY; banish that target, and if you do, Special Summon 1 monster from your GY with a different monster card type (Fusion, Synchro, Xyz, or Link) from that target. You can only use each effect of \"Red Blossoms from Underroot\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71521025.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71521025.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71521025.jpg"
+  }
+}

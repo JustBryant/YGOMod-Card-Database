@@ -1,0 +1,16 @@
+{
+  "id": 8327462,
+  "name": "Skullbird",
+  "type": "Fusion Monster",
+  "description": "\"Takuhee\" + \"Temple of Skulls\"",
+  "attack": 1900,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8327462.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8327462.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8327462.jpg"
+  }
+}

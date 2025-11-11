@@ -1,0 +1,16 @@
+{
+  "id": 66809920,
+  "name": "Valkyrie Erste",
+  "type": "Effect Monster",
+  "description": "If this card is Special Summoned from your hand by a Spell effect: You can target 1 \"Mischief of the Time Goddess\" in your GY; add it to your hand. If you control a \"Valkyrie\" monster other than \"Valkyrie Erste\" (Quick Effect): You can banish 1 monster from your opponent's GY, then this card's ATK becomes equal to the banished monster's original ATK until the end of this turn. You can only use each effect of \"Valkyrie Erste\" once per turn.",
+  "attack": 1600,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66809920.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66809920.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66809920.jpg"
+  }
+}

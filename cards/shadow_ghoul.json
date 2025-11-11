@@ -1,0 +1,16 @@
+{
+  "id": 30778711,
+  "name": "Shadow Ghoul",
+  "type": "Effect Monster",
+  "description": "This card gains 100 ATK for each monster in your Graveyard.",
+  "attack": 1600,
+  "defense": 1300,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30778711.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30778711.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30778711.jpg"
+  }
+}

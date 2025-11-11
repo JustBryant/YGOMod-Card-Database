@@ -1,0 +1,16 @@
+{
+  "id": 46657337,
+  "name": "Muka Muka",
+  "type": "Effect Monster",
+  "description": "This card gains 300 ATK and DEF for each card in your hand.",
+  "attack": 600,
+  "defense": 300,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46657337.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46657337.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46657337.jpg"
+  }
+}

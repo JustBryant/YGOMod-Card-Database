@@ -1,0 +1,16 @@
+{
+  "id": 3732747,
+  "name": "Water Element",
+  "type": "Normal Monster",
+  "description": "''A sea-dwelling spirit that takes away sight by clouding the area in fog.''",
+  "attack": 900,
+  "defense": 700,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3732747.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3732747.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3732747.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 32269855,
+  "name": "The All-Seeing White Tiger",
+  "type": "Normal Monster",
+  "description": "A proud ruler of the jungle that some fear and others respect.",
+  "attack": 1300,
+  "defense": 500,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32269855.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32269855.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32269855.jpg"
+  }
+}

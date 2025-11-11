@@ -1,0 +1,16 @@
+{
+  "id": 50702124,
+  "name": "Synchro Magnet",
+  "type": "Tuner Monster",
+  "description": "This card cannot be Normal Summoned or Set. When you Synchro Summon a Synchro Monster, you can Special Summon this card from your hand.",
+  "attack": 1000,
+  "defense": 600,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50702124.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50702124.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50702124.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 73356503,
+  "name": "Barrier Statue of the Stormwinds",
+  "type": "Effect Monster",
+  "description": "No monsters can be Special Summoned, except for WIND monsters.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73356503.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73356503.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73356503.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10449150,
+  "name": "Shuttleroid",
+  "type": "Effect Monster",
+  "description": "When this card is targeted for an attack: You can banish this card. During your next Standby Phase: Special Summon this card banished by this effect. If Summoned this way: Inflict 1000 damage to your opponent.",
+  "attack": 1000,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10449150.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10449150.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10449150.jpg"
+  }
+}

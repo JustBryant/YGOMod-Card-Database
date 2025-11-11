@@ -1,0 +1,12 @@
+{
+  "id": 33782437,
+  "name": "One Day of Peace",
+  "type": "Spell Card",
+  "description": "Each player draws 1 card, and neither player takes damage until the end of the opponent's next turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33782437.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33782437.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33782437.jpg"
+  }
+}

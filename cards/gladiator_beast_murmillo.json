@@ -1,0 +1,16 @@
+{
+  "id": 5975022,
+  "name": "Gladiator Beast Murmillo",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: Target 1 face-up monster; destroy that target. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Murmillo\".",
+  "attack": 800,
+  "defense": 400,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5975022.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5975022.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5975022.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 93895605,
+  "name": "Hate Buster",
+  "type": "Trap Card",
+  "description": "When a Fiend-Type monster you control is targeted for an attack: Target the opponent's attacking monster and that monster you control; destroy both targets, and if you do, inflict damage to your opponent equal to the original ATK of the opponent's destroyed monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93895605.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93895605.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93895605.jpg"
+  }
+}

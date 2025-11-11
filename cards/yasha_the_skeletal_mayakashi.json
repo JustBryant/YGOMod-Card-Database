@@ -1,0 +1,16 @@
+{
+  "id": 77714963,
+  "name": "Yasha, the Skeletal Mayakashi",
+  "type": "Effect Monster",
+  "description": "You can discard 1 other \"Mayakashi\" monster; Special Summon this card from your hand. You can only use this effect of \"Yasha, the Skeletal Mayakashi\" once per turn. You cannot Special Summon monsters from the Extra Deck, except \"Mayakashi\" monsters.",
+  "attack": 2000,
+  "defense": 0,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77714963.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77714963.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77714963.jpg"
+  }
+}

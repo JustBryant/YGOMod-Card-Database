@@ -1,0 +1,16 @@
+{
+  "id": 31034919,
+  "name": "Mad Reloader",
+  "type": "Effect Monster",
+  "description": "If this card is destroyed by battle and sent to the GY: Send 2 cards from your hand to the GY, and if you do, draw 2 cards.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31034919.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31034919.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31034919.jpg"
+  }
+}

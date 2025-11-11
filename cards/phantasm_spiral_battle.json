@@ -1,0 +1,12 @@
+{
+  "id": 34302287,
+  "name": "Phantasm Spiral Battle",
+  "type": "Trap Card",
+  "description": "If all monsters you control are Normal Monsters (min. 1): Target 1 card your opponent controls; destroy it. If \"Umi\" is on the field, you can activate this card from your hand. You can banish this card from your Graveyard, then target 1 Normal Monster you control; equip that Normal Monster with all \"Phantasm Spiral\" Equip Spell Cards you control that can equip to it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34302287.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34302287.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34302287.jpg"
+  }
+}

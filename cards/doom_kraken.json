@@ -1,0 +1,16 @@
+{
+  "id": 69436288,
+  "name": "Doom Kraken",
+  "type": "Effect Monster",
+  "description": "If \"Umi\" is on the field (Quick Effect): You can target 1 WATER monster you control, except \"Doom Kraken\", and 1 monster your opponent controls; Special Summon this card from your hand, and if you do, return that monster you control to the hand, and if you do that, destroy that opponent's monster. When an opponent's monster declares an attack: You can return this card to the hand, and if you do, negate that attack. You can only use each effect of \"Doom Kraken\" once per turn.",
+  "attack": 1400,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69436288.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69436288.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69436288.jpg"
+  }
+}

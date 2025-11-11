@@ -1,0 +1,16 @@
+{
+  "id": 13014905,
+  "name": "Agnimal Candle",
+  "type": "Tuner Monster",
+  "description": "If this card is added to your hand, except by drawing it: You can Special Summon this card. You can only use this effect of \"Agnimal Candle\" once per turn. Once per Chain, up to thrice per turn, if a monster is sent to your GY (except during the Damage Step): You can increase or decrease this card's Level by 1.",
+  "attack": 1700,
+  "defense": 0,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13014905.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13014905.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13014905.jpg"
+  }
+}

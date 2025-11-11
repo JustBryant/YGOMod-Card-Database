@@ -1,0 +1,12 @@
+{
+  "id": 42664989,
+  "name": "Card of Sanctity",
+  "type": "Spell Card",
+  "description": "Banish all other cards you control and in your hand (min. 1 from each); draw until you have 2 cards in your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42664989.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42664989.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42664989.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 78512663,
+  "name": "Elemental HERO Magma Neos",
+  "type": "Fusion Monster",
+  "description": "\"Elemental HERO Neos\" + \"Neo-Spacian Flare Scarab\" + \"Neo-Spacian Grand Mole\"\r\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) This card gains 400 ATK for each card on the field. Once per turn, during the End Phase: Shuffle this card into the Extra Deck. If this card is shuffled into the Extra Deck this way: Return all cards on the field to the hand.",
+  "attack": 3000,
+  "defense": 2500,
+  "level": 9,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78512663.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78512663.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78512663.jpg"
+  }
+}

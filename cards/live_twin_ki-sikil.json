@@ -1,0 +1,16 @@
+{
+  "id": 36326160,
+  "name": "Live☆Twin Ki-sikil",
+  "type": "Effect Monster",
+  "description": "Each time an opponent's monster declares an attack, you gain 500 LP. If this card is Normal or Special Summoned and you control no other monsters: You can Special Summon 1 \"Lil-la\" monster from your hand or Deck. You can only use this effect of \"Live☆Twin Ki-sikil\" once per turn.",
+  "attack": 500,
+  "defense": 0,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36326160.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36326160.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36326160.jpg"
+  }
+}

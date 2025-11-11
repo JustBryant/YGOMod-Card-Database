@@ -1,0 +1,12 @@
+{
+  "id": 63391643,
+  "name": "Thousand Knives",
+  "type": "Spell Card",
+  "description": "If you control \"Dark Magician\": Target 1 monster your opponent controls; destroy that target.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63391643.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63391643.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63391643.jpg"
+  }
+}

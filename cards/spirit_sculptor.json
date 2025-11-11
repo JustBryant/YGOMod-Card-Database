@@ -1,0 +1,16 @@
+{
+  "id": 19307353,
+  "name": "Spirit Sculptor",
+  "type": "Effect Monster",
+  "description": "You can Tribute 1 monster; add 1 monster from your Deck to your hand, whose combined original ATK/DEF equals the combined original ATK/DEF of the Tributed monster. You can only use this effect of \"Spirit Sculptor\" once per turn.",
+  "attack": 1600,
+  "defense": 2100,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19307353.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19307353.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19307353.jpg"
+  }
+}

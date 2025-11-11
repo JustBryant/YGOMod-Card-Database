@@ -1,0 +1,12 @@
+{
+  "id": 86809440,
+  "name": "Mimighoul Dungeon",
+  "type": "Spell Card",
+  "description": "\"Mimighoul\" monsters you control that were not Normal or Special Summoned this turn gain ATK equal to their original DEF. Any player who controls a face-down monster cannot Normal Summon monsters, nor declare an attack with monsters that were Special Summoned this turn. During your Main Phase: You can add 1 \"Mimighoul\" monster from your Deck or GY to your hand. You can only use this effect of \"Mimighoul Dungeon\" once per turn.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86809440.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86809440.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86809440.jpg"
+  }
+}

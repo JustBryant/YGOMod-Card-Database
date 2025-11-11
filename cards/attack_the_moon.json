@@ -1,0 +1,12 @@
+{
+  "id": 83715234,
+  "name": "Attack the Moon!",
+  "type": "Spell Card",
+  "description": "Once per turn, when the battle position of a Rock-Type monster you control is changed: You can target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83715234.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83715234.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83715234.jpg"
+  }
+}

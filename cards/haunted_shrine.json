@@ -1,0 +1,12 @@
+{
+  "id": 39033131,
+  "name": "Haunted Shrine",
+  "type": "Trap Card",
+  "description": "If you control no monsters: Target 1 Zombie monster in your GY; Special Summon it. If you control no monsters: You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon it, but its effects are negated. You can only use 1 \"Haunted Shrine\" effect per turn, and only once that turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39033131.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39033131.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39033131.jpg"
+  }
+}

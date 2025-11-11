@@ -1,0 +1,16 @@
+{
+  "id": 69448290,
+  "name": "Mist Valley Thunderbird",
+  "type": "Effect Monster",
+  "description": "When this face-up card on the field returns to the hand, Special Summon it. This card cannot attack during the turn it was Special Summoned by this effect.",
+  "attack": 1100,
+  "defense": 700,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69448290.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69448290.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69448290.jpg"
+  }
+}

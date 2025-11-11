@@ -1,0 +1,16 @@
+{
+  "id": 37426272,
+  "name": "Materiactor Exareptor",
+  "type": "Effect Monster",
+  "description": "You can reveal this card in your hand and discard 1 other card; add 1 Level 3 Normal Monster from your Deck or GY to your hand, except the discarded card, then you can Special Summon this card in Defense Position. You can only use this effect of \"Materiactor Exareptor\" once per turn. (Quick Effect): You can discard this card, then target 1 Rank 3 Xyz Monster you control; it gains 1500 ATK until the end of this turn.",
+  "attack": 1500,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37426272.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37426272.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37426272.jpg"
+  }
+}

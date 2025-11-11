@@ -1,0 +1,16 @@
+{
+  "id": 28168762,
+  "name": "Sunvine Gardna",
+  "type": "Link Monster",
+  "description": "1 Plant Normal Monster\r\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. When an attack is declared involving this card, linked to a \"Sunavalon\" Link Monster, and an opponent's monster: You can activate this effect; the damage you take from that battle is halved. When this card is destroyed by battle: End the Battle Phase after the Damage Step.",
+  "attack": 600,
+  "defense": null,
+  "level": null,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28168762.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28168762.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28168762.jpg"
+  }
+}

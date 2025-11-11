@@ -1,0 +1,16 @@
+{
+  "id": 5368615,
+  "name": "Steam Gyroid",
+  "type": "Fusion Monster",
+  "description": "\"Gyroid\" + \"Steamroid\"",
+  "attack": 2200,
+  "defense": 1600,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5368615.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5368615.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5368615.jpg"
+  }
+}

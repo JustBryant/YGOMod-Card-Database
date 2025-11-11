@@ -1,0 +1,16 @@
+{
+  "id": 93709215,
+  "name": "Darkness Destroyer",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned. This card can attack twice during each Battle Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+  "attack": 2300,
+  "defense": 1800,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93709215.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93709215.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93709215.jpg"
+  }
+}

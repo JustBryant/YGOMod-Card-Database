@@ -1,0 +1,12 @@
+{
+  "id": 30643162,
+  "name": "Strike Slash",
+  "type": "Trap Card",
+  "description": "When a monster you control declares an attack: Until the End Phase, that monster gains 700 ATK, also, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30643162.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30643162.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30643162.jpg"
+  }
+}

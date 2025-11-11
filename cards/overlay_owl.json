@@ -1,0 +1,16 @@
+{
+  "id": 59644958,
+  "name": "Overlay Owl",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can pay 600 Life Points; detach 1 Xyz Material from a monster on the field.",
+  "attack": 800,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59644958.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59644958.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59644958.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 39761138,
+  "name": "Neo Flamvell Shaman",
+  "type": "Effect Monster",
+  "description": "If this card destroys an opponent's monster by battle while you have 3 or more \"Flamvell\" monsters in your Graveyard, select 1 card in your opponent's Graveyard and remove it from play. If your opponent does not have any Spell Cards in their Graveyard when this effect activates, inflict 500 damage to your opponent.",
+  "attack": 1700,
+  "defense": 200,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39761138.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39761138.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39761138.jpg"
+  }
+}

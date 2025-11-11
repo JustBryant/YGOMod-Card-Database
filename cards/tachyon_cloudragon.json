@@ -1,0 +1,16 @@
+{
+  "id": 72705654,
+  "name": "Tachyon Cloudragon",
+  "type": "Effect Monster",
+  "description": "If this card is added to your hand, except by drawing it: You can Special Summon this card. You can Tribute this card; Special Summon 1 \"Tachyon\" monster from your Deck or GY, except \"Tachyon Cloudragon\". If you Special Summon a Dragon Xyz Monster(s) (except during the Damage Step): You can target 1 of them; attach this card to that monster, from the GY (if it was there when the monster was Special Summoned) or hand (even if not), as material. You can only use each effect of \"Tachyon Cloudragon\" once per turn.",
+  "attack": 300,
+  "defense": 250,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72705654.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72705654.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72705654.jpg"
+  }
+}

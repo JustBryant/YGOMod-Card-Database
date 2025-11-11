@@ -1,0 +1,16 @@
+{
+  "id": 66288028,
+  "name": "Fortress Warrior",
+  "type": "Effect Monster",
+  "description": "You take no battle damage from attacks involving this card. Once per turn, this card cannot be destroyed by battle.",
+  "attack": 600,
+  "defense": 1200,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66288028.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66288028.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66288028.jpg"
+  }
+}

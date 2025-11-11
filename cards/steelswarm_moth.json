@@ -1,0 +1,16 @@
+{
+  "id": 22009013,
+  "name": "Steelswarm Moth",
+  "type": "Effect Monster",
+  "description": "When this card is Tribute Summoned by Tributing a \"Steelswarm\" monster: You can pay 1000 Life Points to target up to 2 cards your opponent controls; return those targets to the hand.",
+  "attack": 2400,
+  "defense": 0,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22009013.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22009013.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22009013.jpg"
+  }
+}

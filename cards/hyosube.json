@@ -1,0 +1,16 @@
+{
+  "id": 2118022,
+  "name": "Hyosube",
+  "type": "Normal Monster",
+  "description": "This amphibian is strong on the attack, but leaves much to be desired when defending.",
+  "attack": 1500,
+  "defense": 900,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2118022.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2118022.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2118022.jpg"
+  }
+}

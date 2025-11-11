@@ -1,0 +1,16 @@
+{
+  "id": 79747096,
+  "name": "Number C1: Numeron Chaos Gate Sunya",
+  "type": "XYZ Monster",
+  "description": "4 Level 2 monsters\r\nYou can also Xyz Summon this card by using \"Number 1: Numeron Gate Ekam\" you control as material. (Transfer its materials to this card.) If this card is Xyz Summoned: Banish all monsters on the field. Once per turn, during your next Standby Phase after this card was banished: You can Special Summon this banished card, then if \"Numeron Network\" is in your Field Zone, inflict damage to your opponent equal to the combined ATK of all banished Xyz Monsters.",
+  "attack": 2000,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79747096.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79747096.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79747096.jpg"
+  }
+}

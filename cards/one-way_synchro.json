@@ -1,0 +1,12 @@
+{
+  "id": 89932017,
+  "name": "One-Way Synchro",
+  "type": "Trap Card",
+  "description": "Take 1 Level 1 Tuner from your Deck or GY, and either add it to your hand or Special Summon it. If you control \"Junk Warrior\" or a monster that mentions it, and this card is in your GY: You can Set this card, but banish it when it leaves the field. You can only use 1 \"One-Way Synchro\" effect per turn, and only once that turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89932017.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89932017.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89932017.jpg"
+  }
+}

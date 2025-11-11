@@ -1,0 +1,16 @@
+{
+  "id": 84687358,
+  "name": "Mirror Force Dragon",
+  "type": "Fusion Monster",
+  "description": "Must be Special Summoned with \"The Fang of Critias\", using \"Mirror Force\". When a monster(s) you control is targeted for an attack or by an opponent's card effect (except during the Damage Step): You can destroy all cards your opponent controls.",
+  "attack": 2800,
+  "defense": 1200,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84687358.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84687358.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84687358.jpg"
+  }
+}

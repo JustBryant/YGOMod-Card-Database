@@ -1,0 +1,12 @@
+{
+  "id": 17653779,
+  "name": "Fairy's Hand Mirror",
+  "type": "Trap Card",
+  "description": "When your opponent activates a Spell Card that targets exactly 1 monster (and no other cards) on the field: Target another card that would be an appropriate target; that Spell now targets the new target.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17653779.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17653779.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17653779.jpg"
+  }
+}

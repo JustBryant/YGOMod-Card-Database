@@ -1,0 +1,16 @@
+{
+  "id": 82888408,
+  "name": "The Fabled Cerburrel",
+  "type": "Tuner Monster",
+  "description": "If this card is discarded to the GY: Special Summon it.",
+  "attack": 1000,
+  "defense": 400,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82888408.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82888408.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82888408.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4167084,
+  "name": "The First Darklord",
+  "type": "Fusion Monster",
+  "description": "3 DARK Fairy monsters\r\nYour opponent cannot target Fairy monsters you control with card effects. You can only use 1 of the following effects of \"The First Darklord\" per turn, and only once that turn.\r\n● If this card is Fusion Summoned using \"Darklord Morningstar\" as material: You can destroy all cards your opponent controls.\r\n● During the Main Phase (Quick Effect): You can pay 1000 LP; Special Summon 1 Fairy monster from your hand or GY in Defense Position.",
+  "attack": 4000,
+  "defense": 4000,
+  "level": 12,
+  "attribute": "DARK",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4167084.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4167084.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4167084.jpg"
+  }
+}

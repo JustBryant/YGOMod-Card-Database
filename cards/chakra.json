@@ -1,0 +1,16 @@
+{
+  "id": 65393205,
+  "name": "Chakra",
+  "type": "Ritual Monster",
+  "description": "You can Ritual Summon this card with \"Resurrection of Chakra\".",
+  "attack": 2450,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65393205.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65393205.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65393205.jpg"
+  }
+}

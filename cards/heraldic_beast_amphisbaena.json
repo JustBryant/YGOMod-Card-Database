@@ -1,0 +1,16 @@
+{
+  "id": 87255382,
+  "name": "Heraldic Beast Amphisbaena",
+  "type": "Effect Monster",
+  "description": "You can discard 1 other \"Heraldic Beast\" monster; Special Summon this card from your hand. Once per turn: You can discard 1 \"Heraldic Beast\" monster; this card gains 800 ATK until the end of this turn.",
+  "attack": 1700,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87255382.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87255382.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87255382.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 81524977,
+  "name": "Seed Cannon",
+  "type": "Spell Card",
+  "description": "Each time a Plant-Type monster(s) is Summoned, place 1 Plant Counter on this card (max. 5). You can send this card to the Graveyard to inflict 500 damage to your opponent for each Plant Counter on it.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81524977.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81524977.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81524977.jpg"
+  }
+}

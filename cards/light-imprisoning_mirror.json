@@ -1,0 +1,12 @@
+{
+  "id": 53341729,
+  "name": "Light-Imprisoning Mirror",
+  "type": "Trap Card",
+  "description": "Negate all LIGHT monster effects activated on the field or in the Graveyard.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53341729.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53341729.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53341729.jpg"
+  }
+}

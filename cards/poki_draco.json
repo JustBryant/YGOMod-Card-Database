@@ -1,0 +1,16 @@
+{
+  "id": 8175346,
+  "name": "Poki Draco",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can add 1 \"Poki Draco\" from your Deck to your hand.",
+  "attack": 200,
+  "defense": 100,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8175346.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8175346.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8175346.jpg"
+  }
+}

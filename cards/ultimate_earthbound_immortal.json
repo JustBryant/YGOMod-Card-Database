@@ -1,0 +1,12 @@
+{
+  "id": 70109009,
+  "name": "Ultimate Earthbound Immortal",
+  "type": "Trap Card",
+  "description": "If a Normal Summoned/Set \"Earthbound Immortal\" monster is on the field: You can target 1 face-up monster on the field; destroy it. You can only use this effect of \"Ultimate Earthbound Immortal\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70109009.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70109009.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70109009.jpg"
+  }
+}

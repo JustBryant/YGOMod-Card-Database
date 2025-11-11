@@ -1,0 +1,12 @@
+{
+  "id": 7133305,
+  "name": "Water of Life",
+  "type": "Spell Card",
+  "description": "If you control no monsters: Target 1 monster in your GY; Special Summon that target in Attack Position, also, for the rest of this turn after this card resolves, you cannot activate monster effects, except the effects of that Special Summoned monster on the field. You can only activate 1 \"Water of Life\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7133305.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7133305.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7133305.jpg"
+  }
+}

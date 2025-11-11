@@ -1,0 +1,12 @@
+{
+  "id": 9831539,
+  "name": "Tannhauser Gate",
+  "type": "Spell Card",
+  "description": "Target 2 monsters you control of the same Type with 1000 or less ATK; both monsters' Levels become the combined Levels of those 2 monsters.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9831539.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9831539.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9831539.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 20714553,
+  "name": "Endymion, the Crescent of Magistus",
+  "type": "Link Monster",
+  "description": "2 monsters, including a Level 4 Spellcaster monster\r\nIf this card is Link Summoned: You can target 1 \"Magistus\" monster you control; equip 1 Spellcaster monster from your GY or banishment to it. During the Main Phase (Quick Effect): You can target 1 Spellcaster Monster Card in your Spell & Trap Zone treated as an Equip Spell; return it to the hand. You can only use 1 \"Endymion, the Crescent of Magistus\" effect per turn, and only once that turn.",
+  "attack": 1850,
+  "defense": null,
+  "level": null,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20714553.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20714553.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20714553.jpg"
+  }
+}

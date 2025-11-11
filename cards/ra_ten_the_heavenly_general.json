@@ -1,0 +1,16 @@
+{
+  "id": 30163008,
+  "name": "Ra'ten, the Heavenly General",
+  "type": "Link Monster",
+  "description": "2+ monsters with the same Type\r\nOnce per turn, during the Standby Phase: You can target 1 face-up monster this card points to; Special Summon 1 Level 4 or lower monster with the same Type as that monster from your hand to your zone this card points to. At the start of the Battle Phase: You can target 1 card your opponent controls; destroy it. You can only use this effect of \"Ra'ten, the Heavenly General\" once per turn.",
+  "attack": 2200,
+  "defense": null,
+  "level": null,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30163008.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30163008.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30163008.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 63503850,
+  "name": "Brute Enforcer",
+  "type": "Link Monster",
+  "description": "2 Effect Monsters\r\nYou can discard 1 card, then target 1 face-up card your opponent controls; your opponent can discard 1 card with the same original card type (Monster, Spell, or Trap) as that face-up card to negate this effect, otherwise destroy that face-up card. You can only use this effect of \"Brute Enforcer\" once per turn.",
+  "attack": 1600,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63503850.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63503850.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63503850.jpg"
+  }
+}

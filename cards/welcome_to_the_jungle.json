@@ -1,0 +1,12 @@
+{
+  "id": 300302076,
+  "name": "Welcome to the Jungle",
+  "type": "Skill Card",
+  "description": "After damage calculation, if you took battle damage from a battle involving an opponent's monster and your Attack Position \"Amazoness\" monster, that opponent's monster loses ATK/DEF equal to the ATK of the \"Amazoness\" monster it battled, until the end of this turn.",
+  "race": "Tania",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302076.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302076.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302076.jpg"
+  }
+}

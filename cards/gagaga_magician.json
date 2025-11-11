@@ -1,0 +1,16 @@
+{
+  "id": 26082117,
+  "name": "Gagaga Magician",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can declare a Level from 1 to 8; this card becomes that Level until the End Phase. You can only control 1 \"Gagaga Magician\". This card cannot be used as a Synchro Material Monster.",
+  "attack": 1500,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26082117.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26082117.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26082117.jpg"
+  }
+}

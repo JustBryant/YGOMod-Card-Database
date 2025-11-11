@@ -1,0 +1,16 @@
+{
+  "id": 68007326,
+  "name": "Guardian Angel Joan",
+  "type": "Effect Monster",
+  "description": "When this card destroys a monster by battle and sends it to the Graveyard: Gain Life Points equal to the original ATK of that destroyed monster in the Graveyard.",
+  "attack": 2800,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68007326.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68007326.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68007326.jpg"
+  }
+}

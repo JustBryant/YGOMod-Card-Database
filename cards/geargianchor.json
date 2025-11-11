@@ -1,0 +1,16 @@
+{
+  "id": 92693205,
+  "name": "Geargianchor",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can change this card to face-down Defense Position. If this card is flipped face-up: You can destroy monsters on the field, up to the number of other \"Geargia\" monsters you currently control.",
+  "attack": 1800,
+  "defense": 500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92693205.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92693205.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92693205.jpg"
+  }
+}

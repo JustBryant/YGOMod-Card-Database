@@ -1,0 +1,12 @@
+{
+  "id": 87890143,
+  "name": "Generation Force",
+  "type": "Spell Card",
+  "description": "If you control an Xyz Monster: Add 1 \"Xyz\" card from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87890143.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87890143.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87890143.jpg"
+  }
+}

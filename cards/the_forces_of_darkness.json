@@ -1,0 +1,12 @@
+{
+  "id": 29826127,
+  "name": "The Forces of Darkness",
+  "type": "Trap Card",
+  "description": "Target 2 \"Dark World\" monsters in your Graveyard; add those targets to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29826127.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29826127.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29826127.jpg"
+  }
+}

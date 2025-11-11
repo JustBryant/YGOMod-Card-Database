@@ -1,0 +1,16 @@
+{
+  "id": 72869010,
+  "name": "Soul Hunter",
+  "type": "Fusion Monster",
+  "description": "\"Lord of the Lamp\" + \"Invader from Another Dimension\"",
+  "attack": 2200,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72869010.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72869010.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72869010.jpg"
+  }
+}

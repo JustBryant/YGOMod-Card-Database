@@ -1,0 +1,16 @@
+{
+  "id": 78910832,
+  "name": "Vic Viper Type-L",
+  "type": "Effect Monster",
+  "description": "At the start of your Battle Phase: You can activate 1 of these effects;\r\n● Special Summon 1 Machine monster from your hand.\r\n● Send 1 Level 4 or lower LIGHT Machine monster from your Deck to the GY.\r\nIf this card is destroyed: You can target 1 LIGHT Machine monster in your GY; Special Summon it, and if you Special Summoned a monster with 1200 or less original ATK, it gains 1200 ATK. You can only use each effect of \"Vic Viper Type-L\" once per turn.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78910832.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78910832.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78910832.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15820147,
+  "name": "Monsturtle",
+  "type": "Normal Monster",
+  "description": "''Protected by a spiked shell, this turtle has a very nasty disposition.''",
+  "attack": 800,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15820147.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15820147.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15820147.jpg"
+  }
+}

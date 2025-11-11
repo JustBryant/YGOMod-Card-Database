@@ -1,0 +1,12 @@
+{
+  "id": 41587307,
+  "name": "Broken Bamboo Sword",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 0 ATK.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41587307.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41587307.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41587307.jpg"
+  }
+}

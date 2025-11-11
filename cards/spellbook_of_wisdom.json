@@ -1,0 +1,12 @@
+{
+  "id": 88616795,
+  "name": "Spellbook of Wisdom",
+  "type": "Spell Card",
+  "description": "Target 1 Spellcaster monster on the field, then activate 1 of these effects;\n● That face-up monster is unaffected by other Spell effects this turn.\n● That face-up monster is unaffected by Trap effects this turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88616795.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88616795.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88616795.jpg"
+  }
+}

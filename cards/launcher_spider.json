@@ -1,0 +1,16 @@
+{
+  "id": 87322377,
+  "name": "Launcher Spider",
+  "type": "Normal Monster",
+  "description": "A mechanical spider with rocket launchers capable of random fire.",
+  "attack": 2200,
+  "defense": 2500,
+  "level": 7,
+  "attribute": "FIRE",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87322377.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87322377.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87322377.jpg"
+  }
+}

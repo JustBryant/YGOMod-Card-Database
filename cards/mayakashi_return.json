@@ -1,0 +1,12 @@
+{
+  "id": 2364438,
+  "name": "Mayakashi Return",
+  "type": "Spell Card",
+  "description": "Take 1 \"Mayakashi\" card from your Deck, except \"Mayakashi Return\", and either add it to your hand or send it to the GY. You can only activate 1 \"Mayakashi Return\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2364438.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2364438.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2364438.jpg"
+  }
+}

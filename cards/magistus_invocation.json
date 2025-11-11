@@ -1,0 +1,12 @@
+{
+  "id": 34933456,
+  "name": "Magistus Invocation",
+  "type": "Spell Card",
+  "description": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, including a Spellcaster monster. If Summoning a \"Magistus\" Fusion Monster this way, you can also use monsters in your Spell & Trap Zones that are equipped to a \"Magistus\" monster. You can only activate 1 \"Magistus Invocation\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34933456.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34933456.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34933456.jpg"
+  }
+}

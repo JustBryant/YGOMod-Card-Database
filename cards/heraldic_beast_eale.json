@@ -1,0 +1,16 @@
+{
+  "id": 82315772,
+  "name": "Heraldic Beast Eale",
+  "type": "Effect Monster",
+  "description": "If you control 2 or more \"Heraldic Beast\" monsters, you can Special Summon this card (from your hand).",
+  "attack": 1000,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82315772.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82315772.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82315772.jpg"
+  }
+}

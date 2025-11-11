@@ -1,0 +1,12 @@
+{
+  "id": 300202002,
+  "name": "Beatdown!",
+  "type": "Skill Card",
+  "description": "[If you control a Level 5 or higher monster, you can activate this Skill.]\r\n\r\nAll monsters you currently control gain 300 ATK for each Level 5 or higher monster you control. At the end of your turn, flip this card over.",
+  "race": "Kaiba",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300202002.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300202002.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300202002.jpg"
+  }
+}

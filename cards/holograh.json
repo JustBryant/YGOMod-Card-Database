@@ -1,0 +1,16 @@
+{
+  "id": 10859908,
+  "name": "Holograh",
+  "type": "Normal Monster",
+  "description": "''This machine generates illusions that leave an enemy wide open to attacks.''",
+  "attack": 1100,
+  "defense": 700,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10859908.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10859908.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10859908.jpg"
+  }
+}

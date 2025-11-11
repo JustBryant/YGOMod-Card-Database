@@ -1,0 +1,12 @@
+{
+  "id": 47594939,
+  "name": "And the Band Played On",
+  "type": "Trap Card",
+  "description": "Neither player can Special Summon monsters with the same Level as those they control. Neither player can Special Summon monsters with the same Rank as those they control.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47594939.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47594939.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47594939.jpg"
+  }
+}

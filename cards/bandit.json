@@ -1,0 +1,12 @@
+{
+  "id": 300103003,
+  "name": "Bandit",
+  "type": "Skill Card",
+  "description": "If your LP are 1500 or less, activate this Skill. Take control of 1 Set card in your opponent's Spell & Trap Zone. This Skill can only be used once per Duel. ",
+  "race": "Keith",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300103003.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300103003.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300103003.jpg"
+  }
+}

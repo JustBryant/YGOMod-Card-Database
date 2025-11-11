@@ -1,0 +1,16 @@
+{
+  "id": 16889337,
+  "name": "Aratama",
+  "type": "Spirit Monster",
+  "description": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can add 1 Spirit monster from your Deck to your hand, except \"Aratama\".",
+  "attack": 800,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16889337.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16889337.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16889337.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 60110982,
+  "name": "Armityle the Chaos Phantasm - Phantom of Fury",
+  "type": "Fusion Monster",
+  "description": "\"Uria, Lord of Searing Flames\" + \"Hamon, Lord of Striking Thunder\" + \"Raviel, Lord of Phantasms\"\r\nThis card's name becomes \"Armityle the Chaos Phantasm\" while on the field. Once per turn, during your Main Phase: You can give control of this card to your opponent. Once per turn, during the End Phase, if this card's control was changed this turn: Banish all cards you control, then the owner of this card can Special Summon 1 \"Armityle the Chaos Phantasm\" from their Extra Deck, ignoring its Summoning conditions.",
+  "attack": 0,
+  "defense": 0,
+  "level": 12,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60110982.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60110982.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60110982.jpg"
+  }
+}

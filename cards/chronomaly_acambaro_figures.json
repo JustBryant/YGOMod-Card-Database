@@ -1,0 +1,16 @@
+{
+  "id": 24506253,
+  "name": "Chronomaly Acambaro Figures",
+  "type": "Effect Monster",
+  "description": "If a \"Chronomaly\" monster(s) you control would be destroyed by battle or your opponent's card effect, you can discard this card instead. If this card is in your GY: You can pay 1000 LP; Special Summon this card, but return it to the hand during the End Phase. You cannot Special Summon monsters the turn you activate this effect, except \"Chronomaly\" monsters. You can only use this effect of \"Chronomaly Acambaro Figures\" once per turn.",
+  "attack": 1000,
+  "defense": 1800,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24506253.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24506253.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24506253.jpg"
+  }
+}

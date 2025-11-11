@@ -1,0 +1,16 @@
+{
+  "id": 20315854,
+  "name": "Fairy Dragon",
+  "type": "Normal Monster",
+  "description": "This beautiful Dragon spirit harbors hidden strength.",
+  "attack": 1100,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20315854.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20315854.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20315854.jpg"
+  }
+}

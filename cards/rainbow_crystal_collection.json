@@ -1,0 +1,12 @@
+{
+  "id": 300302038,
+  "name": "Rainbow Crystal Collection",
+  "type": "Skill Card",
+  "description": "If a face-up \"Crystal Beast\" monster you control would be destroyed, you can place a Crystallization Counter on it instead. Monsters with Crystallization Counters are considered Continuous Spell Cards in your Spell & Trap Zone instead of monsters. If a card with a Crystallization Counter would be Special Summoned, remove the counter. Cards with Crystallization Counters can be used as Fusion Material for \"Ultimate Crystal\" monsters.",
+  "race": "Jesse Anderso",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302038.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302038.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302038.jpg"
+  }
+}

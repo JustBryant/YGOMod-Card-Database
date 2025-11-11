@@ -1,0 +1,16 @@
+{
+  "id": 22567609,
+  "name": "Nimble Momonga",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: Gain 1000 Life Points, then you can Special Summon any number of \"Nimble Momongas\" from your Deck in face-down Defense Position.",
+  "attack": 1000,
+  "defense": 100,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22567609.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22567609.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22567609.jpg"
+  }
+}

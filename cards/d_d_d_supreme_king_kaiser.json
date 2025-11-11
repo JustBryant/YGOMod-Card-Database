@@ -1,0 +1,16 @@
+{
+  "id": 44186624,
+  "name": "D/D/D Supreme King Kaiser",
+  "type": "Effect Monster",
+  "description": "If this card is Pendulum Summoned: All face-up cards your opponent currently controls have their effects negated, until the end of this turn. Once per turn, during your Main Phase, if this card was Pendulum Summoned this turn: You can target up to 2 cards in your Spell & Trap Zones; destroy them, and if you do, for each destroyed card, this card gains 1 additional attack during each Battle Phase this turn.",
+  "attack": 2800,
+  "defense": 2100,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44186624.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44186624.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44186624.jpg"
+  }
+}

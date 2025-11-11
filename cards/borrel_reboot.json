@@ -1,0 +1,12 @@
+{
+  "id": 87607094,
+  "name": "Borrel Reboot",
+  "type": "Trap Card",
+  "description": "When your opponent activates a Spell/Trap Card while you control a \"Rokket\" or \"Borrel\" monster: Negate the activation, and if you do, Set that card. It cannot be activated this turn. You can activate this card from your hand by paying half your LP.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87607094.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87607094.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87607094.jpg"
+  }
+}

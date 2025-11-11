@@ -1,0 +1,12 @@
+{
+  "id": 58464739,
+  "name": "Pulse Mines",
+  "type": "Trap Card",
+  "description": "If you control a Machine monster: Change your opponent's Attack Position monsters (if any) to Defense Position, also, until the end of this turn, if a monster(s) is Normal or Special Summoned to your opponent's field, change them to Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58464739.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58464739.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58464739.jpg"
+  }
+}

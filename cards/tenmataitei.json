@@ -1,0 +1,16 @@
+{
+  "id": 90122655,
+  "name": "Tenmataitei",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot activate cards or effects in response to the activation of any monster effect activated by a monster that was Normal Summoned/Set.",
+  "attack": 2400,
+  "defense": 1000,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90122655.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90122655.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90122655.jpg"
+  }
+}

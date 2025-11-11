@@ -1,0 +1,16 @@
+{
+  "id": 732302,
+  "name": "Temple of Skulls",
+  "type": "Normal Monster",
+  "description": "A mysterious temple of skulls and bones that pulls in unsuspecting enemies.",
+  "attack": 900,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/732302.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/732302.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/732302.jpg"
+  }
+}

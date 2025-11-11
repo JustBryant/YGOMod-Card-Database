@@ -1,0 +1,12 @@
+{
+  "id": 96355986,
+  "name": "Enchanted Javelin",
+  "type": "Trap Card",
+  "description": "Select 1 attacking monster. Gain Life Points equal to its ATK.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96355986.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96355986.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96355986.jpg"
+  }
+}

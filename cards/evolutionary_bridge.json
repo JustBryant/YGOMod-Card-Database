@@ -1,0 +1,12 @@
+{
+  "id": 93504463,
+  "name": "Evolutionary Bridge",
+  "type": "Trap Card",
+  "description": "When a monster you control is targeted for an attack: Target 1 \"Evoltile\" monster in your Graveyard; Special Summon that target, then switch the attack target to that monster and conduct damage calculation.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93504463.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93504463.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93504463.jpg"
+  }
+}

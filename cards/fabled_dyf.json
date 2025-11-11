@@ -1,0 +1,16 @@
+{
+  "id": 86840720,
+  "name": "Fabled Dyf",
+  "type": "Effect Monster",
+  "description": "When a \"Fabled\" monster(s) is sent from the hand to your GY (except during the Damage Step): You can Tribute this card, then target 1 of those monsters; Special Summon it.",
+  "attack": 1400,
+  "defense": 1700,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86840720.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86840720.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86840720.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19439119,
+  "name": "Fabled Krus",
+  "type": "Effect Monster",
+  "description": "If this card is discarded to the GY: Target 1 other Level 4 or lower \"Fabled\" monster in your GY; Special Summon that target.",
+  "attack": 1000,
+  "defense": 800,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19439119.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19439119.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19439119.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9069157,
+  "name": "Dragonroid",
+  "type": "Effect Monster",
+  "description": "Once per turn, if this card is in your GY: You can make this card become a Dragon monster while in the GY, until the end of this turn. You can discard this card, then activate 1 of these effects;\r\n● Add 1 non-WIND \"roid\" monster from your Deck to your hand.\r\n● This turn, the activation of your cards and effects that include an effect that Fusion Summons a Fusion Monster cannot be negated, also your opponent cannot activate cards or effects when a monster is Fusion Summoned this way.\r\nYou can only use this effect of \"Dragonroid\" once per turn.",
+  "attack": 2900,
+  "defense": 1000,
+  "level": 8,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9069157.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9069157.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9069157.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 52090844,
+  "name": "Bowganian",
+  "type": "Effect Monster",
+  "description": "Once per turn, during your Standby Phase: Inflict 600 damage to your opponent.",
+  "attack": 1300,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52090844.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52090844.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52090844.jpg"
+  }
+}

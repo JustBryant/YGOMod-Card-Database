@@ -1,0 +1,16 @@
+{
+  "id": 25171661,
+  "name": "Infernity Dwarf",
+  "type": "Effect Monster",
+  "description": "While you have no cards in your hand, if a monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "attack": 800,
+  "defense": 500,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25171661.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25171661.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25171661.jpg"
+  }
+}

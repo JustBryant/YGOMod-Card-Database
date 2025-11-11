@@ -1,0 +1,12 @@
+{
+  "id": 93599951,
+  "name": "Dark Spirit of the Silent",
+  "type": "Trap Card",
+  "description": "Activate only when an opponent's monster declares an attack. Negate that attack, and select another face-up monster your opponent controls. That monster attacks instead. (If it is in face-up Defense Position, change it to Attack Position.)",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93599951.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93599951.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93599951.jpg"
+  }
+}

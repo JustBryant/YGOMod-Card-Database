@@ -1,0 +1,12 @@
+{
+  "id": 42309337,
+  "name": "Counter Counter",
+  "type": "Trap Card",
+  "description": "Negate the activation of a Counter Trap Card, and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42309337.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42309337.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42309337.jpg"
+  }
+}

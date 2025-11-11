@@ -1,0 +1,16 @@
+{
+  "id": 30118701,
+  "name": "Todoroki the Earthbolt Star",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by sending 1 other monster from your hand to the GY, but this card loses 500 ATK. You can only Special Summon \"Todoroki the Earthbolt Star\" once per turn this way. During the Battle Phase (Quick Effect): You can pay 500 LP; Fusion Summon 1 Warrior Fusion Monster from your Extra Deck, using monsters from your hand or field as material. You can only use this effect of \"Todoroki the Earthbolt Star\" once per turn.",
+  "attack": 2100,
+  "defense": 0,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30118701.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30118701.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30118701.jpg"
+  }
+}

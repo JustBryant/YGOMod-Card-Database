@@ -1,0 +1,16 @@
+{
+  "id": 55691901,
+  "name": "Great Bill",
+  "type": "Normal Monster",
+  "description": "Nothing escapes from this beast's massive mouth.",
+  "attack": 1250,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55691901.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55691901.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55691901.jpg"
+  }
+}

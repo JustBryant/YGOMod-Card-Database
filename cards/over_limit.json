@@ -1,0 +1,12 @@
+{
+  "id": 23282832,
+  "name": "Over Limit",
+  "type": "Trap Card",
+  "description": "Pay 500 Life Points. Special Summon from both players' Graveyards as many Normal Monsters as possible with 1000 or less ATK that were destroyed by battle this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23282832.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23282832.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23282832.jpg"
+  }
+}

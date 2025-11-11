@@ -1,0 +1,16 @@
+{
+  "id": 48791583,
+  "name": "Invoked Magellanica",
+  "type": "Fusion Monster",
+  "description": "\"Aleister the Invoker\" + 1 EARTH monster",
+  "attack": 3000,
+  "defense": 3300,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48791583.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48791583.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48791583.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 81191584,
+  "name": "Recurring Nightmare",
+  "type": "Spell Card",
+  "description": "Target 2 DARK monsters with 0 DEF in your GY; add those targets to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81191584.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81191584.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81191584.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 46565218,
+  "name": "Santa Claws",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) to your opponent's field in Defense Position, by Tributing 1 monster they control. If Summoned this way, once, during the End Phase of this turn: You can draw 1 card.",
+  "attack": 1200,
+  "defense": 2500,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46565218.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46565218.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46565218.jpg"
+  }
+}

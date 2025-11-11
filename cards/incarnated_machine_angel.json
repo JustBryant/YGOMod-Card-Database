@@ -1,0 +1,12 @@
+{
+  "id": 91946859,
+  "name": "Incarnated Machine Angel",
+  "type": "Spell Card",
+  "description": "Your \"Cyber Angel\" Ritual Monsters cannot be destroyed by battle. When you take damage by battle or an opponent's card effect: You can Tribute 1 \"Cyber Angel\" Ritual Monster from your hand or field; Special Summon 1 \"Cyber Angel\" Ritual Monster from your hand. (This is treated as a Ritual Summon.) You can only use this effect of \"Incarnated Machine Angel\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91946859.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91946859.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91946859.jpg"
+  }
+}

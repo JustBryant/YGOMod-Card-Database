@@ -1,0 +1,12 @@
+{
+  "id": 91597389,
+  "name": "Roll Out!",
+  "type": "Trap Card",
+  "description": "Target 1 Union monster in your Graveyard; equip that target to a monster you control that would be an appropriate target for that Union monster's effect.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91597389.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91597389.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91597389.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 31447217,
+  "name": "Wingweaver",
+  "type": "Normal Monster",
+  "description": "A six-winged fairy who prays for peace and hope.",
+  "attack": 2750,
+  "defense": 2400,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31447217.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31447217.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31447217.jpg"
+  }
+}

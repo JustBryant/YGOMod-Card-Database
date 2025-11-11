@@ -1,0 +1,16 @@
+{
+  "id": 17243896,
+  "name": "Ground Spider",
+  "type": "Effect Monster",
+  "description": "Once per turn, if you control this face-up Defense Position monster when your opponent Normal or Special Summons a monster(s), you can change that monster(s) to Defense Position.",
+  "attack": 0,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17243896.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17243896.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17243896.jpg"
+  }
+}

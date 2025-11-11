@@ -1,0 +1,16 @@
+{
+  "id": 95466842,
+  "name": "Mermail Abysslung",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot target face-up WATER monsters for attacks, except this one. All WATER monsters you control gain 300 ATK.",
+  "attack": 1200,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95466842.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95466842.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95466842.jpg"
+  }
+}

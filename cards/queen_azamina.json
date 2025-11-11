@@ -1,0 +1,16 @@
+{
+  "id": 65033975,
+  "name": "Queen Azamina",
+  "type": "Effect Monster",
+  "description": "(This card is always treated as a \"Sinful Spoils\" card.)\r\nIf this card in your hand or field is sent to the GY or banished, by an activated effect: You can Special Summon it. When your \"Azamina\" or \"White Forest\" monster destroys an opponent's monster by battle: You can target 1 \"Sinful Spoils\" Spell/Trap in your GY; add it to your hand. You can only use each effect of \"Queen Azamina\" once per turn.",
+  "attack": 2500,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Illusion",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65033975.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65033975.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65033975.jpg"
+  }
+}

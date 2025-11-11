@@ -1,0 +1,12 @@
+{
+  "id": 84262395,
+  "name": "Earthbound Release",
+  "type": "Trap Card",
+  "description": "When a Level 6 or higher monster(s) is Normal or Special Summoned: Tribute 1 Level 10 \"Earthbound\" monster; destroy as many monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84262395.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84262395.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84262395.jpg"
+  }
+}

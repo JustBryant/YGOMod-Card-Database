@@ -1,0 +1,12 @@
+{
+  "id": 29228529,
+  "name": "Spell Reproduction",
+  "type": "Spell Card",
+  "description": "Send 2 Spells from your hand to the GY, then target 1 Spell in your GY; add it to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29228529.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29228529.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29228529.jpg"
+  }
+}

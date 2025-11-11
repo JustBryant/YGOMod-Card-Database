@@ -1,0 +1,16 @@
+{
+  "id": 41949033,
+  "name": "Dark Assailant",
+  "type": "Normal Monster",
+  "description": "Armed with the Psycho Sword, this sinister assassin rules the bad land.",
+  "attack": 1200,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41949033.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41949033.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41949033.jpg"
+  }
+}

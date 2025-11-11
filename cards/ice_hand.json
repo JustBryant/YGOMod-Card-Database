@@ -1,0 +1,16 @@
+{
+  "id": 95929069,
+  "name": "Ice Hand",
+  "type": "Effect Monster",
+  "description": "When this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 Spell/Trap Card they control; destroy that target, then you can Special Summon 1 \"Fire Hand\" from your Deck.",
+  "attack": 1400,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95929069.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95929069.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95929069.jpg"
+  }
+}

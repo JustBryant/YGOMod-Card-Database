@@ -1,0 +1,16 @@
+{
+  "id": 68246154,
+  "name": "Magical Musketeer Doc",
+  "type": "Effect Monster",
+  "description": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can add 1 \"Magical Musket\" card from your GY to your hand, but not a card with the same name as that activated card. You can only use this effect of \"Magical Musketeer Doc\" once per turn.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68246154.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68246154.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68246154.jpg"
+  }
+}

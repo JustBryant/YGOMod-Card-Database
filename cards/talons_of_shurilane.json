@@ -1,0 +1,16 @@
+{
+  "id": 74150658,
+  "name": "Talons of Shurilane",
+  "type": "Effect Monster",
+  "description": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Talons of Shurilane\" once per turn. During your opponent's turn (Quick Effect): You can target 1 Fiend or Illusion monster you control, except \"Talons of Shurilane\"; return it to the hand, and if you do, Special Summon this card from your hand. When your opponent activates a card or effect that targets your card(s) (Quick Effect): You can target 1 monster your opponent controls; return this card from the field to the hand, and if you do, destroy that monster.",
+  "attack": 2100,
+  "defense": 2050,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Illusion",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74150658.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74150658.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74150658.jpg"
+  }
+}

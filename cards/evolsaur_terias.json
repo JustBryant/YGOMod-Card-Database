@@ -1,0 +1,16 @@
+{
+  "id": 69633792,
+  "name": "Evolsaur Terias",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: This card loses 500 ATK.",
+  "attack": 2400,
+  "defense": 600,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69633792.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69633792.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69633792.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 14934922,
+  "name": "Salamangreat Rage",
+  "type": "Trap Card",
+  "description": "Activate 1 of these effects.\r\n● Send 1 \"Salamangreat\" monster from your hand or face-up field to the GY, then target 1 card on the field; destroy it.\r\n● Target 1 \"Salamangreat\" Link Monster you control that was Link Summoned using a monster with its same name as material; destroy cards your opponent controls, up to that monster's Link Rating.\r\nYou can only activate 1 \"Salamangreat Rage\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14934922.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14934922.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14934922.jpg"
+  }
+}

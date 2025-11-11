@@ -1,0 +1,16 @@
+{
+  "id": 81057959,
+  "name": "D. Human",
+  "type": "Normal Monster",
+  "description": "Gifted with the power of dragons, this warrior wields a sword created from a dragon's fang.",
+  "attack": 1300,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81057959.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81057959.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81057959.jpg"
+  }
+}

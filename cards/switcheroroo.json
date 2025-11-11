@@ -1,0 +1,12 @@
+{
+  "id": 30426226,
+  "name": "Switcheroroo",
+  "type": "Trap Card",
+  "description": "If you control the same number of monsters as your opponent, switch control of all those monsters.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30426226.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30426226.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30426226.jpg"
+  }
+}

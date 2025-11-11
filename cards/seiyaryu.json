@@ -1,0 +1,16 @@
+{
+  "id": 6740720,
+  "name": "Seiyaryu",
+  "type": "Normal Monster",
+  "description": "A mystical dragon that burns away the unworthy with its mystic flames.",
+  "attack": 2500,
+  "defense": 2300,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6740720.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6740720.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6740720.jpg"
+  }
+}

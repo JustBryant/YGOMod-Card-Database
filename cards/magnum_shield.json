@@ -1,0 +1,12 @@
+{
+  "id": 84877802,
+  "name": "Magnum Shield",
+  "type": "Spell Card",
+  "description": "Equip only to a Warrior-Type monster. Apply this effect, depending on its battle position.\n● Attack Position: It gains ATK equal to its original DEF.\n● Defense Position: It gains DEF equal to its original ATK.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84877802.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84877802.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84877802.jpg"
+  }
+}

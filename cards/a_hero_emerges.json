@@ -1,0 +1,12 @@
+{
+  "id": 21597117,
+  "name": "A Hero Emerges",
+  "type": "Trap Card",
+  "description": "When an opponent's monster declares an attack: Your opponent chooses 1 random card from your hand, then if it is a monster that can be Special Summoned, Special Summon it. Otherwise, send it to the Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21597117.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21597117.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21597117.jpg"
+  }
+}

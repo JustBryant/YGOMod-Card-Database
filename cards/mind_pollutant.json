@@ -1,0 +1,12 @@
+{
+  "id": 69257165,
+  "name": "Mind Pollutant",
+  "type": "Spell Card",
+  "description": "Discard 1 monster to target 1 monster of that Level your opponent controls; take control of that target until the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69257165.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69257165.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69257165.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 95283172,
+  "name": "Gold Pride - The Crowd Goes Wild!",
+  "type": "Spell Card",
+  "description": "Reveal 1 \"Gold Pride\" monster in your hand; add 1 \"Gold Pride\" monster with a different name from your Deck to your hand, then you can apply the following effect.\r\n● Special Summon 1 \"Gold Pride\" monster from your hand, but lose LP equal to its original ATK.\r\nYou can only activate 1 \"Gold Pride - The Crowd Goes Wild!\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95283172.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95283172.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95283172.jpg"
+  }
+}

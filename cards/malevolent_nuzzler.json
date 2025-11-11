@@ -1,0 +1,12 @@
+{
+  "id": 99597615,
+  "name": "Malevolent Nuzzler",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 700 ATK. When this card is sent from the field to the Graveyard: You can pay 500 LP; place this card on the top of your Deck.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99597615.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99597615.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99597615.jpg"
+  }
+}

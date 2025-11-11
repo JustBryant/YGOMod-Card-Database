@@ -1,0 +1,16 @@
+{
+  "id": 32548609,
+  "name": "Wattmole",
+  "type": "Effect Monster",
+  "description": "This card can attack twice during each Battle Phase. If this card attacks a face-down Defense Position monster, you can destroy that monster immediately with this card's effect without flipping it face-up or applying damage calculation.",
+  "attack": 0,
+  "defense": 100,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32548609.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32548609.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32548609.jpg"
+  }
+}

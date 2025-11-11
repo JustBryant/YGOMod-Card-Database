@@ -1,0 +1,16 @@
+{
+  "id": 83347294,
+  "name": "Odd-Eyes Lancer Dragon",
+  "type": "Effect Monster",
+  "description": "If a Pendulum Monster you control is destroyed by battle or card effect: You can Tribute 1 monster; Special Summon this card from your hand. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If an \"Odd-Eyes\" card(s) you control would be destroyed by battle or card effect, you can destroy 1 \"Odd-Eyes\" card in your hand, Monster Zone, or Pendulum Zone instead.",
+  "attack": 3000,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83347294.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83347294.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83347294.jpg"
+  }
+}

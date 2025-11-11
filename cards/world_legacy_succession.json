@@ -1,0 +1,12 @@
+{
+  "id": 99674361,
+  "name": "World Legacy Succession",
+  "type": "Spell Card",
+  "description": "Target 1 monster in your GY; Special Summon it to your zone a Link Monster points to. You can only activate 1 \"World Legacy Succession\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99674361.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99674361.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99674361.jpg"
+  }
+}

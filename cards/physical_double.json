@@ -1,0 +1,12 @@
+{
+  "id": 63442604,
+  "name": "Physical Double",
+  "type": "Trap Card",
+  "description": "During your opponent's turn: Target 1 face-up monster your opponent controls; Special Summon 1 \"Mirage Token\" with the same Level, Type, Attribute, ATK, and DEF as that target. Destroy this Token during the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63442604.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63442604.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63442604.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 92053608,
+  "name": "Aquaactress Arowana",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can add 1 \"Aquaactress\" monster from your Deck to your hand.",
+  "attack": 2000,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92053608.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92053608.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92053608.jpg"
+  }
+}

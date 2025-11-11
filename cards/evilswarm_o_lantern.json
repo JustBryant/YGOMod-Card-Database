@@ -1,0 +1,16 @@
+{
+  "id": 72429240,
+  "name": "Evilswarm O'lantern",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card, then target 1 face-up monster your opponent controls; destroy that target.",
+  "attack": 1650,
+  "defense": 1250,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72429240.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72429240.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72429240.jpg"
+  }
+}

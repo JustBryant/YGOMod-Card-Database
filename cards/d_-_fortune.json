@@ -1,0 +1,12 @@
+{
+  "id": 9201964,
+  "name": "D - Fortune",
+  "type": "Trap Card",
+  "description": "When your opponent declares a direct attack: Banish 1 \"Destiny HERO\" monster from your Graveyard; end the Battle Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9201964.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9201964.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9201964.jpg"
+  }
+}

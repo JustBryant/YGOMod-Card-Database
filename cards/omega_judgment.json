@@ -1,0 +1,12 @@
+{
+  "id": 53923690,
+  "name": "Omega Judgment",
+  "type": "Trap Card",
+  "description": "Target 1 face-up Monster Card in your Spell & Trap Zone and 2 cards your opponent controls; destroy them.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53923690.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53923690.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53923690.jpg"
+  }
+}

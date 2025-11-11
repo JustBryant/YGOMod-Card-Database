@@ -1,0 +1,16 @@
+{
+  "id": 29374928,
+  "name": "Armored Bitron",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card: Special Summon 1 Cyberse monster from your Deck, except \"Armored Bitron\", but negate its effects, also you cannot Special Summon for the rest of this turn, except Cyberse monsters. If a Link-3 or higher Link Monster you control is destroyed by battle or an opponent's card effect, while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Armored Bitron\" once per turn.",
+  "attack": 500,
+  "defense": 0,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29374928.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29374928.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29374928.jpg"
+  }
+}

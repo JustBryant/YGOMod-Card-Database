@@ -1,0 +1,12 @@
+{
+  "id": 94317736,
+  "name": "Hidden Springs of the Far East",
+  "type": "Spell Card",
+  "description": "Once per turn, during the Main Phase 2: The turn player can activate this effect; they gain 500 LP, and until the end of this turn apply these effects.\r\n● The Normal and Special Summons of their monsters cannot be negated.\r\n● If they activate a Spell/Trap Card, or monster effect, that includes an effect that Special Summons a monster, that activation cannot be negated.\r\n● Their opponent cannot target Set Spells/Traps they control with card effects, also they cannot be destroyed by their opponent's card effects.\r\nYou can only activate 1 \"Hidden Springs of the Far East\" per turn.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94317736.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94317736.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94317736.jpg"
+  }
+}

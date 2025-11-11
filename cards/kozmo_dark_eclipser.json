@@ -1,0 +1,16 @@
+{
+  "id": 64063868,
+  "name": "Kozmo Dark Eclipser",
+  "type": "Effect Monster",
+  "description": "Cannot be targeted by an opponent's card effects. During either player's turn, when a Trap Card is activated: You can banish 1 \"Kozmo\" monster from your Graveyard; negate the activation, and if you do, destroy that card. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; add 1 Level 8 or lower \"Kozmo\" monster from your Deck to your hand.",
+  "attack": 3000,
+  "defense": 2600,
+  "level": 9,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64063868.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64063868.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64063868.jpg"
+  }
+}

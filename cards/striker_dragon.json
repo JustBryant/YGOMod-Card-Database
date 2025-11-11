@@ -1,0 +1,16 @@
+{
+  "id": 73539069,
+  "name": "Striker Dragon",
+  "type": "Link Monster",
+  "description": "1 Level 4 or lower Dragon monster\r\nIf this card is Link Summoned: You can add 1 \"Boot Sector Launch\" from your Deck to your hand. You can target 1 face-up monster you control and 1 \"Rokket\" monster in your GY; destroy that monster on the field, and if you do, add that other monster from the GY to your hand. You can only use each effect of \"Striker Dragon\" once per turn.",
+  "attack": 1000,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73539069.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73539069.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73539069.jpg"
+  }
+}

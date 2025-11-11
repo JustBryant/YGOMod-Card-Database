@@ -1,0 +1,16 @@
+{
+  "id": 80727721,
+  "name": "Jurrac Aeolo",
+  "type": "Tuner Monster",
+  "description": "You can Tribute this card to select 1 Level 4 or lower \"Jurrac\" monster in your Graveyard, except \"Jurrac Aeolo\". Special Summon that monster from the Graveyard.",
+  "attack": 200,
+  "defense": 200,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80727721.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80727721.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80727721.jpg"
+  }
+}

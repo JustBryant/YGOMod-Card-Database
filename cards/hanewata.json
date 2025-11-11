@@ -1,0 +1,16 @@
+{
+  "id": 20450925,
+  "name": "Hanewata",
+  "type": "Tuner Monster",
+  "description": "(Quick Effect): You can discard this card; you take no effect damage this turn.",
+  "attack": 200,
+  "defense": 300,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20450925.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20450925.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20450925.jpg"
+  }
+}

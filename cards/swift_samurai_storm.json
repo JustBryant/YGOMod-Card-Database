@@ -1,0 +1,12 @@
+{
+  "id": 71934924,
+  "name": "Swift Samurai Storm!",
+  "type": "Trap Card",
+  "description": "Each turn, after the first time a \"Six Samurai\" monster you control battles, all \"Six Samurai\" monsters you control gain 300 ATK until the end of this turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71934924.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71934924.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71934924.jpg"
+  }
+}

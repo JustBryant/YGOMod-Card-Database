@@ -1,0 +1,12 @@
+{
+  "id": 38411870,
+  "name": "Needle Ceiling",
+  "type": "Trap Card",
+  "description": "When there are 4 or more monsters on the field: Destroy all face-up monsters.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38411870.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38411870.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38411870.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 99161253,
+  "name": "Primite Fusion",
+  "type": "Spell Card",
+  "description": "Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, by shuffling its materials from your field, GY, and/or banishment into the Deck, including a Normal Monster. You can banish this card from your GY; add 1 Level 5 or higher \"Primite\" monster from your Deck or GY to your hand. You can only use each effect of \"Primite Fusion\" once per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99161253.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99161253.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99161253.jpg"
+  }
+}

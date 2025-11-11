@@ -1,0 +1,16 @@
+{
+  "id": 93192592,
+  "name": "Lollipo★Yummy Way",
+  "type": "Synchro Tuner Monster",
+  "description": "1 Tuner + 1 non-Tuner monster\r\nFor this card's Synchro Summon, you can treat 1 Link-1 monster you control as a Level 1 Tuner. You can only use each of the following effects of \"Lollipo★Yummy Way\" once per turn. If this card is Synchro Summoned: You can Special Summon 2 \"Yummy\" monsters from your GY, but negate their effects. When your opponent activates a card or effect (Quick Effect): You can return this card to the Extra Deck; Special Summon up to 2 \"Yummy\" monsters from your GY.",
+  "attack": 1200,
+  "defense": 1200,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93192592.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93192592.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93192592.jpg"
+  }
+}

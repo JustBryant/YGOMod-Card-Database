@@ -1,0 +1,12 @@
+{
+  "id": 95376428,
+  "name": "Extra Net",
+  "type": "Spell Card",
+  "description": "If a monster(s) is Special Summoned from the Extra Deck: The opponent of the player that conducted the Special Summon can apply this effect.\n● Draw 1 card.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95376428.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95376428.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95376428.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 52971673,
+  "name": "Token Sundae",
+  "type": "Spell Card",
+  "description": "Destroy all Tokens you control, then destroy cards on the field up to the number of Tokens destroyed by this effect.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52971673.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52971673.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52971673.jpg"
+  }
+}

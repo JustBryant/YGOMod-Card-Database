@@ -1,0 +1,16 @@
+{
+  "id": 27217742,
+  "name": "Brohunder",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can add 1 Level 4 LIGHT Thunder-Type monster from your Deck to your hand, except \"Brohunder\".",
+  "attack": 900,
+  "defense": 400,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27217742.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27217742.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27217742.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 61962135,
+  "name": "Glorious Illusion",
+  "type": "Trap Card",
+  "description": "Activate this card by targeting 1 \"Lightsworn\" monster in your Graveyard; Special Summon that target in face-up Attack Position. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61962135.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61962135.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61962135.jpg"
+  }
+}

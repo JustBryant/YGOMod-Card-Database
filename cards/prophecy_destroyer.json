@@ -1,0 +1,16 @@
+{
+  "id": 56174248,
+  "name": "Prophecy Destroyer",
+  "type": "Effect Monster",
+  "description": "If this card is in your Graveyard: You can banish 3 \"Spellbook\" Spell Cards from your Graveyard; Special Summon this card from your Graveyard.",
+  "attack": 2500,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56174248.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56174248.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56174248.jpg"
+  }
+}

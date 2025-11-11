@@ -1,0 +1,12 @@
+{
+  "id": 64697431,
+  "name": "Hey, Trunade!",
+  "type": "Spell Card",
+  "description": "Return all Set Spells and Traps on the field to the hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64697431.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64697431.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64697431.jpg"
+  }
+}

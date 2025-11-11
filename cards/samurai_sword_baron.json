@@ -1,0 +1,16 @@
+{
+  "id": 14344682,
+  "name": "Samurai Sword Baron",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can select 1 Defense Position monster your opponent controls. Change it to face-up Attack Position.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14344682.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14344682.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14344682.jpg"
+  }
+}

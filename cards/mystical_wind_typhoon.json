@@ -1,0 +1,12 @@
+{
+  "id": 63516460,
+  "name": "Mystical Wind Typhoon",
+  "type": "Spell Card",
+  "description": "Activate only as Chain Link 3 or higher. Destroy 1 Spell or Trap Card on the field. You cannot activate this card if multiple cards/effects with the same name are in that Chain.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63516460.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63516460.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63516460.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 54109233,
+  "name": "Infinite Dismissal",
+  "type": "Trap Card",
+  "description": "Level 3 or lower monsters are destroyed during the End Phase of the turn that they are Normal Summoned or Flip Summoned.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54109233.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54109233.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54109233.jpg"
+  }
+}

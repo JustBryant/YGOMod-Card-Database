@@ -1,0 +1,16 @@
+{
+  "id": 57902462,
+  "name": "Divine Knight Ishzark",
+  "type": "Effect Monster",
+  "description": "After damage calculation, when this card destroys a monster by battle: Banish that monster.",
+  "attack": 2300,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57902462.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57902462.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57902462.jpg"
+  }
+}

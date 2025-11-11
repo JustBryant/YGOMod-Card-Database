@@ -1,0 +1,12 @@
+{
+  "id": 87931906,
+  "name": "Lunalight Fusion",
+  "type": "Spell Card",
+  "description": "Fusion Summon 1 \"Lunalight\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If your opponent controls a monster that was Special Summoned from the Extra Deck, you can also use 1 \"Lunalight\" monster in your Deck or Extra Deck as Fusion Material. You can only activate 1 \"Lunalight Fusion\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87931906.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87931906.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87931906.jpg"
+  }
+}

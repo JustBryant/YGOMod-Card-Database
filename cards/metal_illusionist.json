@@ -1,0 +1,16 @@
+{
+  "id": 29157292,
+  "name": "Metal Illusionist",
+  "type": "Effect Monster",
+  "description": "Increase this card's Level by 4 during your opponent's turn only. You can only use each of the following effects of \"Metal Illusionist\" once per turn. If this card is Normal or Special Summoned: You can Set 1 \"Metalmorph\" Trap from your Deck, then if \"Max Metalmorph\" is in your GY, you can draw 1 card. You can declare 1 other Monster Type; this card becomes that Type, until the end of your opponent's turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29157292.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29157292.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29157292.jpg"
+  }
+}

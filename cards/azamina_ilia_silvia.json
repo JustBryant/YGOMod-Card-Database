@@ -1,0 +1,16 @@
+{
+  "id": 46396218,
+  "name": "Azamina Ilia Silvia",
+  "type": "Fusion Monster",
+  "description": "1 Illusion monster + 1 LIGHT Spellcaster monster\r\nAny battle damage your \"Azamina\" monsters, except \"Azamina Ilia Silvia\", inflicts to your opponent is doubled. You can only use each of the following effects of \"Azamina Ilia Silvia\" once per turn. When your opponent activates a card or effect (Quick Effect): You can Tribute this card; negate that effect. If this card is destroyed by battle or card effect: You can add 1 \"Sinful Spoils\" Trap from your Deck to your hand.",
+  "attack": 1900,
+  "defense": 1500,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Illusion",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46396218.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46396218.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46396218.jpg"
+  }
+}

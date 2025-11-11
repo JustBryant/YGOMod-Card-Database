@@ -1,0 +1,16 @@
+{
+  "id": 17948378,
+  "name": "Jurrac Dino",
+  "type": "Tuner Monster",
+  "description": "Once during each player's End Phase, if this card destroyed an opponent's monster by battle this turn, you can Tribute 1 \"Jurrac\" monster to draw 2 cards.",
+  "attack": 1700,
+  "defense": 800,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17948378.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17948378.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17948378.jpg"
+  }
+}

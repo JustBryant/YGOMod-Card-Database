@@ -1,0 +1,16 @@
+{
+  "id": 14214060,
+  "name": "Trance the Magic Swordsman",
+  "type": "Normal Monster",
+  "description": "A peculiar magician with considerable abilities. Supposedly, he's just returned from a trip to outer space.",
+  "attack": 2600,
+  "defense": 200,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14214060.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14214060.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14214060.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 51630558,
+  "name": "Advance Draw",
+  "type": "Spell Card",
+  "description": "Tribute 1 face-up Level 8 or higher monster you control; draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51630558.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51630558.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51630558.jpg"
+  }
+}

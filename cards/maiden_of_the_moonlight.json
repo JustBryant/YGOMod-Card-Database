@@ -1,0 +1,16 @@
+{
+  "id": 79629370,
+  "name": "Maiden of the Moonlight",
+  "type": "Normal Monster",
+  "description": "A sorcerer blessed by lunar light with powers far beyond mortal comprehension.",
+  "attack": 1500,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79629370.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79629370.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79629370.jpg"
+  }
+}

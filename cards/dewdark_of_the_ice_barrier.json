@@ -1,0 +1,16 @@
+{
+  "id": 90311614,
+  "name": "Dewdark of the Ice Barrier",
+  "type": "Tuner Monster",
+  "description": "If the only face-up monsters you control are Level 2 or lower, this card can attack your opponent directly.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90311614.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90311614.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90311614.jpg"
+  }
+}

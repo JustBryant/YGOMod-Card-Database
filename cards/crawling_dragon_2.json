@@ -1,0 +1,16 @@
+{
+  "id": 38289717,
+  "name": "Crawling Dragon #2",
+  "type": "Normal Monster",
+  "description": "A powerful dragon with teeth that can grind almost anything to dust.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38289717.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38289717.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38289717.jpg"
+  }
+}

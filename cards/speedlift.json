@@ -1,0 +1,12 @@
+{
+  "id": 36730805,
+  "name": "Speedlift",
+  "type": "Spell Card",
+  "description": "If you control exactly 1 Tuner and no other monsters: Special Summon 1 Level 4 or lower \"Speedroid\" monster from your Deck. Neither player can activate cards or effects when that monster is Special Summoned. ",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36730805.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36730805.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36730805.jpg"
+  }
+}

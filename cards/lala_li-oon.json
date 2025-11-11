@@ -1,0 +1,16 @@
+{
+  "id": 9430387,
+  "name": "LaLa Li-oon",
+  "type": "Normal Monster",
+  "description": "''An electric cloud creature, its acid rain makes it very dangerous.''",
+  "attack": 600,
+  "defense": 600,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9430387.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9430387.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9430387.jpg"
+  }
+}

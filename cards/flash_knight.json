@@ -1,0 +1,16 @@
+{
+  "id": 17390179,
+  "name": "Flash Knight",
+  "type": "Pendulum Normal Monster",
+  "description": "''The power of the pendulum flashes forth from this shining knight.''",
+  "attack": 1800,
+  "defense": 600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17390179.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17390179.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17390179.jpg"
+  }
+}

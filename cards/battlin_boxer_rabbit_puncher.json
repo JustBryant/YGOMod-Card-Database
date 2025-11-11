@@ -1,0 +1,16 @@
+{
+  "id": 61679541,
+  "name": "Battlin' Boxer Rabbit Puncher",
+  "type": "Effect Monster",
+  "description": "At the start of the Damage Step, if this card attacks a Defense Position monster: Destroy that monster.",
+  "attack": 800,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61679541.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61679541.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61679541.jpg"
+  }
+}

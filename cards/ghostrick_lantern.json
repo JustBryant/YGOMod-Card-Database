@@ -1,0 +1,16 @@
+{
+  "id": 54512827,
+  "name": "Ghostrick Lantern",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. When an opponent's monster declares a direct attack, or when a \"Ghostrick\" monster you control is targeted for an attack: You can negate the attack, and if you do, Special Summon this card from your hand in face-down Defense Position.",
+  "attack": 800,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54512827.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54512827.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54512827.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 67445676,
+  "name": "Pinecono",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the Graveyard by the effect of \"Acorno\": You can Special Summon this card from the Graveyard.",
+  "attack": 400,
+  "defense": 200,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67445676.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67445676.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67445676.jpg"
+  }
+}

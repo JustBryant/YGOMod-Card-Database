@@ -1,0 +1,16 @@
+{
+  "id": 68722455,
+  "name": "Red Ogre",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can send any number of cards from your hand to the Graveyard, then target the same number of cards on the field; return those targets to the hand.",
+  "attack": 2800,
+  "defense": 2100,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68722455.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68722455.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68722455.jpg"
+  }
+}

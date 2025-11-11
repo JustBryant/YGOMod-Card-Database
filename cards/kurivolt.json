@@ -1,0 +1,16 @@
+{
+  "id": 40817915,
+  "name": "Kurivolt",
+  "type": "Effect Monster",
+  "description": "You can target 1 Xyz Monster that has material; detach 1 material from it, and if you do, Special Summon 1 \"Kurivolt\" from your Deck. Cannot be used as Synchro Material.",
+  "attack": 300,
+  "defense": 200,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40817915.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40817915.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40817915.jpg"
+  }
+}

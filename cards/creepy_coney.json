@@ -1,0 +1,16 @@
+{
+  "id": 49144107,
+  "name": "Creepy Coney",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Inflict 1000 damage to your opponent for each face-up Normal Monster you control, except Tokens.",
+  "attack": 1000,
+  "defense": 1900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49144107.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49144107.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49144107.jpg"
+  }
+}

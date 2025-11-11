@@ -1,0 +1,16 @@
+{
+  "id": 46457856,
+  "name": "Tomozaurus",
+  "type": "Normal Monster",
+  "description": "Small but vicious, this monster even attacks its own kind.",
+  "attack": 500,
+  "defense": 400,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46457856.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46457856.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46457856.jpg"
+  }
+}

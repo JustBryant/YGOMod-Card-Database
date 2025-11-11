@@ -1,0 +1,16 @@
+{
+  "id": 24413299,
+  "name": "The Suppression Pluto",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can declare 1 card name; look at your opponent's hand, then if they have the declared card in their hand, apply 1 of these effects.\r\n● Take control of 1 monster your opponent controls.\r\n● Destroy 1 Spell/Trap Card your opponent controls, then you can Set the destroyed Spell/Trap Card on your field.",
+  "attack": 2600,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24413299.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24413299.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24413299.jpg"
+  }
+}

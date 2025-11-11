@@ -1,0 +1,16 @@
+{
+  "id": 9411399,
+  "name": "Destiny HERO - Malicious",
+  "type": "Effect Monster",
+  "description": "You can banish this card from your GY; Special Summon 1 \"Destiny HERO - Malicious\" from your Deck.",
+  "attack": 800,
+  "defense": 800,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9411399.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9411399.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9411399.jpg"
+  }
+}

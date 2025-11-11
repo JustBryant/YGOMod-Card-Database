@@ -1,0 +1,16 @@
+{
+  "id": 2254222,
+  "name": "Speedroid Wing Synchron",
+  "type": "Pendulum Tuner Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn: You can destroy this card and 1 Level 2 WIND Pendulum Monster Card in your Pendulum Zone, and if you do, Special Summon 1 \"Clear Wing Synchro Dragon\" from your Extra Deck (this is treated as a Synchro Summon), also for the rest of this turn, cards in your Pendulum Zones cannot be destroyed by card effects, and you cannot Special Summon, except WIND monsters.\n\n[ Monster Effect ] \nIf this card is added to your Extra Deck face-up, and you control 2 or more different Types of WIND Synchro Monsters: You can send 1 \"Speedroid\" Spell/Trap from your Deck to the GY. You can only use this effect of \"Speedroid Wing Synchron\" once per turn.",
+  "attack": 1500,
+  "defense": 1000,
+  "level": 5,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2254222.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2254222.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2254222.jpg"
+  }
+}

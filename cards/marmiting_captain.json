@@ -1,0 +1,16 @@
+{
+  "id": 48737767,
+  "name": "Marmiting Captain",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can shuffle 1 card from your hand into the Deck, then draw 1 card, then you can Special Summon it if it is a monster.",
+  "attack": 1200,
+  "defense": 400,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48737767.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48737767.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48737767.jpg"
+  }
+}

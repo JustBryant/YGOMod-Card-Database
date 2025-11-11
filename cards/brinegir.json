@@ -1,0 +1,16 @@
+{
+  "id": 2102065,
+  "name": "Brinegir",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can target 1 WATER monster in your GY; this card gains ATK equal to that monster's ATK until the end of this turn. If this card is sent to the GY: You can target 1 WATER monster you control; it gains 1000 ATK until the end of this turn. You can only use each effect of \"Brinegir\" once per turn.",
+  "attack": 1000,
+  "defense": 2600,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2102065.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2102065.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2102065.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 62437709,
+  "name": "Alien Grey",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Place 1 A-Counter on 1 face-up monster on your opponent's side of the field. (If a monster with an A-Counter battles an \"Alien\" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.) After this card has been flipped face-up, when it is destroyed by battle and sent to the Graveyard, draw 1 card.",
+  "attack": 300,
+  "defense": 800,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62437709.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62437709.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62437709.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 44424095,
+  "name": "Morphtronic Accelerator",
+  "type": "Spell Card",
+  "description": "Return 1 \"Morphtronic\" monster from your hand to the Deck. Destroy 1 card on the field, and draw 1 card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44424095.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44424095.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44424095.jpg"
+  }
+}

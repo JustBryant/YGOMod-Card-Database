@@ -1,0 +1,16 @@
+{
+  "id": 85696777,
+  "name": "Harpie Conductor",
+  "type": "Link Monster",
+  "description": "2 WIND monsters\r\nThis card's name becomes \"Harpie Lady\" while on the field or in the GY. You can only use each of the following effects of \"Harpie Conductor\" once per turn.\r\n● If a \"Harpie\" monster(s) you control would be destroyed by battle or card effect, you can destroy 1 Spell/Trap you control instead.\r\n● If another face-up \"Harpie\" monster you control returns to your hand (except during the Damage Step): You can target 1 Special Summoned monster your opponent controls; return it to the hand.",
+  "attack": 1900,
+  "defense": null,
+  "level": null,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85696777.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85696777.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85696777.jpg"
+  }
+}

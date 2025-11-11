@@ -1,0 +1,12 @@
+{
+  "id": 81223446,
+  "name": "Necro Fusion",
+  "type": "Trap Card",
+  "description": "Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your GY face-down, but it cannot attack this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81223446.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81223446.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81223446.jpg"
+  }
+}

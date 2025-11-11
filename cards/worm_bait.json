@@ -1,0 +1,12 @@
+{
+  "id": 43140791,
+  "name": "Worm Bait",
+  "type": "Spell Card",
+  "description": "If you control an Insect monster: Special Summon 2 \"Worm Tokens\" (Insect/EARTH/Level 1/ATK 0/DEF 0). You cannot Normal or Special Summon any Level 3 or 4 monsters the turn you activate this card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43140791.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43140791.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43140791.jpg"
+  }
+}

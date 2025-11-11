@@ -1,0 +1,16 @@
+{
+  "id": 56100345,
+  "name": "Cyberdark Wurm",
+  "type": "Effect Monster",
+  "description": "This card's name becomes \"Cyber Dragon\" while on the field or in the GY. If this card is in your hand or GY, and you have another Machine \"Cyber\" monster in your field or GY: You can send 1 \"Cyber Dragon\" monster from your hand or Deck to the GY; Special Summon this card, then you can add 1 \"Cyber\" Spell/Trap from your GY to your hand. You can only use this effect of \"Cyberdark Wurm\" once per Duel.",
+  "attack": 800,
+  "defense": 2100,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56100345.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56100345.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56100345.jpg"
+  }
+}

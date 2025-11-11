@@ -1,0 +1,16 @@
+{
+  "id": 54266211,
+  "name": "Evolsaur Vulcano",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: You can target 1 \"Evolsaur\" monster in your Graveyard; Special Summon that target. It cannot declare an attack.",
+  "attack": 1200,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54266211.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54266211.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54266211.jpg"
+  }
+}

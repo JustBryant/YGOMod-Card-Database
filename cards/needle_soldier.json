@@ -1,0 +1,16 @@
+{
+  "id": 17841097,
+  "name": "Needle Soldier",
+  "type": "Effect Monster",
+  "description": "If this card is used as a Synchro Material Monster for a Synchro Monster, during battle between that Synchro Monster and a Defense Position monster whose DEF is lower than the ATK of that Synchro Monster, inflict the difference as Battle Damage to your opponent.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17841097.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17841097.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17841097.jpg"
+  }
+}

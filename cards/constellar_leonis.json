@@ -1,0 +1,16 @@
+{
+  "id": 17129783,
+  "name": "Constellar Leonis",
+  "type": "Effect Monster",
+  "description": "During your Main Phase, you can Normal Summon 1 \"Constellar\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+  "attack": 1000,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17129783.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17129783.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17129783.jpg"
+  }
+}

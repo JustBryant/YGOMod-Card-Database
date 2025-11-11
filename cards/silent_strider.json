@@ -1,0 +1,16 @@
+{
+  "id": 18235577,
+  "name": "Silent Strider",
+  "type": "Effect Monster",
+  "description": "You can send this card from your hand to the Graveyard to reduce the Level of 1 monster on the field by 1, until the End Phase.",
+  "attack": 300,
+  "defense": 700,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18235577.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18235577.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18235577.jpg"
+  }
+}

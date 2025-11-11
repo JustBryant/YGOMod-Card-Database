@@ -1,0 +1,16 @@
+{
+  "id": 45141844,
+  "name": "Old Vindictive Magician",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Target 1 monster your opponent controls; destroy that target.",
+  "attack": 450,
+  "defense": 600,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45141844.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45141844.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45141844.jpg"
+  }
+}

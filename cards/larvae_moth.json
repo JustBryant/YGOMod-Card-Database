@@ -1,0 +1,16 @@
+{
+  "id": 87756343,
+  "name": "Larvae Moth",
+  "type": "Effect Monster",
+  "description": "This monster cannot be Normal Summoned or Set. This card can only be Special Summoned by Tributing \"Petit Moth\" during your 2nd turn after \"Petit Moth\" has been equipped with \"Cocoon of Evolution\".",
+  "attack": 500,
+  "defense": 400,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87756343.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87756343.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87756343.jpg"
+  }
+}

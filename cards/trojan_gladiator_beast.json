@@ -1,0 +1,12 @@
+{
+  "id": 76384284,
+  "name": "Trojan Gladiator Beast",
+  "type": "Trap Card",
+  "description": "Special Summon 1 \"Gladiator Beast\" monster from your hand to your opponent's side of the field. Then, draw 1 card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76384284.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76384284.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76384284.jpg"
+  }
+}

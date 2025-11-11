@@ -1,0 +1,16 @@
+{
+  "id": 73642296,
+  "name": "Ghost Belle & Haunted Mansion",
+  "type": "Tuner Monster",
+  "description": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that activation.\r\n● Add a card(s) from the GY to the hand, Deck, and/or Extra Deck.\r\n● Special Summon a Monster Card(s) from the GY.\r\n● Banish a card(s) from the GY.\r\nYou can only use this effect of \"Ghost Belle & Haunted Mansion\" once per turn.",
+  "attack": 0,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73642296.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73642296.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73642296.jpg"
+  }
+}

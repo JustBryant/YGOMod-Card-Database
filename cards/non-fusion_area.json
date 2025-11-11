@@ -1,0 +1,12 @@
+{
+  "id": 27581098,
+  "name": "Non-Fusion Area",
+  "type": "Trap Card",
+  "description": "Neither player can Fusion Summon.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27581098.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27581098.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27581098.jpg"
+  }
+}

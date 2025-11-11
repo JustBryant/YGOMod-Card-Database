@@ -1,0 +1,12 @@
+{
+  "id": 5758500,
+  "name": "Soul Release",
+  "type": "Spell Card",
+  "description": "Target up to 5 cards in any GY(s); banish them.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5758500.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5758500.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5758500.jpg"
+  }
+}

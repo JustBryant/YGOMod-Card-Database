@@ -1,0 +1,16 @@
+{
+  "id": 28150174,
+  "name": "Photon Papilloperative",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 Defense Position monster on the field; change it to face-up Attack Position, and if you do, it loses 600 ATK.",
+  "attack": 2100,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28150174.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28150174.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28150174.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 55501446,
+  "name": "Lightserpent",
+  "type": "Effect Monster",
+  "description": "If this card is sent from the hand to your Graveyard: You can Special Summon it from the Graveyard. This card cannot be used as a Synchro Material Monster.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55501446.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55501446.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55501446.jpg"
+  }
+}

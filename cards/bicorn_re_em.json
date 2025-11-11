@@ -1,0 +1,16 @@
+{
+  "id": 58685438,
+  "name": "Bicorn Re'em",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the Graveyard as a Synchro Material Monster for a Synchro Summon, send the top 2 cards from your opponent's Deck to the Graveyard.",
+  "attack": 800,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58685438.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58685438.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58685438.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 65277087,
+  "name": "Gusto Gulldo",
+  "type": "Tuner Monster",
+  "description": "When this card is sent from the field to the Graveyard: You can Special Summon 1 Level 2 or lower \"Gusto\" monster from your Deck.",
+  "attack": 500,
+  "defense": 500,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65277087.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65277087.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65277087.jpg"
+  }
+}

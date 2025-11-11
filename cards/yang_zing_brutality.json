@@ -1,0 +1,12 @@
+{
+  "id": 67249508,
+  "name": "Yang Zing Brutality",
+  "type": "Trap Card",
+  "description": "If a \"Yang Zing\" monster you control battles an opponent's monster, during damage calculation: Your battling monster's ATK and DEF each become double its original ATK and DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67249508.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67249508.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67249508.jpg"
+  }
+}

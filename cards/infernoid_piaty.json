@@ -1,0 +1,16 @@
+{
+  "id": 25811989,
+  "name": "Infernoid Piaty",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Graveyard) by banishing 2 \"Infernoid\" monsters from your hand or Graveyard while the total Levels and Ranks of all Effect Monsters you control are 8 or lower, and cannot be Special Summoned by other ways. When this card inflicts battle damage to your opponent by attacking an opponent's monster: You can send 1 random card from your opponent's hand to the Graveyard. Once per turn, during either player's turn: You can Tribute 1 monster, then target 1 card in your opponent's Graveyard; banish it.",
+  "attack": 2200,
+  "defense": 0,
+  "level": 5,
+  "attribute": "FIRE",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25811989.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25811989.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25811989.jpg"
+  }
+}

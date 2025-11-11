@@ -1,0 +1,16 @@
+{
+  "id": 15495787,
+  "name": "Superheavy Samurai Prepped Defense",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal or Flip Summoned, if you have any Spell/Trap Cards in your Graveyard. When you take battle damage, if you have no Spell/Trap Cards in your Graveyard and this card is in your hand: You can Special Summon this card, and if you do, it cannot be destroyed by battle or card effects this turn.",
+  "attack": 100,
+  "defense": 2100,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15495787.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15495787.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15495787.jpg"
+  }
+}

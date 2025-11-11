@@ -1,0 +1,12 @@
+{
+  "id": 21831848,
+  "name": "Gagagadraw",
+  "type": "Spell Card",
+  "description": "Banish 3 \"Gagaga\" monsters from your Graveyard; draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21831848.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21831848.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21831848.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 36565699,
+  "name": "Mental Seeker",
+  "type": "Tuner Monster",
+  "description": "When this removed from play card is Special Summoned, reveal the top 3 cards of your opponent's Deck. Choose 1 of those cards and remove it from play. Then, shuffle the others into the Deck.",
+  "attack": 800,
+  "defense": 600,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36565699.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36565699.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36565699.jpg"
+  }
+}

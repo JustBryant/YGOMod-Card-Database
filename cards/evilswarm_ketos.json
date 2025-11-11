@@ -1,0 +1,16 @@
+{
+  "id": 40921545,
+  "name": "Evilswarm Ketos",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card, then target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "attack": 1750,
+  "defense": 1050,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40921545.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40921545.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40921545.jpg"
+  }
+}

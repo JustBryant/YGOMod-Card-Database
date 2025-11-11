@@ -1,0 +1,16 @@
+{
+  "id": 74130411,
+  "name": "Biofalcon",
+  "type": "Effect Monster",
+  "description": "When a Machine-Type monster you control is destroyed by battle and sent to the Graveyard while this card is face-up on the field, you can add 1 Machine-Type monster with 1000 or less ATK from your Deck to your hand.",
+  "attack": 1700,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74130411.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74130411.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74130411.jpg"
+  }
+}

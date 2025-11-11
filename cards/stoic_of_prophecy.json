@@ -1,0 +1,16 @@
+{
+  "id": 54359696,
+  "name": "Stoic of Prophecy",
+  "type": "Effect Monster",
+  "description": "When this card is sent to the Graveyard: Add 1 Level 3 \"Prophecy\" monster from your Deck to your hand.",
+  "attack": 300,
+  "defense": 200,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54359696.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54359696.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54359696.jpg"
+  }
+}

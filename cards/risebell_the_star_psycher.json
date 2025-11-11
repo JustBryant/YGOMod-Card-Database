@@ -1,0 +1,16 @@
+{
+  "id": 14812659,
+  "name": "Risebell the Star Psycher",
+  "type": "Effect Monster",
+  "description": "Once per turn, during either player's turn: You can target 1 face-up monster on the field; increase its Level by 1.",
+  "attack": 1500,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14812659.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14812659.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14812659.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 425934,
+  "name": "Goblin of Greed",
+  "type": "Effect Monster",
+  "description": "As long as this card remains face-up on your side of the field, neither player can activate an effect by discarding from his/her hand.",
+  "attack": 1000,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/425934.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/425934.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/425934.jpg"
+  }
+}

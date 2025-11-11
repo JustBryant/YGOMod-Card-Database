@@ -1,0 +1,16 @@
+{
+  "id": 49105782,
+  "name": "Hraesvelgr, the Desperate Doom Eagle",
+  "type": "Link Monster",
+  "description": "2+ WIND monsters\r\nGains 2400 ATK while your opponent has no monsters in their GY. (Quick Effect): You can target 1 monster in your opponent's GY; shuffle it into the Deck. You can only use this effect of \"Hraesvelgr, the Desperate Doom Eagle\" once per turn.",
+  "attack": 2400,
+  "defense": null,
+  "level": null,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49105782.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49105782.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49105782.jpg"
+  }
+}

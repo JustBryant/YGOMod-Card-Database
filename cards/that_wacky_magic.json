@@ -1,0 +1,12 @@
+{
+  "id": 50427388,
+  "name": "That Wacky Magic!",
+  "type": "Spell Card",
+  "description": "Banish all Spell Cards from your Graveyard; destroy all face-up monsters your opponent controls with DEF less than or equal to the number of Spell Cards you banished x 300.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50427388.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50427388.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50427388.jpg"
+  }
+}

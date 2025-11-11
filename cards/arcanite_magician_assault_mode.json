@@ -1,0 +1,16 @@
+{
+  "id": 14553285,
+  "name": "Arcanite Magician/Assault Mode",
+  "type": "Effect Monster",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". When this card is Special Summoned, place 2 Spell Counters on it. This card gains 1000 ATK for each Spell Counter on it. You can remove 2 Spell Counters from this card to destroy all cards your opponent controls. When this card on the field is destroyed, you can Special Summon 1 \"Arcanite Magician\" from your Graveyard.",
+  "attack": 900,
+  "defense": 2300,
+  "level": 9,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14553285.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14553285.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14553285.jpg"
+  }
+}

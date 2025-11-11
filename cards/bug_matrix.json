@@ -1,0 +1,12 @@
+{
+  "id": 86643777,
+  "name": "Bug Matrix",
+  "type": "Spell Card",
+  "description": "All Insect-Type monsters you control gain 300 ATK and DEF. You can target 1 Insect-Type Xyz Monster you control; attach 1 Insect-Type monster from your hand to that monster as Xyz Material. You can only use this effect of \"Bug Matrix\" once per turn.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86643777.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86643777.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86643777.jpg"
+  }
+}

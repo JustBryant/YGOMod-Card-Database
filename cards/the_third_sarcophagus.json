@@ -1,0 +1,12 @@
+{
+  "id": 78697395,
+  "name": "The Third Sarcophagus",
+  "type": "Spell Card",
+  "description": "This card can only be placed on the field by the effect of \"The First Sarcophagus\".",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78697395.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78697395.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78697395.jpg"
+  }
+}

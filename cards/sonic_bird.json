@@ -1,0 +1,16 @@
+{
+  "id": 57617178,
+  "name": "Sonic Bird",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Flip Summoned: You can add 1 Ritual Spell from your Deck to your hand.",
+  "attack": 1400,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57617178.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57617178.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57617178.jpg"
+  }
+}

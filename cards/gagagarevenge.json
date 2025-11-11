@@ -1,0 +1,12 @@
+{
+  "id": 90673413,
+  "name": "Gagagarevenge",
+  "type": "Spell Card",
+  "description": "Target 1 \"Gagaga\" monster in your Graveyard; Special Summon it and equip it with this card. When this card leaves the field, destroy the equipped monster. When this card is sent to the Graveyard because the equipped monster was used as an Xyz Material: All Xyz Monsters you currently control gain 300 ATK.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90673413.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90673413.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90673413.jpg"
+  }
+}

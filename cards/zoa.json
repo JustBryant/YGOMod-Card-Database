@@ -1,0 +1,16 @@
+{
+  "id": 24311372,
+  "name": "Zoa",
+  "type": "Normal Monster",
+  "description": "A monster whose full potential can be achieved when outfitted with \"Metalmorph\".",
+  "attack": 2600,
+  "defense": 1900,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24311372.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24311372.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24311372.jpg"
+  }
+}

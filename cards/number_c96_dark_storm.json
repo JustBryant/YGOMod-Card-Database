@@ -1,0 +1,16 @@
+{
+  "id": 77205367,
+  "name": "Number C96: Dark Storm",
+  "type": "XYZ Monster",
+  "description": "4 Level 3 DARK monsters\nThis card cannot be destroyed by battle, also all battle damage you take from battles involving this card is also inflicted to your opponent. If this card has \"Number 96: Dark Mist\" as an Xyz Material, it gains this effect.\n● Once per battle, during either player's turn, when an attack is declared involving this card and an opponent's monster: You can detach 1 Xyz Material from this card; the ATK of the opponent's monster becomes 0, and if it does, this card gains ATK equal to the original ATK of the opponent's monster.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77205367.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77205367.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77205367.jpg"
+  }
+}

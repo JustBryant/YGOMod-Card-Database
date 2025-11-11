@@ -1,0 +1,16 @@
+{
+  "id": 27782503,
+  "name": "The Six Samurai - Irou",
+  "type": "Effect Monster",
+  "description": "At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+  "attack": 1700,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27782503.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27782503.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27782503.jpg"
+  }
+}

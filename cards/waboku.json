@@ -1,0 +1,12 @@
+{
+  "id": 12607053,
+  "name": "Waboku",
+  "type": "Trap Card",
+  "description": "You take no battle damage from your opponent's monsters this turn. Your monsters cannot be destroyed by battle this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12607053.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12607053.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12607053.jpg"
+  }
+}

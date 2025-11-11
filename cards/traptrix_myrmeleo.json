@@ -1,0 +1,16 @@
+{
+  "id": 91812341,
+  "name": "Traptrix Myrmeleo",
+  "type": "Effect Monster",
+  "description": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. When this card is Normal Summoned: You can add 1 \"Hole\" Normal Trap Card from your Deck to your hand. If this card is Special Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91812341.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91812341.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91812341.jpg"
+  }
+}

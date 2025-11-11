@@ -1,0 +1,16 @@
+{
+  "id": 97023549,
+  "name": "Blade Skater",
+  "type": "Normal Monster",
+  "description": "An image of beauty on the ice, this gorgeous warrior rips her opponents into pieces with her stylish Accel Slicer attack.",
+  "attack": 1400,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97023549.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97023549.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97023549.jpg"
+  }
+}

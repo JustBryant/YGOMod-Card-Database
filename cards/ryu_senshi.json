@@ -1,0 +1,16 @@
+{
+  "id": 49868263,
+  "name": "Ryu Senshi",
+  "type": "Fusion Monster",
+  "description": "\"Warrior Dai Grepher\" + \"Spirit Ryu\"\r\nA Fusion Summon of this card can only be done with the above Fusion Materials. When a Normal Trap Card is activated (Quick Effect): You can pay 1000 LP; negate that effect. This card must be face-up on the field to activate and to resolve this effect. Negate the effects of any Spell Card that targets this card and destroy it.",
+  "attack": 2000,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49868263.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49868263.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49868263.jpg"
+  }
+}

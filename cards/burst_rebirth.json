@@ -1,0 +1,12 @@
+{
+  "id": 50243722,
+  "name": "Burst Rebirth",
+  "type": "Trap Card",
+  "description": "Pay 2000 Life Points, then target 1 monster in your Graveyard; Special Summon that target in face-down Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50243722.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50243722.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50243722.jpg"
+  }
+}

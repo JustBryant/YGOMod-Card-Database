@@ -1,0 +1,16 @@
+{
+  "id": 86988864,
+  "name": "3-Hump Lacooda",
+  "type": "Effect Monster",
+  "description": "If there are 3 face-up \"3-Hump Lacooda\" cards on your side of the field, Tribute 2 of them to draw 3 cards.",
+  "attack": 500,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86988864.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86988864.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86988864.jpg"
+  }
+}

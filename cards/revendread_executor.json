@@ -1,0 +1,16 @@
+{
+  "id": 34093683,
+  "name": "Revendread Executor",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with any \"Vendread\" Ritual Spell. This card's name becomes \"Revendread Slayer\" while on the field. While this Ritual Summoned card is on the field, your opponent cannot target cards you control with card effects, except this card. If this Ritual Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 \"Vendread\" card from your Deck to your hand. You can only use this effect of \"Revendread Executor\" once per turn.",
+  "attack": 3000,
+  "defense": 0,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34093683.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34093683.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34093683.jpg"
+  }
+}

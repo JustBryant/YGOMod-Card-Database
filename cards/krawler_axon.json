@@ -1,0 +1,16 @@
+{
+  "id": 15710054,
+  "name": "Krawler Axon",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can target 1 Spell/Trap on the field; destroy it.\r\nIf this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 2 \"Krawler\" monsters with different names from your Deck in face-down Defense Position, except \"Krawler Axon\". You can only use each effect of \"Krawler Axon\" once per turn.",
+  "attack": 500,
+  "defense": 1800,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15710054.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15710054.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15710054.jpg"
+  }
+}

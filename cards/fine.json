@@ -1,0 +1,12 @@
+{
+  "id": 92595643,
+  "name": "Fine",
+  "type": "Trap Card",
+  "description": "Discard 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92595643.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92595643.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92595643.jpg"
+  }
+}

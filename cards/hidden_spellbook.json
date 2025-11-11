@@ -1,0 +1,12 @@
+{
+  "id": 21840375,
+  "name": "Hidden Spellbook",
+  "type": "Trap Card",
+  "description": "During your turn: Target 2 Spell Cards in your Graveyard; shuffle those targets into the Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21840375.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21840375.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21840375.jpg"
+  }
+}

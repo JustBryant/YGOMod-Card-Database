@@ -1,0 +1,16 @@
+{
+  "id": 58369990,
+  "name": "Doomstar Magician",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can discard 1 card, then target 1 card in either player's Pendulum Zone; destroy that card, and if you do, draw 1 card.",
+  "attack": 1800,
+  "defense": 300,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58369990.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58369990.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58369990.jpg"
+  }
+}

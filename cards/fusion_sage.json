@@ -1,0 +1,12 @@
+{
+  "id": 26902560,
+  "name": "Fusion Sage",
+  "type": "Spell Card",
+  "description": "Add 1 \"Polymerization\" from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26902560.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26902560.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26902560.jpg"
+  }
+}

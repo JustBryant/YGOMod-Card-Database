@@ -1,0 +1,16 @@
+{
+  "id": 3797883,
+  "name": "Slot Machine",
+  "type": "Normal Monster",
+  "description": "The machine's ability is said to vary according to its slot results.",
+  "attack": 2000,
+  "defense": 2300,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3797883.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3797883.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3797883.jpg"
+  }
+}

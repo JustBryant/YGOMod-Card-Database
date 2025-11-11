@@ -1,0 +1,16 @@
+{
+  "id": 20584712,
+  "name": "SPYRAL Tough",
+  "type": "Effect Monster",
+  "description": "This card's name becomes \"SPYRAL Super Agent\" while it is on the field or in the GY. Once per turn: You can declare 1 type of card (Monster, Spell, or Trap) and target 1 card your opponent controls; reveal the top card of your opponent's Deck, and if you do, destroy the targeted card if the revealed card is the declared type.",
+  "attack": 1900,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20584712.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20584712.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20584712.jpg"
+  }
+}

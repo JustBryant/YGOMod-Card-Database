@@ -1,0 +1,12 @@
+{
+  "id": 93104633,
+  "name": "Security Token",
+  "type": "Token",
+  "description": "This card can be used as a \"Security Token\".\r\n\r\n\r\n● If used for another Token, apply that Token's Type / Attribute / Level / ATK / DEF.",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93104633.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93104633.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93104633.jpg"
+  }
+}

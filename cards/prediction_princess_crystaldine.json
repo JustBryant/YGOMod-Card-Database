@@ -1,0 +1,16 @@
+{
+  "id": 67503139,
+  "name": "Prediction Princess Crystaldine",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can add 1 Ritual Monster from your Deck or Graveyard to your hand.",
+  "attack": 1400,
+  "defense": 2200,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67503139.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67503139.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67503139.jpg"
+  }
+}

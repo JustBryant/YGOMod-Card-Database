@@ -1,0 +1,12 @@
+{
+  "id": 86885905,
+  "name": "Altergeist Emulatelf",
+  "type": "Trap Card",
+  "description": "Special Summon this card as an Effect Monster (Spellcaster/LIGHT/Level 4/ATK 1400/DEF 1800). (This card is also still a Trap.) If Summoned this way, while it is in the Monster Zone, other \"Altergeist\" Traps you control cannot be destroyed by card effects, also neither player can target them with card effects.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86885905.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86885905.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86885905.jpg"
+  }
+}

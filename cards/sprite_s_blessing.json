@@ -1,0 +1,12 @@
+{
+  "id": 37626500,
+  "name": "Sprite's Blessing",
+  "type": "Spell Card",
+  "description": "This card can be used to Ritual Summon any LIGHT Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.",
+  "race": "Ritual",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37626500.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37626500.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37626500.jpg"
+  }
+}

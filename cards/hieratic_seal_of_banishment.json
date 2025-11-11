@@ -1,0 +1,12 @@
+{
+  "id": 11975962,
+  "name": "Hieratic Seal of Banishment",
+  "type": "Trap Card",
+  "description": "Tribute 1 \"Hieratic\" monster to target 1 card your opponent controls; banish that target.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11975962.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11975962.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11975962.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 41613948,
+  "name": "Destiny HERO - Doom Lord",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 monster your opponent controls; banish that target. You cannot declare an attack the turn you activate this effect. You must control this face-up Attack Position card to activate and to resolve this effect. The banished monster returns to the opponent's side of the field, in the same battle position, during your 2nd Standby Phase after activation.",
+  "attack": 600,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41613948.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41613948.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41613948.jpg"
+  }
+}

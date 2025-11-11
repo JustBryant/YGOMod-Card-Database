@@ -1,0 +1,16 @@
+{
+  "id": 4694209,
+  "name": "Card Guard",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: Place 1 Guard Counter on it. This card gains 300 ATK for each Guard Counter on it. Once per turn: You can target 1 other face-up card you control; remove 1 Guard Counter from this card, and if you do, place 1 Guard Counter on that target (if that card would ever be destroyed, remove 1 Guard Counter from it instead).",
+  "attack": 1600,
+  "defense": 500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4694209.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4694209.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4694209.jpg"
+  }
+}

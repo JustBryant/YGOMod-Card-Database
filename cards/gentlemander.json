@@ -1,0 +1,16 @@
+{
+  "id": 54635862,
+  "name": "Gentlemander",
+  "type": "Effect Monster",
+  "description": "When an opponent's monster declares an attack: You can Special Summon this card from your hand. Your opponent's monsters cannot attack any monsters, except this one.",
+  "attack": 1200,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54635862.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54635862.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54635862.jpg"
+  }
+}

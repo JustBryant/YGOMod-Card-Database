@@ -1,0 +1,16 @@
+{
+  "id": 41403766,
+  "name": "Giant Scorpion of the Tundra",
+  "type": "Normal Monster",
+  "description": "''An extraordinary blue scorpion found in the tundra, not in the desert.''",
+  "attack": 1100,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41403766.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41403766.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41403766.jpg"
+  }
+}

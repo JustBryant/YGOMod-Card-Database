@@ -1,0 +1,12 @@
+{
+  "id": 84361420,
+  "name": "Edge Hammer",
+  "type": "Trap Card",
+  "description": "Tribute 1 \"Elemental HERO Bladedge\" to target 1 monster your opponent controls; destroy that target and inflict damage to your opponent equal to that target's original ATK.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84361420.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84361420.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84361420.jpg"
+  }
+}

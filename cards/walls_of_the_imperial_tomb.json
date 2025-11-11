@@ -1,0 +1,12 @@
+{
+  "id": 26984177,
+  "name": "Walls of the Imperial Tomb",
+  "type": "Spell Card",
+  "description": "This card's name becomes \"King's Sarcophagus\" while in the Field Zone. During your Main Phase: You can add 1 \"Horus\" monster from your Deck to your hand, then place 1 card from your hand on the bottom of the Deck. You can only use this effect of \"Walls of the Imperial Tomb\" once per turn. If you activate the effect of \"Horus the Black Flame Deity\": You can draw 1 card.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26984177.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26984177.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26984177.jpg"
+  }
+}

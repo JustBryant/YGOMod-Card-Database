@@ -1,0 +1,12 @@
+{
+  "id": 48115278,
+  "name": "Block Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Blockman\". This Token cannot declare an attack.",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48115278.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48115278.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48115278.jpg"
+  }
+}

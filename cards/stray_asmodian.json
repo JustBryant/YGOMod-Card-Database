@@ -1,0 +1,16 @@
+{
+  "id": 86209650,
+  "name": "Stray Asmodian",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed and sent to the Graveyard by battle, both players gain 800 Life Points.",
+  "attack": 1300,
+  "defense": 1700,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86209650.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86209650.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86209650.jpg"
+  }
+}

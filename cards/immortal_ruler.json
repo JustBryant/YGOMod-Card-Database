@@ -1,0 +1,16 @@
+{
+  "id": 32485518,
+  "name": "Immortal Ruler",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned. You can Tribute this card, then target 1 \"Zombie World\" in your GY; add that target to your hand.",
+  "attack": 1800,
+  "defense": 200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32485518.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32485518.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32485518.jpg"
+  }
+}

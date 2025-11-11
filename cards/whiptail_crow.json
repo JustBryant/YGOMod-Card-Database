@@ -1,0 +1,16 @@
+{
+  "id": 91996584,
+  "name": "Whiptail Crow",
+  "type": "Normal Monster",
+  "description": "Attacks from the skies with a whip-like tail.",
+  "attack": 1650,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91996584.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91996584.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91996584.jpg"
+  }
+}

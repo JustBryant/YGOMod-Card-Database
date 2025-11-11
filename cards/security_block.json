@@ -1,0 +1,12 @@
+{
+  "id": 91665064,
+  "name": "Security Block",
+  "type": "Spell Card",
+  "description": "Target 1 Cyberse monster on the field; this turn, neither player takes battle damage, also that monster cannot be destroyed by battle.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91665064.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91665064.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91665064.jpg"
+  }
+}

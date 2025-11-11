@@ -1,0 +1,12 @@
+{
+  "id": 48576971,
+  "name": "Necklace of Command",
+  "type": "Spell Card",
+  "description": "When a monster you control that's equipped with this card is destroyed by battle, and this card is sent to the Graveyard, you can either:\n● Draw 1 card. OR\n● Discard 1 random card from your opponent's hand.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48576971.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48576971.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48576971.jpg"
+  }
+}

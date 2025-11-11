@@ -1,0 +1,16 @@
+{
+  "id": 74659582,
+  "name": "Sleipnir the Runick Mane",
+  "type": "Fusion Monster",
+  "description": "2 \"Runick\" monsters\r\nDuring your Main Phase or your opponent's Battle Phase (Quick Effect): You can target 1 face-up monster your opponent controls; banish both that monster and this card until the End Phase. If a card(s) is added from the Main Deck to your opponent's hand (except during the Damage Step): You can Special Summon 1 \"Runick Token\" (Fairy/LIGHT/Level 4/ATK 1500/DEF 1500) in Attack Position. You can only use each effect of \"Sleipnir the Runick Mane\" once per turn.",
+  "attack": 1500,
+  "defense": 1500,
+  "level": 9,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74659582.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74659582.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74659582.jpg"
+  }
+}

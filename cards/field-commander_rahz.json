@@ -1,0 +1,16 @@
+{
+  "id": 89529919,
+  "name": "Field-Commander Rahz",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned: Choose 1 Level 4 or lower Warrior-Type monster from your Deck, except \"Field-Commander Rahz\", and place it on top of your Deck.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89529919.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89529919.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89529919.jpg"
+  }
+}

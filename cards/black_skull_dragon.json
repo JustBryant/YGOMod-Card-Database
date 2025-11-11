@@ -1,0 +1,16 @@
+{
+  "id": 11901678,
+  "name": "Black Skull Dragon",
+  "type": "Fusion Monster",
+  "description": "\"Summoned Skull\" + \"Red-Eyes Black Dragon\"\r\n\r\n\r\n\r\n(This card is always treated as an \"Archfiend\" card.)",
+  "attack": 3200,
+  "defense": 2500,
+  "level": 9,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11901678.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11901678.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11901678.jpg"
+  }
+}

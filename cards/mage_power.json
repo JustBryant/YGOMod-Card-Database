@@ -1,0 +1,12 @@
+{
+  "id": 83746708,
+  "name": "Mage Power",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 500 ATK and DEF for each Spell/Trap Card you control.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83746708.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83746708.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83746708.jpg"
+  }
+}

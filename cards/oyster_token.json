@@ -1,0 +1,12 @@
+{
+  "id": 83239740,
+  "name": "Oyster Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Oyster Meister\".",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83239740.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83239740.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83239740.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 29253591,
+  "name": "Dragunity Couse",
+  "type": "Tuner Monster",
+  "description": "Cannot be used as Synchro Material, except for the Synchro Summon of a \"Dragunity\" monster. This card on the field can be treated as a Level 4 monster when used for a Synchro Summon. If this card is currently equipped to a monster: You can Special Summon this equipped card.",
+  "attack": 1000,
+  "defense": 200,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29253591.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29253591.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29253591.jpg"
+  }
+}

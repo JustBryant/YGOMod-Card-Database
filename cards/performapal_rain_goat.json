@@ -1,0 +1,16 @@
+{
+  "id": 16617334,
+  "name": "Performapal Rain Goat",
+  "type": "Effect Monster",
+  "description": "When a card or effect is activated that would inflict damage to you (Quick Effect): You can discard this card; make that effect damage to you 0. During the Main Phase (Quick Effect): You can discard this card, then target 1 \"Performapal\" or \"Odd-Eyes\" card you control; this turn, it cannot be destroyed by battle or card effects.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16617334.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16617334.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16617334.jpg"
+  }
+}

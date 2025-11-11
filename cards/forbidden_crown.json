@@ -1,0 +1,12 @@
+{
+  "id": 98829635,
+  "name": "Forbidden Crown",
+  "type": "Spell Card",
+  "description": "Neither player can activate monster effects in response to this card's activation. Apply these effects to 1 face-up monster on the field, until the end of this turn.\r\n● Its effects are negated.\r\n● It cannot attack.\r\n● It cannot be destroyed by battle or card effects.\r\n● It is unaffected by other cards' activated effects, except its own.\r\n● It cannot be Tributed.\r\n● It cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon.\r\nYou can only activate 1 \"Forbidden Crown\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98829635.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98829635.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98829635.jpg"
+  }
+}

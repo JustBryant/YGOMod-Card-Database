@@ -1,0 +1,16 @@
+{
+  "id": 91188343,
+  "name": "The Agent of Mystery - Earth",
+  "type": "Tuner Monster",
+  "description": "When this card is Normal Summoned, you can add 1 \"The Agent\" monster from your Deck to your hand, except \"The Agent of Mystery - Earth\". While \"The Sanctuary in the Sky\" is face-up on the field, you can add 1 \"Master Hyperion\" from your Deck to your hand instead.",
+  "attack": 1000,
+  "defense": 800,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91188343.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91188343.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91188343.jpg"
+  }
+}

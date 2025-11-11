@@ -1,0 +1,12 @@
+{
+  "id": 242146,
+  "name": "Ballista of Rampart Smashing",
+  "type": "Spell Card",
+  "description": "If the equipped monster attacks a face-down Defense Position monster, it gains 1500 ATK during damage calculation only.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/242146.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/242146.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/242146.jpg"
+  }
+}

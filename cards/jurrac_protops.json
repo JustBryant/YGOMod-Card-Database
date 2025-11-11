@@ -1,0 +1,16 @@
+{
+  "id": 23927545,
+  "name": "Jurrac Protops",
+  "type": "Effect Monster",
+  "description": "This card gains 100 ATK for each monster your opponent controls.",
+  "attack": 1700,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23927545.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23927545.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23927545.jpg"
+  }
+}

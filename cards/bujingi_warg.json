@@ -1,0 +1,16 @@
+{
+  "id": 80555062,
+  "name": "Bujingi Warg",
+  "type": "Effect Monster",
+  "description": "While this card is in face-up Defense Position, other \"Bujin\" monsters you control cannot be destroyed by card effects.",
+  "attack": 1200,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80555062.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80555062.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80555062.jpg"
+  }
+}

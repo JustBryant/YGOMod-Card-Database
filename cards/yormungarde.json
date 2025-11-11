@@ -1,0 +1,16 @@
+{
+  "id": 17115745,
+  "name": "Yormungarde",
+  "type": "Normal Monster",
+  "description": "''An extremely long snake that dwells in the world of myth.''",
+  "attack": 1200,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17115745.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17115745.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17115745.jpg"
+  }
+}

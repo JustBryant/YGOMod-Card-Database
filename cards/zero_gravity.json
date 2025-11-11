@@ -1,0 +1,12 @@
+{
+  "id": 83133491,
+  "name": "Zero Gravity",
+  "type": "Trap Card",
+  "description": "Change the battle positions of all face-up monsters on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83133491.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83133491.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83133491.jpg"
+  }
+}

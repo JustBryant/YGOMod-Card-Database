@@ -1,0 +1,16 @@
+{
+  "id": 69181753,
+  "name": "Performapal Kuribohble",
+  "type": "Effect Monster",
+  "description": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand, and if you do, change the attack target to this card, and proceed to damage calculation. If you would take battle damage from that battle, you gain that much LP instead.",
+  "attack": 300,
+  "defense": 200,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69181753.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69181753.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69181753.jpg"
+  }
+}

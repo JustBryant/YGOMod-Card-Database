@@ -1,0 +1,16 @@
+{
+  "id": 25163248,
+  "name": "Chronomaly Mayan Machine",
+  "type": "Effect Monster",
+  "description": "This card can be treated as 2 Tributes for the Tribute Summon of a Machine-Type monster.",
+  "attack": 1500,
+  "defense": 700,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25163248.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25163248.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25163248.jpg"
+  }
+}

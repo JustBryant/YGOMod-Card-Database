@@ -1,0 +1,16 @@
+{
+  "id": 93084621,
+  "name": "Unchained Soul of Anguish",
+  "type": "Link Monster",
+  "description": "2+ monsters including an \"Unchained Soul\" monster\r\nYou can target 1 face-up monster your opponent controls; immediately after this effect resolves, Link Summon 1 DARK Link Monster, except \"Unchained Soul of Anguish\", by using only that opponent's monster and this card you control as material. If this card on the field is destroyed by battle or card effect: You can target 1 Fiend monster in your GY, except \"Unchained Soul of Anguish\"; add it to your hand. You can only use each effect of \"Unchained Soul of Anguish\" once per turn.",
+  "attack": 2400,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93084621.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93084621.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93084621.jpg"
+  }
+}

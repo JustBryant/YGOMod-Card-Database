@@ -1,0 +1,16 @@
+{
+  "id": 58601383,
+  "name": "Gaia Drake, the Universal Force",
+  "type": "Fusion Monster",
+  "description": "1 \"Gaia Knight, the Force of Earth\" + 1 non-Effect Synchro Monster\nThis card cannot be targeted by, or destroyed by, the effects of Effect Monsters.",
+  "attack": 3500,
+  "defense": 2800,
+  "level": 10,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58601383.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58601383.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58601383.jpg"
+  }
+}

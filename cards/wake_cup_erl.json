@@ -1,0 +1,16 @@
+{
+  "id": 85586937,
+  "name": "WAKE CUP! Erl",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can send face-up cards your opponent controls to the GY, up to the number of Flip monsters you control.\r\nIf this card is in your hand: You can discard 1 other Flip monster, and if you do, Special Summon this card in Attack Position or face-down Defense Position. During your End Phase: You can target 1 Flip monster in your GY; Special Summon it in face-down Defense Position. You can only use each effect of \"WAKE CUP! Erl\" once per turn.",
+  "attack": 2700,
+  "defense": 400,
+  "level": 7,
+  "attribute": "WIND",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85586937.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85586937.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85586937.jpg"
+  }
+}

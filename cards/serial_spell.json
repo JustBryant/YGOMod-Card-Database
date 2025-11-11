@@ -1,0 +1,12 @@
+{
+  "id": 49398568,
+  "name": "Serial Spell",
+  "type": "Spell Card",
+  "description": "Activate only when you activate one of your Normal Spell Cards. Discard all the cards in your hand to the Graveyard. The effect of this card becomes the same as the Normal Spell Card.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49398568.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49398568.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49398568.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 41978142,
+  "name": "Mist Valley Executor",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned, return all face-up Spell and Trap Cards on the field to their owners' hands.",
+  "attack": 2100,
+  "defense": 1600,
+  "level": 5,
+  "attribute": "WIND",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41978142.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41978142.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41978142.jpg"
+  }
+}

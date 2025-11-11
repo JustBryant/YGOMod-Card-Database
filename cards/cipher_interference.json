@@ -1,0 +1,12 @@
+{
+  "id": 55496220,
+  "name": "Cipher Interference",
+  "type": "Spell Card",
+  "description": "During damage calculation, if your \"Cipher\" monster battles, while another monster with its same name is on the field: You can double the ATK of your battling \"Cipher\" monster until the end of the Battle Phase. You can only use this effect of \"Cipher Interference\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55496220.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55496220.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55496220.jpg"
+  }
+}

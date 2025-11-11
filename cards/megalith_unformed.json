@@ -1,0 +1,12 @@
+{
+  "id": 69003792,
+  "name": "Megalith Unformed",
+  "type": "Spell Card",
+  "description": "Activate 1 of these effects;\r\n● All monsters your opponent controls lose 500 ATK for each Ritual Monster on the field, until the end of this turn.\r\n● Ritual Summon 1 \"Megalith\" Ritual Monster from your Deck in Defense Position, by Tributing monsters from your hand or field whose total Levels equal exactly twice its Level.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69003792.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69003792.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69003792.jpg"
+  }
+}

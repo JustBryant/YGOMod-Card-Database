@@ -1,0 +1,16 @@
+{
+  "id": 49522489,
+  "name": "Beelze Frog",
+  "type": "Effect Monster",
+  "description": "This card gains 300 ATK for each \"T.A.D.P.O.L.E.\" in your Graveyard.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49522489.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49522489.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49522489.jpg"
+  }
+}

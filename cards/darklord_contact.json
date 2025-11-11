@@ -1,0 +1,12 @@
+{
+  "id": 14517422,
+  "name": "Darklord Contact",
+  "type": "Spell Card",
+  "description": "Special Summon 1 \"Darklord\" monster from your GY in Defense Position. You can only activate 1 \"Darklord Contact\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14517422.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14517422.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14517422.jpg"
+  }
+}

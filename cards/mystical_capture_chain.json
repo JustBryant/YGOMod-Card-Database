@@ -1,0 +1,16 @@
+{
+  "id": 63515678,
+  "name": "Mystical Capture Chain",
+  "type": "Normal Monster",
+  "description": "''A mystical chain that binds enemies, rendering them immobile.''",
+  "attack": 700,
+  "defense": 700,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63515678.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63515678.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63515678.jpg"
+  }
+}

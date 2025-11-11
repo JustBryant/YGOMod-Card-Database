@@ -1,0 +1,12 @@
+{
+  "id": 57182235,
+  "name": "Token Thanksgiving",
+  "type": "Spell Card",
+  "description": "Destroy all tokens on the field. Increase your Life Points by the number of tokens destroyed x 800 points.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57182235.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57182235.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57182235.jpg"
+  }
+}

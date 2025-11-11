@@ -1,0 +1,12 @@
+{
+  "id": 3171055,
+  "name": "Chain Dispel",
+  "type": "Trap Card",
+  "description": "When a Spell/Trap Card is activated: Destroy all cards in the controller's Deck with the same name as the activated card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3171055.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3171055.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3171055.jpg"
+  }
+}

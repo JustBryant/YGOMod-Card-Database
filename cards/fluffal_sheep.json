@@ -1,0 +1,16 @@
+{
+  "id": 98280324,
+  "name": "Fluffal Sheep",
+  "type": "Effect Monster",
+  "description": "If you control a \"Fluffal\" monster, except \"Fluffal Sheep\", you can Special Summon this card (from your hand). You can return 1 other \"Fluffal\" monster you control to the hand; Special Summon 1 \"Edge Imp\" monster from your hand or Graveyard. You can only use this effect of \"Fluffal Sheep\" once per turn.",
+  "attack": 400,
+  "defense": 800,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98280324.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98280324.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98280324.jpg"
+  }
+}

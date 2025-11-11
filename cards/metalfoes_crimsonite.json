@@ -1,0 +1,16 @@
+{
+  "id": 54401832,
+  "name": "Metalfoes Crimsonite",
+  "type": "Fusion Monster",
+  "description": "1 \"Metalfoes\" monster + 2 monsters with 3000 or less ATK",
+  "attack": 3000,
+  "defense": 3000,
+  "level": 9,
+  "attribute": "FIRE",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54401832.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54401832.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54401832.jpg"
+  }
+}

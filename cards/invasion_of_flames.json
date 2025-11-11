@@ -1,0 +1,16 @@
+{
+  "id": 26082229,
+  "name": "Invasion of Flames",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned successfully, no Trap Cards can be activated.",
+  "attack": 1300,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26082229.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26082229.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26082229.jpg"
+  }
+}

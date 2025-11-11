@@ -1,0 +1,12 @@
+{
+  "id": 43434803,
+  "name": "The Shallow Grave",
+  "type": "Spell Card",
+  "description": "Each player targets 1 monster in their own GY; each player Special Summons the target from their GY in face-down Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43434803.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43434803.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43434803.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 30276969,
+  "name": "Reese the Ice Mistress",
+  "type": "Tuner Monster",
+  "description": "This card cannot be destroyed by battle with a Level 4 or higher monster.",
+  "attack": 800,
+  "defense": 800,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30276969.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30276969.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30276969.jpg"
+  }
+}

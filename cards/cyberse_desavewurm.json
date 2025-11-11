@@ -1,0 +1,16 @@
+{
+  "id": 92422871,
+  "name": "Cyberse Desavewurm",
+  "type": "Fusion Monster",
+  "description": "1 Cyberse Ritual, Fusion, Synchro, Xyz, or Link Monster + 1 Cyberse monster\r\nDuring your Main Phase: You can Special Summon 1 Cyberse monster from your hand, then you can make this card's Level become the same as that monster. When your opponent activates a Spell/Trap Card or effect, while you control a Link-4 or higher Cyberse monster (Quick Effect): You can banish this card from your field or GY; negate that activation. You can only use each effect of \"Cyberse Desavewurm\" once per turn.",
+  "attack": 2300,
+  "defense": 1500,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92422871.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92422871.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92422871.jpg"
+  }
+}

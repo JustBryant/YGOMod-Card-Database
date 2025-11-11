@@ -1,0 +1,16 @@
+{
+  "id": 47736165,
+  "name": "Crystron Eleskeletus",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nAll monsters your opponent controls lose 500 ATK/DEF. You can only use each of the following effects of \"Crystron Eleskeletus\" once per turn. If this card is Synchro Summoned: You can add 1 \"Crystron\" card from your GY or banishment to your hand. If this Synchro Summoned card is destroyed by battle or card effect: You can Special Summon 1 \"Crystron\" monster from your GY or banishment.",
+  "attack": 2600,
+  "defense": 2100,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47736165.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47736165.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47736165.jpg"
+  }
+}

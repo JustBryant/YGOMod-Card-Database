@@ -1,0 +1,16 @@
+{
+  "id": 59893882,
+  "name": "Evil HERO Inferno Wing - Backfire",
+  "type": "Fusion Monster",
+  "description": "\"Elemental HERO Avian\" or \"Elemental HERO Burstinatrix\" + 1 \"HERO\" monster\r\nMust be Special Summoned with \"Dark Fusion\". If this card is Special Summoned: You can add 1 \"Dark Fusion\" or 1 card that mentions it from your Deck or GY to your hand, except Fusion Monsters. If your \"HERO\" monster destroys an opponent's monster by battle: Inflict 2100 damage to your opponent. You can only use each effect of \"Evil HERO Inferno Wing - Backfire\" once per turn.",
+  "attack": 2100,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59893882.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59893882.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59893882.jpg"
+  }
+}

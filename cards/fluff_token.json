@@ -1,0 +1,12 @@
+{
+  "id": 15341822,
+  "name": "Fluff Token",
+  "type": "Token",
+  "description": "This card can be used as a \"Fluff Token\".\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15341822.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15341822.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15341822.jpg"
+  }
+}

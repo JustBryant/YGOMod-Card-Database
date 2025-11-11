@@ -1,0 +1,16 @@
+{
+  "id": 64751286,
+  "name": "Penumbral Soldier Lady",
+  "type": "Effect Monster",
+  "description": "If this card battles a LIGHT monster, this card gains 1000 ATK during the Damage Step only.",
+  "attack": 2100,
+  "defense": 1400,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64751286.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64751286.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64751286.jpg"
+  }
+}

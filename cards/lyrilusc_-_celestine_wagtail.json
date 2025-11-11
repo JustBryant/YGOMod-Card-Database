@@ -1,0 +1,16 @@
+{
+  "id": 46576366,
+  "name": "Lyrilusc - Celestine Wagtail",
+  "type": "Effect Monster",
+  "description": "If this card is Special Summoned: You can add 1 \"Lyrilusc\" Spell/Trap from your Deck to your hand. If this card is in your GY: You can target 1 \"Lyrilusc\" Xyz Monster you control; attach this card to it as material. You can only use each effect of \"Lyrilusc - Celestine Wagtail\" once per turn.",
+  "attack": 200,
+  "defense": 0,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46576366.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46576366.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46576366.jpg"
+  }
+}

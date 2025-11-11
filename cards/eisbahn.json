@@ -1,0 +1,12 @@
+{
+  "id": 54059040,
+  "name": "Eisbahn",
+  "type": "Trap Card",
+  "description": "If a non-WATER monster(s) is Normal or Special Summoned while you control a WATER monster: Change that Summoned monster to Defense Position.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54059040.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54059040.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54059040.jpg"
+  }
+}

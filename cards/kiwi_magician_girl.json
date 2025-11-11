@@ -1,0 +1,16 @@
+{
+  "id": 82627406,
+  "name": "Kiwi Magician Girl",
+  "type": "Effect Monster",
+  "description": "During either player's turn: You can discard this card; \"Magician Girl\" monsters you currently control gain 300 ATK and DEF for each \"Magician Girl\" monster with different names on the field and in the Graveyards, until the end of this turn. Spellcaster-Type monsters you control cannot be destroyed by card effects, and your opponent cannot target them with card effects.",
+  "attack": 1800,
+  "defense": 1200,
+  "level": 5,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82627406.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82627406.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82627406.jpg"
+  }
+}

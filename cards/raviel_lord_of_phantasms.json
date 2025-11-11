@@ -1,0 +1,16 @@
+{
+  "id": 69890967,
+  "name": "Raviel, Lord of Phantasms",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 Fiend-Type monsters, and cannot be Special Summoned by other ways. If your opponent Normal Summons a monster(s): Special Summon 1 \"Phantasm Token\" (Fiend-Type/DARK/Level 1/ATK 1000/DEF 1000) for each monster Summoned, but it cannot declare an attack. Once per turn: You can Tribute 1 monster; this card gains ATK equal to the original ATK of the Tributed monster until the end of this turn.",
+  "attack": 4000,
+  "defense": 4000,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69890967.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69890967.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69890967.jpg"
+  }
+}

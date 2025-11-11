@@ -1,0 +1,16 @@
+{
+  "id": 37168514,
+  "name": "Gorgonic Cerberus",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can make all Rock-Type monsters you control become Level 3.",
+  "attack": 1300,
+  "defense": 300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37168514.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37168514.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37168514.jpg"
+  }
+}

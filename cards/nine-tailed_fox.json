@@ -1,0 +1,16 @@
+{
+  "id": 27198001,
+  "name": "Nine-Tailed Fox",
+  "type": "Effect Monster",
+  "description": "If this card is in your hand or GY: You can Tribute 2 monsters; Special Summon this card. You can only use this effect of \"Nine-Tailed Fox\" once per turn. If this card that was Special Summoned from the GY attacks a Defense Position monster, inflict piercing battle damage. If this card is destroyed by battle or card effect and sent to the GY: You can Special Summon 2 \"Fox Tokens\" (Zombie/FIRE/Level 2/ATK 500/DEF 500).",
+  "attack": 2200,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27198001.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27198001.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27198001.jpg"
+  }
+}

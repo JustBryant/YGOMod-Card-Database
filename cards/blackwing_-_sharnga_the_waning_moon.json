@@ -1,0 +1,16 @@
+{
+  "id": 54594017,
+  "name": "Blackwing - Sharnga the Waning Moon",
+  "type": "Tuner Monster",
+  "description": "If a monster with 2000 or more ATK is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Blackwing - Sharnga the Waning Moon\" once per turn this way. If you control a \"Blackwing\" Synchro Monster (Quick Effect): You can banish this card from your GY, then target 1 face-up card your opponent controls; destroy it. You can only use this effect of \"Blackwing - Sharnga the Waning Moon\" once per Duel.",
+  "attack": 500,
+  "defense": 500,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54594017.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54594017.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54594017.jpg"
+  }
+}

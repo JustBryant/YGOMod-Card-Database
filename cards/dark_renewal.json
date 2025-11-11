@@ -1,0 +1,12 @@
+{
+  "id": 9287078,
+  "name": "Dark Renewal",
+  "type": "Trap Card",
+  "description": "When your opponent Normal or Special Summons a monster(s): Target 1 of those monsters and 1 Spellcaster monster you control; send both monsters to the GY, then you can Special Summon 1 DARK Spellcaster monster from your Deck or GY.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9287078.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9287078.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9287078.jpg"
+  }
+}

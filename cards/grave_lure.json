@@ -1,0 +1,12 @@
+{
+  "id": 57270476,
+  "name": "Grave Lure",
+  "type": "Trap Card",
+  "description": "Turn the top card of your opponent's Deck face-up, then your opponent shuffles their Deck. When your opponent draws the face-up card, immediately send it to the Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57270476.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57270476.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57270476.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 66516792,
+  "name": "Serpent Night Dragon",
+  "type": "Normal Monster",
+  "description": "A dragon created from the soul of a wicked knight.",
+  "attack": 2350,
+  "defense": 2400,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66516792.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66516792.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66516792.jpg"
+  }
+}

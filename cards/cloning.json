@@ -1,0 +1,12 @@
+{
+  "id": 86871614,
+  "name": "Cloning",
+  "type": "Trap Card",
+  "description": "When your opponent Normal or Flip Summons a monster that has a Level: Target that face-up monster; Special Summon 1 \"Clone Token\", with the same original Type, Attribute, Level, ATK, and DEF as that target. When that target is destroyed and sent to the GY, destroy this Token.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86871614.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86871614.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86871614.jpg"
+  }
+}

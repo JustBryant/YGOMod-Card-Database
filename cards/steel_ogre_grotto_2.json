@@ -1,0 +1,16 @@
+{
+  "id": 90908427,
+  "name": "Steel Ogre Grotto #2",
+  "type": "Normal Monster",
+  "description": "A mechanized iron doll with tremendous strength.",
+  "attack": 1900,
+  "defense": 2200,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90908427.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90908427.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90908427.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 40597694,
+  "name": "Scatter Fusion",
+  "type": "Spell Card",
+  "description": "During your Main Phase, if your opponent controls a monster: You can Fusion Summon 1 non-Rock \"Gem-Knight\" monster from your Extra Deck, using monsters from your Deck as material, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Gem-Knight\" monsters. You can only use this effect of \"Scatter Fusion\" once per turn. When this card leaves the field, destroy all monsters Summoned by this card's effect.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40597694.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40597694.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40597694.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 33455338,
+  "name": "Maniacal Servant",
+  "type": "Effect Monster",
+  "description": "Once per turn during your opponent's Standby Phase, you can remove from play any number of DARK monsters from your Graveyard. This monster gains 500 DEF for each monster you removed, until the End Phase.",
+  "attack": 600,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33455338.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33455338.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33455338.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 68833958,
+  "name": "Back-Up Rider",
+  "type": "Spell Card",
+  "description": "Target 1 face-up monster on the field; it gains 1500 ATK until the end of this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68833958.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68833958.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68833958.jpg"
+  }
+}

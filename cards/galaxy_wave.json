@@ -1,0 +1,12 @@
+{
+  "id": 77098449,
+  "name": "Galaxy Wave",
+  "type": "Spell Card",
+  "description": "Each time you Xyz Summon: Inflict 500 damage to your opponent.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77098449.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77098449.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77098449.jpg"
+  }
+}

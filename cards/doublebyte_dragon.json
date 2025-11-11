@@ -1,0 +1,16 @@
+{
+  "id": 23971061,
+  "name": "Doublebyte Dragon",
+  "type": "Link Monster",
+  "description": "2 Link Monsters\r\nGains ATK equal to the combined Link Ratings of the monsters used for its Link Summon x 300. Unaffected by monster effects, except Link Monsters' effects, and cannot be destroyed by battle, except by battle with a Link Monster.",
+  "attack": 1500,
+  "defense": null,
+  "level": 0,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23971061.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23971061.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23971061.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 20032555,
+  "name": "Gimmick Puppet Egg Head",
+  "type": "Effect Monster",
+  "description": "You can only use the effect of \"Gimmick Puppet Egg Head\" once per turn. You can discard 1 \"Gimmick Puppet\" monster, then activate 1 of these effects;\n● Inflict 800 damage to your opponent.\n● This card's Level becomes 8 until the End Phase.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20032555.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20032555.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20032555.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 81481818,
+  "name": "Patchwork Fluffal",
+  "type": "Effect Monster",
+  "description": "This card is also treated as a \"Frightfur\" monster while face-up on the field. This card on the field can be used as a substitute for any 1 Fusion Material whose name is specifically listed on a \"Frightfur\" Fusion Monster, but the other Fusion Material(s) must be correct.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81481818.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81481818.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81481818.jpg"
+  }
+}

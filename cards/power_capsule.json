@@ -1,0 +1,12 @@
+{
+  "id": 54289683,
+  "name": "Power Capsule",
+  "type": "Spell Card",
+  "description": "Select 1 face-up \"Victory Viper XX03\" you control to activate this card. Select 1 effect of \"Victory Viper XX03\", and apply it as this card's effect.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54289683.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54289683.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54289683.jpg"
+  }
+}

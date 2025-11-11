@@ -1,0 +1,16 @@
+{
+  "id": 3078576,
+  "name": "Yata-Garasu",
+  "type": "Spirit Monster",
+  "description": "This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent, they skip their next Draw Phase.",
+  "attack": 200,
+  "defense": 100,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3078576.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3078576.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3078576.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 64788463,
+  "name": "King's Knight",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned while you control \"Queen's Knight\": You can Special Summon 1 \"Jack's Knight\" from your Deck.",
+  "attack": 1600,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64788463.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64788463.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64788463.jpg"
+  }
+}

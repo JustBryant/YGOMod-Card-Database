@@ -1,0 +1,12 @@
+{
+  "id": 300302065,
+  "name": "Fog Warning",
+  "type": "Skill Card",
+  "description": "Each time you place a Fog Counter(s) on a monster(s), give it an additional Fog Counter.",
+  "race": "Adrian Gecko",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302065.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302065.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302065.jpg"
+  }
+}

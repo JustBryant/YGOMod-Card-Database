@@ -1,0 +1,12 @@
+{
+  "id": 53701259,
+  "name": "Awakening of the Sacred Beasts",
+  "type": "Trap Card",
+  "description": "This card gains these effects based on the number of \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", and/or \"Raviel, Lord of Phantasms\" with different names you control.\r\n● 1+: Each time your opponent Normal or Special Summons a monster(s): Gain LP equal to the ATK of that monster(s).\r\n● 2+: Negate the activated effects of monsters your opponent controls.\r\n● 3: Any monsters sent to your opponent's GY are banished instead.\r\nOnce per your turn, if you control a Level 10 monster: You can add 1 Continuous Trap from your GY to your hand.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53701259.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53701259.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53701259.jpg"
+  }
+}

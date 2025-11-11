@@ -1,0 +1,16 @@
+{
+  "id": 56427559,
+  "name": "Gimmick Puppet Gear Changer",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned from the Deck. Once per turn: You can target 1 \"Gimmick Puppet\" monster you control, except this card; this card's Level becomes the Level of that monster.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56427559.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56427559.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56427559.jpg"
+  }
+}

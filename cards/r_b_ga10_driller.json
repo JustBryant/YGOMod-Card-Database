@@ -1,0 +1,16 @@
+{
+  "id": 6043161,
+  "name": "R.B. Ga10 Driller",
+  "type": "Effect Monster",
+  "description": "If you control no face-up monsters, or the only face-up monsters you control are \"R.B.\" monsters, you can Special Summon this card (from your hand). You can only Special Summon \"R.B. Ga10 Driller\" once per turn this way. During the Main Phase, if this card is linked to an \"R.B.\" Link Monster (Quick Effect): You can pay 500 LP, then target 1 monster your opponent controls; destroy both that monster and this card. You can only use this effect of \"R.B. Ga10 Driller\" once per turn.",
+  "attack": 500,
+  "defense": 500,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6043161.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6043161.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6043161.jpg"
+  }
+}

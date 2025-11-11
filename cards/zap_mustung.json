@@ -1,0 +1,16 @@
+{
+  "id": 29951323,
+  "name": "Zap Mustung",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect during your Main Phase 1, cannot be Special Summoned by other ways, and cannot be Special Summoned if you have Special Summoned this turn. Twice per turn, this card cannot be destroyed by battle. Each turn, the turn player can only Special Summon a number of times up to their number of attacks conducted (and reached the Damage Step) this turn.",
+  "attack": 1600,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29951323.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29951323.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29951323.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 42703248,
+  "name": "Giant Trunade",
+  "type": "Spell Card",
+  "description": "Return all Spell and Trap Cards on the field to the hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42703248.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42703248.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42703248.jpg"
+  }
+}

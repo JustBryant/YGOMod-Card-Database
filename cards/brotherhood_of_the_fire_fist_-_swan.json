@@ -1,0 +1,16 @@
+{
+  "id": 93877990,
+  "name": "Brotherhood of the Fire Fist - Swan",
+  "type": "Fusion Monster",
+  "description": "2 Beast-Warrior monsters\r\nIf this card is Special Summoned: You can inflict 200 damage to your opponent for each \"Fire Formation\" Spell/Trap you control. During the Battle Phase (Quick Effect): You can send 1 face-up \"Fire Formation\" Spell/Trap you control to the GY, then target 1 card your opponent controls; destroy it. You can only use each effect of \"Brotherhood of the Fire Fist - Swan\" once per turn.",
+  "attack": 2600,
+  "defense": 2200,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93877990.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93877990.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93877990.jpg"
+  }
+}

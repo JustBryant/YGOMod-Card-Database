@@ -1,0 +1,12 @@
+{
+  "id": 63323539,
+  "name": "Trojan Blast",
+  "type": "Trap Card",
+  "description": "Activate only when an opponent's card effect shifts control of a monster from your side of the field to theirs. Destroy that 1 monster and inflict damage to your opponent equal to its ATK.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63323539.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63323539.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63323539.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 48582558,
+  "name": "Bounzer Guard",
+  "type": "Trap Card",
+  "description": "Target 1 face-up \"Bounzer\" monster you control; this turn, it cannot be targeted by other card effects, or be destroyed by battle. This turn, if an opponent's monster attacks, it must target that monster for an attack if it is still on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48582558.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48582558.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48582558.jpg"
+  }
+}

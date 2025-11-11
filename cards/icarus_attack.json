@@ -1,0 +1,12 @@
+{
+  "id": 53567095,
+  "name": "Icarus Attack",
+  "type": "Trap Card",
+  "description": "Tribute 1 Winged Beast-Type monster, then target 2 cards on the field; destroy them.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53567095.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53567095.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53567095.jpg"
+  }
+}

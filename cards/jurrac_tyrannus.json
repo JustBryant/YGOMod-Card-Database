@@ -1,0 +1,16 @@
+{
+  "id": 62701967,
+  "name": "Jurrac Tyrannus",
+  "type": "Effect Monster",
+  "description": "You can Tribute 1 Dinosaur monster; this card gains 500 ATK. If this card destroys an opponent's monster by battle and sends it to the GY: This card gains 300 ATK.",
+  "attack": 2500,
+  "defense": 1400,
+  "level": 7,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62701967.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62701967.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62701967.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 50608164,
+  "name": "Masked HERO Koga",
+  "type": "Fusion Monster",
+  "description": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. This card gains 500 ATK for each monster your opponent controls. Once per turn, during either player's turn: You can banish 1 \"HERO\" monster from your Graveyard, then target 1 face-up monster on the field; that target loses ATK equal to the ATK of the monster banished to activate this effect, until the end of this turn.",
+  "attack": 2500,
+  "defense": 1800,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50608164.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50608164.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50608164.jpg"
+  }
+}

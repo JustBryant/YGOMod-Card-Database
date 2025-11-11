@@ -1,0 +1,16 @@
+{
+  "id": 13599884,
+  "name": "Steel Scorpion",
+  "type": "Effect Monster",
+  "description": "A non Machine-Type Monster attacking \"Steel Scorpion\" will be destroyed at the End Phase of your opponent's 2nd turn after the attack.",
+  "attack": 250,
+  "defense": 300,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13599884.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13599884.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13599884.jpg"
+  }
+}

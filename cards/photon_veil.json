@@ -1,0 +1,12 @@
+{
+  "id": 9354555,
+  "name": "Photon Veil",
+  "type": "Spell Card",
+  "description": "Shuffle 3 LIGHT monsters from your hand into the Deck, then add 1 to 3 Level 4 or lower LIGHT monsters from your Deck to your hand. If you add 2 or more monsters, they must have the same name.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9354555.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9354555.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9354555.jpg"
+  }
+}

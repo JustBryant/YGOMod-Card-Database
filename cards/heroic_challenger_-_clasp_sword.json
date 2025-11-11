@@ -1,0 +1,16 @@
+{
+  "id": 28194325,
+  "name": "Heroic Challenger - Clasp Sword",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned by the effect of a \"Heroic Challenger\" monster: You can add 1 \"Heroic Challenger\" monster from your Deck to your hand. You can only use the effect of \"Heroic Challenger - Clasp Sword\" once per turn.",
+  "attack": 300,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28194325.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28194325.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28194325.jpg"
+  }
+}

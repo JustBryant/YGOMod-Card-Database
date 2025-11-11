@@ -1,0 +1,12 @@
+{
+  "id": 20720928,
+  "name": "Metaphys Factor",
+  "type": "Spell Card",
+  "description": "Each turn, 1 Level 5 or higher \"Metaphys\" monster you Normal Summon can be Summoned without Tributing, but banish it during the End Phase of the next turn. Your opponent cannot activate cards or effects in response to your \"Metaphys\" monsters' effect activations.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20720928.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20720928.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20720928.jpg"
+  }
+}

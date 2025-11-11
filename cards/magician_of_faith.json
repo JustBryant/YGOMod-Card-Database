@@ -1,0 +1,16 @@
+{
+  "id": 31560081,
+  "name": "Magician of Faith",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
+  "attack": 300,
+  "defense": 400,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31560081.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31560081.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31560081.jpg"
+  }
+}

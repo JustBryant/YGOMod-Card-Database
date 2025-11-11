@@ -1,0 +1,12 @@
+{
+  "id": 12735388,
+  "name": "Rainbow Veil",
+  "type": "Spell Card",
+  "description": "If the equipped monster battles an opponent's monster, while that monster is on the field its effect(s) is negated during the Battle Phase only.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12735388.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12735388.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12735388.jpg"
+  }
+}

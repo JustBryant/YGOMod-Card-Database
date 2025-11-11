@@ -1,0 +1,16 @@
+{
+  "id": 61681816,
+  "name": "Propa Gandake",
+  "type": "Effect Monster",
+  "description": "Once per turn, if you control a monster(s) whose original Type is Beast, Insect, Plant, or Rock: You can declare 1 of those Types you control; this card becomes that declared Type. If this card has applied this effect, also apply the following effects while it remains in the Monster Zone.\r\n● All face-up monsters on the field become the same Type as this card.\r\n● Monsters on the field with this card's Type cannot be targeted by either player using the effects of monsters your opponent controls with that same Type.",
+  "attack": 500,
+  "defense": 2000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61681816.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61681816.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61681816.jpg"
+  }
+}

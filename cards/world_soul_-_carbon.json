@@ -1,0 +1,16 @@
+{
+  "id": 15079028,
+  "name": "World Soul - Carbon",
+  "type": "Effect Monster",
+  "description": "You can Tribute this Normal Summoned/Set card; add 1 EARTH Fairy monster from your Deck to your hand, except \"World Soul - Carbon\". If a face-up Fairy monster(s) you control is sent to the GY, while this card is in your GY (except during the Damage Step): You can place this card on top of your Deck. You can only use 1 \"World Soul - Carbon\" effect per turn, and only once that turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15079028.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15079028.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15079028.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 17540705,
+  "name": "Performapal Dag Daggerman",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nDuring your Main Phase, if this card was activated this turn: You can target 1 \"Performapal\" monster in your Graveyard; add it to your hand. You can only use this effect of \"Performapal Dag Daggerman\" once per turn.\n\n[ Monster Effect ] \nDuring your Main Phase, if this card was Pendulum Summoned this turn: You can send 1 \"Performapal\" monster from your hand to the Graveyard; draw 1 card. You can only use this effect of \"Performapal Dag Daggerman\" once per turn.",
+  "attack": 2000,
+  "defense": 600,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17540705.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17540705.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17540705.jpg"
+  }
+}

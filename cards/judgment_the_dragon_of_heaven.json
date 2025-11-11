@@ -1,0 +1,16 @@
+{
+  "id": 41659072,
+  "name": "Judgment, the Dragon of Heaven",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nIf you Synchro Summon this card, all materials must be the same Attribute. Once per turn, if you have 4 or more Tuners with different names in your GY and control this Synchro Summoned card: You can pay half your LP; destroy all other cards on the field, also, you cannot Special Summon monsters for the rest of this turn, except Dragon monsters. Once per turn, during your End Phase: Banish 4 cards from the top of your Deck.",
+  "attack": 3000,
+  "defense": 2600,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41659072.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41659072.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41659072.jpg"
+  }
+}

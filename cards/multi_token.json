@@ -1,0 +1,12 @@
+{
+  "id": 35514097,
+  "name": "Multi Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Lord British Space Fighter\".",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35514097.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35514097.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35514097.jpg"
+  }
+}

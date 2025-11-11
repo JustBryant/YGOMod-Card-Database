@@ -1,0 +1,16 @@
+{
+  "id": 41952656,
+  "name": "Imairuka",
+  "type": "Effect Monster",
+  "description": "If this card you control is destroyed by your opponent's card and sent to your GY: Send the top card of your Deck to the GY, then, if it is a WATER monster, draw 1 card.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41952656.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41952656.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41952656.jpg"
+  }
+}

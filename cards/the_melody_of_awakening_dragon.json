@@ -1,0 +1,12 @@
+{
+  "id": 48800175,
+  "name": "The Melody of Awakening Dragon",
+  "type": "Spell Card",
+  "description": "Discard 1 card; add up to 2 Dragon monsters with 3000 or more ATK and 2500 or less DEF from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48800175.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48800175.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48800175.jpg"
+  }
+}

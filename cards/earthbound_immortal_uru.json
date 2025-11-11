@@ -1,0 +1,16 @@
+{
+  "id": 15187079,
+  "name": "Earthbound Immortal Uru",
+  "type": "Effect Monster",
+  "description": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot target this card for attacks. This card can attack your opponent directly. Once per turn: You can Tribute 1 other monster, then target 1 face-up monster your opponent controls; take control of that target, until the End Phase.",
+  "attack": 3000,
+  "defense": 3000,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15187079.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15187079.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15187079.jpg"
+  }
+}

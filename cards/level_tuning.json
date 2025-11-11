@@ -1,0 +1,12 @@
+{
+  "id": 74741494,
+  "name": "Level Tuning",
+  "type": "Spell Card",
+  "description": "Reduce the Level of all face-up monsters you control by 1, until the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74741494.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74741494.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74741494.jpg"
+  }
+}

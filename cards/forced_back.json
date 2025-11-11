@@ -1,0 +1,12 @@
+{
+  "id": 43340443,
+  "name": "Forced Back",
+  "type": "Trap Card",
+  "description": "Negate the Normal Summon or Flip Summon of a monster and return it to its owner's hand.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43340443.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43340443.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43340443.jpg"
+  }
+}

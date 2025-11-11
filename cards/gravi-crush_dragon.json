@@ -1,0 +1,16 @@
+{
+  "id": 9391354,
+  "name": "Gravi-Crush Dragon",
+  "type": "Effect Monster",
+  "description": "You can send 1 face-up Continuous Spell Card you control to the Graveyard, then target 1 monster your opponent controls; destroy that target.",
+  "attack": 2400,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9391354.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9391354.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9391354.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 44046281,
+  "name": "Dimension Gate",
+  "type": "Trap Card",
+  "description": "Activate this card by targeting 1 monster you control; banish that target face-up. When an opponent's monster declares a direct attack: You can send this face-up card on the field to the Graveyard. If this card is sent to the Graveyard: You can Special Summon the monster banished by this card's effect.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44046281.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44046281.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44046281.jpg"
+  }
+}

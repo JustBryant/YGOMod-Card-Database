@@ -1,0 +1,16 @@
+{
+  "id": 19882096,
+  "name": "Scareclaw Belone",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) to your Main Monster Zone, adjacent to a \"Scareclaw\" monster you control or in its column. You can only Special Summon \"Scareclaw Belone\" once per turn this way. If your \"Scareclaw\" monster in the Extra Monster Zone attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "attack": 0,
+  "defense": 1700,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19882096.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19882096.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19882096.jpg"
+  }
+}

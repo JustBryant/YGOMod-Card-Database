@@ -1,0 +1,12 @@
+{
+  "id": 74329404,
+  "name": "D - Formation",
+  "type": "Spell Card",
+  "description": "Each time a face-up \"Destiny HERO\" monster(s) you control is destroyed, place 1 D Counter on this card for each of those monsters. When you Normal or Special Summon a monster during your Main Phase: You can send this card with 2 or more D Counters to the Graveyard; add up to 2 cards from your Deck and/or Graveyard to your hand, with the same name as that monster.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74329404.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74329404.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74329404.jpg"
+  }
+}

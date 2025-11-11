@@ -1,0 +1,16 @@
+{
+  "id": 22624373,
+  "name": "Lyla, Lightsworn Sorceress",
+  "type": "Effect Monster",
+  "description": "You can target 1 Spell/Trap your opponent controls; this card's battle position cannot be changed until the end of your next turn, also change this card you control from face-up Attack Position to face-up Defense Position, and if you do, destroy that target. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the GY.",
+  "attack": 1700,
+  "defense": 200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22624373.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22624373.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22624373.jpg"
+  }
+}

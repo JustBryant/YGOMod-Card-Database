@@ -1,0 +1,16 @@
+{
+  "id": 75946257,
+  "name": "Witch Doctor of Chaos",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Select 1 Monster Card from you or your opponent's Graveyard. Remove it from play.",
+  "attack": 500,
+  "defense": 500,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75946257.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75946257.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75946257.jpg"
+  }
+}

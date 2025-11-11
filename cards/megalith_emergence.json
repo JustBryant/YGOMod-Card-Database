@@ -1,0 +1,12 @@
+{
+  "id": 76209339,
+  "name": "Megalith Emergence",
+  "type": "Trap Card",
+  "description": "You can target 1 \"Megalith\" monster in your GY; Special Summon it in Defense Position, but place it on the bottom of the Deck when it leaves the field (even if this card leaves the field). You can only use this effect of \"Megalith Emergence\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76209339.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76209339.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76209339.jpg"
+  }
+}

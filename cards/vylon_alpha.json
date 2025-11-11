@@ -1,0 +1,16 @@
+{
+  "id": 56768355,
+  "name": "Vylon Alpha",
+  "type": "Synchro Monster",
+  "description": "1 \"Vylon\" Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 Equip Spell Card in your Graveyard; equip that target to this card. While this card is equipped with an Equip Card, it cannot be destroyed by Spell/Trap effects, except for Equip Cards.",
+  "attack": 2200,
+  "defense": 1100,
+  "level": 9,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56768355.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56768355.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56768355.jpg"
+  }
+}

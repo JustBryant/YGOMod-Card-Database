@@ -1,0 +1,12 @@
+{
+  "id": 31863912,
+  "name": "Dice-nied",
+  "type": "Trap Card",
+  "description": "Each time your opponent Special Summons a monster(s): Roll a six-sided die, and return all of those Summoned monster(s) to the hand with a current Level that's the same as the result.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31863912.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31863912.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31863912.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 89405199,
+  "name": "Greed",
+  "type": "Trap Card",
+  "description": "Each time a player draws cards because of a card effect, they take 500 damage during the End Phase for each card drawn by the card effect.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89405199.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89405199.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89405199.jpg"
+  }
+}

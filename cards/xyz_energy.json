@@ -1,0 +1,12 @@
+{
+  "id": 85839825,
+  "name": "Xyz Energy",
+  "type": "Spell Card",
+  "description": "Detach 1 Xyz Material you control to target 1 face-up monster your opponent controls; destroy that target.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85839825.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85839825.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85839825.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7382007,
+  "name": "Gouki Sheik Ogre",
+  "type": "Link Monster",
+  "description": "2 \"Gouki\" monsters\r\nIf a \"Gouki\" monster(s) is added from the Deck to your hand, except by drawing it (except during the Damage Step): You can Special Summon any number of \"Gouki\" monsters with different Levels from your hand, but for each one, as long as it remains face-up in your Monster Zone, you cannot Special Summon, except \"Gouki\" monsters. During your Main Phase: You can Fusion Summon 1 \"Gouki\" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of \"Gouki Sheik Ogre\" once per turn.",
+  "attack": 1900,
+  "defense": null,
+  "level": null,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7382007.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7382007.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7382007.jpg"
+  }
+}

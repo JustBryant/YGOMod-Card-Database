@@ -1,0 +1,16 @@
+{
+  "id": 45010690,
+  "name": "Flowerbot",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the Graveyard: Draw 1 card, then place 1 card from your hand on the top of the Deck.",
+  "attack": 1500,
+  "defense": 800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45010690.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45010690.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45010690.jpg"
+  }
+}

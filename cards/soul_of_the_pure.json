@@ -1,0 +1,12 @@
+{
+  "id": 47852924,
+  "name": "Soul of the Pure",
+  "type": "Spell Card",
+  "description": "Increase your Life Points by 800 points.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47852924.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47852924.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47852924.jpg"
+  }
+}

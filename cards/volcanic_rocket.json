@@ -1,0 +1,16 @@
+{
+  "id": 76459806,
+  "name": "Volcanic Rocket",
+  "type": "Effect Monster",
+  "description": "When this card is Summoned: You can add 1 \"Blaze Accelerator\" card from your Deck or Graveyard to your hand.",
+  "attack": 1900,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76459806.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76459806.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76459806.jpg"
+  }
+}

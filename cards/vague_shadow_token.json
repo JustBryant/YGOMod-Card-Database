@@ -1,0 +1,12 @@
+{
+  "id": 9929399,
+  "name": "Vague Shadow Token",
+  "type": "Token",
+  "description": "Special Summoned by the effect of \"Blackwing - Gofu the Vague Shadow\". This Token cannot be Tributed or used as as Synchro Material Monster.",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9929399.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9929399.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9929399.jpg"
+  }
+}

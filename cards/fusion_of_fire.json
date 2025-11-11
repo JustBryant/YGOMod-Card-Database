@@ -1,0 +1,12 @@
+{
+  "id": 25800447,
+  "name": "Fusion of Fire",
+  "type": "Spell Card",
+  "description": "(This card is always treated as a \"Salamangreat\" card.)\r\nFusion Summon 1 \"Salamangreat\" Fusion Monster from your Extra Deck, using monsters from your hand and/or either field as Fusion Material. You can only activate 1 \"Fusion of Fire\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25800447.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25800447.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25800447.jpg"
+  }
+}

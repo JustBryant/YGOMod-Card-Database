@@ -1,0 +1,16 @@
+{
+  "id": 8091563,
+  "name": "Super Defense Robot Lio",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 \"Super Defense Robot\" monster or \"Orbital 7\" from your hand. Once per turn, when exactly 1 \"Super Defense Robot\" monster or \"Orbital 7\" (and no other cards) is added from your Graveyard to your hand (except during the Damage Step): You can Special Summon it from your hand.",
+  "attack": 1200,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8091563.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8091563.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8091563.jpg"
+  }
+}

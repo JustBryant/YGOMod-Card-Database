@@ -1,0 +1,16 @@
+{
+  "id": 39175982,
+  "name": "Winged Cleaver",
+  "type": "Normal Monster",
+  "description": "Few can withstand the scythe-like arms of this dangerous creature.",
+  "attack": 700,
+  "defense": 700,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39175982.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39175982.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39175982.jpg"
+  }
+}

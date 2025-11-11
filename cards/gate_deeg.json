@@ -1,0 +1,16 @@
+{
+  "id": 49258578,
+  "name": "Gate Deeg",
+  "type": "Normal Monster",
+  "description": "''This weird monster has a portal in its belly that brings reinforcements from the farthest reaches of the netherworld.''",
+  "attack": 700,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49258578.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49258578.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49258578.jpg"
+  }
+}

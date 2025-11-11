@@ -1,0 +1,16 @@
+{
+  "id": 90027012,
+  "name": "Choju of the Trillion Hands",
+  "type": "Effect Monster",
+  "description": "If this card is Summoned: You can add 1 Ritual Monster and 1 Ritual Spell from your Deck to your hand. You can only use this effect of \"Choju of the Trillion Hands\" once per turn.",
+  "attack": 1400,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90027012.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90027012.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90027012.jpg"
+  }
+}

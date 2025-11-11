@@ -1,0 +1,12 @@
+{
+  "id": 7617062,
+  "name": "Ghostrick Museum",
+  "type": "Spell Card",
+  "description": "Monsters you control, except \"Ghostrick\" monsters, cannot attack. Monsters cannot attack face-down Defense Position monsters, but can attack directly if all monsters their opponent controls are face-down Defense Position. At the end of the Damage Step, change any monster that inflicted battle damage to a player during this battle to face-down Defense Position.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7617062.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7617062.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7617062.jpg"
+  }
+}

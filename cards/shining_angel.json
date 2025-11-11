@@ -1,0 +1,16 @@
+{
+  "id": 95956346,
+  "name": "Shining Angel",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 LIGHT monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+  "attack": 1400,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95956346.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95956346.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95956346.jpg"
+  }
+}

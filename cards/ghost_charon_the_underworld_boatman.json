@@ -1,0 +1,16 @@
+{
+  "id": 23379054,
+  "name": "Ghost Charon, the Underworld Boatman",
+  "type": "Tuner Monster",
+  "description": "If your opponent controls a monster, and you control no other monsters: You can target 1 Fusion Monster in your Graveyard; banish both this card from the field and that target, and if you do, Special Summon 1 Dragon-Type Synchro Monster from your Extra Deck whose Level equals the total Levels those 2 monsters had (original Level, if face-down). You can only use this effect of \"Ghost Charon, the Underworld Boatman\" once per turn. You cannot Special Summon monsters the turn you activate this effect, except Dragon-Type monsters.",
+  "attack": 500,
+  "defense": 0,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23379054.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23379054.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23379054.jpg"
+  }
+}

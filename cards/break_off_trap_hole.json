@@ -1,0 +1,12 @@
+{
+  "id": 56526564,
+  "name": "Break Off Trap Hole",
+  "type": "Trap Card",
+  "description": "When a Link Monster is Link Summoned: Destroy all monsters on the field that are not linked.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56526564.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56526564.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56526564.jpg"
+  }
+}

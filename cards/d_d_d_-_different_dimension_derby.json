@@ -1,0 +1,12 @@
+{
+  "id": 76552147,
+  "name": "D.D.D. - Different Dimension Derby",
+  "type": "Trap Card",
+  "description": "If you control a face-up monster that was Ritual Summoned using a Normal Monster, or was Fusion, Synchro, Xyz, or Link Summoned using a Normal Monster as material: You can target 1 card on the field; banish it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76552147.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76552147.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76552147.jpg"
+  }
+}

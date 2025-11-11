@@ -1,0 +1,16 @@
+{
+  "id": 72076281,
+  "name": "Bat",
+  "type": "Normal Monster",
+  "description": "''A mechanical bat that drops blasts from its wings.''",
+  "attack": 300,
+  "defense": 350,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72076281.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72076281.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72076281.jpg"
+  }
+}

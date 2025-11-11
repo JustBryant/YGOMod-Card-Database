@@ -1,0 +1,16 @@
+{
+  "id": 98263709,
+  "name": "Galaxy Mirror Sage",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You gain 500 LP for each \"Galaxy\" monster in your Graveyard.\nWhen this card is destroyed and sent from the field to the Graveyard after being flipped face-up: You can Special Summon 1 Level 4 or lower \"Galaxy\" monster from your Deck or Graveyard in face-down Defense Position. Banish it when it leaves the field.",
+  "attack": 0,
+  "defense": 800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98263709.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98263709.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98263709.jpg"
+  }
+}

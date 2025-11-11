@@ -1,0 +1,16 @@
+{
+  "id": 23303072,
+  "name": "Montage Dragon",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 other monsters from your hand to the Graveyard, and cannot be Special Summoned by other ways. This card's ATK becomes the combined original Levels of the sent monsters x 300.",
+  "attack": -1,
+  "defense": 0,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23303072.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23303072.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23303072.jpg"
+  }
+}

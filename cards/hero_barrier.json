@@ -1,0 +1,12 @@
+{
+  "id": 44676200,
+  "name": "Hero Barrier",
+  "type": "Trap Card",
+  "description": "Negate 1 attack from an opponent's monster. You must control a face-up \"Elemental HERO\" monster to resolve this effect.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44676200.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44676200.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44676200.jpg"
+  }
+}

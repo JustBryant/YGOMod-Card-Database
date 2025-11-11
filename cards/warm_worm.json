@@ -1,0 +1,16 @@
+{
+  "id": 16751086,
+  "name": "Warm Worm",
+  "type": "Effect Monster",
+  "description": "If this card is destroyed, send the top 3 cards of your opponent's Deck to the Graveyard.",
+  "attack": 600,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16751086.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16751086.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16751086.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 85840608,
+  "name": "Neo Space Connector",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 \"Neo-Spacian\" monster or 1 \"Elemental HERO Neos\" from your hand or Deck in Defense Position. You can Tribute this card, then target 1 \"Neo-Spacian\" monster or 1 \"Elemental HERO Neos\" in your GY; Special Summon it in Defense Position. You can only use each effect of \"Neo Space Connector\" once per turn.",
+  "attack": 800,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85840608.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85840608.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85840608.jpg"
+  }
+}

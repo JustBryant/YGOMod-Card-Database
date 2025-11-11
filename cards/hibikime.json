@@ -1,0 +1,16 @@
+{
+  "id": 64501875,
+  "name": "Hibikime",
+  "type": "Normal Monster",
+  "description": "Confuses enemy monsters with a noise that is harsh to the ears.",
+  "attack": 1450,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64501875.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64501875.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64501875.jpg"
+  }
+}

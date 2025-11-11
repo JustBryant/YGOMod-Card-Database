@@ -1,0 +1,16 @@
+{
+  "id": 17649753,
+  "name": "Worm Rakuyeh",
+  "type": "Effect Monster",
+  "description": "This card can only declare an attack the turn it was flipped face-up. If this card attacks, it is changed to face-down Defense Position at the end of the Battle Phase.",
+  "attack": 2100,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17649753.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17649753.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17649753.jpg"
+  }
+}

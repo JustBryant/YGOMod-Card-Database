@@ -1,0 +1,12 @@
+{
+  "id": 58120309,
+  "name": "Starlight Road",
+  "type": "Trap Card",
+  "description": "When a card or effect is activated that would destroy 2 or more cards you control: Negate the effect, and if you do, destroy that card, then you can Special Summon 1 \"Stardust Dragon\" from your Extra Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58120309.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58120309.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58120309.jpg"
+  }
+}

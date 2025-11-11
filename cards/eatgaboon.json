@@ -1,0 +1,12 @@
+{
+  "id": 42578427,
+  "name": "Eatgaboon",
+  "type": "Trap Card",
+  "description": "If the ATK of a monster summoned by your opponent (excluding Special Summon) is 500 points or less, the monster is destroyed.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42578427.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42578427.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42578427.jpg"
+  }
+}

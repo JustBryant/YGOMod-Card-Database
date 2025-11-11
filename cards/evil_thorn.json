@@ -1,0 +1,16 @@
+{
+  "id": 85431040,
+  "name": "Evil Thorn",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card; inflict 300 damage to your opponent, and if you do, you can Special Summon up to 2 \"Evil Thorn\" from your Deck in Attack Position, but their effects cannot be activated.",
+  "attack": 100,
+  "defense": 300,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85431040.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85431040.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85431040.jpg"
+  }
+}

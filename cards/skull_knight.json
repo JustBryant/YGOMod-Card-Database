@@ -1,0 +1,16 @@
+{
+  "id": 2504891,
+  "name": "Skull Knight",
+  "type": "Fusion Monster",
+  "description": "\"Tainted Wisdom\" + \"Ancient Brain\"",
+  "attack": 2650,
+  "defense": 2250,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2504891.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2504891.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2504891.jpg"
+  }
+}

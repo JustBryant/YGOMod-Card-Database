@@ -1,0 +1,12 @@
+{
+  "id": 64382840,
+  "name": "Eva Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Zeta Reticulant\".",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64382840.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64382840.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64382840.jpg"
+  }
+}

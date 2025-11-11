@@ -1,0 +1,12 @@
+{
+  "id": 23323812,
+  "name": "Telepathic Power",
+  "type": "Trap Card",
+  "description": "When a Psychic-Type monster you control is destroyed by battle with an opponent's attacking monster: Target the opponent's monster; destroy that target, and if you do, gain LP equal to the destroyed monster's ATK on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23323812.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23323812.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23323812.jpg"
+  }
+}

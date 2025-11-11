@@ -1,0 +1,12 @@
+{
+  "id": 72142276,
+  "name": "Molten Conduction Field",
+  "type": "Spell Card",
+  "description": "Send 2 \"Laval\" monsters from your Deck to the Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72142276.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72142276.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72142276.jpg"
+  }
+}

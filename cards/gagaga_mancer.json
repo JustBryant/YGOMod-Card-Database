@@ -1,0 +1,16 @@
+{
+  "id": 28884172,
+  "name": "Gagaga Mancer",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 \"Gagaga\" monster in your Graveyard, except \"Gagaga Mancer\"; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except \"Gagaga\" monsters. If this card is detached from an Xyz Monster and sent to the Graveyard to activate that monster's effect: You can target 1 face-up Xyz Monster you control; it gains 500 ATK until the end of this turn.",
+  "attack": 100,
+  "defense": 100,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28884172.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28884172.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28884172.jpg"
+  }
+}

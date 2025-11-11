@@ -1,0 +1,12 @@
+{
+  "id": 36586443,
+  "name": "Elemental Recharge",
+  "type": "Trap Card",
+  "description": "Gain 1000 Life Points for each face-up \"Elemental HERO\" monster you control.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36586443.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36586443.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36586443.jpg"
+  }
+}

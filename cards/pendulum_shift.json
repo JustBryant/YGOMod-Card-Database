@@ -1,0 +1,12 @@
+{
+  "id": 69982329,
+  "name": "Pendulum Shift",
+  "type": "Spell Card",
+  "description": "Target 1 card in either player's Pendulum Zone and declare a Pendulum Scale from 1 to 10; this turn, that card becomes that Pendulum Scale.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69982329.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69982329.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69982329.jpg"
+  }
+}

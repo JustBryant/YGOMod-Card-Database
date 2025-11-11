@@ -1,0 +1,12 @@
+{
+  "id": 5650082,
+  "name": "Storming Mirror Force",
+  "type": "Trap Card",
+  "description": "When an opponent's monster declares an attack: Return all your opponent's Attack Position monsters to the hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5650082.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5650082.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5650082.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 70284332,
+  "name": "Tuner's Scheme",
+  "type": "Trap Card",
+  "description": "Activate only when a Synchro Monster is Special Summoned to your opponent's side of the field. Take control of that Synchro Monster. Remove it from play when it is destroyed. Destroy this card when that monster is removed from the field.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70284332.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70284332.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70284332.jpg"
+  }
+}

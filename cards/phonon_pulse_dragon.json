@@ -1,0 +1,16 @@
+{
+  "id": 67556500,
+  "name": "Phonon Pulse Dragon",
+  "type": "Synchro Tuner Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can declare a Level from 1 to 3; this card becomes that Level, also you cannot Special Summon for the rest of this turn, except for a Synchro Summon using this card as a Synchro Material. You can only Special Summon \"Phonon Pulse Dragon(s)\" once per turn.",
+  "attack": 1900,
+  "defense": 800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67556500.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67556500.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67556500.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 62873545,
+  "name": "Dragon Master Knight",
+  "type": "Fusion Monster",
+  "description": "\"Black Luster Soldier\" + \"Blue-Eyes Ultimate Dragon\"\r\nMust be Fusion Summoned. This card gains 500 ATK for each Dragon monster you control, except this card.",
+  "attack": 5000,
+  "defense": 5000,
+  "level": 12,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62873545.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62873545.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62873545.jpg"
+  }
+}

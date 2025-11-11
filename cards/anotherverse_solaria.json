@@ -1,0 +1,16 @@
+{
+  "id": 63028558,
+  "name": "Anotherverse Solaria",
+  "type": "Normal Monster",
+  "description": "''The stellar god of another world, harboring its twilight sun. His frozen flames leave a scorched trail across the dimensions, forever seeking new strength.''",
+  "attack": 2500,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63028558.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63028558.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63028558.jpg"
+  }
+}

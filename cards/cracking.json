@@ -1,0 +1,12 @@
+{
+  "id": 32835363,
+  "name": "Cracking",
+  "type": "Spell Card",
+  "description": "Once per turn, when a monster(s) is sent from the field to the Graveyard by a card effect: Inflict 800 damage to the owner of the monster(s).",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32835363.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32835363.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32835363.jpg"
+  }
+}

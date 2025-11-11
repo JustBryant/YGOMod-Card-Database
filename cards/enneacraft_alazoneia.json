@@ -1,0 +1,16 @@
+{
+  "id": 92171126,
+  "name": "Enneacraft β' \"alazoneIA\"",
+  "type": "Pendulum Flip Effect Monster",
+  "description": "[ Pendulum Effect ] \nEach time a monster(s) is flipped face-up, place 1 Sinquisition Counter on this card. You can pay 900 LP; reveal 3 \"Enneacraft\" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, also you shuffle the rest back into the Deck. You can only use this effect of \"Enneacraft β' \"alazoneIA\"\" once per turn.\n\n[ Monster Effect ] \nFLIP: Banish 1 random card from your opponent's hand face-up until the End Phase.\r\nYou can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position. When your opponent activates a card or effect that includes an effect that adds a card(s) from the Deck to the hand (Quick Effect): You can change this Set card to face-up Defense Position; add 1 \"Enneacraft\" card from your Deck to your hand.",
+  "attack": 100,
+  "defense": 1000,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92171126.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92171126.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92171126.jpg"
+  }
+}

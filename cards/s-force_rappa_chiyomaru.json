@@ -1,0 +1,16 @@
+{
+  "id": 22180094,
+  "name": "S-Force Rappa Chiyomaru",
+  "type": "Effect Monster",
+  "description": "Each of your opponent's monsters in the same column as one of your \"S-Force\" monsters can only target that monster for attacks. (Quick Effect): You can banish 1 \"S-Force\" card from your hand; return this card to the hand, and if you do, Special Summon 1 \"S-Force\" monster from your Deck in Defense Position, except \"S-Force Rappa Chiyomaru\". You can only use this effect of \"S-Force Rappa Chiyomaru\" once per turn.",
+  "attack": 800,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22180094.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22180094.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22180094.jpg"
+  }
+}

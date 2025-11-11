@@ -1,0 +1,12 @@
+{
+  "id": 58415502,
+  "name": "Royal Straight",
+  "type": "Spell Card",
+  "description": "Send 1 \"Queen's Knight\", \"King's Knight\", and \"Jack's Knight\" from your hand and/or face-up Monster Zone to the GY, then Special Summon 1 monster from your hand, Deck, Extra Deck, or GY that mentions all of \"Queen's Knight\", \"King's Knight\", and \"Jack's Knight\".",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58415502.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58415502.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58415502.jpg"
+  }
+}

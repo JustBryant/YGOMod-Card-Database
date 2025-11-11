@@ -1,0 +1,16 @@
+{
+  "id": 9637706,
+  "name": "Des Wombat",
+  "type": "Effect Monster",
+  "description": "Any damage to you from a card effect becomes 0.",
+  "attack": 1600,
+  "defense": 300,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9637706.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9637706.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9637706.jpg"
+  }
+}

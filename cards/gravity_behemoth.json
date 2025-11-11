@@ -1,0 +1,16 @@
+{
+  "id": 56931015,
+  "name": "Gravity Behemoth",
+  "type": "Effect Monster",
+  "description": "If it is not the first turn of the Duel and there are no cards on the field, you can Normal Summon this card without Tributing. You can destroy all Field Spell Cards on the field. This card cannot attack the turn you activate this effect.",
+  "attack": 2300,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56931015.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56931015.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56931015.jpg"
+  }
+}

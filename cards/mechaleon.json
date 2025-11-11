@@ -1,0 +1,16 @@
+{
+  "id": 94412545,
+  "name": "Mechaleon",
+  "type": "Normal Monster",
+  "description": "''This monster can hide just about anywhere by adopting the colors of its surroundings.''",
+  "attack": 800,
+  "defense": 600,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94412545.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94412545.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94412545.jpg"
+  }
+}

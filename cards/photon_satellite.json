@@ -1,0 +1,16 @@
+{
+  "id": 63223260,
+  "name": "Photon Satellite",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 other \"Photon\" monster you control; the Levels of both that monster and this card become the combined current Levels of those 2 monsters.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63223260.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63223260.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63223260.jpg"
+  }
+}

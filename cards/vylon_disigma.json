@@ -1,0 +1,16 @@
+{
+  "id": 39987164,
+  "name": "Vylon Disigma",
+  "type": "XYZ Monster",
+  "description": "3 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 face-up Attack Position Effect Monster your opponent controls; equip that target to this card. At the start of the Damage Step, if this card battles a monster whose Attribute is the same as a card equipped by this effect: Destroy that monster.",
+  "attack": 2500,
+  "defense": 2100,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39987164.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39987164.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39987164.jpg"
+  }
+}

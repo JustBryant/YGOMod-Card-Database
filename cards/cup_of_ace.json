@@ -1,0 +1,12 @@
+{
+  "id": 37812118,
+  "name": "Cup of Ace",
+  "type": "Spell Card",
+  "description": "Toss a coin: ● Heads: Draw 2 cards. ● Tails: Your opponent draws 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37812118.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37812118.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37812118.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 20228463,
+  "name": "Ceremonial Bell",
+  "type": "Effect Monster",
+  "description": "Both players must keep their hands revealed.",
+  "attack": 0,
+  "defense": 1850,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20228463.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20228463.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20228463.jpg"
+  }
+}

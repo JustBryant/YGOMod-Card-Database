@@ -1,0 +1,12 @@
+{
+  "id": 82003859,
+  "name": "Toll",
+  "type": "Spell Card",
+  "description": "Each player must pay 500 Life Points to declare an attack.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82003859.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82003859.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82003859.jpg"
+  }
+}

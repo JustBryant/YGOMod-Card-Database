@@ -1,0 +1,12 @@
+{
+  "id": 40703222,
+  "name": "Multiply",
+  "type": "Spell Card",
+  "description": "Tribute 1 face-up \"Kuriboh\"; Special Summon as many \"Kuriboh Tokens\" (Fiend/DARK/Level 1/ATK 300/DEF 200) as possible, in Defense Position. They cannot be Tributed for a Tribute Summon.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40703222.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40703222.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40703222.jpg"
+  }
+}

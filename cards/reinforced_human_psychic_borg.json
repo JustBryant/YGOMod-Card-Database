@@ -1,0 +1,16 @@
+{
+  "id": 80102359,
+  "name": "Reinforced Human Psychic Borg",
+  "type": "Effect Monster",
+  "description": "Up to twice per turn, you can remove from play 1 Psychic-Type monster from your Graveyard to have this card gain 500 ATK.",
+  "attack": 1500,
+  "defense": 800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80102359.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80102359.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80102359.jpg"
+  }
+}

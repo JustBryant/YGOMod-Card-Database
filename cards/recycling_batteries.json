@@ -1,0 +1,12 @@
+{
+  "id": 99995595,
+  "name": "Recycling Batteries",
+  "type": "Spell Card",
+  "description": "Target 2 Thunder-Type monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99995595.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99995595.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99995595.jpg"
+  }
+}

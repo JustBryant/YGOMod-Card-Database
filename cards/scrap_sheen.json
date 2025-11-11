@@ -1,0 +1,12 @@
+{
+  "id": 74439492,
+  "name": "Scrap Sheen",
+  "type": "Spell Card",
+  "description": "Select 1 face-up \"Scrap\" monster you control and destroy it. All face-up \"Scrap\" monsters you control gain 1000 ATK until the End Phase.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74439492.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74439492.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74439492.jpg"
+  }
+}

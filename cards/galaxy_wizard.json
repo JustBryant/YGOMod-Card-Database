@@ -1,0 +1,16 @@
+{
+  "id": 98555327,
+  "name": "Galaxy Wizard",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can increase this card's Level by 4 until the end of this turn. You can Tribute this card; add 1 \"Galaxy\" card from your Deck to your hand, except \"Galaxy Wizard\".",
+  "attack": 0,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98555327.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98555327.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98555327.jpg"
+  }
+}

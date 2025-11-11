@@ -1,0 +1,12 @@
+{
+  "id": 8148322,
+  "name": "Predaprime Fusion",
+  "type": "Spell Card",
+  "description": "If a \"Predaplant\" monster(s) is on the field: Fusion Summon 1 DARK Fusion Monster from your Extra Deck, using monsters from either field as material, including 2 or more DARK monsters you control. You can only activate 1 \"Predaprime Fusion\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8148322.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8148322.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8148322.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 60482781,
+  "name": "Mystic Swordsman LV6",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned (but can be Normal Set). At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster, and if you do, you can place it on top of your opponent's Deck instead of sending it to the Graveyard.",
+  "attack": 2300,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60482781.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60482781.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60482781.jpg"
+  }
+}

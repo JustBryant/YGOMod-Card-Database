@@ -1,0 +1,12 @@
+{
+  "id": 94484482,
+  "name": "Slip Summon",
+  "type": "Trap Card",
+  "description": "Activate only when your opponent Summons a monster. Special Summon 1 Level 4 or lower monster from your hand in face-up Defense Position. Return it to the owner's hand during the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94484482.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94484482.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94484482.jpg"
+  }
+}

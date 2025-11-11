@@ -1,0 +1,16 @@
+{
+  "id": 45852939,
+  "name": "Eclipse Twins",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 monsters\r\nFor this card's Xyz Summon, you can treat Rank 4 monsters you control as Level 4 monsters for material. You can detach 1 material from this card; this card can make up to 2 attacks on monsters during each Battle Phase this turn. If this card is sent to the GY: You can target 2 other Rank 4 or lower Xyz Monsters in your GY; Special Summon 1 of them and attach the other to it as material. You can only use this effect of \"Eclipse Twins\" once per turn.",
+  "attack": 2500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45852939.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45852939.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45852939.jpg"
+  }
+}

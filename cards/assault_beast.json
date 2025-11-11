@@ -1,0 +1,16 @@
+{
+  "id": 3431737,
+  "name": "Assault Beast",
+  "type": "Effect Monster",
+  "description": "You can discard this card to the GY; add 1 \"Assault Mode Activate\" from your Deck to your hand.",
+  "attack": 1900,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3431737.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3431737.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3431737.jpg"
+  }
+}

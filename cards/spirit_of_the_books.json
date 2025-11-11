@@ -1,0 +1,16 @@
+{
+  "id": 14037717,
+  "name": "Spirit of the Books",
+  "type": "Normal Monster",
+  "description": "This wise spirit dwells in books, using its accumulated knowledge to defeat enemies.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14037717.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14037717.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14037717.jpg"
+  }
+}

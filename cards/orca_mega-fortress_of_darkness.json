@@ -1,0 +1,16 @@
+{
+  "id": 63120904,
+  "name": "Orca Mega-Fortress of Darkness",
+  "type": "Effect Monster",
+  "description": "By Tributing 1 \"Torpedo Fish\" on your side of the field, destroy 1 monster on the field. By Tributing 1 \"Cannonball Spear Shellfish\" on your side of the field, destroy 1 Spell or Trap Card on the field.",
+  "attack": 2100,
+  "defense": 1200,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63120904.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63120904.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63120904.jpg"
+  }
+}

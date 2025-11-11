@@ -1,0 +1,12 @@
+{
+  "id": 53656677,
+  "name": "Power Frame",
+  "type": "Trap Card",
+  "description": "When a face-up monster you control is targeted for an attack by a monster with a higher ATK: Target the attack target; negate that attack, and if you do, equip this card to that target. The equipped monster gains ATK equal to the difference between its ATK and the ATK of its attacker when this card resolves.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53656677.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53656677.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53656677.jpg"
+  }
+}

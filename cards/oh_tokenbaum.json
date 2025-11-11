@@ -1,0 +1,12 @@
+{
+  "id": 97173708,
+  "name": "Oh Tokenbaum!",
+  "type": "Trap Card",
+  "description": "Tribute 2 or more Tokens with the same Level, then target monsters in your GY with that same Level, up to the number of Tokens Tributed; Special Summon them, but their effects are negated, also destroy them during the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97173708.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97173708.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97173708.jpg"
+  }
+}

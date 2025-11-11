@@ -1,0 +1,12 @@
+{
+  "id": 23299957,
+  "name": "Vehicroid Connection Zone",
+  "type": "Spell Card",
+  "description": "Fusion Summon 1 \"Vehicroid\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials, and if you do, it cannot be destroyed by card effects, and its effects cannot be negated.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23299957.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23299957.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23299957.jpg"
+  }
+}

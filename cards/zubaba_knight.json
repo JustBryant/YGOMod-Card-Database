@@ -1,0 +1,16 @@
+{
+  "id": 97896503,
+  "name": "Zubaba Knight",
+  "type": "Effect Monster",
+  "description": "At the start of the Damage Step, if this card attacks a face-up Defense Position monster: Destroy that monster.",
+  "attack": 1600,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97896503.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97896503.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97896503.jpg"
+  }
+}

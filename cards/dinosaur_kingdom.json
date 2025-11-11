@@ -1,0 +1,12 @@
+{
+  "id": 300203001,
+  "name": "Dinosaur Kingdom",
+  "type": "Skill Card",
+  "description": "All Dinosaur monsters gain 300 ATK/DEF. ",
+  "race": "Rex",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300203001.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300203001.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300203001.jpg"
+  }
+}

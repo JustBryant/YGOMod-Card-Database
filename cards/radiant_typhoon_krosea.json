@@ -1,0 +1,16 @@
+{
+  "id": 16922142,
+  "name": "Radiant Typhoon Krosea",
+  "type": "Effect Monster",
+  "description": "Cannot be destroyed by battle or card effects while your opponent controls no Spells/Traps. You can only use each of the following effects of \"Radiant Typhoon Krosea\" once per turn. If a Quick-Play Spell Card is activated (except during the Damage Step): You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Radiant Typhoon\" card (except \"Radiant Typhoon Krosea\") and/or 1 \"Mystical Space Typhoon\" from your Deck and/or GY to your hand, also you cannot Special Summon for the rest of this turn, except WIND monsters.",
+  "attack": 2200,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16922142.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16922142.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16922142.jpg"
+  }
+}

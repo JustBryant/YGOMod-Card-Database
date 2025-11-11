@@ -1,0 +1,16 @@
+{
+  "id": 79444933,
+  "name": "Flame Spirit Ignis",
+  "type": "Effect Monster",
+  "description": "You can Tribute 1 face-up FIRE monster to inflict 100 damage to your opponent for each FIRE monsters in your Graveyard.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79444933.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79444933.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79444933.jpg"
+  }
+}

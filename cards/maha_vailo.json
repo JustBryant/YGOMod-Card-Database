@@ -1,0 +1,16 @@
+{
+  "id": 93013676,
+  "name": "Maha Vailo",
+  "type": "Effect Monster",
+  "description": "This card gains 500 ATK for each Equip Card equipped to this card.",
+  "attack": 1550,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93013676.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93013676.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93013676.jpg"
+  }
+}

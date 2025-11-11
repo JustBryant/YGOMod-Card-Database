@@ -1,0 +1,12 @@
+{
+  "id": 79544790,
+  "name": "Regretful Rebirth",
+  "type": "Trap Card",
+  "description": "When a monster you control is destroyed by battle and sent to the Graveyard: Target that monster; Special Summon it in face-up Defense Position, but it is destroyed during your End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79544790.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79544790.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79544790.jpg"
+  }
+}

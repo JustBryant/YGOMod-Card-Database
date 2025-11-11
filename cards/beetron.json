@@ -1,0 +1,16 @@
+{
+  "id": 30587695,
+  "name": "Beetron",
+  "type": "Effect Monster",
+  "description": "You can send 1 face-up Spell/Trap you control to the GY, then target 1 Level 4 or lower Insect monster in your GY; Special Summon that Insect monster in Defense Position. You can only use this effect of \"Beetron\" once per turn.",
+  "attack": 1600,
+  "defense": 900,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30587695.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30587695.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30587695.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 58657303,
+  "name": "Gravekeeper's Spiritualist",
+  "type": "Effect Monster",
+  "description": "During your Main Phase, if \"Necrovalley\" is on the field: You can Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck, using this card you control and other monsters from your hand or field as Fusion Material. You can only use this effect of \"Gravekeeper's Spiritualist\" once per turn.",
+  "attack": 1500,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58657303.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58657303.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58657303.jpg"
+  }
+}

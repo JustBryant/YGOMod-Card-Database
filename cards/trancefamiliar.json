@@ -1,0 +1,16 @@
+{
+  "id": 7969770,
+  "name": "Trancefamiliar",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 monster you control; move that target to another of your Main Monster Zones.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7969770.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7969770.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7969770.jpg"
+  }
+}

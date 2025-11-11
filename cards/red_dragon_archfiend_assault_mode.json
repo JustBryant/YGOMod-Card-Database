@@ -1,0 +1,16 @@
+{
+  "id": 77336644,
+  "name": "Red Dragon Archfiend/Assault Mode",
+  "type": "Effect Monster",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". If this card attacks, destroy all other monsters after damage calculation. When this card on the field is destroyed, you can Special Summon 1 \"Red Dragon Archfiend\" from your Graveyard.",
+  "attack": 3500,
+  "defense": 2500,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77336644.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77336644.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77336644.jpg"
+  }
+}

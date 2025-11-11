@@ -1,0 +1,12 @@
+{
+  "id": 96474800,
+  "name": "Magic Deflector",
+  "type": "Trap Card",
+  "description": "For the rest of this turn, negate all Equip, Field, Continuous and Quick-Play Spell Card effects on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96474800.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96474800.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96474800.jpg"
+  }
+}

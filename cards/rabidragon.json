@@ -1,0 +1,16 @@
+{
+  "id": 95788410,
+  "name": "Rabidragon",
+  "type": "Normal Monster",
+  "description": "It's a snowfield-dwelling, giant-ear-sporting, super-acoustic, snowball-shaped mutant dragon! There's no way anybody can escape.",
+  "attack": 2950,
+  "defense": 2900,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95788410.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95788410.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95788410.jpg"
+  }
+}

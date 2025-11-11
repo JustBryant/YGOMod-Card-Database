@@ -1,0 +1,16 @@
+{
+  "id": 80925836,
+  "name": "Koa'ki Meiru Doom",
+  "type": "Effect Monster",
+  "description": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Fiend-Type monster in your hand. Negate the effects of LIGHT and DARK monsters that activate during the Main Phase.",
+  "attack": 1700,
+  "defense": 800,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80925836.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80925836.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80925836.jpg"
+  }
+}

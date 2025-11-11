@@ -1,0 +1,12 @@
+{
+  "id": 87047074,
+  "name": "Inzektor Crossbow - Zektarrow",
+  "type": "Spell Card",
+  "description": "Equip only to an \"Inzektor\" monster. It gains 500 ATK. Your opponent cannot activate cards or effects in response to the activation of the equipped monster's effects.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87047074.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87047074.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87047074.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 75622824,
+  "name": "Tricky Spell 4",
+  "type": "Spell Card",
+  "description": "Send 1 face-up \"The Tricky\" you control to the Graveyard; Special Summon \"Tricky Tokens\" (Spellcaster-Type/WIND/Level 5/ATK 2000/DEF 1200) in Defense Position, equal to the number of monsters your opponent controls. \"Tricky Tokens\" cannot declare an attack.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75622824.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75622824.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75622824.jpg"
+  }
+}

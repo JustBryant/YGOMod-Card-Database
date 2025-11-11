@@ -1,0 +1,16 @@
+{
+  "id": 19605133,
+  "name": "Naturia Ladybug",
+  "type": "Effect Monster",
+  "description": "When you Synchro Summon a \"Naturia\" Synchro Monster, you can Special Summon this card from your Graveyard. During your Main Phase, you can Tribute this card to select 1 face-up \"Naturia\" monster you control. It gains 1000 ATK until the End Phase.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19605133.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19605133.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19605133.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 15394084,
+  "name": "Nordic Beast Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Tanngrisnir of the Nordic Beasts\".",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15394084.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15394084.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15394084.jpg"
+  }
+}

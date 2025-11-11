@@ -1,0 +1,16 @@
+{
+  "id": 16828633,
+  "name": "Genex Spare",
+  "type": "Tuner Monster",
+  "description": "Once per turn, if you control another \"Genex\" monster, you can make this card's name \"Genex Controller\" until the End Phase.",
+  "attack": 800,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16828633.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16828633.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16828633.jpg"
+  }
+}

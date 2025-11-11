@@ -1,0 +1,16 @@
+{
+  "id": 39284521,
+  "name": "Machina Cannon",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 or more other Machine monsters from your hand to the GY. Gains 800 ATK for each monster sent to the GY for this Special Summon.",
+  "attack": 0,
+  "defense": 2200,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39284521.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39284521.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39284521.jpg"
+  }
+}

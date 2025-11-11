@@ -1,0 +1,12 @@
+{
+  "id": 16964437,
+  "name": "Dark Horizon",
+  "type": "Trap Card",
+  "description": "When you take battle or effect damage: Special Summon 1 DARK Spellcaster-Type monster from your Deck with ATK less than or equal to the damage you took.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16964437.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16964437.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16964437.jpg"
+  }
+}

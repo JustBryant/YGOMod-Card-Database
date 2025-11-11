@@ -1,0 +1,12 @@
+{
+  "id": 33302407,
+  "name": "Poison Chain",
+  "type": "Spell Card",
+  "description": "During the End Phase of your turn, if you did not attack, you can make your opponent send cards equal to the number of face-up \"Iron Chain\" monsters you control from the top of their Deck to the Graveyard.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33302407.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33302407.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33302407.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 73872164,
+  "name": "Eliminating the League",
+  "type": "Trap Card",
+  "description": "Discard 1 Spell, then target 1 face-up monster your opponent controls; destroy that target, then look at your opponent's hand and send all cards in their hand with the same name as that destroyed card to the GY.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73872164.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73872164.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73872164.jpg"
+  }
+}

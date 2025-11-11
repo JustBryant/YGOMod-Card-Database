@@ -1,0 +1,12 @@
+{
+  "id": 51510279,
+  "name": "Magikey Duo",
+  "type": "Trap Card",
+  "description": "You can target 1 Normal Monster or 1 \"Magikey\" monster in your GY; add it to your hand, then you can apply 1 of these effects.\r\n● Fusion Summon 1 \"Magikey\" Fusion Monster from your Extra Deck in Defense Position, using monsters from your hand or field as Fusion Material.\r\n● Ritual Summon 1 \"Magikey\" Ritual Monster from your hand in Defense Position, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51510279.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51510279.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51510279.jpg"
+  }
+}

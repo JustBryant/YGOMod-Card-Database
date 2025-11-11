@@ -1,0 +1,16 @@
+{
+  "id": 5230799,
+  "name": "Magical Musketeer Kidbrave",
+  "type": "Effect Monster",
+  "description": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can discard 1 \"Magical Musket\" card; draw 2 cards. You can only use this effect of \"Magical Musketeer Kidbrave\" once per turn.",
+  "attack": 1600,
+  "defense": 200,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5230799.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5230799.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5230799.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5703682,
+  "name": "Thousand Energy",
+  "type": "Spell Card",
+  "description": "Increase the original ATK and DEF of all face-up Level 2 Normal Monsters (except Tokens) on your side of the field by 1000 points until the End Phase. Destroy all Level 2 Normal Monsters on your side of the field during the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5703682.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5703682.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5703682.jpg"
+  }
+}

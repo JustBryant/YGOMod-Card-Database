@@ -1,0 +1,12 @@
+{
+  "id": 63227401,
+  "name": "Skill Prisoner",
+  "type": "Trap Card",
+  "description": "Target 1 card you control; this turn, when any monster effect resolves that targeted that card at activation, negate that effect. During either player's turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 card you control; this turn, when any monster effect resolves that targeted that card at activation, negate that effect.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63227401.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63227401.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63227401.jpg"
+  }
+}

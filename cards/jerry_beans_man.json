@@ -1,0 +1,16 @@
+{
+  "id": 23635815,
+  "name": "Jerry Beans Man",
+  "type": "Normal Monster",
+  "description": "Jerry, a bean soldier, believes he is the strongest warrior in the world, but his true abilities are still untested.",
+  "attack": 1750,
+  "defense": 0,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23635815.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23635815.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23635815.jpg"
+  }
+}

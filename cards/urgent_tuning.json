@@ -1,0 +1,12 @@
+{
+  "id": 94634433,
+  "name": "Urgent Tuning",
+  "type": "Trap Card",
+  "description": "During the Battle Phase: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster using monsters you control.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94634433.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94634433.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94634433.jpg"
+  }
+}

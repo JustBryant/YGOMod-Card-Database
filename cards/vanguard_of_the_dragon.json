@@ -1,0 +1,16 @@
+{
+  "id": 77135531,
+  "name": "Vanguard of the Dragon",
+  "type": "Effect Monster",
+  "description": "You can send 1 Dragon-Type monster from your hand to the Graveyard; this card gains 300 ATK. When this card you control is sent to your Graveyard by your opponent's card effect: You can target 1 Dragon-Type Normal Monster in either player's Graveyard; Special Summon that target.",
+  "attack": 1700,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77135531.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77135531.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77135531.jpg"
+  }
+}

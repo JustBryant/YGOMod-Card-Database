@@ -1,0 +1,12 @@
+{
+  "id": 2561846,
+  "name": "Corruption Cell \"A\"",
+  "type": "Spell Card",
+  "description": "Place 1 A-Counter on 1 face-up monster on your opponent's side of the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2561846.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2561846.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2561846.jpg"
+  }
+}

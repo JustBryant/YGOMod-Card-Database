@@ -1,0 +1,16 @@
+{
+  "id": 50604950,
+  "name": "X-Saber Galahad",
+  "type": "Effect Monster",
+  "description": "If this card attacks an opponent's monster, this card gains 300 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 500 ATK during the Damage Step only. When this card is selected as an attack target, you can Tribute another \"Saber\" monster to negate the attack.",
+  "attack": 1800,
+  "defense": 800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50604950.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50604950.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50604950.jpg"
+  }
+}

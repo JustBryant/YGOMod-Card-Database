@@ -1,0 +1,12 @@
+{
+  "id": 79324191,
+  "name": "Ninjitsu Art Notebook",
+  "type": "Spell Card",
+  "description": "Once per turn: You can send 1 \"Ninja\" monster from your hand to the GY; Set 1 \"Ninjitsu Art\" Spell/Trap directly from your Deck, except \"Ninjitsu Art Notebook\".",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79324191.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79324191.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79324191.jpg"
+  }
+}

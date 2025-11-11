@@ -1,0 +1,12 @@
+{
+  "id": 33767325,
+  "name": "Meteor of Destruction",
+  "type": "Spell Card",
+  "description": "If your opponent's Life Points are higher than 3000: Inflict 1000 damage to your opponent.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33767325.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33767325.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33767325.jpg"
+  }
+}

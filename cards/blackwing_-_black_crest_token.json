@@ -1,0 +1,12 @@
+{
+  "id": 9925983,
+  "name": "Blackwing - Black Crest Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Black Wing Revenge\".",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9925983.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9925983.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9925983.jpg"
+  }
+}

@@ -3,10 +3,10 @@
   "name": "Sogen",
   "type": "Spell Card",
   "description": "All Warrior and Beast-Warrior monsters on the field gain 200 ATK/DEF.",
+  "race": "Field",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/86318356.jpg",
     "small_url": "https://images.ygoprodeck.com/images/cards_small/86318356.jpg",
     "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86318356.jpg"
-  },
-  "race": "Field"
+  }
 }

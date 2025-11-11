@@ -1,0 +1,12 @@
+{
+  "id": 39897277,
+  "name": "Elf's Light",
+  "type": "Spell Card",
+  "description": "A LIGHT monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39897277.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39897277.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39897277.jpg"
+  }
+}

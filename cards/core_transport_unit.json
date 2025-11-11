@@ -1,0 +1,12 @@
+{
+  "id": 30770156,
+  "name": "Core Transport Unit",
+  "type": "Spell Card",
+  "description": "Once per turn, you can discard 1 card to add 1 \"Iron Core of Koa'ki Meiru\" from your Deck to your hand.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30770156.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30770156.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30770156.jpg"
+  }
+}

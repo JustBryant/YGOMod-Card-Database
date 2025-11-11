@@ -1,0 +1,16 @@
+{
+  "id": 32588805,
+  "name": "The Despair Uranus",
+  "type": "Effect Monster",
+  "description": "When this card is Tribute Summoned while you control no Spell/Trap Cards: You can activate this effect; your opponent declares either Continuous Spell or Continuous Trap, then you Set 1 card of that type directly from your Deck. This card gains 300 ATK for each face-up Spell/Trap Card you control. Face-up cards in your Spell & Trap Zone cannot be destroyed by card effects.",
+  "attack": 2900,
+  "defense": 2300,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32588805.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32588805.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32588805.jpg"
+  }
+}

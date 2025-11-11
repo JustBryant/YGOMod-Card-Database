@@ -1,0 +1,12 @@
+{
+  "id": 45730592,
+  "name": "Adamancipator Resonance",
+  "type": "Trap Card",
+  "description": "When a monster effect is activated, while you control an \"Adamancipator\" Synchro Monster: Negate the activation, and if you do, destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45730592.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45730592.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45730592.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1669772,
+  "name": "Spell Purification",
+  "type": "Trap Card",
+  "description": "Discard 1 card from your hand. Destroy all face-up Continuous Spell Cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1669772.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1669772.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1669772.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 32355828,
+  "name": "Skelgon",
+  "type": "Fusion Monster",
+  "description": "\"The Snake Hair\" + \"Blackland Fire Dragon\"",
+  "attack": 1700,
+  "defense": 1900,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32355828.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32355828.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32355828.jpg"
+  }
+}

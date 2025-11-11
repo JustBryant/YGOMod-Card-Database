@@ -1,0 +1,16 @@
+{
+  "id": 3810071,
+  "name": "Monk Fighter",
+  "type": "Effect Monster",
+  "description": "Battle Damage to this card's controller from a battle involving this card becomes 0.",
+  "attack": 1300,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3810071.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3810071.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3810071.jpg"
+  }
+}

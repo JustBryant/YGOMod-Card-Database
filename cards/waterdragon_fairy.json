@@ -1,0 +1,16 @@
+{
+  "id": 66836598,
+  "name": "Waterdragon Fairy",
+  "type": "Normal Monster",
+  "description": "''A water fairy that is said to be able to summon a giant sea serpent.''",
+  "attack": 1100,
+  "defense": 700,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66836598.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66836598.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66836598.jpg"
+  }
+}

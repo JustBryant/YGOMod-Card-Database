@@ -1,0 +1,12 @@
+{
+  "id": 24662957,
+  "name": "Fiendish Golem",
+  "type": "Trap Card",
+  "description": "Target 1 monster on the field with 2000 or more ATK; banish it (until the End Phase of the next turn), then if you activated this card while you controlled \"Red Dragon Archfiend\" or a Synchro Monster that mentions it, you can Set 1 \"Fiendish Chain\" directly from your Deck or GY.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24662957.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24662957.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24662957.jpg"
+  }
+}

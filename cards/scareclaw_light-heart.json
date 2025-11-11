@@ -1,0 +1,16 @@
+{
+  "id": 53776969,
+  "name": "Scareclaw Light-Heart",
+  "type": "Link Monster",
+  "description": "1 \"Scareclaw\" monster or 1 \"Visas Starfrost\"\r\nFor this card's Link Summon, you can only use monsters in your Main Monster Zone as material. If this card is Link Summoned in the Extra Monster Zone: You can add 1 \"Primitive Planet Reichphobia\" from your Deck to your hand. If you control \"Visas Starfrost\": You can Special Summon this card from your GY. You can only use this effect of \"Scareclaw Light-Heart\" once per Duel.",
+  "attack": 500,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53776969.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53776969.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53776969.jpg"
+  }
+}

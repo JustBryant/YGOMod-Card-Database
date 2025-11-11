@@ -1,0 +1,16 @@
+{
+  "id": 52644170,
+  "name": "Crossmind Archfiend",
+  "type": "Synchro Monster",
+  "description": "1 Psychic Tuner + 1+ non-Tuner monsters\r\nDuring the Main Phase (Quick Effect): You can target 1 of your banished Level 7 or lower Psychic monsters; Special Summon it. During the Battle Phase (Quick Effect): You can Tribute 1 other monster; gain LP equal to its original ATK, and if you do, this card gains that much ATK until the end of this turn. You can only use each effect of \"Crossmind Archfiend\" once per turn.",
+  "attack": 2500,
+  "defense": 2800,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52644170.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52644170.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52644170.jpg"
+  }
+}

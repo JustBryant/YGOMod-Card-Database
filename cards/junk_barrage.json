@@ -1,0 +1,12 @@
+{
+  "id": 79068663,
+  "name": "Junk Barrage",
+  "type": "Spell Card",
+  "description": "When the equipped monster destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the destroyed monster's ATK in the Graveyard.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79068663.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79068663.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79068663.jpg"
+  }
+}

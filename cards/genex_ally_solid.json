@@ -1,0 +1,16 @@
+{
+  "id": 83500096,
+  "name": "Genex Ally Solid",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can send 1 face-up WATER \"Genex\" monster you control to the Graveyard to draw 2 cards.",
+  "attack": 500,
+  "defense": 1200,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83500096.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83500096.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83500096.jpg"
+  }
+}

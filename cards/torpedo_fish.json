@@ -1,0 +1,16 @@
+{
+  "id": 90337190,
+  "name": "Torpedo Fish",
+  "type": "Effect Monster",
+  "description": "While \"Umi\" is face-up on the field, this card is unaffected by any Spell Cards.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90337190.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90337190.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90337190.jpg"
+  }
+}

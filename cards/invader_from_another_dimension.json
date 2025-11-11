@@ -1,0 +1,16 @@
+{
+  "id": 28450915,
+  "name": "Invader from Another Dimension",
+  "type": "Normal Monster",
+  "description": "An extraterrestrial monster that came from a distant galaxy.",
+  "attack": 950,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28450915.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28450915.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28450915.jpg"
+  }
+}

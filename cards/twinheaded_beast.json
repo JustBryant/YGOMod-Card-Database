@@ -1,0 +1,16 @@
+{
+  "id": 82035781,
+  "name": "Twinheaded Beast",
+  "type": "Effect Monster",
+  "description": "This card can attack twice during the same Battle Phase.",
+  "attack": 1700,
+  "defense": 1900,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82035781.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82035781.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82035781.jpg"
+  }
+}

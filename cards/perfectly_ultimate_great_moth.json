@@ -1,0 +1,16 @@
+{
+  "id": 48579379,
+  "name": "Perfectly Ultimate Great Moth",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Petit Moth\" on your 6th turn or later after it was equipped with \"Cocoon of Evolution\".",
+  "attack": 3500,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48579379.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48579379.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48579379.jpg"
+  }
+}

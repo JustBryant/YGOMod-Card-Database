@@ -1,0 +1,16 @@
+{
+  "id": 61318483,
+  "name": "Ghostrick Jackfrost",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. When an opponent's monster declares a direct attack: You can change that opponent's monster to face-down Defense Position, and if you do, Special Summon this card from your hand in face-down Defense Position.",
+  "attack": 800,
+  "defense": 100,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61318483.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61318483.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61318483.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 52615248,
+  "name": "Progleo",
+  "type": "Link Monster",
+  "description": "2 monsters, except Tokens\r\nDuring your Main Phase, if you control this Link Summoned card: You can banish this card and 1 of your monsters this card points to, then target 1 Link Monster in either GY; Special Summon it, but banish it when it leaves the field. You can only use this effect of \"Progleo\" once per turn.",
+  "attack": 1000,
+  "defense": null,
+  "level": null,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52615248.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52615248.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52615248.jpg"
+  }
+}

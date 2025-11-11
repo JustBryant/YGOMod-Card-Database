@@ -1,0 +1,16 @@
+{
+  "id": 34472920,
+  "name": "Honeybot",
+  "type": "Link Monster",
+  "description": "2 Cyberse monsters\r\nNeither player can target monsters this card points to with card effects, and those monsters cannot be destroyed by battle.",
+  "attack": 1900,
+  "defense": null,
+  "level": 0,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34472920.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34472920.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34472920.jpg"
+  }
+}

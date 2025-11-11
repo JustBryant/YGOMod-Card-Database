@@ -1,0 +1,16 @@
+{
+  "id": 8396952,
+  "name": "Arcana Force I - The Magician",
+  "type": "Effect Monster",
+  "description": "When this card is Summoned, toss a coin:\n● Heads: When a Spell Card is activated, this card's ATK becomes double its original ATK until the End Phase of that turn.\n● Tails: When a Spell Card is activated, your opponent gains 500 Life Points.",
+  "attack": 1100,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8396952.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8396952.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8396952.jpg"
+  }
+}

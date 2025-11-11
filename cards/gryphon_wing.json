@@ -1,0 +1,12 @@
+{
+  "id": 55608151,
+  "name": "Gryphon Wing",
+  "type": "Trap Card",
+  "description": "When your opponent activates \"Harpie's Feather Duster\": Negate its effect, and if you do, destroy all Spell and Trap Cards your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55608151.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55608151.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55608151.jpg"
+  }
+}

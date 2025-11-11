@@ -1,0 +1,12 @@
+{
+  "id": 42175079,
+  "name": "Volcanic Eruption",
+  "type": "Trap Card",
+  "description": "During your End Phase, if you control \"Jurassic World\": Destroy all cards on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42175079.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42175079.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42175079.jpg"
+  }
+}

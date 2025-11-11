@@ -1,0 +1,16 @@
+{
+  "id": 27660735,
+  "name": "Speedroid Tri-Eyed Dice",
+  "type": "Tuner Monster",
+  "description": "During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).",
+  "attack": 300,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27660735.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27660735.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27660735.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 98502113,
+  "name": "Dark Paladin",
+  "type": "Fusion Monster",
+  "description": "\"Dark Magician\" + \"Buster Blader\"\r\nMust be Fusion Summoned. When a Spell Card is activated (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect. Gains 500 ATK for each Dragon monster on the field and in the GY.",
+  "attack": 2900,
+  "defense": 2400,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98502113.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98502113.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98502113.jpg"
+  }
+}

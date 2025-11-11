@@ -1,0 +1,16 @@
+{
+  "id": 25592142,
+  "name": "Astellar of the White Forest",
+  "type": "Effect Monster",
+  "description": "You can send 1 Spell/Trap from your hand or field to the GY; Special Summon 1 LIGHT Spellcaster Tuner from your Deck. If a Spell/Trap(s) is sent to your GY to activate a monster's effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Astellar of the White Forest\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25592142.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25592142.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25592142.jpg"
+  }
+}

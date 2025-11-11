@@ -1,0 +1,16 @@
+{
+  "id": 10002346,
+  "name": "Gachi Gachi Gantetsu",
+  "type": "XYZ Monster",
+  "description": "2 Level 2 monsters \nIf this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. Face-up monsters you control gain 200 ATK and DEF for each Xyz Material attached to this card.",
+  "attack": 500,
+  "defense": 1800,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10002346.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10002346.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10002346.jpg"
+  }
+}

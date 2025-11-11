@@ -1,0 +1,12 @@
+{
+  "id": 28506708,
+  "name": "Worm Call",
+  "type": "Spell Card",
+  "description": "Once per turn, if your opponent controls a monster and you control no monsters, you can Special Summon 1 Reptile-Type \"Worm\" monster from your hand in face-down Defense Position.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28506708.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28506708.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28506708.jpg"
+  }
+}

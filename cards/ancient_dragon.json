@@ -1,0 +1,16 @@
+{
+  "id": 38520918,
+  "name": "Ancient Dragon",
+  "type": "Effect Monster",
+  "description": "When this card inflicts battle damage to your opponent by a direct attack: You can increase this card's Level by 1 and ATK by 500.",
+  "attack": 1400,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38520918.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38520918.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38520918.jpg"
+  }
+}

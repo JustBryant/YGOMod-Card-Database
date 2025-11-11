@@ -1,0 +1,16 @@
+{
+  "id": 36687247,
+  "name": "T.G. Rush Rhino",
+  "type": "Effect Monster",
+  "description": "If this card attacks, it gains 400 ATK during the Damage Step only. Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Rush Rhino\".",
+  "attack": 1600,
+  "defense": 800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36687247.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36687247.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36687247.jpg"
+  }
+}

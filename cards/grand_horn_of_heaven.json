@@ -1,0 +1,12 @@
+{
+  "id": 1637760,
+  "name": "Grand Horn of Heaven",
+  "type": "Trap Card",
+  "description": "During your opponent's Main Phase, when they would Special Summon a monster(s): Negate the Summon, and if you do, destroy that monster, then your opponent draws 1 card, then end the Main Phase.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1637760.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1637760.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1637760.jpg"
+  }
+}

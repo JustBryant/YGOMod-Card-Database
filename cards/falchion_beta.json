@@ -1,0 +1,16 @@
+{
+  "id": 86170989,
+  "name": "Falchion Beta",
+  "type": "Effect Monster",
+  "description": "If this card destroys an opponent's monster by battle: Activate 1 of these effects.\n● Send 1 LIGHT Machine-Type monster with 1200 or less ATK from your Deck to your Graveyard.\n● Target 1 LIGHT Machine-Type monster with 1200 or less ATK in your Graveyard; Special Summon that target.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86170989.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86170989.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86170989.jpg"
+  }
+}

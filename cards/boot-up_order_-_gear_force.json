@@ -1,0 +1,12 @@
+{
+  "id": 9715126,
+  "name": "Boot-Up Order - Gear Force",
+  "type": "Trap Card",
+  "description": "When either player's monster declares an attack and all monsters you control are face-up Machine monsters (min. 1): Destroy Attack Position monsters your opponent controls, up to the number of Machine monsters you control.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9715126.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9715126.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9715126.jpg"
+  }
+}

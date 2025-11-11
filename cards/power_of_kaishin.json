@@ -3,10 +3,10 @@
   "name": "Power of Kaishin",
   "type": "Spell Card",
   "description": "Equip only to an Aqua monster. It gains 300 ATK/DEF.",
+  "race": "Equip",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/77027445.jpg",
     "small_url": "https://images.ygoprodeck.com/images/cards_small/77027445.jpg",
     "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77027445.jpg"
-  },
-  "race": "Equip"
+  }
 }

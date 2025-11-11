@@ -1,0 +1,16 @@
+{
+  "id": 65884091,
+  "name": "Evilswarm Thanatos",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 DARK monsters\r\nOnce per turn (Quick Effect): You can detach 1 material from this card; this face-up card is unaffected by other monster effects this turn.",
+  "attack": 2350,
+  "defense": 1350,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65884091.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65884091.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65884091.jpg"
+  }
+}

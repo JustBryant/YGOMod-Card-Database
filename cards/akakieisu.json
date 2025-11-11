@@ -1,0 +1,16 @@
+{
+  "id": 38035986,
+  "name": "Akakieisu",
+  "type": "Normal Monster",
+  "description": "''A sorcerer who utters spells that render monsters unconscious.''",
+  "attack": 1000,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38035986.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38035986.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38035986.jpg"
+  }
+}

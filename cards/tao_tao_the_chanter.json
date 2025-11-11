@@ -1,0 +1,16 @@
+{
+  "id": 45016904,
+  "name": "Tao Tao the Chanter",
+  "type": "Tuner Monster",
+  "description": "If this card battles a monster, neither can be destroyed by that battle. If you take battle or effect damage: You can Special Summon 1 Level 3 or higher Illusion monster from your hand or GY, or if you took 2000 or more damage, you can Special Summon from your Deck or Extra Deck instead. You can only use this effect of \"Tao Tao the Chanter\" once per turn.",
+  "attack": 900,
+  "defense": 600,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Illusion",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45016904.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45016904.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45016904.jpg"
+  }
+}

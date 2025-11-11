@@ -1,0 +1,16 @@
+{
+  "id": 98024118,
+  "name": "White Potan",
+  "type": "Effect Monster",
+  "description": "If you control a face-up Tuner monster, this card cannot be destroyed by battle. When a face-up Tuner monster you control is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent.",
+  "attack": 100,
+  "defense": 200,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98024118.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98024118.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98024118.jpg"
+  }
+}

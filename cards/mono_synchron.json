@@ -1,0 +1,16 @@
+{
+  "id": 56897896,
+  "name": "Mono Synchron",
+  "type": "Tuner Monster",
+  "description": "When using this card as Synchro Material, the other Synchro Material(s) must be Level 4 or lower Warrior or Machine-Type monsters, and they are treated as Level 1.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56897896.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56897896.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56897896.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 57549932,
+  "name": "Dawnbreak Gardna",
+  "type": "Gemini Monster",
+  "description": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● The original DEF of this card becomes 2300.",
+  "attack": 1500,
+  "defense": 500,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57549932.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57549932.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57549932.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 82199284,
+  "name": "Mist Valley Falcon",
+  "type": "Effect Monster",
+  "description": "This card cannot declare an attack unless you return 1 card you control to the hand.",
+  "attack": 2000,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82199284.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82199284.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82199284.jpg"
+  }
+}

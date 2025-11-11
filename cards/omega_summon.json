@@ -1,0 +1,12 @@
+{
+  "id": 47457347,
+  "name": "Omega Summon",
+  "type": "Trap Card",
+  "description": "Target any number of your banished \"Invoked\" monsters with different names; Special Summon them in Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47457347.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47457347.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47457347.jpg"
+  }
+}

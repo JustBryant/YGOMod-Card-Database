@@ -1,0 +1,16 @@
+{
+  "id": 58453942,
+  "name": "Psychic Snail",
+  "type": "Effect Monster",
+  "description": "You can pay 800 Life Points and select 1 other face-up Psychic-Type monster you control. That monster can attack twice during each Battle Phase. This card cannot attack the turn you activate this effect.",
+  "attack": 1900,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58453942.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58453942.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58453942.jpg"
+  }
+}

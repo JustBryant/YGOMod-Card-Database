@@ -1,0 +1,16 @@
+{
+  "id": 49218300,
+  "name": "Sorcerer of the Doomed",
+  "type": "Normal Monster",
+  "description": "A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.",
+  "attack": 1450,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49218300.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49218300.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49218300.jpg"
+  }
+}

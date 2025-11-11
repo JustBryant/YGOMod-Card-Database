@@ -1,0 +1,16 @@
+{
+  "id": 41422426,
+  "name": "Supporter in the Shadows",
+  "type": "Normal Monster",
+  "description": "''A cute little elf that hides in the shadows and provides spiritual support.''",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41422426.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41422426.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41422426.jpg"
+  }
+}

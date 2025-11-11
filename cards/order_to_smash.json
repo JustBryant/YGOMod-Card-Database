@@ -1,0 +1,12 @@
+{
+  "id": 39019325,
+  "name": "Order to Smash",
+  "type": "Trap Card",
+  "description": "Target 1 Level 2 or lower non-Token Normal Monster you control; Tribute that Normal Monster, and if you do, destroy up to 2 Spells/Traps your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39019325.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39019325.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39019325.jpg"
+  }
+}

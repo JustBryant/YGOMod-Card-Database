@@ -1,0 +1,16 @@
+{
+  "id": 90140980,
+  "name": "Ojama King",
+  "type": "Fusion Monster",
+  "description": "\"Ojama Green\" + \"Ojama Yellow\" + \"Ojama Black\"\nSelect up to 3 of your opponent's Monster Card Zones. The selected zones cannot be used.",
+  "attack": 0,
+  "defense": 3000,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90140980.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90140980.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90140980.jpg"
+  }
+}

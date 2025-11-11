@@ -3,14 +3,14 @@
   "name": "Celtic Guardian",
   "type": "Normal Monster",
   "description": "An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/91152256.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/91152256.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91152256.jpg"
-  },
   "attack": 1400,
   "defense": 1200,
   "level": 4,
   "attribute": "EARTH",
-  "race": "Warrior"
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91152256.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91152256.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91152256.jpg"
+  }
 }

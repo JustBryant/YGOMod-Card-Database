@@ -1,0 +1,16 @@
+{
+  "id": 49064413,
+  "name": "The Masked Beast",
+  "type": "Ritual Monster",
+  "description": "You can Ritual Summon this card with \"Curse of the Masked Beast\".",
+  "attack": 3200,
+  "defense": 1800,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49064413.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49064413.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49064413.jpg"
+  }
+}

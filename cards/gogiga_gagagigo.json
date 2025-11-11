@@ -1,0 +1,16 @@
+{
+  "id": 39674352,
+  "name": "Gogiga Gagagigo",
+  "type": "Normal Monster",
+  "description": "His soul long-since collapsed, his body recklessly continues onward, driven by a lust for more power. He no longer resembles his former self....",
+  "attack": 2950,
+  "defense": 2800,
+  "level": 8,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39674352.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39674352.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39674352.jpg"
+  }
+}

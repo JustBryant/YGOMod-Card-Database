@@ -1,0 +1,16 @@
+{
+  "id": 96930127,
+  "name": "Chain Dog",
+  "type": "Effect Monster",
+  "description": "Cannot be used as a Synchro Material, except for the Synchro Summon of a Beast-Type monster. If this card is in the Graveyard: You can Special Summon this card, and if you do, banish it when it leaves the field. You must control exactly 2 Beast-Type monsters to activate and to resolve this effect.",
+  "attack": 1600,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96930127.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96930127.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96930127.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 66399675,
+  "name": "Gishki Chain",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned: Look at the top 3 cards of your Deck, you can reveal 1 Ritual Monster or 1 Ritual Spell Card among them and add it to your hand, also after that, place any remaining cards on the top of your Deck in any order.",
+  "attack": 1800,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66399675.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66399675.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66399675.jpg"
+  }
+}

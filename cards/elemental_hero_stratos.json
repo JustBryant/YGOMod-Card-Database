@@ -1,0 +1,16 @@
+{
+  "id": 40044918,
+  "name": "Elemental HERO Stratos",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned: You can activate 1 of these effects.\r\n● Destroy Spells/Traps on the field, up to the number of \"HERO\" monsters you control, except this card.\r\n● Add 1 \"HERO\" monster from your Deck to your hand.",
+  "attack": 1800,
+  "defense": 300,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40044918.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40044918.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40044918.jpg"
+  }
+}

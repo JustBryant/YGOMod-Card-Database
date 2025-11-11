@@ -1,0 +1,16 @@
+{
+  "id": 8471389,
+  "name": "Giga-Tech Wolf",
+  "type": "Normal Monster",
+  "description": "An iron wolf with razor-sharp fangs that can penetrate any armor.",
+  "attack": 1200,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8471389.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8471389.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8471389.jpg"
+  }
+}

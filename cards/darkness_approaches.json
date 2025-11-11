@@ -1,0 +1,12 @@
+{
+  "id": 80168720,
+  "name": "Darkness Approaches",
+  "type": "Spell Card",
+  "description": "Discard 2 cards from your hand. Select 1 face-up monster and change it to face-down Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80168720.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80168720.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80168720.jpg"
+  }
+}

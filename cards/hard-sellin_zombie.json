@@ -1,0 +1,12 @@
+{
+  "id": 94374859,
+  "name": "Hard-sellin' Zombie",
+  "type": "Trap Card",
+  "description": "Each time a monster you control inflicts Battle Damage to your opponent, select 1 card from your opponent's Graveyard and return it to the bottom of their Deck.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94374859.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94374859.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94374859.jpg"
+  }
+}

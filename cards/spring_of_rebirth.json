@@ -1,0 +1,12 @@
+{
+  "id": 94425169,
+  "name": "Spring of Rebirth",
+  "type": "Spell Card",
+  "description": "Increase your Life Points by 500 points every time monsters return from the field to the owner's hand.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94425169.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94425169.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94425169.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 64550682,
+  "name": "Scrap Orthros",
+  "type": "Tuner Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control a \"Scrap\" monster. If Summoned this way: Target 1 \"Scrap\" monster you control; destroy that target. If this card is destroyed by the effect of a \"Scrap\" card and sent to the GY: You can target 1 \"Scrap\" monster in your GY, except \"Scrap Orthros\"; add that target to your hand.",
+  "attack": 1700,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64550682.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64550682.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64550682.jpg"
+  }
+}

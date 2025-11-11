@@ -1,0 +1,12 @@
+{
+  "id": 77515704,
+  "name": "Dragonmaid Downtime",
+  "type": "Trap Card",
+  "description": "You can target 1 \"Dragonmaid\" monster you control, then activate 1 of these effects;\r\n● Return it to the hand, and if you do, add 1 \"Dragonmaid\" card from your Deck to your hand, except \"Dragonmaid Downtime\".\r\n● Return it to the hand, and if you do, return 1 Spell/Trap your opponent controls to the hand.\r\nYou can only use this effect of \"Dragonmaid Downtime\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77515704.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77515704.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77515704.jpg"
+  }
+}

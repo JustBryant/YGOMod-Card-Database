@@ -1,0 +1,16 @@
+{
+  "id": 93220472,
+  "name": "Cave Dragon",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned while you control a monster. This card cannot declare an attack unless you control another Dragon-Type monster.",
+  "attack": 2000,
+  "defense": 100,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93220472.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93220472.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93220472.jpg"
+  }
+}

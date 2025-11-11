@@ -1,0 +1,16 @@
+{
+  "id": 27408609,
+  "name": "Golden Homunculus",
+  "type": "Effect Monster",
+  "description": "This card gains 300 ATK and DEF for each of your banished cards.",
+  "attack": 1500,
+  "defense": 1500,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27408609.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27408609.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27408609.jpg"
+  }
+}

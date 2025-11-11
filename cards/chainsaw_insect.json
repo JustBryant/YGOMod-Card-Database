@@ -1,0 +1,16 @@
+{
+  "id": 77252217,
+  "name": "Chainsaw Insect",
+  "type": "Effect Monster",
+  "description": "At the end of the Damage Step, if this card attacked or was attacked: Your opponent draws 1 card.",
+  "attack": 2400,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77252217.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77252217.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77252217.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 67300516,
+  "name": "Red-Eyes Wyvern",
+  "type": "Effect Monster",
+  "description": "During your End Phase, if you did not Normal Summon/Set a monster this turn: You can banish this card from your Graveyard; Special Summon 1 \"Red-Eyes\" monster from your Graveyard, except \"Red-Eyes B. Chick\".",
+  "attack": 1800,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67300516.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67300516.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67300516.jpg"
+  }
+}

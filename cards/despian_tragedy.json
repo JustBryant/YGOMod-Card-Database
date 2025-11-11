@@ -1,0 +1,16 @@
+{
+  "id": 36577931,
+  "name": "Despian Tragedy",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the GY, or banished, by a card effect: You can add 1 \"Despia\" monster from your Deck to your hand, except \"Despian Tragedy\". You can banish this card from your GY, then target 1 \"Branded\" Spell/Trap in your GY; Set it to your field. You can only use 1 \"Despian Tragedy\" effect per turn, and only once that turn.",
+  "attack": 400,
+  "defense": 400,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36577931.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36577931.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36577931.jpg"
+  }
+}

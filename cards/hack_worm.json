@@ -1,0 +1,16 @@
+{
+  "id": 97466712,
+  "name": "Hack Worm",
+  "type": "Effect Monster",
+  "description": "If your opponent controls no monsters, you can Special Summon this card (from your hand).",
+  "attack": 400,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97466712.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97466712.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97466712.jpg"
+  }
+}

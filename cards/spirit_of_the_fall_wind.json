@@ -1,0 +1,16 @@
+{
+  "id": 26517393,
+  "name": "Spirit of the Fall Wind",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned: You can add 1 Flip monster from your Deck to your hand.",
+  "attack": 1800,
+  "defense": 900,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26517393.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26517393.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26517393.jpg"
+  }
+}

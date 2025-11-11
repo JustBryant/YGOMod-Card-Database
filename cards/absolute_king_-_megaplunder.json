@@ -1,0 +1,16 @@
+{
+  "id": 27553701,
+  "name": "Absolute King - Megaplunder",
+  "type": "Normal Monster",
+  "description": "''The king of dinosaurs that rules over the Earth. Its mighty roar makes its foes tremble in fear!''",
+  "attack": 2000,
+  "defense": 1500,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27553701.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27553701.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27553701.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 218704,
+  "name": "Fenrir",
+  "type": "Effect Monster",
+  "description": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 WATER monsters in your Graveyard. When this card destroys an opponent's monster as a result of battle, your opponent skips their next Draw Phase.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/218704.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/218704.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/218704.jpg"
+  }
+}

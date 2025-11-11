@@ -1,0 +1,16 @@
+{
+  "id": 89189982,
+  "name": "Metaphys Armed Dragon",
+  "type": "Normal Monster",
+  "description": "Usually visible despite its phantom existence.",
+  "attack": 2800,
+  "defense": 1000,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89189982.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89189982.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89189982.jpg"
+  }
+}

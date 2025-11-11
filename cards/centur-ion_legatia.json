@@ -1,0 +1,16 @@
+{
+  "id": 15982593,
+  "name": "Centur-Ion Legatia",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nYour monsters with 2000 or less ATK cannot be destroyed by battle. You can only use each of the following effects of \"Centur-Ion Legatia\" once per turn. If this card is Special Summoned: You can draw 1 card, then you can destroy the monster your opponent controls with the highest ATK (your choice, if tied). During the End Phase: You can place 1 non-Synchro \"Centur-Ion\" monster from your hand or GY in your Spell & Trap Zone as a face-up Continuous Trap.",
+  "attack": 3500,
+  "defense": 2000,
+  "level": 12,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15982593.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15982593.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15982593.jpg"
+  }
+}

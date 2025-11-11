@@ -1,0 +1,12 @@
+{
+  "id": 12503902,
+  "name": "Rare Metalmorph",
+  "type": "Trap Card",
+  "description": "Activate this card by targeting 1 Machine-Type monster on the field; it gains 500 ATK. Once, negate a Spell effect that targets that monster. When that monster leaves the field, destroy this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12503902.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12503902.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12503902.jpg"
+  }
+}

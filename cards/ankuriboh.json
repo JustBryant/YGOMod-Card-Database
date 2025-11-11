@@ -1,0 +1,16 @@
+{
+  "id": 595626,
+  "name": "Ankuriboh",
+  "type": "Effect Monster",
+  "description": "When an opponent's monster declares an attack: You can discard this card, then target 1 monster in either GY, except this card; Special Summon it to your field, but send it to the GY during the End Phase. If this card is destroyed by battle or card effect and sent to the GY: You can add 1 \"Monster Reborn\" from your Deck or GY to your hand during the End Phase of this turn. You can only use each effect of \"Ankuriboh\" once per turn.",
+  "attack": 300,
+  "defense": 200,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/595626.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/595626.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/595626.jpg"
+  }
+}

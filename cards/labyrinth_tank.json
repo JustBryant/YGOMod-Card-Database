@@ -1,0 +1,16 @@
+{
+  "id": 99551425,
+  "name": "Labyrinth Tank",
+  "type": "Fusion Monster",
+  "description": "\"Giga-Tech Wolf\" + \"Cannon Soldier\"",
+  "attack": 2400,
+  "defense": 2400,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99551425.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99551425.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99551425.jpg"
+  }
+}

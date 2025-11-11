@@ -1,0 +1,12 @@
+{
+  "id": 78910579,
+  "name": "Aquamirror Cycle",
+  "type": "Trap Card",
+  "description": "Target 1 WATER monster you control and 2 WATER monsters in your Graveyard; shuffle the first target into the Deck, and if you do, add the second targets to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78910579.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78910579.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78910579.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 85771020,
+  "name": "Asmo Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Darklord Asmodeus\". This Token cannot be destroyed by a card effect.",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85771020.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85771020.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85771020.jpg"
+  }
+}

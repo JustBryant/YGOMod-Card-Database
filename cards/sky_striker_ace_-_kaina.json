@@ -1,0 +1,16 @@
+{
+  "id": 12421694,
+  "name": "Sky Striker Ace - Kaina",
+  "type": "Link Monster",
+  "description": "1 non-EARTH \"Sky Striker Ace\" monster\r\nIf this card is Special Summoned: You can target 1 face-up monster your opponent controls; it cannot attack until the end of your opponent's turn. Each time you activate a \"Sky Striker\" Spell Card, or its effect, gain 100 LP immediately after the card or effect resolves. You can only Special Summon \"Sky Striker Ace - Kaina(s)\" once per turn.",
+  "attack": 1500,
+  "defense": null,
+  "level": null,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12421694.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12421694.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12421694.jpg"
+  }
+}

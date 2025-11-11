@@ -1,0 +1,16 @@
+{
+  "id": 27054370,
+  "name": "Firewing Pegasus",
+  "type": "Normal Monster",
+  "description": "A heavenly stallion soaring through the skies on crimson wings.",
+  "attack": 2250,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27054370.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27054370.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27054370.jpg"
+  }
+}

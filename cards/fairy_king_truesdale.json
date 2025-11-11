@@ -1,0 +1,16 @@
+{
+  "id": 45425051,
+  "name": "Fairy King Truesdale",
+  "type": "Effect Monster",
+  "description": "While this card is in Defense Position, all Plant-Type monsters you control gain 500 ATK and DEF.",
+  "attack": 2200,
+  "defense": 1500,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45425051.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45425051.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45425051.jpg"
+  }
+}

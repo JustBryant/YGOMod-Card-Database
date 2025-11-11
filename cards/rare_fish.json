@@ -1,0 +1,16 @@
+{
+  "id": 80516007,
+  "name": "Rare Fish",
+  "type": "Fusion Monster",
+  "description": "\"Fusionist\" + \"Enchanting Mermaid\"",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80516007.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80516007.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80516007.jpg"
+  }
+}

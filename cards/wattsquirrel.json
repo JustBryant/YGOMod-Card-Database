@@ -1,0 +1,16 @@
+{
+  "id": 23274061,
+  "name": "Wattsquirrel",
+  "type": "Effect Monster",
+  "description": "This card can attack twice during each Battle Phase. If this card battles, negate the effects of the monster it battled, after damage calculation (including in the Graveyard).",
+  "attack": 700,
+  "defense": 100,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23274061.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23274061.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23274061.jpg"
+  }
+}

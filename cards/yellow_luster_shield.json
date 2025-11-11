@@ -1,0 +1,12 @@
+{
+  "id": 4542651,
+  "name": "Yellow Luster Shield",
+  "type": "Spell Card",
+  "description": "Increase the DEF of all monsters on your side of the field by 300 points.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4542651.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4542651.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4542651.jpg"
+  }
+}

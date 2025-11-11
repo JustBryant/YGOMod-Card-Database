@@ -1,0 +1,12 @@
+{
+  "id": 66194206,
+  "name": "Lightsworn Judgment",
+  "type": "Trap Card",
+  "description": "Place this card on top of the Deck. If this card is sent from the Deck to the Graveyard by a \"Lightsworn\" monster's effect: You can add 1 \"Judgment Dragon\" from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66194206.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66194206.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66194206.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 56840658,
+  "name": "Poison Draw Frog",
+  "type": "Effect Monster",
+  "description": "When this face-up card on the field is sent to the Graveyard (unless it was attacked while face-down and destroyed by battle), you can draw 1 card.",
+  "attack": 100,
+  "defense": 100,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56840658.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56840658.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56840658.jpg"
+  }
+}

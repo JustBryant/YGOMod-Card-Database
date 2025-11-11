@@ -1,0 +1,16 @@
+{
+  "id": 52768103,
+  "name": "KA-2 Des Scissors",
+  "type": "Effect Monster",
+  "description": "When this card destroys a monster and sends it to the Graveyard as a result of battle, inflict damage to your opponent's Life Points equal to the Level of the destroyed monster x 500 points.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52768103.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52768103.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52768103.jpg"
+  }
+}

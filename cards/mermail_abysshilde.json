@@ -1,0 +1,16 @@
+{
+  "id": 96682430,
+  "name": "Mermail Abysshilde",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the Graveyard: You can Special Summon 1 \"Mermail\" monster from your hand, except \"Mermail Abysshilde\". You can only use the effect of \"Mermail Abysshilde\" once per turn.",
+  "attack": 1300,
+  "defense": 400,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96682430.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96682430.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96682430.jpg"
+  }
+}

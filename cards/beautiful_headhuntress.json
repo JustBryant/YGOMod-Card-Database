@@ -1,0 +1,16 @@
+{
+  "id": 16899564,
+  "name": "Beautiful Headhuntress",
+  "type": "Normal Monster",
+  "description": "A vicious creature that has decapitated numerous enemy monsters.",
+  "attack": 1600,
+  "defense": 800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16899564.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16899564.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16899564.jpg"
+  }
+}

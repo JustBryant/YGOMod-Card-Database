@@ -1,0 +1,16 @@
+{
+  "id": 87170768,
+  "name": "Contact \"C\"",
+  "type": "Effect Monster",
+  "description": "When your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can Special Summon this card from your hand to the opponent's field in Defense Position. This card's controller cannot Fusion, Synchro, Xyz, or Link Summon unless they use this card as material.",
+  "attack": 1500,
+  "defense": 2200,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87170768.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87170768.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87170768.jpg"
+  }
+}

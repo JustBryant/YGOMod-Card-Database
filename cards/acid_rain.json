@@ -1,0 +1,12 @@
+{
+  "id": 21323861,
+  "name": "Acid Rain",
+  "type": "Spell Card",
+  "description": "Destroy all face-up Machine-Type monsters on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21323861.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21323861.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21323861.jpg"
+  }
+}

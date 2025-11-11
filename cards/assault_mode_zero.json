@@ -1,0 +1,12 @@
+{
+  "id": 88332693,
+  "name": "Assault Mode Zero",
+  "type": "Spell Card",
+  "description": "Tribute 1 Synchro Monster; Special Summon 1 \"/Assault Mode\" monster from your hand whose name includes the Tributed monster's name. (This is treated as a Special Summon with \"Assault Mode Activate\".) During your Main Phase: You can banish this card from your GY; Set 1 \"Assault Mode Activate\" directly from your hand or Deck. It can be activated this turn. You can only use each effect of \"Assault Mode Zero\" once per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88332693.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88332693.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88332693.jpg"
+  }
+}

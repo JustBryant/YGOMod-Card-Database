@@ -1,0 +1,16 @@
+{
+  "id": 50823978,
+  "name": "Piranha Army",
+  "type": "Effect Monster",
+  "description": "The Battle Damage this card inflicts by attacking your opponent's Life Points directly is doubled.",
+  "attack": 800,
+  "defense": 200,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50823978.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50823978.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50823978.jpg"
+  }
+}

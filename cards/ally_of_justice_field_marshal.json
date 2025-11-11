@@ -1,0 +1,16 @@
+{
+  "id": 69461394,
+  "name": "Ally of Justice Field Marshal",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 2 or more non-Tuner monsters\nThis card cannot be Special Summoned except by Synchro Summon. When this card attacks a face-down Defense Position monster, destroys it by battle, and sends it to the Graveyard, draw 1 card.",
+  "attack": 2900,
+  "defense": 2600,
+  "level": 9,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69461394.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69461394.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69461394.jpg"
+  }
+}

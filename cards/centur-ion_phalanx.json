@@ -1,0 +1,12 @@
+{
+  "id": 40155014,
+  "name": "Centur-Ion Phalanx",
+  "type": "Trap Card",
+  "description": "Target 1 face-up Monster Card on the field; banish it, and if you do, during the Standby Phase of the next turn, Special Summon that banished monster to its owner's field. You can banish this card from your GY, then target 1 \"Centur-Ion\" Synchro Monster in your GY; Special Summon it, but it loses 1500 ATK. You can only use 1 \"Centur-Ion Phalanx\" effect per turn, and only once that turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40155014.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40155014.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40155014.jpg"
+  }
+}

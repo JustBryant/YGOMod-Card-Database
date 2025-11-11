@@ -1,0 +1,12 @@
+{
+  "id": 22537443,
+  "name": "Sebek's Blessing",
+  "type": "Spell Card",
+  "description": "If your monster inflicts battle damage to your opponent by a direct attack: Gain the same amount of LP.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22537443.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22537443.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22537443.jpg"
+  }
+}

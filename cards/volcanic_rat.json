@@ -1,0 +1,16 @@
+{
+  "id": 33112041,
+  "name": "Volcanic Rat",
+  "type": "Normal Monster",
+  "description": "This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.",
+  "attack": 500,
+  "defense": 500,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33112041.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33112041.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33112041.jpg"
+  }
+}

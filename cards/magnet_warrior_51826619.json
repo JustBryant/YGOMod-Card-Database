@@ -1,0 +1,16 @@
+{
+  "id": 51826619,
+  "name": "Magnet Warrior Σ＋",
+  "type": "Effect Monster",
+  "description": "While you control an EARTH monster, your opponent's monsters that can attack must attack EARTH monsters. While your opponent controls an EARTH monster, you choose the attack targets for your opponent's attacks. If this card is sent to the GY: You can target 1 Level 4 or lower \"Magnet Warrior\" monster in your GY, except \"Magnet Warrior Σ＋\"; add it to your hand or Special Summon it. You can only use this effect of \"Magnet Warrior Σ＋\" once per turn.",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51826619.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51826619.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51826619.jpg"
+  }
+}

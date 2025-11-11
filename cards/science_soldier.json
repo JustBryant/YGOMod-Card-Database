@@ -1,0 +1,16 @@
+{
+  "id": 67532912,
+  "name": "Science Soldier",
+  "type": "Normal Monster",
+  "description": "Soldiers equipped with state-of-the-art weaponry to face unknown creatures.",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67532912.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67532912.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67532912.jpg"
+  }
+}

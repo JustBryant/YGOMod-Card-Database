@@ -1,0 +1,12 @@
+{
+  "id": 77229910,
+  "name": "Morphtronic Forcefield",
+  "type": "Trap Card",
+  "description": "Negate the activation of a Spell or Trap Card that would destroy a face-up \"Morphtronic\" monster you control and destroy it. Add 1 \"Morphtronic\" card from your Deck to your hand.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77229910.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77229910.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77229910.jpg"
+  }
+}

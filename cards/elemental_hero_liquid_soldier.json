@@ -1,0 +1,16 @@
+{
+  "id": 59392529,
+  "name": "Elemental HERO Liquid Soldier",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can target 1 Level 4 or lower \"HERO\" monster in your GY, except \"Elemental HERO Liquid Soldier\"; Special Summon it. If this card is used as Fusion Material for a \"HERO\" monster, and sent to the GY or banished: You can draw 2 cards, then discard 1 card. You can only use 1 \"Elemental HERO Liquid Soldier\" effect per turn, and only once that turn.",
+  "attack": 1400,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59392529.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59392529.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59392529.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 46145256,
+  "name": "Barrier Statue of the Heavens",
+  "type": "Effect Monster",
+  "description": "No monsters can be Special Summoned, except for LIGHT monsters.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46145256.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46145256.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46145256.jpg"
+  }
+}

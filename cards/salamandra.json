@@ -1,0 +1,12 @@
+{
+  "id": 32268901,
+  "name": "Salamandra",
+  "type": "Spell Card",
+  "description": "Equip only to a FIRE monster. It gains 700 ATK.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32268901.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32268901.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32268901.jpg"
+  }
+}

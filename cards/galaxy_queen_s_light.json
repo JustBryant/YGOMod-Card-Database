@@ -1,0 +1,12 @@
+{
+  "id": 52340274,
+  "name": "Galaxy Queen's Light",
+  "type": "Spell Card",
+  "description": "Target 1 face-up Level 7 or higher monster you control; the Levels of all other face-up monsters you currently control become the current Level of that monster, until the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52340274.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52340274.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52340274.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 95403418,
+  "name": "Starduston",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending any number of \"Duston\" monsters you control to the Graveyard, and cannot be Special Summoned by other ways. This card's ATK and DEF each become equal to the number of monsters sent to the Graveyard for its Summon x 1000. Your opponent cannot Flip or Special Summon any monsters, or activate any Set Spell/Trap Cards on the field. If you control more monsters than your opponent does, destroy this card.",
+  "attack": -1,
+  "defense": -1,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95403418.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95403418.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95403418.jpg"
+  }
+}

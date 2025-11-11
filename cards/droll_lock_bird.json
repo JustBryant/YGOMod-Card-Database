@@ -1,0 +1,16 @@
+{
+  "id": 94145021,
+  "name": "Droll & Lock Bird",
+  "type": "Effect Monster",
+  "description": "If a card(s) is added from the Main Deck to your opponent's hand, except during the Draw Phase (Quick Effect): You can send this card from your hand to the GY; for the rest of this turn, cards cannot be added from either player's Main Deck to the hand.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94145021.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94145021.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94145021.jpg"
+  }
+}

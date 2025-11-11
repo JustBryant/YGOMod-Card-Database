@@ -1,0 +1,16 @@
+{
+  "id": 80600490,
+  "name": "Kageningen",
+  "type": "Normal Monster",
+  "description": "He yoozes both a physical and a shadow form ta attack. So he's a tough monstah ta beat!",
+  "attack": 800,
+  "defense": 600,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80600490.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80600490.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80600490.jpg"
+  }
+}

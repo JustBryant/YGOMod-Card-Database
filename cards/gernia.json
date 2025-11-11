@@ -1,0 +1,16 @@
+{
+  "id": 77936940,
+  "name": "Gernia",
+  "type": "Effect Monster",
+  "description": "During your next Standby Phase, after this face-up card you control was destroyed and sent to your Graveyard by an opponent's card effect: Special Summon it.",
+  "attack": 1300,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77936940.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77936940.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77936940.jpg"
+  }
+}

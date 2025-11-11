@@ -1,0 +1,16 @@
+{
+  "id": 82050203,
+  "name": "Dotedotengu",
+  "type": "Effect Monster",
+  "description": "If this card in your possession is sent to your Graveyard by an opponent's card effect: You can target 1 card your opponent controls; return it to the hand.",
+  "attack": 0,
+  "defense": 800,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82050203.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82050203.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82050203.jpg"
+  }
+}

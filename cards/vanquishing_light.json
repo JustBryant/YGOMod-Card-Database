@@ -1,0 +1,12 @@
+{
+  "id": 32233746,
+  "name": "Vanquishing Light",
+  "type": "Trap Card",
+  "description": "When a monster(s) would be Summoned: Tribute 1 \"Lightsworn\" monster; negate the Summon, and if you do, destroy that monster(s).",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32233746.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32233746.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32233746.jpg"
+  }
+}

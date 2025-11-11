@@ -1,0 +1,12 @@
+{
+  "id": 21488686,
+  "name": "Psychic Rejuvenation",
+  "type": "Trap Card",
+  "description": "Gain 1000 Life Points for each face-up Psychic-Type monster you control.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21488686.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21488686.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21488686.jpg"
+  }
+}

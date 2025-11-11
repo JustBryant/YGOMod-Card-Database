@@ -1,0 +1,16 @@
+{
+  "id": 66378485,
+  "name": "Neo Flamvell Origin",
+  "type": "Tuner Monster",
+  "description": "If you control a face-up \"Flamvell\" monster, except \"Neo Flamvell Origin\", and your opponent has 3 or less cards in their Graveyard, you can Special Summon this card from your hand.",
+  "attack": 500,
+  "defense": 200,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66378485.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66378485.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66378485.jpg"
+  }
+}

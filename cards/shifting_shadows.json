@@ -1,0 +1,12 @@
+{
+  "id": 59237154,
+  "name": "Shifting Shadows",
+  "type": "Spell Card",
+  "description": "Once per turn, by paying 300 Life Points, rearrange the face-down Defense Position monsters in your Main Monster Zones, then return them in face-down Defense Position.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59237154.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59237154.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59237154.jpg"
+  }
+}

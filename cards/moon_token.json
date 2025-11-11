@@ -1,0 +1,12 @@
+{
+  "id": 97452818,
+  "name": "Moon Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Arcana Force XVIII - The Moon\".",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97452818.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97452818.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97452818.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 61538782,
+  "name": "Truckroid",
+  "type": "Effect Monster",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: Equip the destroyed monster to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect.",
+  "attack": 1000,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61538782.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61538782.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61538782.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 50930991,
+  "name": "Neo the Magic Swordsman",
+  "type": "Normal Monster",
+  "description": "A dimensional drifter who not only practices sorcery, but is also a sword and martial arts master.",
+  "attack": 1700,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50930991.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50930991.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50930991.jpg"
+  }
+}

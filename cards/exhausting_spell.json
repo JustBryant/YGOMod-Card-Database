@@ -1,0 +1,12 @@
+{
+  "id": 95451366,
+  "name": "Exhausting Spell",
+  "type": "Trap Card",
+  "description": "Remove all Spell Counters on both sides of the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95451366.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95451366.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95451366.jpg"
+  }
+}

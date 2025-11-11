@@ -1,0 +1,12 @@
+{
+  "id": 82705573,
+  "name": "Backfire",
+  "type": "Trap Card",
+  "description": "If a face-up FIRE monster(s) you control is destroyed and sent to the GY: Inflict 500 damage to your opponent.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82705573.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82705573.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82705573.jpg"
+  }
+}

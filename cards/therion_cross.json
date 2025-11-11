@@ -1,0 +1,12 @@
+{
+  "id": 43270827,
+  "name": "Therion Cross",
+  "type": "Trap Card",
+  "description": "When your opponent activates a monster effect, while you control a \"Therion\" monster: You can activate 1 of these effects;\r\n● Negate that effect.\r\n● Banish that monster.\r\nIf you have \"Endless Engine Argyro System\" in your GY at activation, you can activate both effects (at resolution, negate, then banish). You can only activate 1 \"Therion Cross\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43270827.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43270827.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43270827.jpg"
+  }
+}

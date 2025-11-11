@@ -1,0 +1,12 @@
+{
+  "id": 47596607,
+  "name": "Skyscraper 2 - Hero City",
+  "type": "Spell Card",
+  "description": "Once per turn, during your Main Phase, if you control this card: You can target 1 \"Elemental HERO\" monster in your Graveyard that was destroyed by battle; Special Summon that target.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47596607.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47596607.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47596607.jpg"
+  }
+}

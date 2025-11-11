@@ -1,0 +1,12 @@
+{
+  "id": 56597273,
+  "name": "Cloudian Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Cloudian - Sheep Cloud\". This Token cannot be Tributed for a Tribute Summon, unless it is for a \"Cloudian\" monster.",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56597273.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56597273.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56597273.jpg"
+  }
+}

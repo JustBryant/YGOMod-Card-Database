@@ -1,0 +1,12 @@
+{
+  "id": 72885174,
+  "name": "Slip of Fortune",
+  "type": "Trap Card",
+  "description": "Activate only when your opponent's monster declares an attack targeting a monster. Negate the attack and remove from play the attack target monster until the next Standby Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72885174.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72885174.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72885174.jpg"
+  }
+}

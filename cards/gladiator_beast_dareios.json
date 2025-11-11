@@ -1,0 +1,16 @@
+{
+  "id": 72246674,
+  "name": "Gladiator Beast Dareios",
+  "type": "Link Monster",
+  "description": "2 monsters, including a \"Gladiator Beast\" monster\r\nDuring your opponent's Battle Phase, \"Gladiator Beast\" monsters you control cannot be destroyed by battle or card effects. If this card is Link Summoned: You can Special Summon 1 Level 4 or lower \"Gladiator Beast\" monster from your hand or GY, or if your opponent controls a monster, you can Special Summon 1 \"Gladiator Beast\" monster from your Deck instead, also for the rest of this turn, you can only use \"Gladiator Beast\" monsters as Link Material. You can only use this effect of \"Gladiator Beast Dareios\" once per turn.",
+  "attack": 1700,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72246674.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72246674.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72246674.jpg"
+  }
+}

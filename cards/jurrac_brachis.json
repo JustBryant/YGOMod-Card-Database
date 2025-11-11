@@ -1,0 +1,16 @@
+{
+  "id": 8594079,
+  "name": "Jurrac Brachis",
+  "type": "Tuner Monster",
+  "description": "While another face-up \"Jurrac\" monster is on the field, this card cannot be destroyed by battle.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8594079.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8594079.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8594079.jpg"
+  }
+}

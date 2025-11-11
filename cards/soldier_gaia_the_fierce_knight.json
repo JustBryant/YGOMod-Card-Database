@@ -1,0 +1,16 @@
+{
+  "id": 33318980,
+  "name": "Soldier Gaia the Fierce Knight",
+  "type": "Effect Monster",
+  "description": "(Quick Effect): You can Tribute 1 Dragon Fusion Monster; Special Summon this card from your hand. If this card is Special Summoned: You can target 1 Attack Position monster on the field; change it to Defense Position. You can Tribute this card; add 1 Level 7 or higher Warrior monster from your Deck to your hand, except \"Soldier Gaia the Fierce Knight\". You can only use each effect of \"Soldier Gaia the Fierce Knight\" once per turn.",
+  "attack": 2600,
+  "defense": 2100,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33318980.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33318980.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33318980.jpg"
+  }
+}

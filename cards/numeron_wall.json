@@ -1,0 +1,16 @@
+{
+  "id": 42352091,
+  "name": "Numeron Wall",
+  "type": "Effect Monster",
+  "description": "If you control no cards, except \"Numeron Wall(s)\" (Quick Effect): You can send this card from your hand or field to the GY; activate 1 \"Numeron Network\" directly from your hand or Deck. You can only use this effect of \"Numeron Wall\" once per turn. When you take battle damage: You can Special Summon this card from your hand, and if you do, end the Battle Phase after the Damage Step.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42352091.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42352091.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42352091.jpg"
+  }
+}

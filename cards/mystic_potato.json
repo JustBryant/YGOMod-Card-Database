@@ -1,0 +1,16 @@
+{
+  "id": 97534104,
+  "name": "Mystic Potato",
+  "type": "Effect Monster",
+  "description": "If this card on the field is destroyed by card effect and sent to the GY: You can Special Summon 1 DARK monster with 1500 or less ATK from your Deck in Attack Position, except \"Mystic Potato\".",
+  "attack": 1400,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97534104.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97534104.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97534104.jpg"
+  }
+}

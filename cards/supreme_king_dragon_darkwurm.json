@@ -1,0 +1,16 @@
+{
+  "id": 69610326,
+  "name": "Supreme King Dragon Darkwurm",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn, if you control no monsters: You can place 1 \"Supreme King Gate\" Pendulum Monster from your Deck in your Pendulum Zone, also you cannot Pendulum Summon monsters for the rest of this turn, except DARK monsters.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can add 1 \"Supreme King Gate\" Pendulum Monster from your Deck to your hand. If this card is in your GY and you control no monsters: You can Special Summon this card. You can only use each monster effect of \"Supreme King Dragon Darkwurm\" once per turn.",
+  "attack": 1800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69610326.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69610326.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69610326.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8233522,
+  "name": "Ally of Justice Cycle Reader",
+  "type": "Tuner Monster",
+  "description": "During either player's turn: You can discard this card to the Graveyard, then target up to 2 LIGHT monsters in your opponent's Graveyard; banish those targets.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8233522.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8233522.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8233522.jpg"
+  }
+}

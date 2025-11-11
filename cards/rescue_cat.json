@@ -1,0 +1,16 @@
+{
+  "id": 14878871,
+  "name": "Rescue Cat",
+  "type": "Effect Monster",
+  "description": "You can send this card to the GY; Special Summon 2 Level 3 or lower Beast monsters from your Deck, but their effects are negated, also they are destroyed during the End Phase. You can only use this effect of \"Rescue Cat\" once per turn.",
+  "attack": 300,
+  "defense": 100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14878871.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14878871.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14878871.jpg"
+  }
+}

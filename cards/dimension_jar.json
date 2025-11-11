@@ -1,0 +1,16 @@
+{
+  "id": 73414375,
+  "name": "Dimension Jar",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Both players can remove from play up to 3 monsters from their opponent's Graveyard.",
+  "attack": 200,
+  "defense": 200,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73414375.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73414375.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73414375.jpg"
+  }
+}

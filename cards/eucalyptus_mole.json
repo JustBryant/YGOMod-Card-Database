@@ -1,0 +1,16 @@
+{
+  "id": 71228611,
+  "name": "Eucalyptus Mole",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can Special Summon 1 Level 4 or lower Beast monster from your Deck in face-down Defense Position, then if this card is in Attack Position, change it to Defense Position. If this card is destroyed: You can Special Summon 1 \"Koala\" monster or 1 \"Tree Otter\" from your Deck, and if you do, apply this effect until the end of the next turn.\r\n● Non-Effect Beast monsters you control gain ATK equal to their own original DEF.\r\nYou can only use each effect of \"Eucalyptus Mole\" once per turn.",
+  "attack": 300,
+  "defense": 1300,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71228611.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71228611.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71228611.jpg"
+  }
+}

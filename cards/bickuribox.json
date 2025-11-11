@@ -1,0 +1,16 @@
+{
+  "id": 25655502,
+  "name": "Bickuribox",
+  "type": "Fusion Monster",
+  "description": "\"Crass Clown\" + \"Dream Clown\"",
+  "attack": 2300,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25655502.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25655502.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25655502.jpg"
+  }
+}

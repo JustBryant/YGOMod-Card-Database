@@ -1,0 +1,16 @@
+{
+  "id": 94183877,
+  "name": "Loptr, Shadow of the Generaider Bosses",
+  "type": "Effect Monster",
+  "description": "You can only control 1 \"Loptr, Shadow of the Generaider Bosses\". All \"Generaider\" monsters you control gain 1000 ATK/DEF during your opponent's turn only. During the Main Phase (Quick Effect): You can Tribute 1 \"Generaider\" monster; Special Summon 1 Level 9 \"Generaider\" monster with a different name from your Deck. You can only use this effect of \"Loptr, Shadow of the Generaider Bosses\" once per turn.",
+  "attack": 1500,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94183877.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94183877.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94183877.jpg"
+  }
+}

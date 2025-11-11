@@ -1,0 +1,12 @@
+{
+  "id": 96631852,
+  "name": "Impenetrable Formation",
+  "type": "Spell Card",
+  "description": "Select 1 monster on your side of the field to activate this card. While you have 2 or more monsters on your side of the field, and all monsters on your side of the field are in Defense Position, the selected monster gains 700 DEF. When the selected monster is removed from the field, destroy this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96631852.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96631852.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96631852.jpg"
+  }
+}

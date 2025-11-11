@@ -1,0 +1,12 @@
+{
+  "id": 30341772,
+  "name": "Utopia Buster",
+  "type": "Spell Card",
+  "description": "If you control a \"Utopia\" monster: Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied), and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30341772.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30341772.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30341772.jpg"
+  }
+}

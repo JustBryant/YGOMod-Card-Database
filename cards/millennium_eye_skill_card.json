@@ -1,0 +1,12 @@
+{
+  "id": 300201009,
+  "name": "Millennium Eye (Skill Card)",
+  "type": "Skill Card",
+  "description": "[Flip this card over when you activate this Skill.]\r\n\r\nAt the start of the Duel, look at your opponent’s opening hand. You may choose to have that player shuffle their hand into their Deck and draw a new hand. (If both players use a Skill at the same time, the Turn player resolves their Skill first.)",
+  "race": "Pegasus",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300201009.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300201009.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300201009.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 92784374,
+  "name": "Gishki Ariel",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can add 1 \"Gishki\" monster from your Deck to your hand.",
+  "attack": 1000,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92784374.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92784374.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92784374.jpg"
+  }
+}

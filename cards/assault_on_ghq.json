@@ -1,0 +1,12 @@
+{
+  "id": 62633180,
+  "name": "Assault on GHQ",
+  "type": "Trap Card",
+  "description": "Target 1 monster you control; destroy it, then send 2 cards from the top of your opponent's Deck to the GY.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62633180.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62633180.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62633180.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 90669991,
+  "name": "Pineapple Blast",
+  "type": "Trap Card",
+  "description": "When you Normal Summon a monster, if your opponent controls more monsters than you do: Destroy your opponent's monsters so that your opponent controls the same number of monsters as you (your opponent chooses which of their monsters are destroyed).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90669991.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90669991.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90669991.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 27288416,
+  "name": "Mokey Mokey",
+  "type": "Normal Monster",
+  "description": "An outcast angel. Nobody knows what he is thinking at all. Sometimes he gets mad and that is dreadful.",
+  "attack": 300,
+  "defense": 100,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27288416.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27288416.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27288416.jpg"
+  }
+}

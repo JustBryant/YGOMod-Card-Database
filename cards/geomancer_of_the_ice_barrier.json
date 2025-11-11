@@ -1,0 +1,16 @@
+{
+  "id": 56704140,
+  "name": "Geomancer of the Ice Barrier",
+  "type": "Tuner Monster",
+  "description": "Discard 1 card and declare 1 Attribute. This card cannot be selected as an attack target by monsters with that Attribute. This effect can only be used once while this card is face-up on the field.",
+  "attack": 800,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56704140.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56704140.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56704140.jpg"
+  }
+}

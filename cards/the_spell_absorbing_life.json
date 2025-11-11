@@ -1,0 +1,12 @@
+{
+  "id": 99517131,
+  "name": "The Spell Absorbing Life",
+  "type": "Trap Card",
+  "description": "Flip all face-down Defense Position Monster Cards on the field face-up. Flip Effects are not activated at this time. Increase your Life Points by 400 points for each Effect Monster Card on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99517131.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99517131.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99517131.jpg"
+  }
+}

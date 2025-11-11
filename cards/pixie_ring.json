@@ -1,0 +1,12 @@
+{
+  "id": 46502013,
+  "name": "Pixie Ring",
+  "type": "Trap Card",
+  "description": "While you control 2 or more face-up Attack Position monsters, your opponent cannot target your monster(s) with the lowest ATK for an attack.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46502013.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46502013.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46502013.jpg"
+  }
+}

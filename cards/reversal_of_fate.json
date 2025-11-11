@@ -1,0 +1,12 @@
+{
+  "id": 36690018,
+  "name": "Reversal of Fate",
+  "type": "Trap Card",
+  "description": "Select 1 \"Arcana Force\" monster you control. That monster's effect is now treated as the opposite coin toss result.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36690018.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36690018.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36690018.jpg"
+  }
+}

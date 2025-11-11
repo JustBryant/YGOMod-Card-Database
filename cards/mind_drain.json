@@ -1,0 +1,12 @@
+{
+  "id": 68937720,
+  "name": "Mind Drain",
+  "type": "Trap Card",
+  "description": "Activate this card by paying 1000 LP. Effects of monsters in the hand cannot be activated.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68937720.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68937720.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68937720.jpg"
+  }
+}

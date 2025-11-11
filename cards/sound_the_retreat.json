@@ -1,0 +1,12 @@
+{
+  "id": 81665333,
+  "name": "Sound the Retreat!",
+  "type": "Trap Card",
+  "description": "Return all monsters you control to the hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81665333.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81665333.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81665333.jpg"
+  }
+}

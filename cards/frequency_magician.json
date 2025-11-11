@@ -1,0 +1,16 @@
+{
+  "id": 62154416,
+  "name": "Frequency Magician",
+  "type": "Tuner Monster",
+  "description": "When this card is Normal Summoned, place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card to have 1 face-up monster you control gain 500 ATK, until the End Phase.",
+  "attack": 800,
+  "defense": 400,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62154416.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62154416.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62154416.jpg"
+  }
+}

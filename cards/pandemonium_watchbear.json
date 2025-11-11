@@ -1,0 +1,16 @@
+{
+  "id": 75375465,
+  "name": "Pandemonium Watchbear",
+  "type": "Effect Monster",
+  "description": "As long as this card remains face-up on your side of the field, \"Pandemonium\" on your side of the field is not destroyed by your opponent's card effects.",
+  "attack": 1300,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75375465.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75375465.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75375465.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 63009228,
+  "name": "Rescue Interlacer",
+  "type": "Effect Monster",
+  "description": "During damage calculation, if your Cyberse monster is attacked (Quick Effect): You can discard this card; you take no battle damage from that battle. You can only use this effect of \"Rescue Interlacer\" once per turn. Once per turn, during the End Phase, if this card is in the GY because it was discarded there to activate this effect this turn: Special Summon this card.",
+  "attack": 1000,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63009228.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63009228.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63009228.jpg"
+  }
+}

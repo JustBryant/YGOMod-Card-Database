@@ -1,0 +1,12 @@
+{
+  "id": 42776960,
+  "name": "Relay Soul",
+  "type": "Trap Card",
+  "description": "Special Summon 1 monster from your hand. While it is face-up on your side of the field, you take no damage. When it leaves the field, your opponent wins the Duel.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42776960.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42776960.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42776960.jpg"
+  }
+}

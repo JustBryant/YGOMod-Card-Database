@@ -1,0 +1,12 @@
+{
+  "id": 8279188,
+  "name": "Depth Amulet",
+  "type": "Trap Card",
+  "description": "When your opponent's monster declares an attack, you can discard 1 card to negate the attack. Destroy this card during your opponent's 3rd End Phase after activation.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8279188.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8279188.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8279188.jpg"
+  }
+}

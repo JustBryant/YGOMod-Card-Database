@@ -1,0 +1,16 @@
+{
+  "id": 17021204,
+  "name": "Mother Spider",
+  "type": "Effect Monster",
+  "description": "If you have only Insect-Type monsters in your Graveyard, you can send 2 face-up Defense Position monsters your opponent controls to the Graveyard and Special Summon this card from your hand.",
+  "attack": 2300,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17021204.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17021204.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17021204.jpg"
+  }
+}

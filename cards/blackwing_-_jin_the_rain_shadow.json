@@ -1,0 +1,16 @@
+{
+  "id": 38562933,
+  "name": "Blackwing - Jin the Rain Shadow",
+  "type": "Tuner Monster",
+  "description": "If this card battles a face-up monster with DEF equal to or less than this card's ATK, destroy that monster at the start of the Damage Step (without damage calculation).",
+  "attack": 600,
+  "defense": 500,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38562933.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38562933.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38562933.jpg"
+  }
+}

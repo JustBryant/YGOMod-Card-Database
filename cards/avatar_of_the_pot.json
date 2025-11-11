@@ -1,0 +1,16 @@
+{
+  "id": 99284890,
+  "name": "Avatar of The Pot",
+  "type": "Effect Monster",
+  "description": "By sending 1 \"Pot of Greed\" from your hand to the Graveyard, draw 3 cards from your Deck.",
+  "attack": 1200,
+  "defense": 1300,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99284890.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99284890.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99284890.jpg"
+  }
+}

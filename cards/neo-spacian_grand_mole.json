@@ -1,0 +1,16 @@
+{
+  "id": 80344569,
+  "name": "Neo-Spacian Grand Mole",
+  "type": "Effect Monster",
+  "description": "At the start of the Damage Step, if this card battles an opponent's monster: You can return both the opponent's monster and this card to the hand.",
+  "attack": 900,
+  "defense": 300,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80344569.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80344569.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80344569.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 68396778,
+  "name": "Faustian Bargain",
+  "type": "Spell Card",
+  "description": "Target 1 Special Summoned monster on either field; send it to the GY, and if you do, Special Summon 1 Level 4 or lower Normal Monster from your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68396778.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68396778.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68396778.jpg"
+  }
+}

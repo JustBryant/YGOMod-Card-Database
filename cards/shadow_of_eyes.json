@@ -1,0 +1,12 @@
+{
+  "id": 58621589,
+  "name": "Shadow of Eyes",
+  "type": "Trap Card",
+  "description": "When a monster(s) is Set on your opponent's field: Target 1 of those Set monsters; change that Set monster to face-up Attack Position. (Flip Effects are not activated.)",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58621589.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58621589.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58621589.jpg"
+  }
+}

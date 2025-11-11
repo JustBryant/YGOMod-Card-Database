@@ -1,0 +1,16 @@
+{
+  "id": 42679662,
+  "name": "Evilswarm Azzathoth",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Target 1 Special Summoned monster on the field; shuffle that target into the Deck.",
+  "attack": 750,
+  "defense": 1950,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42679662.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42679662.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42679662.jpg"
+  }
+}

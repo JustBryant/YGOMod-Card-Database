@@ -1,0 +1,12 @@
+{
+  "id": 62188962,
+  "name": "Vampire Kingdom",
+  "type": "Spell Card",
+  "description": "Zombie-Type monsters gain 500 ATK during damage calculation only. Once per turn, when a card(s) is sent from your opponent's Deck to the Graveyard: Target 1 card on the field; send 1 DARK \"Vampire\" monster from your hand or Deck to the Graveyard, and if you do, destroy that target.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62188962.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62188962.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62188962.jpg"
+  }
+}

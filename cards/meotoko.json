@@ -1,0 +1,16 @@
+{
+  "id": 53832650,
+  "name": "Meotoko",
+  "type": "Normal Monster",
+  "description": "Dis big ol' guy wit' a big ol' eye shoots a nasty ray beam right atcha!",
+  "attack": 700,
+  "defense": 600,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53832650.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53832650.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53832650.jpg"
+  }
+}

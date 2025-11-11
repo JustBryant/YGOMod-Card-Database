@@ -1,0 +1,12 @@
+{
+  "id": 10651797,
+  "name": "Swallow Flip",
+  "type": "Trap Card",
+  "description": "Negate the activation of an Effect Monster's effect that activates when a monster is Special Summoned (including itself), and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10651797.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10651797.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10651797.jpg"
+  }
+}

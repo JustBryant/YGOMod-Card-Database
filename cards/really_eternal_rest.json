@@ -1,0 +1,12 @@
+{
+  "id": 28121403,
+  "name": "Really Eternal Rest",
+  "type": "Trap Card",
+  "description": "Destroy all monsters equipped with an Equip Card(s).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28121403.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28121403.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28121403.jpg"
+  }
+}

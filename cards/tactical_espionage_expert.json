@@ -1,0 +1,16 @@
+{
+  "id": 89698120,
+  "name": "Tactical Espionage Expert",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned successfully, no Trap Cards can be activated.",
+  "attack": 1300,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89698120.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89698120.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89698120.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 46877100,
+  "name": "Scareclaw Acro",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) to your Main Monster Zone, adjacent to a \"Scareclaw\" monster you control or in its column. You can only Special Summon \"Scareclaw Acro\" once per turn this way. Your \"Scareclaw\" monsters in the Extra Monster Zone(s) gain 300 ATK for each Defense Position monster you control.",
+  "attack": 0,
+  "defense": 2000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46877100.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46877100.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46877100.jpg"
+  }
+}

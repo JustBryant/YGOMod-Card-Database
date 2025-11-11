@@ -1,0 +1,16 @@
+{
+  "id": 29947751,
+  "name": "Morphtronic Magnen",
+  "type": "Effect Monster",
+  "description": "● While in Attack Position: If your opponent controls a face-up monster, this card can only select their highest ATK monster as an attack target. ● While in Defense Position: Your opponent cannot select another monster as an attack target.",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29947751.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29947751.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29947751.jpg"
+  }
+}

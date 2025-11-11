@@ -1,0 +1,12 @@
+{
+  "id": 87046457,
+  "name": "Overdoom Line",
+  "type": "Trap Card",
+  "description": "If a Plant-Type monster(s) is Special Summoned from the Graveyard to your side of the field: It gains 1000 ATK while this card is face-up on the field. Destroy this card during your 2nd End Phase after activation.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87046457.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87046457.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87046457.jpg"
+  }
+}

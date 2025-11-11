@@ -1,0 +1,16 @@
+{
+  "id": 59464593,
+  "name": "Armed Dragon LV10",
+  "type": "Effect Monster",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Armed Dragon LV7\". You can send 1 card from your hand to the Graveyard to destroy all face-up monsters your opponent controls.",
+  "attack": 3000,
+  "defense": 2000,
+  "level": 10,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59464593.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59464593.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59464593.jpg"
+  }
+}

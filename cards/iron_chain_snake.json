@@ -1,0 +1,16 @@
+{
+  "id": 80769747,
+  "name": "Iron Chain Snake",
+  "type": "Effect Monster",
+  "description": "During your Main Phase, you can equip this card to 1 face-up monster your opponent controls. That monster loses 800 ATK and DEF. When it is destroyed by battle and sent to the Graveyard, its controller sends cards equal to its Level from the top of their Deck to the Graveyard.",
+  "attack": 800,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80769747.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80769747.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80769747.jpg"
+  }
+}

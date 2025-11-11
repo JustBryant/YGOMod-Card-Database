@@ -1,0 +1,12 @@
+{
+  "id": 92890308,
+  "name": "Morphtransition",
+  "type": "Trap Card",
+  "description": "Activate only when a face-up \"Morphtronic\" monster you control is selected as an attack target. Negate the attack, and change the battle position of the selected \"Morphtronic\" monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92890308.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92890308.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92890308.jpg"
+  }
+}

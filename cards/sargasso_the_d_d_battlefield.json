@@ -1,0 +1,12 @@
+{
+  "id": 1127737,
+  "name": "Sargasso the D.D. Battlefield",
+  "type": "Spell Card",
+  "description": "Each time a monster is Xyz Summoned: The Summoning player takes 500 damage. During each player's End Phase, the turn player takes 500 damage if they control a face-up Xyz Monster.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1127737.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1127737.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1127737.jpg"
+  }
+}

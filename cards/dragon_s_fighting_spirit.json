@@ -1,0 +1,12 @@
+{
+  "id": 95697223,
+  "name": "Dragon's Fighting Spirit",
+  "type": "Spell Card",
+  "description": "Target 1 Dragon-Type monster you control that was Special Summoned this turn; for each monster your opponent currently controls that was Special Summoned this turn, it gains 1 additional attack during each Battle Phase this turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95697223.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95697223.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95697223.jpg"
+  }
+}

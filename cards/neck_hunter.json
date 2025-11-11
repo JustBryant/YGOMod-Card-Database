@@ -1,0 +1,16 @@
+{
+  "id": 70084224,
+  "name": "Neck Hunter",
+  "type": "Normal Monster",
+  "description": "A fiend that wields a mean sickle and fires devastating beams from its eyes.",
+  "attack": 1750,
+  "defense": 1900,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70084224.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70084224.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70084224.jpg"
+  }
+}

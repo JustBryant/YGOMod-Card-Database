@@ -1,0 +1,12 @@
+{
+  "id": 47658964,
+  "name": "Searing Fire Wall",
+  "type": "Spell Card",
+  "description": "Banish any number of \"Laval\" monsters from your Graveyard; Special Summon an equal number of \"Laval Tokens\" (Pyro-Type/FIRE/Level 1/ATK 0/DEF 0) in Defense Position.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47658964.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47658964.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47658964.jpg"
+  }
+}

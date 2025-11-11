@@ -1,0 +1,16 @@
+{
+  "id": 58165765,
+  "name": "Red Dragon Ninja",
+  "type": "Effect Monster",
+  "description": "When this card is Summoned: You can banish 1 \"Ninja\" or \"Ninjitsu Art\" card from your GY, then target 1 Set card your opponent controls; reveal that Set card, then return it to either the top or bottom of the Deck. Your opponent cannot activate the targeted card in response to this effect's activation. You can only use this effect of \"Red Dragon Ninja\" once per turn.",
+  "attack": 2400,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58165765.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58165765.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58165765.jpg"
+  }
+}

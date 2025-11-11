@@ -1,0 +1,16 @@
+{
+  "id": 34160055,
+  "name": "Master of the Flaming Dragonswords",
+  "type": "Effect Monster",
+  "description": "When a monster is Normal Summoned to your side of the field, except \"Master of the Flaming Dragonswords\": You can increase that monster's Level by 1, and this card gains 300 ATK until the End Phase.",
+  "attack": 1800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34160055.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34160055.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34160055.jpg"
+  }
+}

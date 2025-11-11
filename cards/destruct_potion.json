@@ -1,0 +1,12 @@
+{
+  "id": 18739764,
+  "name": "Destruct Potion",
+  "type": "Trap Card",
+  "description": "Select 1 monster you control. Destroy it, and gain Life Points equal to its ATK.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18739764.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18739764.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18739764.jpg"
+  }
+}

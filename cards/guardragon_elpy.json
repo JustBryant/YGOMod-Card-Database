@@ -1,0 +1,16 @@
+{
+  "id": 86148577,
+  "name": "Guardragon Elpy",
+  "type": "Link Monster",
+  "description": "1 Level 4 or lower Dragon monster\r\nYou cannot Special Summon monsters, except Dragon monsters. During your Main Phase: You can Special Summon 1 Dragon monster from your hand or Deck to your zone that 2 or more Link Monsters point to. You can only use this effect of \"Guardragon Elpy\" once per turn. You can only Special Summon \"Guardragon Elpy(s)\" once per turn.",
+  "attack": 1000,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86148577.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86148577.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86148577.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 91350799,
+  "name": "Madolche Hootcake",
+  "type": "Effect Monster",
+  "description": "When this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into the Deck. You can target 1 monster in your Graveyard; banish it, and if you do, Special Summon 1 \"Madolche\" monster from your Deck, except \"Madolche Hootcake\". You can only use this effect of \"Madolche Hootcake\" once per turn.",
+  "attack": 1500,
+  "defense": 1100,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91350799.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91350799.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91350799.jpg"
+  }
+}

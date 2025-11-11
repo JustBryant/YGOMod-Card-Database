@@ -1,0 +1,16 @@
+{
+  "id": 69073023,
+  "name": "Infinitrack Fortress Megaclops",
+  "type": "Link Monster",
+  "description": "3 Xyz Monsters\r\nUnaffected by other monsters' effects, except those of Xyz Monsters. Cannot be destroyed by battle, except with an Xyz Monster. You can target 1 Xyz Monster in your GY and 1 card your opponent controls; Special Summon that monster from your GY, and if you do, attach that opponent's card to it as material, also for the rest of this turn, any damage your opponent takes is halved. You can only use this effect of \"Infinitrack Fortress Megaclops\" once per turn.",
+  "attack": 4000,
+  "defense": null,
+  "level": null,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69073023.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69073023.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69073023.jpg"
+  }
+}

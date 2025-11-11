@@ -1,0 +1,16 @@
+{
+  "id": 76372778,
+  "name": "Evigishki Merrowgeist",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 monsters\n After damage calculation, if this card destroys an opponent's monster by battle: You can detach 1 Xyz Material from this card; shuffle the destroyed monster into the Deck instead of sending it to the Graveyard.",
+  "attack": 2100,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76372778.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76372778.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76372778.jpg"
+  }
+}

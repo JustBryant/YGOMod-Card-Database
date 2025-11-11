@@ -1,0 +1,16 @@
+{
+  "id": 44430454,
+  "name": "Chamberlain of the Six Samurai",
+  "type": "Normal Monster",
+  "description": "The Six Samurai are supported from the shadows by this silent and mysterious warrior. His past is unknown to them, but his countless scars are proof of his experience.",
+  "attack": 200,
+  "defense": 2000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44430454.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44430454.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44430454.jpg"
+  }
+}

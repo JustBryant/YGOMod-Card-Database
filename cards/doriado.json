@@ -1,0 +1,16 @@
+{
+  "id": 84916669,
+  "name": "Doriado",
+  "type": "Normal Monster",
+  "description": "''A spirit of the forest powered by the surrounding trees and wildlife.''",
+  "attack": 1200,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84916669.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84916669.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84916669.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 40725446,
+  "name": "Arequus the Shining Mars Saint",
+  "type": "Effect Monster",
+  "description": "If you control a face-up card in your Spell & Trap Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Arequus the Shining Mars Saint\" once per turn this way. You can only use each of the following effects of \"Arequus the Shining Mars Saint\" once per turn. You can target 1 face-up Spell/Trap you control; destroy both it and this card, then draw 1 card. If this card is destroyed: You can target 1 Xyz Monster you control; attach this card to it.",
+  "attack": 2000,
+  "defense": 1800,
+  "level": 5,
+  "attribute": "LIGHT",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40725446.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40725446.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40725446.jpg"
+  }
+}

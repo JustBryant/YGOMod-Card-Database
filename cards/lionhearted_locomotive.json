@@ -1,0 +1,16 @@
+{
+  "id": 61692648,
+  "name": "Lionhearted Locomotive",
+  "type": "Effect Monster",
+  "description": "When this card declares an attack: Its ATK becomes half its original ATK until the end of the Damage Step.",
+  "attack": 2400,
+  "defense": 2100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61692648.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61692648.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61692648.jpg"
+  }
+}

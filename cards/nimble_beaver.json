@@ -1,0 +1,16 @@
+{
+  "id": 68353324,
+  "name": "Nimble Beaver",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower \"Nimble\" monster from your Deck or GY.",
+  "attack": 400,
+  "defense": 200,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68353324.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68353324.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68353324.jpg"
+  }
+}

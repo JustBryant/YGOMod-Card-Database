@@ -1,0 +1,16 @@
+{
+  "id": 99229085,
+  "name": "Gimmick Puppet Cattle Scream",
+  "type": "Effect Monster",
+  "description": "You can detach 1 material from an Xyz Monster you control; Special Summon this card from your hand or GY, but banish it when it leaves the field. You can only use this effect of \"Gimmick Puppet Cattle Scream\" once per turn. A \"Gimmick Puppet\" Xyz Monster that has this card as material gains this effect.\r\n● Once per turn: You can target 1 monster in your opponent's GY; Special Summon it to your opponent's field in Defense Position.",
+  "attack": 2000,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99229085.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99229085.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99229085.jpg"
+  }
+}

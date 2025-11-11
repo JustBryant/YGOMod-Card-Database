@@ -1,0 +1,12 @@
+{
+  "id": 67169062,
+  "name": "Pot of Avarice",
+  "type": "Spell Card",
+  "description": "Target 5 monsters in your GY; shuffle all 5 into the Deck, then draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67169062.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67169062.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67169062.jpg"
+  }
+}

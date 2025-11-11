@@ -1,0 +1,12 @@
+{
+  "id": 9720537,
+  "name": "Owner's Seal",
+  "type": "Spell Card",
+  "description": "Return control of all monsters on the field to their original owners.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9720537.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9720537.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9720537.jpg"
+  }
+}

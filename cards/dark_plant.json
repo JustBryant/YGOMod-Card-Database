@@ -1,0 +1,16 @@
+{
+  "id": 13193642,
+  "name": "Dark Plant",
+  "type": "Normal Monster",
+  "description": "''This mutant flower draws its power from pollutants and the dark forces.''",
+  "attack": 300,
+  "defense": 400,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13193642.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13193642.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13193642.jpg"
+  }
+}

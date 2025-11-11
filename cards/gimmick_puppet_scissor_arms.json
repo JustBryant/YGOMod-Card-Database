@@ -1,0 +1,16 @@
+{
+  "id": 29216967,
+  "name": "Gimmick Puppet Scissor Arms",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can send 1 \"Gimmick Puppet\" monster from your Deck to the Graveyard.",
+  "attack": 1200,
+  "defense": 600,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29216967.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29216967.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29216967.jpg"
+  }
+}

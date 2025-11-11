@@ -1,0 +1,16 @@
+{
+  "id": 9197735,
+  "name": "Dragon Statue",
+  "type": "Normal Monster",
+  "description": "''A stone warrior with the heart of a dragon.''",
+  "attack": 1100,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9197735.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9197735.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9197735.jpg"
+  }
+}

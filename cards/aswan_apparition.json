@@ -1,0 +1,16 @@
+{
+  "id": 88236094,
+  "name": "Aswan Apparition",
+  "type": "Effect Monster",
+  "description": "If this card inflicts Battle Damage to your opponent's Life Points, you can return 1 Trap Card from your Graveyard to the top of your Deck.",
+  "attack": 500,
+  "defense": 500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88236094.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88236094.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88236094.jpg"
+  }
+}

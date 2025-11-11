@@ -1,0 +1,16 @@
+{
+  "id": 41218256,
+  "name": "Claw Reacher",
+  "type": "Normal Monster",
+  "description": "Stretching arms and razor-sharp claws make this monster a formidable opponent.",
+  "attack": 1000,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41218256.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41218256.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41218256.jpg"
+  }
+}

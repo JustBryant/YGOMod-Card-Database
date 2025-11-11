@@ -1,0 +1,16 @@
+{
+  "id": 30230789,
+  "name": "Karakuri Merchant mdl 177 \"Inashichi\"",
+  "type": "Effect Monster",
+  "description": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. When this card is Normal Summoned, add 1 \"Karakuri\" card from your Deck to your hand.",
+  "attack": 500,
+  "defense": 1500,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30230789.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30230789.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30230789.jpg"
+  }
+}

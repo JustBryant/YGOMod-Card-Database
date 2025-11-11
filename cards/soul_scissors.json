@@ -1,0 +1,16 @@
+{
+  "id": 12061457,
+  "name": "Soul Scissors",
+  "type": "Effect Monster",
+  "description": "If a monster(s) on the field is destroyed by battle or card effect and sent to the GY, while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. If this card is Special Summoned from the GY: You can target 1 monster your opponent controls; destroy it. You can only use each effect of \"Soul Scissors\" once per turn.",
+  "attack": 550,
+  "defense": 350,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12061457.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12061457.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12061457.jpg"
+  }
+}

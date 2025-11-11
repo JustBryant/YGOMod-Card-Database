@@ -1,0 +1,16 @@
+{
+  "id": 81974607,
+  "name": "Cipher Wing",
+  "type": "Effect Monster",
+  "description": "If you control a \"Cipher\" monster, you can Special Summon this card (from your hand). You can Tribute this card; increase the Levels of all \"Cipher\" monsters you control by 4 until the end of this turn.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81974607.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81974607.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81974607.jpg"
+  }
+}

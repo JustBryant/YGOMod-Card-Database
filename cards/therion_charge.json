@@ -1,0 +1,12 @@
+{
+  "id": 57285770,
+  "name": "Therion Charge",
+  "type": "Spell Card",
+  "description": "Send 1 \"Therion\" card, except \"Therion Charge\", or 1 \"Endless Engine Argyro System\" from your hand or your face-up Spell & Trap Zone to the GY; draw 2 cards. You can only activate 1 \"Therion Charge\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57285770.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57285770.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57285770.jpg"
+  }
+}

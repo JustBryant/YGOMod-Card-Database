@@ -1,0 +1,16 @@
+{
+  "id": 45409943,
+  "name": "Luce the Dusk's Dark",
+  "type": "Fusion Monster",
+  "description": "3 Fiend and/or Fairy monsters in your GY\r\nMonsters in your leftmost or rightmost Main Monster Zones cannot be destroyed by card effects. You can only use each of the following effects of \"Luce the Dusk's Dark\" once per turn. You can target 1 card your opponent controls; send 1 Fiend or Fairy monster from your Deck to the GY, and if you do, destroy that card. If another card(s) you control is destroyed by card effect (except during the Damage Step): You can target 1 card on the field; destroy it.",
+  "attack": 3500,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45409943.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45409943.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45409943.jpg"
+  }
+}

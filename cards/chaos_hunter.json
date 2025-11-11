@@ -1,0 +1,16 @@
+{
+  "id": 97940434,
+  "name": "Chaos Hunter",
+  "type": "Effect Monster",
+  "description": "When your opponent Special Summons a monster (except during the Damage Step): You can discard 1 card; Special Summon this card from your hand. Your opponent cannot banish cards.",
+  "attack": 2500,
+  "defense": 1600,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97940434.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97940434.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97940434.jpg"
+  }
+}

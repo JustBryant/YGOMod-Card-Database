@@ -3,10 +3,10 @@
   "name": "Dragon Treasure",
   "type": "Spell Card",
   "description": "A Dragon-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+  "race": "Equip",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/1435851.jpg",
     "small_url": "https://images.ygoprodeck.com/images/cards_small/1435851.jpg",
     "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1435851.jpg"
-  },
-  "race": "Equip"
+  }
 }

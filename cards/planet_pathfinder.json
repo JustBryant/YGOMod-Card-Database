@@ -1,0 +1,16 @@
+{
+  "id": 97526666,
+  "name": "Planet Pathfinder",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card; add 1 Field Spell Card from your Deck to your hand.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97526666.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97526666.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97526666.jpg"
+  }
+}

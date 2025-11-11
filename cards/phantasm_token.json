@@ -1,0 +1,12 @@
+{
+  "id": 69890968,
+  "name": "Phantasm Token",
+  "type": "Token",
+  "description": "This card can be used as a \"Phantasm Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69890968.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69890968.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69890968.jpg"
+  }
+}

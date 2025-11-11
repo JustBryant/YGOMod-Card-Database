@@ -1,0 +1,12 @@
+{
+  "id": 17536995,
+  "name": "Heraldry Change",
+  "type": "Trap Card",
+  "description": "When an opponent's monster declares an attack: Special Summon 1 \"Heraldic Beast\" monster from your hand, then end the Battle Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17536995.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17536995.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17536995.jpg"
+  }
+}

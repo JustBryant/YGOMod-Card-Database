@@ -1,0 +1,12 @@
+{
+  "id": 16272453,
+  "name": "Armor Ninjitsu Art of Alchemy",
+  "type": "Spell Card",
+  "description": "If you control a \"Ninjitsu Art\" card: Destroy as many other \"Ninjitsu Art\" cards you control as possible, then draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16272453.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16272453.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16272453.jpg"
+  }
+}

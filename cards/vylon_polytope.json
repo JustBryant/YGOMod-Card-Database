@@ -1,0 +1,12 @@
+{
+  "id": 65659181,
+  "name": "Vylon Polytope",
+  "type": "Spell Card",
+  "description": "Target any number of \"Vylon\" Monster Cards you control that are Equip Cards; Special Summon them in face-up Defense Position. Banish them when they leave the field.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65659181.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65659181.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65659181.jpg"
+  }
+}

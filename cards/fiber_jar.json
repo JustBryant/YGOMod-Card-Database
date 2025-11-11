@@ -1,0 +1,16 @@
+{
+  "id": 78706415,
+  "name": "Fiber Jar",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Each player shuffles all cards from their hand, field, and Graveyard into the Deck, then draws 5 cards.",
+  "attack": 500,
+  "defense": 500,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78706415.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78706415.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78706415.jpg"
+  }
+}

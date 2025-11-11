@@ -1,0 +1,16 @@
+{
+  "id": 55337339,
+  "name": "Job-Change Mirror",
+  "type": "Normal Monster",
+  "description": "''A wicked mirror that blocks off the damaging effects of an attack.''",
+  "attack": 800,
+  "defense": 1300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55337339.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55337339.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55337339.jpg"
+  }
+}

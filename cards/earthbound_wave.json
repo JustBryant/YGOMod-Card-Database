@@ -1,0 +1,12 @@
+{
+  "id": 29934351,
+  "name": "Earthbound Wave",
+  "type": "Trap Card",
+  "description": "When your opponent activates a Spell/Trap Card while you control a \"Earthbound Immortal\" monster: Negate the activation, and if you do, destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29934351.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29934351.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29934351.jpg"
+  }
+}

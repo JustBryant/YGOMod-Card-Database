@@ -1,0 +1,16 @@
+{
+  "id": 54622031,
+  "name": "Great Mammoth of Goldfine",
+  "type": "Fusion Monster",
+  "description": "\"The Snake Hair\" + \"Dragon Zombie\"",
+  "attack": 2200,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54622031.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54622031.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54622031.jpg"
+  }
+}

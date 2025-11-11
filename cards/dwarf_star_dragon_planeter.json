@@ -1,0 +1,16 @@
+{
+  "id": 67310848,
+  "name": "Dwarf Star Dragon Planeter",
+  "type": "Effect Monster",
+  "description": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: You can add 1 Level 7 LIGHT or DARK monster from your Deck to your hand.",
+  "attack": 1700,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67310848.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67310848.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67310848.jpg"
+  }
+}

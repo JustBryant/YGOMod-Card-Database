@@ -1,0 +1,16 @@
+{
+  "id": 56921677,
+  "name": "Heraldic Beast Basilisk",
+  "type": "Effect Monster",
+  "description": "After damage calculation: Destroy any opponent's monster that battles this card.",
+  "attack": 1000,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56921677.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56921677.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56921677.jpg"
+  }
+}

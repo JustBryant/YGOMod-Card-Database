@@ -1,0 +1,16 @@
+{
+  "id": 87340664,
+  "name": "Atomic Firefly",
+  "type": "Effect Monster",
+  "description": "When this face-up card on the field attacks or is attacked and it is destroyed as a result of battle, the player who destroyed it takes 1000 points of damage.",
+  "attack": 100,
+  "defense": 200,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87340664.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87340664.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87340664.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 78053598,
+  "name": "Dark Designator",
+  "type": "Spell Card",
+  "description": "Declare 1 Monster Card name. If the declared card is in your opponent's Deck, add 1 of that card to your opponent's hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78053598.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78053598.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78053598.jpg"
+  }
+}

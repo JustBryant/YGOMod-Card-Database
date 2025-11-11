@@ -1,0 +1,16 @@
+{
+  "id": 66853752,
+  "name": "Fishborg Launcher",
+  "type": "Tuner Monster",
+  "description": "If you have a monster(s) in your Graveyard other than \"Fishborg Launcher\", and all of them are WATER: You can Special Summon this card from your Graveyard. If you do, banish it when it leaves the field. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a WATER monster. You can only use the effect of \"Fishborg Launcher\" once per turn.",
+  "attack": 200,
+  "defense": 100,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66853752.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66853752.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66853752.jpg"
+  }
+}

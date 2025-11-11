@@ -1,0 +1,16 @@
+{
+  "id": 19680539,
+  "name": "Noble Knight Gawayn",
+  "type": "Effect Monster",
+  "description": "If you control a LIGHT Normal Monster, you can Special Summon this card (from your hand) in Defense Position.",
+  "attack": 1900,
+  "defense": 500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19680539.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19680539.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19680539.jpg"
+  }
+}

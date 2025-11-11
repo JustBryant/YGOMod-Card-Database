@@ -1,0 +1,16 @@
+{
+  "id": 22171591,
+  "name": "Doctor Cranium",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, you can pay 800 Life Points to add 1 Psychic-Type monster from your Deck to your hand.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22171591.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22171591.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22171591.jpg"
+  }
+}

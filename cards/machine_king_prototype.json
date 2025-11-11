@@ -1,0 +1,16 @@
+{
+  "id": 89222931,
+  "name": "Machine King Prototype",
+  "type": "Effect Monster",
+  "description": "This card gains 100 ATK and DEF for each Machine-Type monster on the field, except this card.",
+  "attack": 1600,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89222931.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89222931.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89222931.jpg"
+  }
+}

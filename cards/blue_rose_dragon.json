@@ -1,0 +1,16 @@
+{
+  "id": 98884569,
+  "name": "Blue Rose Dragon",
+  "type": "Effect Monster",
+  "description": "When this card on the field is destroyed and sent to the GY: You can target 1 \"Black Rose Dragon\" or 1 Plant monster in your GY; Special Summon that monster.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98884569.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98884569.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98884569.jpg"
+  }
+}

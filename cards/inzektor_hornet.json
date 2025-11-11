@@ -1,0 +1,16 @@
+{
+  "id": 69207766,
+  "name": "Inzektor Hornet",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster's Level is increased by 3, also it gains ATK and DEF equal to this card's ATK and DEF. While this card is equipped to a monster: You can send this Equip Card to the Graveyard to target 1 card on the field; destroy that target.",
+  "attack": 500,
+  "defense": 200,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69207766.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69207766.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69207766.jpg"
+  }
+}

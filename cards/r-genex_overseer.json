@@ -1,0 +1,16 @@
+{
+  "id": 32744558,
+  "name": "R-Genex Overseer",
+  "type": "Tuner Monster",
+  "description": "When this card is Normal or Special Summoned, you can Special Summon 1 Level 3 or lower \"Genex\" monster from your hand.",
+  "attack": 200,
+  "defense": 100,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32744558.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32744558.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32744558.jpg"
+  }
+}

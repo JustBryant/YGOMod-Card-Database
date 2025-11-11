@@ -1,0 +1,16 @@
+{
+  "id": 98049038,
+  "name": "Stealthroid",
+  "type": "Effect Monster",
+  "description": "If this card attacks, destroy 1 Spell or Trap Card at the end of the Battle Phase if you control another \"roid\" monster.",
+  "attack": 1200,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98049038.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98049038.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98049038.jpg"
+  }
+}

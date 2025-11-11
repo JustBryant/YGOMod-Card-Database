@@ -1,0 +1,16 @@
+{
+  "id": 89609515,
+  "name": "Laval Phlogis",
+  "type": "Effect Monster",
+  "description": "When this card is sent to the Graveyard: All \"Laval\" monsters you currently control gain 300 ATK.",
+  "attack": 1700,
+  "defense": 800,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89609515.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89609515.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89609515.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 22829942,
+  "name": "Fusion Recycling Plant",
+  "type": "Spell Card",
+  "description": "Once per turn: You can discard 1 card; add 1 \"Polymerization\" from your Deck or GY to your hand. Once per turn, during the End Phase: You can target 1 monster in your GY that was used as a Fusion Material for a Fusion Summon this turn; add it to your hand.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22829942.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22829942.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22829942.jpg"
+  }
+}

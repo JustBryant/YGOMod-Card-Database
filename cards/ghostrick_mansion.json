@@ -1,0 +1,12 @@
+{
+  "id": 99795159,
+  "name": "Ghostrick Mansion",
+  "type": "Spell Card",
+  "description": "Monsters cannot attack face-down Defense Position monsters, but can attack directly if all monsters their opponent controls are face-down Defense Position. All effect damage, and battle damage inflicted by monsters other than \"Ghostrick\" monsters, is halved.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99795159.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99795159.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99795159.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 84847656,
+  "name": "Telekinetic Shocker",
+  "type": "Effect Monster",
+  "description": "If a Psychic-Type monster(s) on the field would be destroyed, you can pay 500 LP and destroy this card instead.",
+  "attack": 1700,
+  "defense": 700,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84847656.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84847656.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84847656.jpg"
+  }
+}

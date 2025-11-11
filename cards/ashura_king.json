@@ -1,0 +1,16 @@
+{
+  "id": 80993256,
+  "name": "Ashura King",
+  "type": "XYZ Monster",
+  "description": "3+ Level 3 monsters\r\nWhile this card has material, it can attack a number of times each Battle Phase, up to the number of materials attached to it. At the start of the Damage Step, if this card battles: It gains 200 ATK. When another monster's effect is activated (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card. You can only use this effect of \"Ashura King\" once per turn.",
+  "attack": 2100,
+  "defense": 0,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80993256.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80993256.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80993256.jpg"
+  }
+}

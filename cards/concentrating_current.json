@@ -1,0 +1,12 @@
+{
+  "id": 20501450,
+  "name": "Concentrating Current",
+  "type": "Spell Card",
+  "description": "Target 1 face-up monster you control; it gains ATK equal to its current DEF, until the end of this turn. Other monsters you control cannot attack during the turn you activate this card.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20501450.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20501450.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20501450.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8085950,
+  "name": "Burning Dragon",
+  "type": "Effect Monster",
+  "description": "If your opponent controls 2 or more monsters and this card is in your hand: You can Special Summon this card. If this card is Normal or Special Summoned: You can discard 1 Spell; destroy all Spells and Traps on the field. You can only use each effect of \"Burning Dragon\" once per turn.",
+  "attack": 2500,
+  "defense": 2100,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8085950.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8085950.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8085950.jpg"
+  }
+}

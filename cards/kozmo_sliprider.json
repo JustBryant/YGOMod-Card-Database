@@ -1,0 +1,16 @@
+{
+  "id": 94454495,
+  "name": "Kozmo Sliprider",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can target 1 Spell/Trap Card on the field; destroy it. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 4 or lower \"Kozmo\" monster from your Deck.",
+  "attack": 2300,
+  "defense": 800,
+  "level": 5,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94454495.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94454495.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94454495.jpg"
+  }
+}

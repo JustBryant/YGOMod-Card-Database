@@ -1,0 +1,16 @@
+{
+  "id": 10809984,
+  "name": "Great Phantom Thief",
+  "type": "Effect Monster",
+  "description": "If this card inflicts battle damage to your opponent: Declare 1 card name; look at your opponent's hand, and if you do, discard all cards with that name in their hand.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10809984.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10809984.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10809984.jpg"
+  }
+}

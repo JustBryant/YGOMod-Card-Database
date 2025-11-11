@@ -1,0 +1,16 @@
+{
+  "id": 66602787,
+  "name": "Saggi the Dark Clown",
+  "type": "Normal Monster",
+  "description": "This clown appears from nowhere and executes very strange moves to avoid enemy attacks.",
+  "attack": 600,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66602787.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66602787.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66602787.jpg"
+  }
+}

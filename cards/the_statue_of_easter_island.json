@@ -1,0 +1,16 @@
+{
+  "id": 10262698,
+  "name": "The Statue of Easter Island",
+  "type": "Normal Monster",
+  "description": "A stone monument from Easter Island that launches laser blasts from its rock-hewn lips.",
+  "attack": 1100,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10262698.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10262698.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10262698.jpg"
+  }
+}

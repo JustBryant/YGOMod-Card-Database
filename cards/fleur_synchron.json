@@ -1,0 +1,16 @@
+{
+  "id": 19642774,
+  "name": "Fleur Synchron",
+  "type": "Tuner Monster",
+  "description": "If this card is sent to the Graveyard as a Synchro Material: You can Special Summon 1 Level 2 or lower monster from your hand.",
+  "attack": 400,
+  "defense": 200,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19642774.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19642774.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19642774.jpg"
+  }
+}

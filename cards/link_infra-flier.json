@@ -1,0 +1,16 @@
+{
+  "id": 65100616,
+  "name": "Link Infra-Flier",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) to your zone a Link Monster points to. You can only Special Summon \"Link Infra-Flier\" once per turn this way.",
+  "attack": 0,
+  "defense": 1800,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65100616.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65100616.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65100616.jpg"
+  }
+}

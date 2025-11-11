@@ -1,0 +1,16 @@
+{
+  "id": 58518520,
+  "name": "Clear Effector",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the Graveyard as a Synchro Material: Draw 1 card. A Synchro Monster that used this card as a Synchro Material cannot be destroyed by card effects.",
+  "attack": 0,
+  "defense": 900,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58518520.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58518520.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58518520.jpg"
+  }
+}

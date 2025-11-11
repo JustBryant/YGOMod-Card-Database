@@ -1,0 +1,16 @@
+{
+  "id": 9350312,
+  "name": "Vernusylph of the Flourishing Hills",
+  "type": "Effect Monster",
+  "description": "\"Vernusylph\" monsters you control cannot be destroyed by card effects. You can discard this card, and 1 monster or \"Vernusylph\" card; add 1 \"Vernusylph\" card from your Deck to your hand, except \"Vernusylph of the Flourishing Hills\", then you can Special Summon 1 EARTH monster from your GY, also you cannot activate non-EARTH monster effects for the rest of this turn. You can only use this effect of \"Vernusylph of the Flourishing Hills\" once per turn.",
+  "attack": 200,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9350312.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9350312.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9350312.jpg"
+  }
+}

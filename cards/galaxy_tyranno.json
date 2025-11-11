@@ -1,0 +1,16 @@
+{
+  "id": 24658418,
+  "name": "Galaxy Tyranno",
+  "type": "Effect Monster",
+  "description": "When a \"Galaxy\" monster you control is targeted for an attack: You can Special Summon this card from your hand in Defense Position. When Summoned this way, you can: Immediately after this effect resolves, Xyz Summon 1 \"Galaxy\" Xyz Monster, using only \"Galaxy\" monsters you control.",
+  "attack": 2000,
+  "defense": 0,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24658418.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24658418.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24658418.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 41458579,
+  "name": "Musakani Magatama",
+  "type": "Trap Card",
+  "description": "When your opponent activates a Spell/Trap Card, or monster effect, that destroys a card(s), while you control a \"Six Samurai\" monster: Negate the activation, and if you do, destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41458579.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41458579.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41458579.jpg"
+  }
+}

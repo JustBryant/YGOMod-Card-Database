@@ -1,0 +1,16 @@
+{
+  "id": 68989981,
+  "name": "Samurai Skull",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can send 1 Zombie monster from your Deck to the GY. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 1 Level 4 or lower Zombie monster from your Deck, except \"Samurai Skull\".",
+  "attack": 1700,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68989981.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68989981.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68989981.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 48882106,
+  "name": "Toxic Boxfish",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can target 1 card in either GY; banish it. If this card is banished: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. You can only use each effect of \"Toxic Boxfish\" once per turn.",
+  "attack": 1800,
+  "defense": 800,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48882106.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48882106.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48882106.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 15259703,
+  "name": "Toon World",
+  "type": "Spell Card",
+  "description": "Activate this card by paying 1000 LP.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15259703.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15259703.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15259703.jpg"
+  }
+}

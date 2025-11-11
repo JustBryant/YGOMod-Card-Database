@@ -1,0 +1,16 @@
+{
+  "id": 49202162,
+  "name": "Black Luster Soldier - Soldier of Chaos",
+  "type": "Link Monster",
+  "description": "3 monsters with different names\r\nIf this card was Link Summoned using a Level 7 or higher monster(s) as material, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. When this card destroys an opponent's monster by battle: You can activate 1 of these effects;\r\n● This card gains 1500 ATK.\r\n● This card can make a second attack during the Battle Phase of your next turn.\r\n● Banish 1 card on the field.",
+  "attack": 3000,
+  "defense": null,
+  "level": null,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49202162.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49202162.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49202162.jpg"
+  }
+}

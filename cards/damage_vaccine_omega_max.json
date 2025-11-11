@@ -1,0 +1,12 @@
+{
+  "id": 98535702,
+  "name": "Damage Vaccine Omega MAX",
+  "type": "Trap Card",
+  "description": "When you take damage by battle or by a card effect: Gain Life Points equal to the damage you took.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98535702.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98535702.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98535702.jpg"
+  }
+}

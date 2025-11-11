@@ -1,0 +1,16 @@
+{
+  "id": 54757758,
+  "name": "Mudragon of the Swamp",
+  "type": "Fusion Monster",
+  "description": "2 monsters with the same Attribute but different Types\r\nYour opponent cannot target this card, or monsters on the field with the same Attribute as this card, with card effects. Once per turn (Quick Effect): You can declare 1 Attribute; this card becomes that Attribute until the end of this turn.",
+  "attack": 1900,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54757758.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54757758.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54757758.jpg"
+  }
+}

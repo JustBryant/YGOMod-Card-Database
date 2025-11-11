@@ -1,0 +1,16 @@
+{
+  "id": 23032273,
+  "name": "Megirus Light",
+  "type": "Normal Monster",
+  "description": "''The fatal beams from the eyes of this monster result in grim destruction.''",
+  "attack": 900,
+  "defense": 600,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23032273.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23032273.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23032273.jpg"
+  }
+}

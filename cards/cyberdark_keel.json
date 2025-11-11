@@ -1,0 +1,16 @@
+{
+  "id": 3019642,
+  "name": "Cyberdark Keel",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned: Target 1 Level 3 or lower Dragon monster in your GY; equip that Dragon monster to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. If this card destroys an opponent's monster by battle: Inflict 300 damage to your opponent. If this card would be destroyed by battle, destroy the monster equipped to it by its effect, instead.",
+  "attack": 800,
+  "defense": 800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3019642.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3019642.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3019642.jpg"
+  }
+}

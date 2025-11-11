@@ -1,0 +1,16 @@
+{
+  "id": 27315304,
+  "name": "Mist Wurm",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 2 or more non-Tuner monsters\nIf this card is Synchro Summoned: Target up to 3 cards your opponent controls; return those targets to the hand.",
+  "attack": 2500,
+  "defense": 1500,
+  "level": 9,
+  "attribute": "WIND",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27315304.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27315304.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27315304.jpg"
+  }
+}

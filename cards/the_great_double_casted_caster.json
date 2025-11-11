@@ -1,0 +1,16 @@
+{
+  "id": 83340560,
+  "name": "The Great Double Casted Caster",
+  "type": "Fusion Monster",
+  "description": "2 non-Effect Monsters\r\nGains ATK equal to the combined original ATK of any Ritual, Fusion, Synchro, Xyz, or Link Monsters used as Fusion Material for this card. This card can attack directly. If this card is destroyed by battle or card effect: You can target 1 of your non-Effect Monsters that is banished or in your GY; Special Summon it. You can only use this effect of \"The Great Double Casted Caster\" once per turn.",
+  "attack": 0,
+  "defense": 2600,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83340560.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83340560.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83340560.jpg"
+  }
+}

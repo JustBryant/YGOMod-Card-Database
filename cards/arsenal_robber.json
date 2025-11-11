@@ -1,0 +1,12 @@
+{
+  "id": 55348096,
+  "name": "Arsenal Robber",
+  "type": "Trap Card",
+  "description": "Your opponent selects 1 Equip Spell Card from his/her Deck and sends it to the Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55348096.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55348096.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55348096.jpg"
+  }
+}

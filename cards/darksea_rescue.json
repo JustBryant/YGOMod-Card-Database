@@ -1,0 +1,16 @@
+{
+  "id": 34659866,
+  "name": "Darksea Rescue",
+  "type": "Effect Monster",
+  "description": "If this card is used for a Synchro Summon and sent to the Graveyard, the owner of this card draws 1 card.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34659866.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34659866.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34659866.jpg"
+  }
+}

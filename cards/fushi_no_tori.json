@@ -1,0 +1,16 @@
+{
+  "id": 38538445,
+  "name": "Fushi No Tori",
+  "type": "Spirit Monster",
+  "description": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent's Life Points, increase your Life Points by an amount equal to the Battle Damage.",
+  "attack": 1200,
+  "defense": 0,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38538445.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38538445.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38538445.jpg"
+  }
+}

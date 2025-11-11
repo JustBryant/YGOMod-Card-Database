@@ -3,14 +3,14 @@
   "name": "Petit Dragon",
   "type": "Normal Monster",
   "description": "A very small dragon known for its vicious attacks.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/75356564.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/75356564.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75356564.jpg"
-  },
   "attack": 600,
   "defense": 700,
   "level": 2,
   "attribute": "WIND",
-  "race": "Dragon"
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75356564.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75356564.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75356564.jpg"
+  }
 }

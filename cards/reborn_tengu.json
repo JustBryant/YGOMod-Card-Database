@@ -1,0 +1,16 @@
+{
+  "id": 10028593,
+  "name": "Reborn Tengu",
+  "type": "Effect Monster",
+  "description": "If this face-up card leaves the field: Special Summon 1 \"Reborn Tengu\" from your Deck.",
+  "attack": 1700,
+  "defense": 600,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10028593.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10028593.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10028593.jpg"
+  }
+}

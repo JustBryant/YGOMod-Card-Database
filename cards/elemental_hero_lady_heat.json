@@ -1,0 +1,16 @@
+{
+  "id": 95362816,
+  "name": "Elemental HERO Lady Heat",
+  "type": "Effect Monster",
+  "description": "During each of your End Phases: Inflict 200 damage to your opponent for each face-up \"Elemental HERO\" monster you control.",
+  "attack": 1300,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95362816.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95362816.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95362816.jpg"
+  }
+}

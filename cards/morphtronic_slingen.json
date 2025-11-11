@@ -1,0 +1,16 @@
+{
+  "id": 75775867,
+  "name": "Morphtronic Slingen",
+  "type": "Effect Monster",
+  "description": "● While in Attack Position: Once per turn, you can Tribute 1 \"Morphtronic\" monster, except \"Morphtronic Slingen\", to destroy 1 card on the field.\n● While in Defense Position: If this card would be destroyed, you can destroy another \"Morphtronic\" monster you control instead.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75775867.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75775867.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75775867.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 94585852,
+  "name": "Pandemonium",
+  "type": "Spell Card",
+  "description": "Neither player has to pay Life Points during the Standby Phase for \"Archfiend\" monsters. Each time a player's \"Archfiend\" monster(s) is destroyed and sent to the Graveyard, except by battle, that player can add 1 \"Archfiend\" monster from their Deck to their hand that is a lower Level than the destroyed card.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94585852.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94585852.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94585852.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 95454996,
+  "name": "Maliss White Binder",
+  "type": "Link Monster",
+  "description": "2+ monsters, including a \"Maliss\" monster\r\nIf this card is Special Summoned: You can target up to 3 cards in any GY(s); banish them. During your Main Phase: You can Set 1 \"Maliss\" Trap from your Deck or GY. If this card is banished: You can pay 900 LP; Special Summon it, then you can draw 1 card. You can only use each effect of \"Maliss White Binder\" once per turn.",
+  "attack": 2300,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95454996.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95454996.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95454996.jpg"
+  }
+}

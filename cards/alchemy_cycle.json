@@ -1,0 +1,12 @@
+{
+  "id": 65384019,
+  "name": "Alchemy Cycle",
+  "type": "Trap Card",
+  "description": "The original ATK of all face-up monsters you control becomes 0, until the End Phase. Each time a monster that had its original ATK reduced to 0 by this effect is destroyed by battle and sent to the Graveyard, draw 1 card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65384019.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65384019.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65384019.jpg"
+  }
+}

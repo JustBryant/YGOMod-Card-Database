@@ -1,0 +1,16 @@
+{
+  "id": 73776643,
+  "name": "Papa-Corn",
+  "type": "Effect Monster",
+  "description": "While a Field Spell Card is face-up on the field, this card gains 1000 ATK.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73776643.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73776643.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73776643.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4688231,
+  "name": "Metalfoes Mithrilium",
+  "type": "Fusion Monster",
+  "description": "1 \"Metalfoes\" monster + 1 Pendulum Monster\r\nYou can target 2 \"Metalfoes\" cards in your GY and 1 card on the field; shuffle the targets from your GY into the Deck, and if you do, return the target on the field to the hand. You can only use this effect of \"Metalfoes Mithrilium\" once per turn. If this card is sent from the field to the GY: You can Special Summon 1 \"Metalfoes\" Pendulum Monster from your GY or face-up Extra Deck.",
+  "attack": 2600,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4688231.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4688231.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4688231.jpg"
+  }
+}

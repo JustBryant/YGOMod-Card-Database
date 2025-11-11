@@ -1,0 +1,16 @@
+{
+  "id": 78552773,
+  "name": "Supay",
+  "type": "Tuner Monster",
+  "description": "When this card is sent from the field to the GY by card effect: You can Special Summon 1 \"Oracle of the Sun\" from your Deck, and if you do, double its ATK, also return it to the hand during the End Phase of this turn.",
+  "attack": 300,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78552773.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78552773.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78552773.jpg"
+  }
+}

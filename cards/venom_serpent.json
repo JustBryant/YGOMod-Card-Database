@@ -1,0 +1,16 @@
+{
+  "id": 36278828,
+  "name": "Venom Serpent",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can place 1 Venom Counter on 1 monster your opponent controls.",
+  "attack": 1000,
+  "defense": 800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36278828.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36278828.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36278828.jpg"
+  }
+}

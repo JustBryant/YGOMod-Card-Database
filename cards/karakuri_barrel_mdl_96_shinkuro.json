@@ -1,0 +1,16 @@
+{
+  "id": 92300891,
+  "name": "Karakuri Barrel mdl 96 \"Shinkuro\"",
+  "type": "Tuner Monster",
+  "description": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. Once per turn, this card cannot be destroyed by battle.",
+  "attack": 400,
+  "defense": 400,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92300891.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92300891.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92300891.jpg"
+  }
+}

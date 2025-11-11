@@ -1,0 +1,12 @@
+{
+  "id": 82452993,
+  "name": "Lone Wolf",
+  "type": "Trap Card",
+  "description": "Activate only if the 1 and only monster on your side of the field is \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\", or \"Master Monk\". That monster cannot be destroyed as a result of battle, and is unaffected by any of your opponent's monster effects.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82452993.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82452993.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82452993.jpg"
+  }
+}

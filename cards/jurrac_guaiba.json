@@ -1,0 +1,16 @@
+{
+  "id": 11012887,
+  "name": "Jurrac Guaiba",
+  "type": "Effect Monster",
+  "description": "If this card destroys an opponent's monster by battle: You can Special Summon 1 \"Jurrac\" monster with 1700 or less ATK from your Deck, but it cannot declare an attack this turn.",
+  "attack": 1700,
+  "defense": 400,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11012887.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11012887.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11012887.jpg"
+  }
+}

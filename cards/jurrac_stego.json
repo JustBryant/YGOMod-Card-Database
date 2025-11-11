@@ -1,0 +1,16 @@
+{
+  "id": 20568404,
+  "name": "Jurrac Stego",
+  "type": "Effect Monster",
+  "description": "During your Main Phase: You can destroy 1 card you control, and if you do, send 1 Dinosaur monster from your Deck to the GY, then you can Special Summon \"Jurrac\" monster(s) from your hand and/or Deck, except \"Jurrac Stego\", whose total Levels equal the sent monster's Level, ignoring their Summoning conditions, also for the rest of this turn, you cannot Special Summon, except Dinosaur monsters. You can only use this effect of \"Jurrac Stego\" once per turn. When this card is destroyed by battle: You can return 1 face-up card on the field to the hand.",
+  "attack": 1700,
+  "defense": 900,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20568404.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20568404.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20568404.jpg"
+  }
+}

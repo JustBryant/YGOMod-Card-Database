@@ -1,0 +1,12 @@
+{
+  "id": 17688543,
+  "name": "The Deep Grave",
+  "type": "Trap Card",
+  "description": "Target 1 monster in either player's GY; during your next Standby Phase, Special Summon it from the GY.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17688543.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17688543.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17688543.jpg"
+  }
+}

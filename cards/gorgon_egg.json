@@ -1,0 +1,16 @@
+{
+  "id": 11793047,
+  "name": "Gorgon Egg",
+  "type": "Normal Monster",
+  "description": "''The gorgon egg's massive eyes are said to reflect the fate of its enemies.''",
+  "attack": 300,
+  "defense": 1300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11793047.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11793047.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11793047.jpg"
+  }
+}

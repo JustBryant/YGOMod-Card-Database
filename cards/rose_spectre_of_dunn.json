@@ -1,0 +1,16 @@
+{
+  "id": 32485271,
+  "name": "Rose Spectre of Dunn",
+  "type": "Fusion Monster",
+  "description": "\"Feral Imp\" + \"Snakeyashi\"",
+  "attack": 2000,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32485271.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32485271.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32485271.jpg"
+  }
+}

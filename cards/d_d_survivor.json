@@ -1,0 +1,16 @@
+{
+  "id": 48092532,
+  "name": "D.D. Survivor",
+  "type": "Effect Monster",
+  "description": "During the End Phase, if this card was banished while face-up, on your side of the field, this turn: Special Summon this banished card. This effect can only activate once per turn.",
+  "attack": 1800,
+  "defense": 200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48092532.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48092532.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48092532.jpg"
+  }
+}

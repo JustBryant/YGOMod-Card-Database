@@ -3,14 +3,14 @@
   "name": "Armored Starfish",
   "type": "Normal Monster",
   "description": "A bluish starfish with a solid hide capable of fending off attacks.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/17535588.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/17535588.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17535588.jpg"
-  },
   "attack": 850,
   "defense": 1400,
   "level": 4,
   "attribute": "WATER",
-  "race": "Aqua"
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17535588.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17535588.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17535588.jpg"
+  }
 }

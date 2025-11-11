@@ -1,0 +1,16 @@
+{
+  "id": 36521307,
+  "name": "Mathmech Circular",
+  "type": "Effect Monster",
+  "description": "You can send 1 \"Mathmech\" monster, except \"Mathmech Circular\", from your Deck to your GY; Special Summon this card from your hand, also you can only attack with 1 monster for the rest of this turn. If a \"Mathmech\" monster is Normal or Special Summoned to your field while you control this monster (except during the Damage Step): You can add 1 \"Mathmech\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Mathmech Circular\" once per turn.",
+  "attack": 1500,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36521307.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36521307.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36521307.jpg"
+  }
+}

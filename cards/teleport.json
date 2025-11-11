@@ -1,0 +1,12 @@
+{
+  "id": 6795211,
+  "name": "Teleport",
+  "type": "Spell Card",
+  "description": "Once per turn, if your opponent controls a monster and you control no monsters, you can pay 800 Life Points to Special Summon 1 Psychic-Type monster from your hand.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6795211.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6795211.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6795211.jpg"
+  }
+}

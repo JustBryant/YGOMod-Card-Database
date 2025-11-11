@@ -1,0 +1,16 @@
+{
+  "id": 29216198,
+  "name": "Gravitic Orb",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Change the battle positions of all face-up monsters your opponent controls.",
+  "attack": 1100,
+  "defense": 700,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29216198.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29216198.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29216198.jpg"
+  }
+}

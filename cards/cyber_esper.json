@@ -1,0 +1,16 @@
+{
+  "id": 91663373,
+  "name": "Cyber Esper",
+  "type": "Effect Monster",
+  "description": "While this card is in face-up Attack Position, you can look at every card your opponent draws.",
+  "attack": 1200,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91663373.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91663373.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91663373.jpg"
+  }
+}

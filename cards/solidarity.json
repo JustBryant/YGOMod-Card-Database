@@ -1,0 +1,12 @@
+{
+  "id": 86780027,
+  "name": "Solidarity",
+  "type": "Spell Card",
+  "description": "If you have only 1 original Type of monster in your Graveyard, all monsters you control with the same Type gain 800 ATK.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86780027.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86780027.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86780027.jpg"
+  }
+}

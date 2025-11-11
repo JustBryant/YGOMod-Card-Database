@@ -1,0 +1,12 @@
+{
+  "id": 52105192,
+  "name": "Hidden Armory",
+  "type": "Spell Card",
+  "description": "Send the top card of your Deck to the GY; add 1 Equip Spell from your Deck or GY to your hand. You cannot Normal Summon/Set the turn you activate this card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52105192.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52105192.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52105192.jpg"
+  }
+}

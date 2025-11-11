@@ -1,0 +1,16 @@
+{
+  "id": 93020401,
+  "name": "Mekk-Knight Orange Sunset",
+  "type": "Effect Monster",
+  "description": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Orange Sunset\" once per turn this way. If an opponent's card in this card's column is destroyed by battle, or leaves the field: You can Special Summon 1 \"Mekk-Knight\" monster from your hand.",
+  "attack": 800,
+  "defense": 3000,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93020401.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93020401.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93020401.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 4333086,
+  "name": "Shiranui Style Swallow's Slash",
+  "type": "Trap Card",
+  "description": "Tribute 1 Zombie-Type monster, then target 2 cards on the field; destroy them, then banish 1 \"Shiranui\" monster from your Deck. You can only activate 1 \"Shiranui Style Swallow's Slash\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4333086.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4333086.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4333086.jpg"
+  }
+}

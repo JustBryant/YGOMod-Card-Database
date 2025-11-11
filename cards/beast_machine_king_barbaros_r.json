@@ -1,0 +1,16 @@
+{
+  "id": 19028307,
+  "name": "Beast Machine King Barbaros Ür",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by banishing 1 Machine-Type monster and 1 Beast-Warrior-Type monster from your hand, field, and/or Graveyard. If this card attacks or is attacked, your opponent takes no battle damage.",
+  "attack": 3800,
+  "defense": 1200,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19028307.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19028307.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19028307.jpg"
+  }
+}

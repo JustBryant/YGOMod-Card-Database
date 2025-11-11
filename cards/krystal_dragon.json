@@ -1,0 +1,16 @@
+{
+  "id": 77363314,
+  "name": "Krystal Dragon",
+  "type": "Effect Monster",
+  "description": "Once per turn, during your Battle Step, if this card battled this turn: You can add 1 Level 8 Dragon-Type monster from your Deck to your hand.",
+  "attack": 2500,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77363314.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77363314.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77363314.jpg"
+  }
+}

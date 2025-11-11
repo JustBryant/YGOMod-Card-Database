@@ -1,0 +1,16 @@
+{
+  "id": 11852093,
+  "name": "D/D/D Sage King Alfred",
+  "type": "Fusion Monster",
+  "description": "2 \"D/D\" monsters\r\nDuring your Main Phase: You can Fusion Summon 1 \"D/D/D\" Fusion Monster from your Extra Deck, by shuffling its materials from your hand, field, and/or banishment into the Deck. If this card is banished: You can target \"Dark Contract\" Continuous Spells/Traps in your GY and/or banishment, up to the number of \"D/D/D\" monsters you control; place them face-up on your field. You can only use each effect of \"D/D/D Sage King Alfred\" once per turn.",
+  "attack": 1500,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11852093.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11852093.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11852093.jpg"
+  }
+}

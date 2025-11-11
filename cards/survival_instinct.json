@@ -1,0 +1,12 @@
+{
+  "id": 58419204,
+  "name": "Survival Instinct",
+  "type": "Trap Card",
+  "description": "Banish any number of Dinosaur-Type monsters from your Graveyard; gain 400 Life Points for each Dinosaur-Type monster banished to activate this card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58419204.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58419204.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58419204.jpg"
+  }
+}

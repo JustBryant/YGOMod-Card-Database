@@ -1,0 +1,16 @@
+{
+  "id": 61677004,
+  "name": "Predaplant Darlingtonia Cobra",
+  "type": "Effect Monster",
+  "description": "If this card is Special Summoned by the effect of a \"Predaplant\" monster: You can add 1 \"Polymerization\" Spell Card or \"Fusion\" Spell Card from your Deck to your hand. You can only use this effect of \"Predaplant Darlingtonia Cobra\" once per Duel.",
+  "attack": 1000,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61677004.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61677004.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61677004.jpg"
+  }
+}

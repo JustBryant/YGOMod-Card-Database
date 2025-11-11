@@ -1,0 +1,16 @@
+{
+  "id": 90681088,
+  "name": "Legendary Fire King Ponix",
+  "type": "Effect Monster",
+  "description": "If your monster(s) that was originally FIRE is destroyed by battle or card effect: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Fire King\" Spell/Trap from your Deck to your hand. During the next Standby Phase after this card was destroyed and sent to the GY: Add this card from the GY to your hand. You can only use each effect of \"Legendary Fire King Ponix\" once per turn.",
+  "attack": 500,
+  "defense": 200,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90681088.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90681088.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90681088.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 55725117,
+  "name": "Prank-Kids Dropsies",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the GY as material for the Fusion or Link Summon of a \"Prank-Kids\" monster: You can gain 1000 LP, then you can Special Summon 1 \"Prank-Kids\" monster from your hand or Deck in Defense Position, except \"Prank-Kids Dropsies\". You can only use this effect of \"Prank-Kids Dropsies\" once per turn.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55725117.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55725117.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55725117.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 46263076,
+  "name": "Earthbound Immortal Ccapac Apu",
+  "type": "Effect Monster",
+  "description": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell on the field, destroy this card. Your opponent's monsters cannot target this card for attacks. This card can attack directly. If this card destroys an opponent's monster by battle: Inflict damage to your opponent equal to the destroyed monster's original ATK.",
+  "attack": 3000,
+  "defense": 2500,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46263076.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46263076.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46263076.jpg"
+  }
+}

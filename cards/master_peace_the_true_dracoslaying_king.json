@@ -1,0 +1,16 @@
+{
+  "id": 21377582,
+  "name": "Master Peace, the True Dracoslaying King",
+  "type": "Effect Monster",
+  "description": "To Tribute Summon this card face-up, you can Tribute Continuous Spell/Trap Card(s) you control, as well as monsters. Unaffected by the effects of cards with the same card type (Monster, Spell, and/or Trap) as the original card type of the cards Tributed for its Tribute Summon. Once per turn, during either player's turn, if you control this Tribute Summoned monster: You can banish 1 Continuous Spell/Trap Card from your Graveyard, then target 1 other card on the field; destroy it.",
+  "attack": 2950,
+  "defense": 2950,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21377582.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21377582.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21377582.jpg"
+  }
+}

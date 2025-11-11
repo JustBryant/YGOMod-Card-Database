@@ -1,0 +1,16 @@
+{
+  "id": 82213171,
+  "name": "Prometheus, King of the Shadows",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned: Banish 1 or more DARK monsters from your GY, and if you do, this card gains 400 ATK for each, until the end of this turn.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82213171.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82213171.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82213171.jpg"
+  }
+}

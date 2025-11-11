@@ -1,0 +1,12 @@
+{
+  "id": 40854824,
+  "name": "Rainbow Refraction",
+  "type": "Spell Card",
+  "description": "If a monster(s) you control whose original name is \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" activated its effect this turn: Special Summon any number of \"Crystal Beast\" monsters with different names from your Deck.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40854824.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40854824.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40854824.jpg"
+  }
+}

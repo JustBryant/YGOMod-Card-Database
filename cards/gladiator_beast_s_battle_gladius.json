@@ -1,0 +1,12 @@
+{
+  "id": 25407406,
+  "name": "Gladiator Beast's Battle Gladius",
+  "type": "Spell Card",
+  "description": "Equip only to a \"Gladiator Beast\" monster. It gains 300 ATK. When the equipped monster is returned from your side of the field to the Deck and this card is sent to the Graveyard, return this card to your hand.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25407406.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25407406.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25407406.jpg"
+  }
+}

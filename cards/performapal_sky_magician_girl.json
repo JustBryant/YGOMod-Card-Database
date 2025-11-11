@@ -1,0 +1,16 @@
+{
+  "id": 3859859,
+  "name": "Performapal Sky Magician Girl",
+  "type": "Effect Monster",
+  "description": "If you control a Continuous Spell: You can Special Summon this card from your hand. If this card is Special Summoned from the hand: You can send 1 Level 4 or lower LIGHT Spellcaster monster from your Deck to the GY. If this face-up card leaves the field: You can target 1 Spell/Trap on the field; destroy it. You can only use each effect of \"Performapal Sky Magician Girl\" once per turn.",
+  "attack": 2000,
+  "defense": 1500,
+  "level": 5,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3859859.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3859859.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3859859.jpg"
+  }
+}

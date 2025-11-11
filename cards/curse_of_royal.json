@@ -1,0 +1,12 @@
+{
+  "id": 2926176,
+  "name": "Curse of Royal",
+  "type": "Trap Card",
+  "description": "Negate the activation and the effect of a Spell or Trap Card that includes the effect of destroying 1 Spell or Trap Card and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2926176.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2926176.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2926176.jpg"
+  }
+}

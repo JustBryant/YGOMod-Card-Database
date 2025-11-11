@@ -1,0 +1,16 @@
+{
+  "id": 75646173,
+  "name": "Synchar",
+  "type": "Normal Monster",
+  "description": "''This two-headed creature spits laser blasts at its enemies.''",
+  "attack": 800,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75646173.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75646173.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75646173.jpg"
+  }
+}

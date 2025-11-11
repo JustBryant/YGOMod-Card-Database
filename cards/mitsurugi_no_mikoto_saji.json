@@ -1,0 +1,16 @@
+{
+  "id": 18176525,
+  "name": "Mitsurugi no Mikoto, Saji",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned, or if this card is Tributed: You can add 1 \"Mitsurugi\" Spell/Trap from your Deck to your hand. If another Reptile monster(s) you control would be destroyed by battle or card effect, you can Tribute this card instead. You can only use each effect of \"Mitsurugi no Mikoto, Saji\" once per turn.",
+  "attack": 1000,
+  "defense": 1700,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18176525.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18176525.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18176525.jpg"
+  }
+}

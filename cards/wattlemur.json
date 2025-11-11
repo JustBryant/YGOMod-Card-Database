@@ -1,0 +1,16 @@
+{
+  "id": 45801022,
+  "name": "Wattlemur",
+  "type": "Effect Monster",
+  "description": "If this card in its owner's possession is destroyed by your opponent's card (either by battle or by card effect): Your opponent cannot conduct their Battle Phase during their next turn.",
+  "attack": 800,
+  "defense": 100,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45801022.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45801022.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45801022.jpg"
+  }
+}

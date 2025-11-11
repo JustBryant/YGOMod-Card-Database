@@ -1,0 +1,12 @@
+{
+  "id": 39701395,
+  "name": "Cards of Consonance",
+  "type": "Spell Card",
+  "description": "Discard 1 Dragon Tuner with 1000 or less ATK; draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39701395.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39701395.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39701395.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 17896384,
+  "name": "Arcane Barrier",
+  "type": "Spell Card",
+  "description": "Each time a face-up Spellcaster monster(s) on the field is destroyed, place 1 Spell Counter on this card (max. 4). You can send this card and 1 face-up Spellcaster monster you control to the GY; draw 1 card for each Spell Counter that was on this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17896384.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17896384.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17896384.jpg"
+  }
+}

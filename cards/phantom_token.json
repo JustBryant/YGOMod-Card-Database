@@ -1,0 +1,12 @@
+{
+  "id": 1426715,
+  "name": "Phantom Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Number 48: Shadow Lich\".",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1426715.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1426715.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1426715.jpg"
+  }
+}

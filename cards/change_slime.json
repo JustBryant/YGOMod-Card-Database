@@ -1,0 +1,16 @@
+{
+  "id": 18914778,
+  "name": "Change Slime",
+  "type": "Normal Monster",
+  "description": "A slime that can morph and adopt the shape and size of any monster it chooses.",
+  "attack": 400,
+  "defense": 300,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18914778.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18914778.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18914778.jpg"
+  }
+}

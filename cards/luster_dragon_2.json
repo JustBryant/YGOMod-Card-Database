@@ -1,0 +1,16 @@
+{
+  "id": 17658803,
+  "name": "Luster Dragon #2",
+  "type": "Normal Monster",
+  "description": "This dragon feeds on emerald. Enchanted by this monster even when attacked, few people live to tell of its beauty.",
+  "attack": 2400,
+  "defense": 1400,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17658803.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17658803.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17658803.jpg"
+  }
+}

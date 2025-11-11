@@ -1,0 +1,16 @@
+{
+  "id": 80978111,
+  "name": "Flying \"C\"",
+  "type": "Effect Monster",
+  "description": "When your opponent Normal or Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand to the opponent's field in Defense Position. The controller of this card cannot Xyz Summon.",
+  "attack": 700,
+  "defense": 700,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80978111.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80978111.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80978111.jpg"
+  }
+}

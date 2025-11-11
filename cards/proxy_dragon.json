@@ -1,0 +1,16 @@
+{
+  "id": 22862454,
+  "name": "Proxy Dragon",
+  "type": "Link Monster",
+  "description": "2 monsters\r\nIf a card(s) you control would be destroyed by battle or card effect, you can destroy 1 of your monsters this card points to, instead.",
+  "attack": 1400,
+  "defense": null,
+  "level": null,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22862454.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22862454.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22862454.jpg"
+  }
+}

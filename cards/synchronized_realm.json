@@ -1,0 +1,12 @@
+{
+  "id": 61032879,
+  "name": "Synchronized Realm",
+  "type": "Spell Card",
+  "description": "Each time you Synchro Summon a Synchro Monster, inflict 500 damage to your opponent.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61032879.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61032879.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61032879.jpg"
+  }
+}

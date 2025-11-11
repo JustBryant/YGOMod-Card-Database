@@ -1,0 +1,16 @@
+{
+  "id": 73413514,
+  "name": "Neverending Nightmare Absorber",
+  "type": "Effect Monster",
+  "description": "Gains 1000 ATK each time your opponent activates a monster effect. If your opponent activates a monster effect in their hand, GY, or banishment (except during the Damage Step): You can Special Summon this card from your GY (if it was there when they activated) or hand (even if not), but destroy it during the End Phase. You can only use this effect of \"Neverending Nightmare Absorber\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73413514.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73413514.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73413514.jpg"
+  }
+}

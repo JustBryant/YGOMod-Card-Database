@@ -1,0 +1,16 @@
+{
+  "id": 99171160,
+  "name": "Kozaky",
+  "type": "Normal Monster",
+  "description": "A workaholic fiend who devotes everything to his research into the languages of Dark World. His mind has collapsed because of working too hard.",
+  "attack": 400,
+  "defense": 400,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99171160.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99171160.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99171160.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 40908371,
+  "name": "Azure-Eyes Silver Dragon",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner Normal Monsters\r\nIf this card is Special Summoned: Until the end of the next turn, neither player can target Dragon monsters you currently control with card effects, also they cannot be destroyed by card effects. Once per turn, during your Standby Phase: You can target 1 Normal Monster in your GY; Special Summon it.",
+  "attack": 2500,
+  "defense": 3000,
+  "level": 9,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40908371.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40908371.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40908371.jpg"
+  }
+}

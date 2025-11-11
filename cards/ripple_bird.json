@@ -1,0 +1,16 @@
+{
+  "id": 56410769,
+  "name": "Ripple Bird",
+  "type": "XYZ Monster",
+  "description": "2 Level 1 monsters\r\nYou can detach 1 material from this card, then target 1 monster on the field; change its battle position. While all monsters you control are in Attack Position, they gain 500 ATK. While all monsters you control are in Defense Position, your opponent cannot declare an attack.",
+  "attack": 1000,
+  "defense": 0,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56410769.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56410769.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56410769.jpg"
+  }
+}

@@ -3,14 +3,14 @@
   "name": "Larvas",
   "type": "Normal Monster",
   "description": "A fast-moving, bird-like creature that strangles opposing monsters with its long, thin arms.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/94675535.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/94675535.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94675535.jpg"
-  },
   "attack": 800,
   "defense": 1000,
   "level": 3,
   "attribute": "EARTH",
-  "race": "Beast"
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94675535.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94675535.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94675535.jpg"
+  }
 }

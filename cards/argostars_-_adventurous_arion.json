@@ -1,0 +1,16 @@
+{
+  "id": 40706444,
+  "name": "Argostars - Adventurous Arion",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 monsters\r\nOnce per turn, you can also Xyz Summon \"Argostars - Adventurous Arion\" by using 1 \"Argostars\" monster you control (transfer its materials to this card). If this card is Xyz Summoned: You can add 1 \"Argostars\" Spell from your Deck to your hand. During the Standby Phase: You can detach 2 materials from this card; place up to 3 \"Argostars\" Continuous Traps from your GY, face-up in your Spell & Trap Zone. You can only use each effect of \"Argostars - Adventurous Arion\" once per turn.",
+  "attack": 2200,
+  "defense": 2200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40706444.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40706444.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40706444.jpg"
+  }
+}

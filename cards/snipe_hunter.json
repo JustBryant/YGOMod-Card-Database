@@ -1,0 +1,16 @@
+{
+  "id": 84290642,
+  "name": "Snipe Hunter",
+  "type": "Effect Monster",
+  "description": "You can discard 1 card, then target 1 card on the field; roll a six-sided die, and destroy that target unless you roll a 1 or 6.",
+  "attack": 1500,
+  "defense": 600,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84290642.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84290642.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84290642.jpg"
+  }
+}

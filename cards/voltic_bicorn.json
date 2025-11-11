@@ -1,0 +1,16 @@
+{
+  "id": 13995824,
+  "name": "Voltic Bicorn",
+  "type": "Synchro Monster",
+  "description": "1 Beast-Type Tuner + 1 or more non-Tuner monsters\nIf this card is destroyed by your opponent's card (either by battle or by card effect), both players send the top 7 cards of their Deck to the Graveyard.",
+  "attack": 2500,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13995824.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13995824.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13995824.jpg"
+  }
+}

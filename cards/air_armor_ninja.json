@@ -1,0 +1,16 @@
+{
+  "id": 69023354,
+  "name": "Air Armor Ninja",
+  "type": "Effect Monster",
+  "description": "When this card is Summoned: You can target 1 \"Ninja\" monster you control; reduce its Level by 1.",
+  "attack": 1400,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69023354.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69023354.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69023354.jpg"
+  }
+}

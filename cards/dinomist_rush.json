@@ -1,0 +1,12 @@
+{
+  "id": 41554273,
+  "name": "Dinomist Rush",
+  "type": "Trap Card",
+  "description": "Special Summon 1 \"Dinomist\" monster from your Deck, and if you do, it is unaffected by other cards' effects, also destroy it during the End Phase. You can only activate 1 \"Dinomist Rush\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41554273.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41554273.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41554273.jpg"
+  }
+}

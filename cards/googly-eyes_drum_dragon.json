@@ -1,0 +1,16 @@
+{
+  "id": 77799846,
+  "name": "Googly-Eyes Drum Dragon",
+  "type": "XYZ Monster",
+  "description": "2 Level 8 Machine-Type monsters\nOnce per turn: You can detach 1 Xyz Material from this card; it gains 1000 ATK, until the end of your opponent's next turn. If this card is destroyed while it has Xyz Material: You can banish 1 \"Super Defense Robot\" monster from your Graveyard; Special Summon this card from your Graveyard, then, you can attach 1 \"Super Defense Robot\" monster from your Graveyard to this card as an Xyz Material.",
+  "attack": 3000,
+  "defense": 2500,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77799846.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77799846.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77799846.jpg"
+  }
+}

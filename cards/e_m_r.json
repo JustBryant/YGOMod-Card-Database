@@ -1,0 +1,12 @@
+{
+  "id": 17427333,
+  "name": "E.M.R.",
+  "type": "Trap Card",
+  "description": "Tribute 1 Machine monster, then target 1 card on the field for every 1000 original ATK of the Tributed monster; destroy those cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17427333.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17427333.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17427333.jpg"
+  }
+}

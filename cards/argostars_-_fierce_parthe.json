@@ -1,0 +1,16 @@
+{
+  "id": 21050476,
+  "name": "Argostars - Fierce Parthe",
+  "type": "Effect Monster",
+  "description": "Gains 700 ATK/DEF for each \"Argostars\" monster with a different name you control, except this card. You can only use each of the following effects of \"Argostars - Fierce Parthe\" once per turn. (Quick Effect): You can reveal this card in your hand; return 1 \"Argostars\" Continuous Trap you control to the hand, and if you do, Special Summon this card. You can banish this card you control; Set 1 Continuous Trap from your hand. It can be activated this turn.",
+  "attack": 1400,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21050476.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21050476.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21050476.jpg"
+  }
+}

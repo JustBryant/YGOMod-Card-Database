@@ -1,0 +1,12 @@
+{
+  "id": 67232306,
+  "name": "Mirror Mail",
+  "type": "Trap Card",
+  "description": "When a face-up monster you control is targeted for an attack: Its ATK becomes equal to that of the attacking monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67232306.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67232306.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67232306.jpg"
+  }
+}

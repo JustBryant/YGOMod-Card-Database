@@ -1,0 +1,16 @@
+{
+  "id": 45985838,
+  "name": "Solar Flare Dragon",
+  "type": "Effect Monster",
+  "description": "While you control another Pyro-Type monster, this card cannot be attacked. During each of your End Phases: Inflict 500 damage to your opponent.",
+  "attack": 1500,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45985838.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45985838.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45985838.jpg"
+  }
+}

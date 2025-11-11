@@ -1,0 +1,16 @@
+{
+  "id": 86321248,
+  "name": "Ancient Gear Gadjiltron Chimera",
+  "type": "Effect Monster",
+  "description": "This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.\n● Green Gadget: This card gains 300 ATK.\n● Red Gadget: If this card inflicts battle damage to your opponent by a direct attack: Inflict 500 damage to your opponent.\n● Yellow Gadget: If this card destroys an opponent's monster by battle: Inflict 700 damage to your opponent.",
+  "attack": 2300,
+  "defense": 1300,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86321248.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86321248.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86321248.jpg"
+  }
+}

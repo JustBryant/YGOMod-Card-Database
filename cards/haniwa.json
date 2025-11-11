@@ -1,0 +1,16 @@
+{
+  "id": 84285623,
+  "name": "Haniwa",
+  "type": "Normal Monster",
+  "description": "An earthen figure that protects the tomb of an ancient ruler.",
+  "attack": 500,
+  "defense": 500,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84285623.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84285623.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84285623.jpg"
+  }
+}

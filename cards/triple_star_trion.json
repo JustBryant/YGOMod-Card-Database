@@ -1,0 +1,16 @@
+{
+  "id": 34796454,
+  "name": "Triple Star Trion",
+  "type": "Effect Monster",
+  "description": "During the End Phase, if this card is in the Graveyard because it was sent there this turn as a Tribute for a successful Tribute Summon: You can Special Summon this card from your Graveyard.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34796454.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34796454.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34796454.jpg"
+  }
+}

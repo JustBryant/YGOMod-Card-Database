@@ -1,0 +1,12 @@
+{
+  "id": 5479217,
+  "name": "Jurrac Impact",
+  "type": "Trap Card",
+  "description": "If you control a Dinosaur-Type monster with 2500 or more ATK: Destroy all cards on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5479217.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5479217.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5479217.jpg"
+  }
+}

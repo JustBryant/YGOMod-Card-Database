@@ -1,0 +1,16 @@
+{
+  "id": 20137754,
+  "name": "Duza the Meteor Cubic Vessel",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can send 1 \"Cubic\" card from your Deck to the Graveyard. Once per turn, during either player's turn, if a monster was sent to your Graveyard this turn while this card was face-up on the field: You can make this card gain 200 ATK for each monster with a different name in your Graveyard, until the end of this turn.",
+  "attack": 1600,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20137754.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20137754.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20137754.jpg"
+  }
+}

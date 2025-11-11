@@ -1,0 +1,12 @@
+{
+  "id": 34717238,
+  "name": "Pulling the Rug",
+  "type": "Trap Card",
+  "description": "Negate the activation and effect of an Effect Monster whose effect activated when a monster was Normal Summoned (even itself), and destroy that Effect Monster.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34717238.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34717238.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34717238.jpg"
+  }
+}

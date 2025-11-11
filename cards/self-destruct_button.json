@@ -1,0 +1,12 @@
+{
+  "id": 57585212,
+  "name": "Self-Destruct Button",
+  "type": "Trap Card",
+  "description": "You can only activate this card while your Life Points are lower than your opponent's Life Points and the difference is 7000 points or more. Both players' Life Points become 0.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57585212.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57585212.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57585212.jpg"
+  }
+}

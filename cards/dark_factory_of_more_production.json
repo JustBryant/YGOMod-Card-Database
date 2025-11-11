@@ -1,0 +1,12 @@
+{
+  "id": 9064354,
+  "name": "Dark Factory of More Production",
+  "type": "Trap Card",
+  "description": "You can send 1 monster from your hand or field to the GY; draw 1 card. You can only use this effect of \"Dark Factory of More Production\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9064354.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9064354.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9064354.jpg"
+  }
+}

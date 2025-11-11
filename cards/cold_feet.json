@@ -1,0 +1,12 @@
+{
+  "id": 40383551,
+  "name": "Cold Feet",
+  "type": "Spell Card",
+  "description": "You cannot activate, Set, or use the effects of any Spell/Trap Cards this turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40383551.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40383551.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40383551.jpg"
+  }
+}

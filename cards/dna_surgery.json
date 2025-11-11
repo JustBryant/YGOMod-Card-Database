@@ -1,0 +1,12 @@
+{
+  "id": 74701381,
+  "name": "DNA Surgery",
+  "type": "Trap Card",
+  "description": "Activate this card by declaring 1 Monster Type. All face-up monsters on the field become that Type.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74701381.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74701381.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74701381.jpg"
+  }
+}

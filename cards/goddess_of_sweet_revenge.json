@@ -1,0 +1,16 @@
+{
+  "id": 72589042,
+  "name": "Goddess of Sweet Revenge",
+  "type": "Effect Monster",
+  "description": "While you control no cards and this is the only card in your hand, when an opponent's monster declares an attack: You can discard this card; destroy as many cards as possible your opponent controls, then you can Special Summon 1 monster from your Deck.",
+  "attack": 1800,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72589042.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72589042.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72589042.jpg"
+  }
+}

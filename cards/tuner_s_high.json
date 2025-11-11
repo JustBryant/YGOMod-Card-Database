@@ -1,0 +1,12 @@
+{
+  "id": 85821180,
+  "name": "Tuner's High",
+  "type": "Spell Card",
+  "description": "Discard 1 monster; Special Summon from your Deck, 1 Tuner monster with the same original Type and Attribute, but 1 Level higher than the discarded monster had in hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85821180.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85821180.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85821180.jpg"
+  }
+}

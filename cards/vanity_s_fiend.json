@@ -1,0 +1,16 @@
+{
+  "id": 47084486,
+  "name": "Vanity's Fiend",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned. Neither player can Special Summon monsters.",
+  "attack": 2400,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47084486.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47084486.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47084486.jpg"
+  }
+}

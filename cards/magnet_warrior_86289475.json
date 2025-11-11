@@ -1,0 +1,16 @@
+{
+  "id": 86289475,
+  "name": "Magnet Warrior Ω+",
+  "type": "Effect Monster",
+  "description": "If this card is in your hand or GY: You can destroy 1 other Rock monster in your hand or face-up field, and if you do, Special Summon this card, but banish it when it leaves the field. When an EARTH monster on the field activates its effect (Quick Effect): You can Tribute this card, then target 1 face-up monster on the field; change it to face-down Defense Position. You can only use each effect of \"Magnet Warrior Ω+\" once per turn.",
+  "attack": 800,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86289475.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86289475.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86289475.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 44073668,
+  "name": "Takriminos",
+  "type": "Normal Monster",
+  "description": "A member of a race of sea serpents that freely travels through the sea.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44073668.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44073668.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44073668.jpg"
+  }
+}

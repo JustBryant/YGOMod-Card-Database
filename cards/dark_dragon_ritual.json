@@ -1,0 +1,12 @@
+{
+  "id": 18803791,
+  "name": "Dark Dragon Ritual",
+  "type": "Spell Card",
+  "description": "This card is used to Ritual Summon \"Paladin of Dark Dragon\". You must also Tribute monsters from your hand or field whose total Levels equal 4 or more. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard; add 1 \"Red-Eyes\" Spell/Trap Card from your Deck to your hand.",
+  "race": "Ritual",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18803791.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18803791.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18803791.jpg"
+  }
+}

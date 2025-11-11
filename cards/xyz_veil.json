@@ -1,0 +1,12 @@
+{
+  "id": 96457619,
+  "name": "Xyz Veil",
+  "type": "Trap Card",
+  "description": "Face-up Xyz Monsters with Xyz Material cannot be targeted by card effects.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96457619.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96457619.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96457619.jpg"
+  }
+}

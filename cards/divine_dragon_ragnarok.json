@@ -1,0 +1,16 @@
+{
+  "id": 62113340,
+  "name": "Divine Dragon Ragnarok",
+  "type": "Normal Monster",
+  "description": "A legendary dragon sent by the gods as their instrument. Legends say that if provoked, the whole world will sink beneath the sea.",
+  "attack": 1500,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62113340.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62113340.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62113340.jpg"
+  }
+}

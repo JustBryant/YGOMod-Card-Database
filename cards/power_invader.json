@@ -1,0 +1,16 @@
+{
+  "id": 18842395,
+  "name": "Power Invader",
+  "type": "Effect Monster",
+  "description": "If your opponent controls 2 or more monsters, you can Normal Summon this card without Tributing.",
+  "attack": 2200,
+  "defense": 0,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18842395.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18842395.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18842395.jpg"
+  }
+}

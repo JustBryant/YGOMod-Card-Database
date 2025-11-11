@@ -1,0 +1,16 @@
+{
+  "id": 77330185,
+  "name": "XX-Saber Garsem",
+  "type": "Effect Monster",
+  "description": "When this card on the field is destroyed and sent to the Graveyard by a card effect, add 1 \"X-Saber\" monster from your Deck to your hand. This card gains 200 ATK for each face-up \"X-Saber\" monster you control.",
+  "attack": 1400,
+  "defense": 400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77330185.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77330185.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77330185.jpg"
+  }
+}

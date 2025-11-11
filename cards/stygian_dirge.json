@@ -1,0 +1,12 @@
+{
+  "id": 81489939,
+  "name": "Stygian Dirge",
+  "type": "Trap Card",
+  "description": "Reduce the Levels of all monsters your opponent controls by 1.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81489939.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81489939.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81489939.jpg"
+  }
+}

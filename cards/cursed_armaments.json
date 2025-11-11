@@ -1,0 +1,12 @@
+{
+  "id": 98867329,
+  "name": "Cursed Armaments",
+  "type": "Spell Card",
+  "description": "The equipped monster loses 600 ATK for each monster you control. When this card is sent from the field to the Graveyard: You can target 1 face-up monster your opponent controls; equip it with this card.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98867329.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98867329.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98867329.jpg"
+  }
+}

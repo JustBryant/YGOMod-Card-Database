@@ -1,0 +1,16 @@
+{
+  "id": 5237827,
+  "name": "Vylon Ohm",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned: Target 1 Equip Spell Card in your Graveyard; banish that target, and if you do, add it to your hand during your next Standby Phase.",
+  "attack": 1500,
+  "defense": 200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5237827.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5237827.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5237827.jpg"
+  }
+}

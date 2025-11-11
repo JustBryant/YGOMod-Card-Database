@@ -1,0 +1,16 @@
+{
+  "id": 63825486,
+  "name": "Gimmick Puppet Rouge Doll",
+  "type": "Effect Monster",
+  "description": "If this card is in your hand: You can reveal 1 \"Gimmick Puppet\" Xyz Monster in your Extra Deck; Special Summon both this card, and 1 \"Gimmick Puppet\" monster with the same Level as the revealed monster's Rank from your Deck. If this card is sent to the GY, except from the hand: You can add it to your hand. You can only use each effect of \"Gimmick Puppet Rouge Doll\" once per turn, also you cannot Special Summon from the Extra Deck the turn you activate either of this card's effects, except \"Gimmick Puppet\" monsters.",
+  "attack": 400,
+  "defense": 1400,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63825486.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63825486.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63825486.jpg"
+  }
+}

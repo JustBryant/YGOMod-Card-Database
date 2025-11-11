@@ -1,0 +1,16 @@
+{
+  "id": 31768112,
+  "name": "Oilman",
+  "type": "Union Effect Monster",
+  "description": "Once per turn, you can either: Target 1 Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it in Attack Position. While equipped by this effect, if the equipped monster destroys an opponent's monster by battle: Draw 1 card. (A monster can only be equipped with 1 Union monster at a time. If the equipped monster would be destroyed, destroy this card instead.)",
+  "attack": 400,
+  "defense": 400,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31768112.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31768112.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31768112.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 49140998,
+  "name": "A Feather of the Phoenix",
+  "type": "Spell Card",
+  "description": "Discard 1 card, then target 1 card in your GY; return that target to the top of your Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49140998.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49140998.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49140998.jpg"
+  }
+}

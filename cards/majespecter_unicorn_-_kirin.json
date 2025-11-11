@@ -1,0 +1,16 @@
+{
+  "id": 31178212,
+  "name": "Majespecter Unicorn - Kirin",
+  "type": "Pendulum Effect Monster",
+  "description": "During either player's turn: You can target 1 Pendulum Monster in your Monster Zone and 1 monster your opponent controls; return them to the hand(s). You can only use this effect of \"Majespecter Unicorn - Kirin\" once per turn. Cannot be targeted or destroyed by your opponent's card effects.",
+  "attack": 2000,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31178212.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31178212.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31178212.jpg"
+  }
+}

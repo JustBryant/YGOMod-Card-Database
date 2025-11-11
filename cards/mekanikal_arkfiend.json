@@ -1,0 +1,16 @@
+{
+  "id": 93715853,
+  "name": "Mekanikal Arkfiend",
+  "type": "Effect Monster",
+  "description": "When this card inflicts battle damage to your opponent: You can Special Summon 1 Normal Monster from your hand or Graveyard.",
+  "attack": 100,
+  "defense": 2100,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93715853.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93715853.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93715853.jpg"
+  }
+}

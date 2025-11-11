@@ -1,0 +1,16 @@
+{
+  "id": 93211836,
+  "name": "Genex Army",
+  "type": "Effect Monster",
+  "description": "When this card is Tribute Summoned by Tributing a \"Genex\" monster, you can destroy 1 card your opponent controls.",
+  "attack": 2300,
+  "defense": 1300,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93211836.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93211836.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93211836.jpg"
+  }
+}

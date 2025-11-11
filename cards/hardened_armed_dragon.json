@@ -1,0 +1,16 @@
+{
+  "id": 68473226,
+  "name": "Hardened Armed Dragon",
+  "type": "Effect Monster",
+  "description": "(This card is not treated as an \"Armed Dragon\" card.)\r\nYou can Special Summon this card (from your hand) by sending 1 Level 8 or higher monster from your hand to the Graveyard. If you Tribute this card for the Tribute Summon of a Level 7 or higher monster, that monster cannot be destroyed by card effects.",
+  "attack": 1500,
+  "defense": 800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68473226.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68473226.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68473226.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13143275,
+  "name": "Guardragon Pisty",
+  "type": "Link Monster",
+  "description": "1 Level 4 or lower Dragon monster\r\nYou cannot Special Summon monsters, except Dragon monsters. During your Main Phase: You can target 1 of your Dragon monsters that is banished or in your GY; Special Summon it to your zone that 2 or more Link Monsters point to. You can only use this effect of \"Guardragon Pisty\" once per turn. You can only Special Summon \"Guardragon Pisty(s)\" once per turn.",
+  "attack": 1000,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13143275.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13143275.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13143275.jpg"
+  }
+}

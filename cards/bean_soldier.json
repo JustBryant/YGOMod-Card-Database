@@ -1,0 +1,16 @@
+{
+  "id": 84990171,
+  "name": "Bean Soldier",
+  "type": "Normal Monster",
+  "description": "A plant-warrior that attacks with seeds and sword.",
+  "attack": 1400,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84990171.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84990171.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84990171.jpg"
+  }
+}

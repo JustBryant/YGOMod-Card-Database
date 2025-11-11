@@ -1,0 +1,12 @@
+{
+  "id": 62472614,
+  "name": "Pestilence",
+  "type": "Spell Card",
+  "description": "Equip only to a Warrior-Type, Beast-Warrior-Type, or Spellcaster-Type monster. Its ATK becomes 0. During each of your Standby Phases, inflict 500 damage to the controller of the equipped monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62472614.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62472614.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62472614.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 36280194,
+  "name": "Backup Soldier",
+  "type": "Trap Card",
+  "description": "While there are 5 or more monsters in your Graveyard: Target up to 3 non-Effect Monsters with 1500 or less ATK in your Graveyard; add them to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36280194.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36280194.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36280194.jpg"
+  }
+}

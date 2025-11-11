@@ -1,0 +1,16 @@
+{
+  "id": 40196604,
+  "name": "Dark Shade",
+  "type": "Normal Monster",
+  "description": "''A crystal monster that unleashes a brilliant light to blind enemies.''",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40196604.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40196604.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40196604.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12829151,
+  "name": "Kanan the Swordmistress",
+  "type": "Normal Monster",
+  "description": "A lady warrior armed with sword and shield, she floats lightly and stings sharply.",
+  "attack": 1400,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12829151.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12829151.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12829151.jpg"
+  }
+}

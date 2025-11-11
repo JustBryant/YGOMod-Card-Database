@@ -1,0 +1,16 @@
+{
+  "id": 73580471,
+  "name": "Black Rose Dragon",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nWhen this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant monster from your GY, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.",
+  "attack": 2400,
+  "defense": 1800,
+  "level": 7,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73580471.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73580471.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73580471.jpg"
+  }
+}

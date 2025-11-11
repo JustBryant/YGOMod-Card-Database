@@ -1,0 +1,16 @@
+{
+  "id": 82176812,
+  "name": "Hydrotortoise, the Empowered Warrior",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Target 1 Spell/Trap Card your opponent controls; destroy it.",
+  "attack": 1400,
+  "defense": 900,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82176812.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82176812.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82176812.jpg"
+  }
+}

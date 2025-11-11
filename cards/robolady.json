@@ -1,0 +1,16 @@
+{
+  "id": 92421852,
+  "name": "Robolady",
+  "type": "Normal Monster",
+  "description": "A warrior fully covered with metal. It upgrades by fusing with \"Roboyarou\".",
+  "attack": 450,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92421852.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92421852.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92421852.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13683298,
+  "name": "Thunderclap Skywolf",
+  "type": "Effect Monster",
+  "description": "If this card is Special Summoned from the Graveyard: You can destroy all face-up monsters your opponent controls. You cannot conduct your Battle Phase the turn you activate this effect.",
+  "attack": 2500,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13683298.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13683298.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13683298.jpg"
+  }
+}

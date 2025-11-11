@@ -1,0 +1,16 @@
+{
+  "id": 10315429,
+  "name": "Yaiba Robo",
+  "type": "Normal Monster",
+  "description": "A cubical machine equipped with cutting blades for shredding an opponent to mincemeat.",
+  "attack": 1000,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10315429.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10315429.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10315429.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2461031,
+  "name": "Inzektor Ladybug",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster's Level is increased by 2, also it gains ATK and DEF equal to this card's ATK and DEF. While this card is equipped to a monster: You can send this Equip Card to the Graveyard to target 1 face-up monster you control; increase that target's Level by up to 2.",
+  "attack": 500,
+  "defense": 100,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2461031.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2461031.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2461031.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1033312,
+  "name": "Painful Decision",
+  "type": "Spell Card",
+  "description": "Send 1 Level 4 or lower Normal Monster from your Deck to the Graveyard, and if you do, add 1 card with the same name as that card from your Deck to your hand. You can only activate 1 \"Painful Decision\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1033312.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1033312.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1033312.jpg"
+  }
+}

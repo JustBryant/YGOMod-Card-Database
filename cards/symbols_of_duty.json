@@ -1,0 +1,12 @@
+{
+  "id": 78794994,
+  "name": "Symbols of Duty",
+  "type": "Spell Card",
+  "description": "Send 1 Normal Monster you control to the Graveyard, then target 1 monster in either player's Graveyard; Special Summon it, and if you do, equip this card to it. When this card leaves the field, destroy the equipped monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78794994.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78794994.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78794994.jpg"
+  }
+}

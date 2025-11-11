@@ -1,0 +1,16 @@
+{
+  "id": 30079770,
+  "name": "Red-Eyes Black Flare Dragon",
+  "type": "Gemini Monster",
+  "description": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● If damage calculation is performed involving this card, at the end of the Battle Phase: You can inflict damage to your opponent equal to this card's original ATK. You can only use this effect of \"Red-Eyes Black Flare Dragon\" once per turn.",
+  "attack": 2400,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30079770.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30079770.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30079770.jpg"
+  }
+}

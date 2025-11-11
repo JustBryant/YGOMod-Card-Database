@@ -1,0 +1,12 @@
+{
+  "id": 27770341,
+  "name": "Super Rejuvenation",
+  "type": "Spell Card",
+  "description": "During the End Phase of the turn this card was activated, draw a number of cards equal to the combined number of Dragon monsters you discarded or Tributed from your hand or field this turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27770341.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27770341.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27770341.jpg"
+  }
+}

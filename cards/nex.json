@@ -1,0 +1,12 @@
+{
+  "id": 81913510,
+  "name": "NEX",
+  "type": "Spell Card",
+  "description": "Send 1 face-up \"Neo-Spacian\" monster you control to the Graveyard. Special Summon 1 Level 4 monster with the same name from your Extra Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81913510.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81913510.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81913510.jpg"
+  }
+}

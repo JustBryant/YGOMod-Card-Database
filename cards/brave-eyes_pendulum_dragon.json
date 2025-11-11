@@ -1,0 +1,16 @@
+{
+  "id": 88305705,
+  "name": "Brave-Eyes Pendulum Dragon",
+  "type": "Fusion Monster",
+  "description": "1 \"Pendulum Dragon\" monster + 1 Warrior-Type monster\nWhen this card is Fusion Summoned: You can change the ATK of all face-up monsters your opponent currently controls to 0, also, for the rest of this turn, other monsters you control cannot attack. Negate the activated effects of monsters with 0 ATK. At the end of the Damage Step, when this card attacks an opponent's monster, but the opponent's monster was not destroyed by the battle: You can banish that opponent's monster.",
+  "attack": 3000,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88305705.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88305705.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88305705.jpg"
+  }
+}

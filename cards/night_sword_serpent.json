@@ -1,0 +1,16 @@
+{
+  "id": 20295753,
+  "name": "Night Sword Serpent",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the GY by a card effect: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Night Sword Serpent\" once per turn.",
+  "attack": 500,
+  "defense": 600,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20295753.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20295753.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20295753.jpg"
+  }
+}

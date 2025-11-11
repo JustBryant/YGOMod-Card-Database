@@ -1,0 +1,16 @@
+{
+  "id": 83392426,
+  "name": "Bicular",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 \"Unicycular\" from your hand or Deck.",
+  "attack": 200,
+  "defense": 200,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83392426.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83392426.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83392426.jpg"
+  }
+}

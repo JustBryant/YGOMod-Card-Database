@@ -1,0 +1,16 @@
+{
+  "id": 24431911,
+  "name": "Tellusrion the Magna Warrior",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your GY) by banishing 1 \"Magnet Warrior Σ＋\" and 1 \"Magnet Warrior Σ－\" from your hand, face-up field, and/or GY. Once per turn, when your opponent activates a card or effect (Quick Effect): You can target 1 monster your opponent controls; destroy it, or if you targeted an EARTH monster at activation, you can take control of it instead. During your opponent's turn (Quick Effect): You can Tribute this card; Special Summon 2 of your banished \"Magnet Warrior Σ\" monsters.",
+  "attack": 2500,
+  "defense": 2500,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24431911.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24431911.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24431911.jpg"
+  }
+}

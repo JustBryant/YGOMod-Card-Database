@@ -1,0 +1,16 @@
+{
+  "id": 77754169,
+  "name": "Super Armored Robot Armed Black Iron \"C\"",
+  "type": "Effect Monster",
+  "description": "If you have 3 Insect monsters with the same name in your GY: You can target any number of them; Special Summon this card from your hand, then equip them to this card. You can send 1 monster equipped to this card by this card's effect to the GY; destroy all monsters your opponent controls with ATK greater than or equal to the ATK of the monster sent to the GY. You can only use each effect of \"Super Armored Robot Armed Black Iron \"C\"\" once per turn.",
+  "attack": 2400,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77754169.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77754169.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77754169.jpg"
+  }
+}

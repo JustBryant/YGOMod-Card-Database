@@ -1,0 +1,16 @@
+{
+  "id": 3026686,
+  "name": "Valkyrie Dritte",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can add 1 \"Valkyrie\" card from your Deck to your hand, except \"Valkyrie Dritte\". You can only use this effect of \"Valkyrie Dritte\" once per turn. Gains 200 ATK for each of your opponent's banished monsters.",
+  "attack": 1000,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3026686.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3026686.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3026686.jpg"
+  }
+}

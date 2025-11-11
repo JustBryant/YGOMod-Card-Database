@@ -1,0 +1,16 @@
+{
+  "id": 29719112,
+  "name": "Cyber Pharos",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by Tributing 1 Machine monster. Once per turn, during your Main Phase: You can Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand and/or field as material. When a Fusion Monster you control is destroyed by battle: You can banish this card from your GY; add 1 \"Power Bond\" from your Deck to your hand. You can only use this effect of \"Cyber Pharos\" once per turn.",
+  "attack": 0,
+  "defense": 2100,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29719112.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29719112.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29719112.jpg"
+  }
+}

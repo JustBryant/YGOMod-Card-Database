@@ -1,0 +1,16 @@
+{
+  "id": 14771222,
+  "name": "Shore Knight",
+  "type": "Effect Monster",
+  "description": "Once per turn, if the battle position of this face-up card on the field is changed: Send 1 WATER monster from your Deck to the GY.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14771222.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14771222.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14771222.jpg"
+  }
+}

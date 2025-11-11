@@ -1,0 +1,16 @@
+{
+  "id": 23965033,
+  "name": "Amazoness Augusta",
+  "type": "Fusion Monster",
+  "description": "1 \"Amazoness\" Fusion Monster + 1 \"Amazoness\" monster\r\nYour opponent cannot target other \"Amazoness\" cards you control with card effects, also those cards cannot be destroyed by your opponent's card effects. If this card was Fusion Summoned using \"Amazoness Empress\" or \"Amazoness Queen\" as material, it can make a second attack during each Battle Phase. If this card is Fusion Summoned: You can Special Summon 1 \"Amazoness\" monster from your Deck. You can only use this effect of \"Amazoness Augusta\" once per turn.",
+  "attack": 3200,
+  "defense": 2800,
+  "level": 10,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23965033.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23965033.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23965033.jpg"
+  }
+}

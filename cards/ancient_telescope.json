@@ -1,0 +1,12 @@
+{
+  "id": 17092736,
+  "name": "Ancient Telescope",
+  "type": "Spell Card",
+  "description": "See the top 5 cards of your opponent's Deck. Return the cards to the Deck in the same order.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17092736.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17092736.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17092736.jpg"
+  }
+}

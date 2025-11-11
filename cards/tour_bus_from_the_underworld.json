@@ -1,0 +1,16 @@
+{
+  "id": 52823314,
+  "name": "Tour Bus From the Underworld",
+  "type": "Effect Monster",
+  "description": "When this card is sent to the Graveyard: Target 1 monster in either player's Graveyard, except \"Tour Bus From the Underworld\"; shuffle that target into the Deck.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52823314.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52823314.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52823314.jpg"
+  }
+}

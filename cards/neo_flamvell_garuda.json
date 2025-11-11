@@ -1,0 +1,16 @@
+{
+  "id": 65156847,
+  "name": "Neo Flamvell Garuda",
+  "type": "Effect Monster",
+  "description": "During your End Phase, if you control another face-up \"Flamvell\" monster, select 1 card in your opponent's Graveyard and remove it from play.",
+  "attack": 1200,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65156847.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65156847.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65156847.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 93912845,
+  "name": "Revival Gift",
+  "type": "Trap Card",
+  "description": "Select 1 Tuner monster from your Graveyard and Special Summon it. Its effects are negated. Special Summon 2 \"Gift Fiend Tokens\" (Fiend-Type/DARK/Level 3/ATK 1500/DEF 1500) to your opponent's side of the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93912845.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93912845.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93912845.jpg"
+  }
+}

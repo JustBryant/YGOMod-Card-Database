@@ -1,0 +1,12 @@
+{
+  "id": 17016131,
+  "name": "Pride of the Plunder Patroll",
+  "type": "Trap Card",
+  "description": "If your \"Plunder Patroll\" monster destroys an opponent's monster by battle: Draw 1 card. If you control a \"Plunder Patroll\" monster: You can send this face-up card from your field to the GY, then activate 1 of these effects;\r\n● Your opponent draws 1 card, then you look at their hand and send 1 monster from it to the GY.\r\n● Look at your opponent's Extra Deck and send 1 monster from it to the GY.\r\nYou can only use each effect of \"Pride of the Plunder Patroll\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17016131.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17016131.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17016131.jpg"
+  }
+}

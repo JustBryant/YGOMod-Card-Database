@@ -1,0 +1,16 @@
+{
+  "id": 81919143,
+  "name": "Brain Crusher",
+  "type": "Effect Monster",
+  "description": "Once per turn, during the End Phase, if this card destroyed an opponent's monster by battle and sent it to the Graveyard this turn while you controlled it: You can target 1 of those destroyed monsters in the Graveyard; Special Summon that target.",
+  "attack": 2400,
+  "defense": 1500,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81919143.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81919143.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81919143.jpg"
+  }
+}

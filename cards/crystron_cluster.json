@@ -1,0 +1,12 @@
+{
+  "id": 53829527,
+  "name": "Crystron Cluster",
+  "type": "Trap Card",
+  "description": "\"Crystron\" cards you control cannot be banished by your opponent's card effects. You can target 1 face-up card on the field, or you can target 2 if you control a \"Crystron\" Synchro Monster; shuffle 1 \"Crystron\" card from your GY or banishment into the Deck, except \"Crystron Cluster\", and if you do, destroy the targeted card(s). You can only use this effect of \"Crystron Cluster\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53829527.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53829527.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53829527.jpg"
+  }
+}

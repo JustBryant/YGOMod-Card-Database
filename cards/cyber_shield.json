@@ -1,0 +1,12 @@
+{
+  "id": 63224564,
+  "name": "Cyber Shield",
+  "type": "Spell Card",
+  "description": "Equip only to \"Harpie Lady\" or \"Harpie Lady Sisters\". It gains 500 ATK.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63224564.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63224564.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63224564.jpg"
+  }
+}

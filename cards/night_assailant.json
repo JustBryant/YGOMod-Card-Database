@@ -1,0 +1,16 @@
+{
+  "id": 16226786,
+  "name": "Night Assailant",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Target 1 monster your opponent controls; destroy that target.\nWhen this card is sent from the hand to the Graveyard: Target 1 Flip Effect Monster in your Graveyard, except this card; return that target to the hand.",
+  "attack": 200,
+  "defense": 500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16226786.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16226786.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16226786.jpg"
+  }
+}

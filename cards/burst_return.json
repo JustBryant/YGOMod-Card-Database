@@ -1,0 +1,12 @@
+{
+  "id": 27191436,
+  "name": "Burst Return",
+  "type": "Spell Card",
+  "description": "If you control a face-up \"Elemental HERO Burstinatrix\": Return all face-up \"Elemental HERO\" monsters on the field to the hand, except \"Elemental HERO Burstinatrix\".",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27191436.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27191436.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27191436.jpg"
+  }
+}

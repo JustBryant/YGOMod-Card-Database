@@ -1,0 +1,16 @@
+{
+  "id": 15658249,
+  "name": "Worm Barses",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: Target 1 Defense Position monster; change that target to face-up Attack Position.",
+  "attack": 1400,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15658249.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15658249.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15658249.jpg"
+  }
+}

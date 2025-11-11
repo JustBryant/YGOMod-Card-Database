@@ -1,0 +1,12 @@
+{
+  "id": 2819436,
+  "name": "Phantasm Spiral Token",
+  "type": "Token",
+  "description": "Summoned by the effect of \"Pacifis, the Phantasm City\".",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2819436.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2819436.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2819436.jpg"
+  }
+}

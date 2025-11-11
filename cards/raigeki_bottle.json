@@ -1,0 +1,12 @@
+{
+  "id": 11741041,
+  "name": "Raigeki Bottle",
+  "type": "Trap Card",
+  "description": "Each time a monster you control declares an attack, place 1 Thunder Counter on this card. You can send this card with 4 or more Thunder Counters to the Graveyard; destroy all monsters your opponent controls.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11741041.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11741041.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11741041.jpg"
+  }
+}

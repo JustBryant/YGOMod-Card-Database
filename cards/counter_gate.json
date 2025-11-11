@@ -1,0 +1,12 @@
+{
+  "id": 94561645,
+  "name": "Counter Gate",
+  "type": "Trap Card",
+  "description": "When an opponent's monster declares a direct attack: Negate the attack, and if you do, draw 1 card, then if it is a monster, immediately after this effect resolves, you can Normal Summon it in face-up Attack Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94561645.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94561645.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94561645.jpg"
+  }
+}

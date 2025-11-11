@@ -1,0 +1,12 @@
+{
+  "id": 17841166,
+  "name": "Magnet Force",
+  "type": "Trap Card",
+  "description": "This turn, all monsters on the field whose original Types are Machine or Rock, are unaffected by your opponent's monster effects (except their own).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17841166.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17841166.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17841166.jpg"
+  }
+}

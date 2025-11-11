@@ -1,0 +1,16 @@
+{
+  "id": 16387555,
+  "name": "Killer Tune Cue",
+  "type": "Tuner Monster",
+  "description": "If this card on the field would be used as Synchro Material, 1 Tuner in your hand can be used as 1 of the other materials. You can only use each of the following effects of \"Killer Tune Cue\" once per turn. If this card is Normal Summoned: You can Special Summon 1 Tuner from your hand, Deck, or GY, except \"Killer Tune Cue\", also you cannot Special Summon for the rest of this turn, except Tuners. If this card is sent to the GY as Synchro Material: You can excavate the top 2 cards of your opponent's Deck, banish 1 excavated card, also place the other on the top or bottom of the Deck.",
+  "attack": 900,
+  "defense": 1900,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16387555.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16387555.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16387555.jpg"
+  }
+}

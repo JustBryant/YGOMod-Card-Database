@@ -1,0 +1,16 @@
+{
+  "id": 57543573,
+  "name": "Worm Illidan",
+  "type": "Effect Monster",
+  "description": "Each time a card is Set on your side of the field, place 1 Worm Counter on this card. You can remove 2 Worm Counters from this card to select 1 card your opponent controls, and destroy it.",
+  "attack": 2000,
+  "defense": 1800,
+  "level": 5,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57543573.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57543573.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57543573.jpg"
+  }
+}

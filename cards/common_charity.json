@@ -1,0 +1,12 @@
+{
+  "id": 40465719,
+  "name": "Common Charity",
+  "type": "Trap Card",
+  "description": "Draw 2 cards, then banish 1 Normal Monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40465719.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40465719.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40465719.jpg"
+  }
+}

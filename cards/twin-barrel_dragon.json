@@ -1,0 +1,16 @@
+{
+  "id": 70050374,
+  "name": "Twin-Barrel Dragon",
+  "type": "Effect Monster",
+  "description": "When this card is Summoned: Target 1 card your opponent controls; toss a coin twice, and if the result is 2 Heads, destroy it.",
+  "attack": 1700,
+  "defense": 200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70050374.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70050374.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70050374.jpg"
+  }
+}

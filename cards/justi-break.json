@@ -1,0 +1,12 @@
+{
+  "id": 62271284,
+  "name": "Justi-Break",
+  "type": "Trap Card",
+  "description": "Activate only when your opponent declares an attack against a face-up Normal Monster you control. Destroy all monsters on the field, except face-up Attack Position Normal Monsters.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62271284.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62271284.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62271284.jpg"
+  }
+}

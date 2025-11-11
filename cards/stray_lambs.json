@@ -1,0 +1,12 @@
+{
+  "id": 60764581,
+  "name": "Stray Lambs",
+  "type": "Spell Card",
+  "description": "Special Summon 2 \"Lamb Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Summon other monsters the turn you activate this card (but you can Set).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60764581.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60764581.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60764581.jpg"
+  }
+}

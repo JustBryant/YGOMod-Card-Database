@@ -1,0 +1,12 @@
+{
+  "id": 96127902,
+  "name": "Made to Order Mermaid Outfit Outfitter",
+  "type": "Spell Card",
+  "description": "Target 1 card in your opponent's GY; banish it, then you can add 1 card from your Deck to your hand with the same name as that banished card. You can only activate 1 \"Made to Order Mermaid Outfit Outfitter\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96127902.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96127902.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96127902.jpg"
+  }
+}

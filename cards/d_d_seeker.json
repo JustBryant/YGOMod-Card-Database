@@ -1,0 +1,16 @@
+{
+  "id": 89015998,
+  "name": "D.D. Seeker",
+  "type": "Effect Monster",
+  "description": "(Quick Effect): You can target 1 face-up monster you control; banish it until the End Phase of the next turn. You can only use this effect of \"D.D. Seeker\" once per turn.",
+  "attack": 1500,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89015998.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89015998.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89015998.jpg"
+  }
+}

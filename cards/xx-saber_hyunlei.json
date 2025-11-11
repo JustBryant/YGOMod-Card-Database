@@ -1,0 +1,16 @@
+{
+  "id": 2203790,
+  "name": "XX-Saber Hyunlei",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nWhen this card is Synchro Summoned, you can select and destroy up to 3 Spell or Trap Cards on the field.",
+  "attack": 2300,
+  "defense": 1300,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2203790.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2203790.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2203790.jpg"
+  }
+}

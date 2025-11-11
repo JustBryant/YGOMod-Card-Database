@@ -1,0 +1,16 @@
+{
+  "id": 15317640,
+  "name": "B.E.S. Covered Core",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned, put 2 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, at the end of the Damage Step toss a coin and call it. If you call it wrong, remove 1 counter. If this card battles without a counter, destroy it at the end of the Damage Step.",
+  "attack": 2500,
+  "defense": 800,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15317640.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15317640.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15317640.jpg"
+  }
+}

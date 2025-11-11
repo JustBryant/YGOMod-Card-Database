@@ -1,0 +1,16 @@
+{
+  "id": 14357527,
+  "name": "Heavy Beetrooper Mighty Neptune",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by shuffling 3 of your banished Insect monsters into the Main Deck. During the Main Phase, if this card in its owner's control is destroyed or banished by an opponent's card effect: You can Special Summon this card. You can only use this effect of \"Heavy Beetrooper Mighty Neptune\" once per turn. Once per turn, during the End Phase: You can target 1 other Insect monster you control; it gains 1000 ATK.",
+  "attack": 3000,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14357527.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14357527.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14357527.jpg"
+  }
+}

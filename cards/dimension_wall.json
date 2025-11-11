@@ -1,0 +1,12 @@
+{
+  "id": 67095270,
+  "name": "Dimension Wall",
+  "type": "Trap Card",
+  "description": "Activate only when an opponent's monster declares an attack. Instead of you, your opponent takes the Battle Damage you would have taken from this battle.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67095270.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67095270.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67095270.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 59834564,
+  "name": "Bonfire Colossus",
+  "type": "Effect Monster",
+  "description": "If you control a FIRE monster, you can Special Summon this card (from your hand). When this card is Special Summoned: Target 2 FIRE monsters you control; destroy those targets.",
+  "attack": 2600,
+  "defense": 2200,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59834564.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59834564.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59834564.jpg"
+  }
+}

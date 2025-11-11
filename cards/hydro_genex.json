@@ -1,0 +1,16 @@
+{
+  "id": 47421985,
+  "name": "Hydro Genex",
+  "type": "Synchro Monster",
+  "description": "\"Genex Controller\" + 1 or more non-Tuner WATER monsters\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard, gain Life Points equal to the ATK of the destroyed monster.",
+  "attack": 2300,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47421985.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47421985.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47421985.jpg"
+  }
+}

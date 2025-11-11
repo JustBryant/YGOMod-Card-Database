@@ -1,0 +1,16 @@
+{
+  "id": 36834155,
+  "name": "Photon Pirate",
+  "type": "Effect Monster",
+  "description": "You can banish 1 \"Photon\" monster from your Graveyard; this card gains 1000 ATK until the End Phase. You can use the effect of \"Photon Pirate\" up to twice per turn.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36834155.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36834155.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36834155.jpg"
+  }
+}

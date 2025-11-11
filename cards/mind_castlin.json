@@ -1,0 +1,16 @@
+{
+  "id": 12172567,
+  "name": "Mind Castlin",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nYou can target 1 face-up monster your opponent controls; switch control of that monster and this card. If this Synchro Summoned card is sent to the GY: You can target 1 face-up monster on each field; switch control of those monsters. You can only use each effect of \"Mind Castlin\" once per turn.",
+  "attack": 1500,
+  "defense": 2600,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12172567.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12172567.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12172567.jpg"
+  }
+}

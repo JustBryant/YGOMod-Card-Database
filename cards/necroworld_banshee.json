@@ -1,0 +1,16 @@
+{
+  "id": 66570171,
+  "name": "Necroworld Banshee",
+  "type": "Effect Monster",
+  "description": "\"Zombie World\" in the Field Zone cannot be destroyed by card effects, also neither player can target it with card effects. (Quick Effect): You can banish this card from your field or GY; activate 1 \"Zombie World\" directly from your hand or Deck. You can only use this effect of \"Necroworld Banshee\" once per turn.",
+  "attack": 1800,
+  "defense": 200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66570171.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66570171.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66570171.jpg"
+  }
+}

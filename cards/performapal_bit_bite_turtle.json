@@ -1,0 +1,16 @@
+{
+  "id": 89113320,
+  "name": "Performapal Bit Bite Turtle",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn: You can reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set, and even if this card leaves the field).\n\n[ Monster Effect ] \nWhen this card is destroyed by battle: You can destroy the monster that destroyed it.",
+  "attack": 800,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89113320.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89113320.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89113320.jpg"
+  }
+}

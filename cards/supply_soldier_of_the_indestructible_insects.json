@@ -1,0 +1,16 @@
+{
+  "id": 23738096,
+  "name": "Supply Soldier of the Indestructible Insects",
+  "type": "Effect Monster",
+  "description": "When an Insect monster's effect is activated (Quick Effect): You can Special Summon this card from your hand, then if you activated this effect in response to your opponent's effect activation, negate that effect, also until the end of your next turn after this effect resolves, you cannot Special Summon from the Extra Deck, except Insect monsters. During your Main Phase: You can Fusion Summon 1 Insect Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of \"Supply Soldier of the Indestructible Insects\" once per turn.",
+  "attack": 600,
+  "defense": 300,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23738096.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23738096.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23738096.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 85541675,
+  "name": "Karakuri Anatomy",
+  "type": "Spell Card",
+  "description": "Each time a \"Karakuri\" monster's battle position is changed, place 1 Karakuri Counter on this card (max. 2). You can send this card from the field to the Graveyard to draw 1 card for each Karakuri Counter on this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85541675.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85541675.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85541675.jpg"
+  }
+}

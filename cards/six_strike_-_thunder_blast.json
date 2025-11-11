@@ -1,0 +1,12 @@
+{
+  "id": 23212990,
+  "name": "Six Strike - Thunder Blast",
+  "type": "Trap Card",
+  "description": "Remove 1 Bushido Counter from your side of the field to activate 1 of these effects.\n● Target 1 monster your opponent controls; destroy that target.\n● Target 1 card your opponent controls; return that target to the hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23212990.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23212990.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23212990.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14785765,
+  "name": "Blackwing - Zephyros the Elite",
+  "type": "Effect Monster",
+  "description": "If this card is in your GY: You can return 1 face-up card you control to the hand; Special Summon this card, and if you do, take 400 damage. You can only use this effect of \"Blackwing - Zephyros the Elite\" once per Duel.",
+  "attack": 1600,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14785765.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14785765.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14785765.jpg"
+  }
+}

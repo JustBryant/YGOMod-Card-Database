@@ -1,0 +1,16 @@
+{
+  "id": 43321985,
+  "name": "Ancient Fairy Life Dragon",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can draw 1 card, or if \"World of Spirits\" is on the field, add 1 LIGHT monster (Beast, Plant, or Fairy) or 1 \"Eternal Sunshine\" from your Deck to your hand instead. You can only use this effect of \"Ancient Fairy Life Dragon\" once per turn. Your \"Ancient Fairy Dragon\" and monsters that mention it can attack while in face-up Defense Position (apply their DEF for damage calculation).",
+  "attack": 2500,
+  "defense": 3300,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43321985.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43321985.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43321985.jpg"
+  }
+}

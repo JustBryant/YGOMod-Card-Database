@@ -1,0 +1,16 @@
+{
+  "id": 54143349,
+  "name": "Radiant Typhoon Eldam",
+  "type": "Effect Monster",
+  "description": "If you have \"Mystical Space Typhoon\" in your GY, or your opponent controls no Spells/Traps, you can Special Summon this card (from your hand). You can only Special Summon \"Radiant Typhoon Eldam\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 \"Radiant Typhoon\" monster (except \"Radiant Typhoon Eldam\") or 1 \"Mystical Space Typhoon\" from your Deck to your hand. You can only use this effect of \"Radiant Typhoon Eldam\" once per turn.",
+  "attack": 1300,
+  "defense": 800,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54143349.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54143349.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54143349.jpg"
+  }
+}

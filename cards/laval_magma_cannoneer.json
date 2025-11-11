@@ -1,0 +1,16 @@
+{
+  "id": 46404281,
+  "name": "Laval Magma Cannoneer",
+  "type": "Effect Monster",
+  "description": "Up to twice per turn: You can send 1 FIRE monster from your hand to the Graveyard; inflict 500 damage to your opponent.",
+  "attack": 1700,
+  "defense": 200,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46404281.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46404281.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46404281.jpg"
+  }
+}

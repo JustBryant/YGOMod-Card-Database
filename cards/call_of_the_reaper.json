@@ -1,0 +1,12 @@
+{
+  "id": 45133463,
+  "name": "Call of the Reaper",
+  "type": "Trap Card",
+  "description": "Activate only when a monster(s) is Special Summoned from your Graveyard. Select and Special Summon 1 \"Supay\" or 1 \"Fire Ant Ascator\" from your Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45133463.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45133463.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45133463.jpg"
+  }
+}

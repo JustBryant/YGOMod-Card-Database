@@ -1,0 +1,16 @@
+{
+  "id": 16111820,
+  "name": "Jurrac Herra",
+  "type": "Effect Monster",
+  "description": "When a Defense Position \"Jurrac\" monster you control, except \"Jurrac Herra\", is destroyed by battle and sent to the GY: You can Special Summon this card from your hand or GY.",
+  "attack": 2300,
+  "defense": 1500,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16111820.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16111820.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16111820.jpg"
+  }
+}

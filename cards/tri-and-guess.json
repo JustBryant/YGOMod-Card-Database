@@ -1,0 +1,12 @@
+{
+  "id": 73988674,
+  "name": "Tri-and-Guess",
+  "type": "Trap Card",
+  "description": "If each player has an Extra Deck: Declare 1 Extra Deck monster card type (Fusion, Synchro, or Xyz); both players reveal their Extra Deck, and the player who has more cards of the declared card type gains 3000 Life Points.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73988674.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73988674.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73988674.jpg"
+  }
+}

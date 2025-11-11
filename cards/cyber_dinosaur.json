@@ -1,0 +1,16 @@
+{
+  "id": 39439590,
+  "name": "Cyber Dinosaur",
+  "type": "Effect Monster",
+  "description": "When your opponent Special Summons a monster from their hand (except during the Damage Step): You can Special Summon this card from your hand.",
+  "attack": 2500,
+  "defense": 1900,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39439590.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39439590.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39439590.jpg"
+  }
+}

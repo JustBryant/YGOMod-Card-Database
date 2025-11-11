@@ -1,0 +1,16 @@
+{
+  "id": 29929832,
+  "name": "Marine Beast",
+  "type": "Fusion Monster",
+  "description": "\"Water Magician\" + \"Behegon\"",
+  "attack": 1700,
+  "defense": 1600,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29929832.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29929832.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29929832.jpg"
+  }
+}

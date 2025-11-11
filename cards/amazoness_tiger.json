@@ -1,0 +1,16 @@
+{
+  "id": 10979723,
+  "name": "Amazoness Tiger",
+  "type": "Effect Monster",
+  "description": "You can only control 1 \"Amazoness Tiger\". This card gains 400 ATK for each \"Amazoness\" monster you control. Your opponent cannot attack any face-up \"Amazoness\" monsters, except this one.",
+  "attack": 1100,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10979723.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10979723.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10979723.jpg"
+  }
+}

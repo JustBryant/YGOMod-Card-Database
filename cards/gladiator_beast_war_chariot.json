@@ -1,0 +1,12 @@
+{
+  "id": 96216229,
+  "name": "Gladiator Beast War Chariot",
+  "type": "Trap Card",
+  "description": "When an Effect Monster's effect is activated, if you control a face-up \"Gladiator Beast\" monster: Negate the activation and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96216229.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96216229.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96216229.jpg"
+  }
+}

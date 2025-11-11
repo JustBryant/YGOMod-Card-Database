@@ -1,0 +1,12 @@
+{
+  "id": 43341600,
+  "name": "Apple of Enlightenment",
+  "type": "Trap Card",
+  "description": "Target cards in your opponent's GY, up to the number of \"Valkyrie\" monsters you control; banish them. If this Set card in its owner's control has left the field because of an opponent's effect, and is now in the GY or banished: You can draw cards equal to the number of \"Valkyrie\" monsters you control +1.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43341600.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43341600.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43341600.jpg"
+  }
+}

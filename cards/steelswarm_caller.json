@@ -1,0 +1,16 @@
+{
+  "id": 53116300,
+  "name": "Steelswarm Caller",
+  "type": "Effect Monster",
+  "description": "When a \"Steelswarm\" monster is Tribute Summoned face-up by Tributing this card: You can Special Summon 1 Level 4 or lower \"Steelswarm\" monster from your Deck.",
+  "attack": 1700,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53116300.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53116300.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53116300.jpg"
+  }
+}

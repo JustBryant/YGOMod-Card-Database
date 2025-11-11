@@ -1,0 +1,12 @@
+{
+  "id": 72386290,
+  "name": "Focused Aquamirror",
+  "type": "Spell Card",
+  "description": "Add 1 \"Gishki\" monster from your Deck to your hand. During the End Phase, if you control a WATER Ritual Monster: You can banish this card from your GY; Set 1 \"Aquamirror\" Spell/Trap directly from your Deck or GY, except \"Focused Aquamirror\". You can only use this effect of \"Focused Aquamirror\" once per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72386290.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72386290.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72386290.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 69750536,
+  "name": "Wow Warrior",
+  "type": "Normal Monster",
+  "description": "A fish with arms, legs, and some very sharp teeth.",
+  "attack": 1250,
+  "defense": 900,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69750536.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69750536.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69750536.jpg"
+  }
+}

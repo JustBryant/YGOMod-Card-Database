@@ -1,0 +1,16 @@
+{
+  "id": 95679145,
+  "name": "Dogmatika Maximus",
+  "type": "Effect Monster",
+  "description": "You can banish 1 Fusion, Synchro, Xyz, or Link Monster from your GY; Special Summon this card from your hand. During your Main Phase: You can activate this effect; send 2 monsters with different names from your Extra Deck to the GY, also your opponent sends 2 monsters from their Extra Deck to the GY, also you cannot Special Summon from the Extra Deck for the rest of this turn. You can only use each effect of \"Dogmatika Maximus\" once per turn.",
+  "attack": 1500,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95679145.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95679145.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95679145.jpg"
+  }
+}

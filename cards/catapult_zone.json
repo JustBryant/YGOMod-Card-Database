@@ -1,0 +1,12 @@
+{
+  "id": 14289852,
+  "name": "Catapult Zone",
+  "type": "Spell Card",
+  "description": "Once per turn, if a monster you control would be destroyed by battle, you can send 1 Rock-Type monster from your Deck to the Graveyard instead.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14289852.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14289852.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14289852.jpg"
+  }
+}

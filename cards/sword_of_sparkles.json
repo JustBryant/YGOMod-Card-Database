@@ -1,0 +1,12 @@
+{
+  "id": 48447192,
+  "name": "Sword of Sparkles",
+  "type": "Spell Card",
+  "description": "Equip only to an \"X-Saber\" monster. If it destroys an opponent's monster by battle, you can destroy 1 card your opponent controls. You can Tribute 1 monster you control to return this card from your Graveyard to the top of your Deck.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48447192.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48447192.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48447192.jpg"
+  }
+}

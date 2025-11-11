@@ -1,0 +1,16 @@
+{
+  "id": 5402805,
+  "name": "Berserker of the Tenyi",
+  "type": "Link Monster",
+  "description": "2+ monsters, including a Link Monster",
+  "attack": 3000,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5402805.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5402805.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5402805.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 50669347,
+  "name": "Nephthys, the Sacred Preserver",
+  "type": "Link Monster",
+  "description": "2 \"Nephthys\" monsters\r\nYou can only use the following effect of \"Nephthys, the Sacred Preserver\" once per turn. During your Main Phase, if this card was Link Summoned: You can activate 1 of these effects;\r\n● Add 1 Level 8 Winged Beast monster from your Deck to your hand, then you can add 1 Ritual Spell from your GY to your hand.\r\n● Destroy 1 \"Nephthys\" monster this card points to, and Special Summon 1 \"Nephthys\" monster with a different original name from your GY, but negate its effects.",
+  "attack": 1200,
+  "defense": null,
+  "level": null,
+  "attribute": "FIRE",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50669347.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50669347.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50669347.jpg"
+  }
+}

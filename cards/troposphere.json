@@ -1,0 +1,16 @@
+{
+  "id": 72144675,
+  "name": "Troposphere",
+  "type": "Effect Monster",
+  "description": "If you Tribute Summon this card, the Tribute must be Winged Beast-Type. This card is unaffected by the effects of Trap Cards.",
+  "attack": 2400,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72144675.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72144675.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72144675.jpg"
+  }
+}

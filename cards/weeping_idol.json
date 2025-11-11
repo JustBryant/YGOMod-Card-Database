@@ -1,0 +1,16 @@
+{
+  "id": 5763020,
+  "name": "Weeping Idol",
+  "type": "Effect Monster",
+  "description": "You can remove from play 1 Tuner monster in your Graveyard to Special Summon this card from your hand.",
+  "attack": 0,
+  "defense": 500,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5763020.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5763020.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5763020.jpg"
+  }
+}

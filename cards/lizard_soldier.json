@@ -1,0 +1,16 @@
+{
+  "id": 20831168,
+  "name": "Lizard Soldier",
+  "type": "Normal Monster",
+  "description": "A beast soldier derived from dragons, it is small for a Dragon-Type. Moving very quickly, this monster is an excellent strategist.",
+  "attack": 1100,
+  "defense": 800,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20831168.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20831168.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20831168.jpg"
+  }
+}

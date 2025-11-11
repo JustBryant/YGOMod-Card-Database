@@ -1,0 +1,12 @@
+{
+  "id": 42167046,
+  "name": "Widespread Dud",
+  "type": "Trap Card",
+  "description": "Select 2 face-up Attack Position monsters on the field. When any of the selected monsters are removed from the field, destroy this card. When this card is destroyed, destroy the selected monster(s).",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42167046.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42167046.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42167046.jpg"
+  }
+}

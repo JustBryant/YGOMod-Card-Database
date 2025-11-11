@@ -1,0 +1,16 @@
+{
+  "id": 69140098,
+  "name": "Gemini Elf",
+  "type": "Normal Monster",
+  "description": "Elf twins that alternate their attacks.",
+  "attack": 1900,
+  "defense": 900,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69140098.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69140098.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69140098.jpg"
+  }
+}

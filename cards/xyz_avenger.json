@@ -1,0 +1,16 @@
+{
+  "id": 86062400,
+  "name": "Xyz Avenger",
+  "type": "Effect Monster",
+  "description": "This card is unaffected by the effects of Xyz Monsters. When this card is destroyed by battle with an Xyz Monster and sent to the Graveyard: Activate 1 of these effects, depending on the Rank of the Xyz Monster that destroyed this card;\n● Rank 3 or lower: Your opponent sends 1 card from their Extra Deck to the Graveyard.\n● Rank 4: Choose 1 card in your opponent's Extra Deck and send it to the Graveyard.\n● Rank 5 or higher: Your opponent sends as many cards from their Extra Deck to the Graveyard as possible, but not more than the Xyz Monster's Rank.",
+  "attack": 1800,
+  "defense": 700,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86062400.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86062400.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86062400.jpg"
+  }
+}

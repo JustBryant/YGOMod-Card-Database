@@ -1,0 +1,16 @@
+{
+  "id": 60434101,
+  "name": "Fabled Gallabas",
+  "type": "Effect Monster",
+  "description": "You can discard 1 card to the GY, then target 1 monster your opponent controls with DEF less than or equal to this card's ATK; destroy that target.",
+  "attack": 1500,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60434101.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60434101.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60434101.jpg"
+  }
+}

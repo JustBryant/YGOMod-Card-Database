@@ -1,0 +1,12 @@
+{
+  "id": 52228131,
+  "name": "Parry",
+  "type": "Trap Card",
+  "description": "Return 1 \"Gladiator Beast\" card from your hand to the Deck, and negate the activation and effect of a Trap Card, and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52228131.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52228131.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52228131.jpg"
+  }
+}

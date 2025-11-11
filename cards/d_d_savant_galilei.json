@@ -1,0 +1,16 @@
+{
+  "id": 74605254,
+  "name": "D/D Savant Galilei",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once per turn, during your Standby Phase: Increase this card's Pendulum Scale by 2 (max. 10), then destroy all monsters you control with a Level less than or equal to this card's Pendulum Scale, except \"D/D\" monsters.\n\n[ Monster Effect ] \nDuring either player's turn: You can discard this card, then target 1 \"D/D\" or \"Dark Contract\" card you control; return it to the hand. You can only use this effect of \"D/D Savant Galilei\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74605254.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74605254.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74605254.jpg"
+  }
+}

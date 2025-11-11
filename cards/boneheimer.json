@@ -1,0 +1,16 @@
+{
+  "id": 98456117,
+  "name": "Boneheimer",
+  "type": "Normal Monster",
+  "description": "This monster wanders the seas, sucking dry any creatures it may encounter.",
+  "attack": 850,
+  "defense": 400,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98456117.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98456117.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98456117.jpg"
+  }
+}

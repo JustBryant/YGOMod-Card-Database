@@ -1,0 +1,12 @@
+{
+  "id": 47325505,
+  "name": "Fossil Dig",
+  "type": "Spell Card",
+  "description": "Add 1 Level 6 or lower Dinosaur monster from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47325505.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47325505.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47325505.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 27178262,
+  "name": "Cunning of the Six Samurai",
+  "type": "Spell Card",
+  "description": "Send 1 face-up \"Six Samurai\" monster you control to the Graveyard, then target 1 \"Six Samurai\" monster in either player's Graveyard; Special Summon that target.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27178262.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27178262.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27178262.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 86997073,
+  "name": "Fortissimo the Mobile Fortress",
+  "type": "Spell Card",
+  "description": "Once per turn: You can Special Summon 1 \"Meklord Army\" monster from your hand.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86997073.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86997073.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86997073.jpg"
+  }
+}

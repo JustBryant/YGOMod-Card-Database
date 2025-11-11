@@ -1,0 +1,16 @@
+{
+  "id": 56413937,
+  "name": "Warrior of Tradition",
+  "type": "Fusion Monster",
+  "description": "\"Sonic Maid\" + \"Beautiful Headhuntress\"",
+  "attack": 1900,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56413937.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56413937.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56413937.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5609226,
+  "name": "Tuner's Barrier",
+  "type": "Trap Card",
+  "description": "Select 1 face-up Tuner monster you control. That monster cannot be destroyed by battle or by card effects, until the End Phase of the next turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5609226.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5609226.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5609226.jpg"
+  }
+}

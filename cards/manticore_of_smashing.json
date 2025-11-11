@@ -1,0 +1,16 @@
+{
+  "id": 64538914,
+  "name": "Manticore of Smashing",
+  "type": "Effect Monster",
+  "description": "During your Main Phase: You can add 1 \"Fissure\" or 1 \"Smashing Ground\" from your Deck to your hand. If this card is in your GY: You can banish 1 \"Fissure\" or 1 \"Smashing Ground\" from your hand or GY; Special Summon this card. You can only use each effect of \"Manticore of Smashing\" once per turn.",
+  "attack": 2300,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64538914.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64538914.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64538914.jpg"
+  }
+}

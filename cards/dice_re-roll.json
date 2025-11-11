@@ -1,0 +1,12 @@
+{
+  "id": 83241722,
+  "name": "Dice Re-Roll",
+  "type": "Trap Card",
+  "description": "One time, during the rest of this turn, if either player(s) rolls a die (or dice), you can have the player(s) re-roll. (You can only gain this effect once per turn.)",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83241722.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83241722.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83241722.jpg"
+  }
+}

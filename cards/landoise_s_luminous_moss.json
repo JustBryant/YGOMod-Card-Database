@@ -1,0 +1,12 @@
+{
+  "id": 74717840,
+  "name": "Landoise's Luminous Moss",
+  "type": "Spell Card",
+  "description": "Activate only if you control a face-up \"Naturia\" monster. The opponent's Effect Monsters cannot activate their effects this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74717840.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74717840.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74717840.jpg"
+  }
+}

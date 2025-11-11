@@ -1,0 +1,12 @@
+{
+  "id": 51987572,
+  "name": "Rockstone Token",
+  "type": "Token",
+  "description": "Special Summon with the effect of \"Rockstone Warrior\". This Token cannot be used as a Tribute for a Tribute Summon.",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51987572.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51987572.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51987572.jpg"
+  }
+}

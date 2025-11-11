@@ -1,0 +1,16 @@
+{
+  "id": 36436372,
+  "name": "Gimmick Puppet Little Soldiers",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can send 1 \"Gimmick Puppet\" monster with a different Level than this card from your Deck to the GY; this card's Level becomes that monster's. You can only use this effect of \"Gimmick Puppet Little Soldiers\" once per turn. You can banish this card from your GY, then target up to 2 \"Gimmick Puppet\" monsters you control; increase their Levels by 4 until the end of this turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36436372.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36436372.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36436372.jpg"
+  }
+}

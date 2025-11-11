@@ -1,0 +1,16 @@
+{
+  "id": 62107981,
+  "name": "Elemental HERO Knospe",
+  "type": "Effect Monster",
+  "description": "Each time this card inflicts Battle Damage to your opponent: It gains 100 ATK and loses 100 DEF. While you control another face-up \"Elemental HERO\" monster, your opponent cannot target this card for an attack, and this card can attack your opponent directly.",
+  "attack": 600,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62107981.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62107981.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62107981.jpg"
+  }
+}

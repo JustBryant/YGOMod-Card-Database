@@ -1,0 +1,12 @@
+{
+  "id": 73199638,
+  "name": "Call of the Atlanteans",
+  "type": "Spell Card",
+  "description": "Target 3 Level 3 or lower Sea Serpent-Type monsters in your Graveyard; Special Summon all 3 of them. You cannot Special Summon any other monsters during the turn you activate this card.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73199638.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73199638.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73199638.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 62560742,
+  "name": "T.G. Recipro Dragonfly",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 non-Tuner monster\nOnce per turn: You can target 1 other \"T.G.\" Synchro Monster you control; send it to the Graveyard, then, if all the Synchro Monsters that were used for its Synchro Summon are in your Graveyard, you can Special Summon all of them.",
+  "attack": 300,
+  "defense": 300,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62560742.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62560742.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62560742.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5851097,
+  "name": "Vanity's Emptiness",
+  "type": "Trap Card",
+  "description": "Neither player can Special Summon monsters. If a card is sent from the Deck or the field to your Graveyard: Destroy this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5851097.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5851097.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5851097.jpg"
+  }
+}

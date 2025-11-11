@@ -1,0 +1,16 @@
+{
+  "id": 36556781,
+  "name": "Dragunity Knight - Gormfaobhar",
+  "type": "Synchro Monster",
+  "description": "1 \"Dragunity\" Tuner + 1+ non-Tuner monsters\r\nWhen this card is Synchro Summoned: You can target 1 \"Dragunity\" Tuner in your GY; equip it to this card. (Quick Effect): You can send 1 Equip Card you control that is equipped to this card to the GY, then target up to 2 cards in your opponent's GY; banish them. You can only use each effect of \"Dragunity Knight - Gormfaobhar\" once per turn.",
+  "attack": 2600,
+  "defense": 2300,
+  "level": 7,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36556781.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36556781.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36556781.jpg"
+  }
+}

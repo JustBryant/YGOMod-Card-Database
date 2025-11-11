@@ -1,0 +1,16 @@
+{
+  "id": 25882881,
+  "name": "Dokuroizo the Grim Reaper",
+  "type": "Normal Monster",
+  "description": "''A messenger of doom that steals a soul with a single blow.''",
+  "attack": 900,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25882881.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25882881.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25882881.jpg"
+  }
+}

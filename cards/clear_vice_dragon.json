@@ -1,0 +1,16 @@
+{
+  "id": 97811903,
+  "name": "Clear Vice Dragon",
+  "type": "Effect Monster",
+  "description": "You are unaffected by the effects of \"Clear World\". If this card attacks an opponent's monster, the ATK of this card becomes twice the ATK of the attack target, during damage calculation only. If this card would be destroyed by an opponent's card effect, you can discard 1 card instead.",
+  "attack": -1,
+  "defense": 0,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97811903.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97811903.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97811903.jpg"
+  }
+}

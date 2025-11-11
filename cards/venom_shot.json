@@ -1,0 +1,12 @@
+{
+  "id": 60728397,
+  "name": "Venom Shot",
+  "type": "Spell Card",
+  "description": "Activate only while you control a face-up \"Venom\" monster, \"Vennominaga the Deity of Poisonous Snakes\", or \"Vennominon the King of Poisonous Snakes\". Send 1 Reptile-Type monster from your Deck to the Graveyard and place 2 Venom Counters on 1 face-up monster your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60728397.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60728397.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60728397.jpg"
+  }
+}

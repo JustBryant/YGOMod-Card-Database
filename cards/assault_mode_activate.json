@@ -1,0 +1,12 @@
+{
+  "id": 80280737,
+  "name": "Assault Mode Activate",
+  "type": "Trap Card",
+  "description": "Tribute 1 Synchro Monster; Special Summon 1 \"/Assault Mode\" monster, whose name includes the Tributed monster's name, from your Deck in Attack Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80280737.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80280737.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80280737.jpg"
+  }
+}

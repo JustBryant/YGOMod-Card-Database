@@ -1,0 +1,12 @@
+{
+  "id": 5063379,
+  "name": "Flavian - Colosseum of the Gladiator Beasts",
+  "type": "Spell Card",
+  "description": "You can discard 1 card; add 1 \"Gladiator Beast\" monster from your Deck to your hand. When an opponent's monster declares an attack: You can Special Summon 1 \"Gladiator Beast\" monster from your Deck, and it cannot be destroyed by battle. During the End Phase, if a \"Gladiator Beast\" monster was Special Summoned from your Deck this turn: You can Set 1 \"Gladiator\" Trap from your Deck. You can only use each effect of \"Flavian - Colosseum of the Gladiator Beasts\" once per turn.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5063379.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5063379.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5063379.jpg"
+  }
+}

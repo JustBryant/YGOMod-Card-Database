@@ -1,0 +1,16 @@
+{
+  "id": 71411377,
+  "name": "Queen's Bodyguard",
+  "type": "Effect Monster",
+  "description": "\"Allure Queen\" monsters on your side of the field cannot be selected as an attack target.",
+  "attack": 1700,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71411377.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71411377.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71411377.jpg"
+  }
+}

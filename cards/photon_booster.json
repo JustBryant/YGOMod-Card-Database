@@ -1,0 +1,12 @@
+{
+  "id": 71233859,
+  "name": "Photon Booster",
+  "type": "Spell Card",
+  "description": "Target 1 Level 4 or lower LIGHT monster on the field, except a Token; the ATK of all monsters currently on the field with its name become 2000, until the end of this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71233859.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71233859.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71233859.jpg"
+  }
+}

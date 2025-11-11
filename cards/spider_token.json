@@ -1,0 +1,12 @@
+{
+  "id": 56051649,
+  "name": "Spider Token",
+  "type": "Token",
+  "description": "This card can be used as any Token.",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56051649.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56051649.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56051649.jpg"
+  }
+}

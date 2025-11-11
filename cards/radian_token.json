@@ -1,0 +1,12 @@
+{
+  "id": 28674153,
+  "name": "Radian Token",
+  "type": "Token",
+  "description": "Special Summoned by the effect of \"Radian, the Multidimensional Kaiju\". Cannot be used as a Synchro Material monster.",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28674153.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28674153.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28674153.jpg"
+  }
+}

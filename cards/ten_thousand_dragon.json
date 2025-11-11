@@ -1,0 +1,16 @@
+{
+  "id": 10000,
+  "name": "Ten Thousand Dragon",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by Tributing monsters you control whose combined ATK & DEF is 10,000 or more. If Summoned this way, the ATK/DEF of this card becomes 10,000.",
+  "attack": -1,
+  "defense": -1,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10000.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10000.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10000.jpg"
+  }
+}

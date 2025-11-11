@@ -3,14 +3,14 @@
   "name": "Masaki the Legendary Swordsman",
   "type": "Normal Monster",
   "description": "Legendary swordmaster Masaki is a veteran of over 100 battles.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/44287299.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/44287299.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44287299.jpg"
-  },
   "attack": 1100,
   "defense": 1100,
   "level": 4,
   "attribute": "EARTH",
-  "race": "Warrior"
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44287299.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44287299.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44287299.jpg"
+  }
 }

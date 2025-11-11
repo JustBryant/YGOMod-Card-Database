@@ -1,0 +1,12 @@
+{
+  "id": 5325424,
+  "name": "Dragoncarnation",
+  "type": "Trap Card",
+  "description": "Target 1 of your banished Dragon-Type monsters; add that target to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5325424.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5325424.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5325424.jpg"
+  }
+}

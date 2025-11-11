@@ -1,0 +1,12 @@
+{
+  "id": 37241623,
+  "name": "Heraldry Record",
+  "type": "Trap Card",
+  "description": "When an effect of your opponent's Xyz Monster is activated by detaching its own Xyz Material(s): Negate the activation, and if you do, destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37241623.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37241623.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37241623.jpg"
+  }
+}

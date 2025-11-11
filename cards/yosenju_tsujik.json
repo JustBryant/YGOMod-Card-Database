@@ -1,0 +1,16 @@
+{
+  "id": 25244515,
+  "name": "Yosenju Tsujik",
+  "type": "Effect Monster",
+  "description": "During the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of these effects of \"Yosenju Tsujik\" once per turn.\n● During either player's Damage Step, when a \"Yosenju\" monster you control battles an opponent's monster: You can discard this card; that monster you control gains 1000 ATK until the end of this turn.\n● You can target 1 \"Yosenju\" monster on the field; it gains 1000 ATK until the end of this turn.",
+  "attack": 1000,
+  "defense": 0,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25244515.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25244515.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25244515.jpg"
+  }
+}

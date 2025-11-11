@@ -1,0 +1,12 @@
+{
+  "id": 17589298,
+  "name": "Sword of Dark Rites",
+  "type": "Spell Card",
+  "description": "Equip only to a DARK monster. It gains 400 ATK. When the equipped monster is Tributed and this card is sent to the Graveyard, return this card to your hand.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17589298.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17589298.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17589298.jpg"
+  }
+}

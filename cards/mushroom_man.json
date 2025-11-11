@@ -1,0 +1,16 @@
+{
+  "id": 14181608,
+  "name": "Mushroom Man",
+  "type": "Normal Monster",
+  "description": "Found in humid regions, this creature attacks enemies with a lethal rain of poison spores.",
+  "attack": 800,
+  "defense": 600,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14181608.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14181608.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14181608.jpg"
+  }
+}

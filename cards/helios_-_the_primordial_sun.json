@@ -1,0 +1,16 @@
+{
+  "id": 54493213,
+  "name": "Helios - The Primordial Sun",
+  "type": "Effect Monster",
+  "description": "This card's ATK and DEF are each equal to the number of removed from play monsters x 100.",
+  "attack": -1,
+  "defense": -1,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54493213.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54493213.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54493213.jpg"
+  }
+}

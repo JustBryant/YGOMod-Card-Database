@@ -1,0 +1,16 @@
+{
+  "id": 2656842,
+  "name": "Beetrooper Scout Buggy",
+  "type": "Effect Monster",
+  "description": "You cannot Special Summon monsters, except Insect monsters. If this card is Normal or Special Summoned: You can Special Summon 1 \"Beetrooper Scout Buggy\" from your hand, Deck, or GY. You can only use this effect of \"Beetrooper Scout Buggy\" once per turn.",
+  "attack": 1000,
+  "defense": 300,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2656842.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2656842.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2656842.jpg"
+  }
+}

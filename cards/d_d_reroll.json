@@ -1,0 +1,12 @@
+{
+  "id": 71069715,
+  "name": "D/D Reroll",
+  "type": "Trap Card",
+  "description": "\"Dark Contract\" cards you control cannot be destroyed by your opponent's card effects. You can banish this card from your Graveyard, then target up to 3 of your other banished \"D/D\" cards; shuffle them into the Deck.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71069715.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71069715.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71069715.jpg"
+  }
+}

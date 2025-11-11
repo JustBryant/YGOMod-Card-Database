@@ -1,0 +1,12 @@
+{
+  "id": 79178930,
+  "name": "Karakuri Klock",
+  "type": "Trap Card",
+  "description": "Activate only when a face-up Defense Position \"Karakuri\" monster is selected as an attack target. Destroy all face-up monsters your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79178930.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79178930.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79178930.jpg"
+  }
+}

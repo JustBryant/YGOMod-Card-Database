@@ -1,0 +1,16 @@
+{
+  "id": 26701483,
+  "name": "Card Ejector",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 card in your opponent's Graveyard; banish that target.",
+  "attack": 400,
+  "defense": 400,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26701483.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26701483.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26701483.jpg"
+  }
+}

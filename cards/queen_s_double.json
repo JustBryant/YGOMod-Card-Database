@@ -1,0 +1,16 @@
+{
+  "id": 5901497,
+  "name": "Queen's Double",
+  "type": "Effect Monster",
+  "description": "This monster may attack your opponent's Life Points directly.",
+  "attack": 350,
+  "defense": 300,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5901497.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5901497.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5901497.jpg"
+  }
+}

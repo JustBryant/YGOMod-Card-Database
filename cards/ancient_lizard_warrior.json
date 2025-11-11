@@ -1,0 +1,16 @@
+{
+  "id": 43230671,
+  "name": "Ancient Lizard Warrior",
+  "type": "Normal Monster",
+  "description": "Before the dawn of man, this lizard warrior ruled supreme.",
+  "attack": 1400,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43230671.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43230671.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43230671.jpg"
+  }
+}

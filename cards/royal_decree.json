@@ -1,0 +1,12 @@
+{
+  "id": 51452091,
+  "name": "Royal Decree",
+  "type": "Trap Card",
+  "description": "Negate all other Trap effects on the field.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51452091.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51452091.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51452091.jpg"
+  }
+}

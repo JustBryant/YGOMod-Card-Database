@@ -1,0 +1,12 @@
+{
+  "id": 78986941,
+  "name": "Order to Charge",
+  "type": "Spell Card",
+  "description": "Target 1 non-Token Normal Monster you control; Tribute that Normal Monster, and if you do, destroy 1 monster your opponent controls.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78986941.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78986941.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78986941.jpg"
+  }
+}

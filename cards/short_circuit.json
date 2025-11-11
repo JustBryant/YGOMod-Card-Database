@@ -1,0 +1,12 @@
+{
+  "id": 75967082,
+  "name": "Short Circuit",
+  "type": "Spell Card",
+  "description": "Activate only if you control 3 or more \"Batteryman\" monsters. Destroy all cards your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75967082.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75967082.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75967082.jpg"
+  }
+}

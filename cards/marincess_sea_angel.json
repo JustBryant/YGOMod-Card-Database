@@ -1,0 +1,16 @@
+{
+  "id": 30691817,
+  "name": "Marincess Sea Angel",
+  "type": "Link Monster",
+  "description": "1 Level 4 or lower \"Marincess\" monster\r\nIf this card is Link Summoned: You can add 1 \"Marincess\" Spell from your Deck to your hand. You can only Link Summon \"Marincess Sea Angel\" once per turn.",
+  "attack": 1000,
+  "defense": null,
+  "level": null,
+  "attribute": "WATER",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30691817.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30691817.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30691817.jpg"
+  }
+}

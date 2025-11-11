@@ -1,0 +1,16 @@
+{
+  "id": 2134346,
+  "name": "Asura Priest",
+  "type": "Spirit Monster",
+  "description": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. This card can attack all monsters your opponent controls once each.",
+  "attack": 1700,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2134346.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2134346.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2134346.jpg"
+  }
+}

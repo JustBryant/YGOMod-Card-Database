@@ -1,0 +1,16 @@
+{
+  "id": 89571015,
+  "name": "Storm Cipher",
+  "type": "Effect Monster",
+  "description": "Cannot attack directly, or attack monsters in the Extra Monster Zone. Unaffected by monster effects activated in the Extra Monster Zone. Cannot be destroyed by battle with monsters in the Extra Monster Zone.",
+  "attack": 2400,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89571015.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89571015.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89571015.jpg"
+  }
+}

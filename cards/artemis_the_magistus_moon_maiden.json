@@ -1,0 +1,16 @@
+{
+  "id": 34755994,
+  "name": "Artemis, the Magistus Moon Maiden",
+  "type": "Link Monster",
+  "description": "1 Level 4 or lower Spellcaster monster\r\nIf another \"Magistus\" monster(s) is Normal or Special Summoned while you control this monster (except during the Damage Step): You can target 1 of those monsters; equip this card you control to it. While this card is equipped to a monster: You can add 1 \"Magistus\" monster from your Deck to your hand. You can only use each effect of \"Artemis, the Magistus Moon Maiden\" once per turn. You can only Special Summon \"Artemis, the Magistus Moon Maiden\" once per turn.",
+  "attack": 800,
+  "defense": null,
+  "level": null,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34755994.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34755994.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34755994.jpg"
+  }
+}

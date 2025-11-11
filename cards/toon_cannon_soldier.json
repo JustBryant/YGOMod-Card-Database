@@ -1,0 +1,16 @@
+{
+  "id": 79875176,
+  "name": "Toon Cannon Soldier",
+  "type": "Toon Monster",
+  "description": "This card cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon Monsters, this card can attack your opponent directly. You can Tribute 1 monster; inflict 500 damage to your opponent.",
+  "attack": 1400,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79875176.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79875176.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79875176.jpg"
+  }
+}

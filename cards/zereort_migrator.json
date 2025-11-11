@@ -1,0 +1,16 @@
+{
+  "id": 87640391,
+  "name": "Zereort Migrator",
+  "type": "Effect Monster",
+  "description": "If a WATER Xyz Monster is on the field: You can Special Summon this card from your hand. During your Main Phase: You can detach 1 Xyz Material from a monster you control, then you can Special Summon 1 Level 3 or 4 WATER monster from your hand or GY, but its effects are negated, also if it is used for the Xyz Summon of a WATER monster this turn, it can be treated as a Level 5 monster. You can only use each effect of \"Zereort Migrator\" once per turn.",
+  "attack": 1000,
+  "defense": 2200,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87640391.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87640391.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87640391.jpg"
+  }
+}

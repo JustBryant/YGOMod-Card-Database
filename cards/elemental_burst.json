@@ -1,0 +1,12 @@
+{
+  "id": 61411502,
+  "name": "Elemental Burst",
+  "type": "Trap Card",
+  "description": "Tribute 1 each of WIND, WATER, FIRE, and EARTH monsters to activate this card. Destroy all cards on your opponent's side of the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61411502.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61411502.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61411502.jpg"
+  }
+}

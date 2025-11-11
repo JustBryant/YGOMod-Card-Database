@@ -1,0 +1,12 @@
+{
+  "id": 83880087,
+  "name": "Light Wing Shield",
+  "type": "Spell Card",
+  "description": "When a monster's attack is negated: Activate 1 of these effects;\r\n● It becomes the End Phase of this turn.\r\n● Target 1 \"Utopia\" Xyz Monster you control; its ATK becomes double its original ATK until the end of this turn.\r\nIf a \"Utopia\" Xyz Monster you control would detach exactly 1 Xyz Material to activate its effect, you can banish this card from your Graveyard instead.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83880087.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83880087.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83880087.jpg"
+  }
+}

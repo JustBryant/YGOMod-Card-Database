@@ -1,0 +1,16 @@
+{
+  "id": 34800281,
+  "name": "Melffy Pinny",
+  "type": "Tuner Monster",
+  "description": "If a face-up Beast monster you control was returned to the hand this turn, except \"Melffy Pinny\" (Quick Effect): You can Special Summon this card from your hand, then immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only this card you control and \"Melffy\" monsters in your hand. During your End Phase, if this card is in your GY: You can target 1 Beast Xyz Monster you control; attach this card to it as material. You can only use each effect of \"Melffy Pinny\" once per turn.",
+  "attack": 300,
+  "defense": 100,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34800281.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34800281.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34800281.jpg"
+  }
+}

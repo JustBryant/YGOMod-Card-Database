@@ -1,0 +1,16 @@
+{
+  "id": 10375182,
+  "name": "Command Knight",
+  "type": "Effect Monster",
+  "description": "All Warrior monsters you control gain 400 ATK. If you control another monster, monsters your opponent controls cannot target this card for attacks.",
+  "attack": 1200,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10375182.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10375182.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10375182.jpg"
+  }
+}

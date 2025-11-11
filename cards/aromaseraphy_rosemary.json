@@ -1,0 +1,16 @@
+{
+  "id": 38148100,
+  "name": "Aromaseraphy Rosemary",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nWhile your LP is higher than your opponent's, all Plant-Type monsters you control gain 500 ATK and DEF. Once per turn, if you gain LP: Target 1 face-up card your opponent controls; that face-up card has its effects negated until the end of this turn.",
+  "attack": 2000,
+  "defense": 900,
+  "level": 5,
+  "attribute": "LIGHT",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38148100.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38148100.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38148100.jpg"
+  }
+}

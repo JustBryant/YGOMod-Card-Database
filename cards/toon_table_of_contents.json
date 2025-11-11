@@ -1,0 +1,12 @@
+{
+  "id": 89997728,
+  "name": "Toon Table of Contents",
+  "type": "Spell Card",
+  "description": "Add 1 \"Toon\" card from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89997728.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89997728.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89997728.jpg"
+  }
+}

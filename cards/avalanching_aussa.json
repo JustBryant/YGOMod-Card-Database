@@ -1,0 +1,16 @@
+{
+  "id": 29139104,
+  "name": "Avalanching Aussa",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can Tribute 1 EARTH monster (except this card) to Special Summon 1 EARTH monster from your hand. The monster Special Summoned by this effect is destroyed if \"Avalanching Aussa\" is removed from your side of the field.",
+  "attack": 800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29139104.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29139104.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29139104.jpg"
+  }
+}

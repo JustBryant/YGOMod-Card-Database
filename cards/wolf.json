@@ -1,0 +1,16 @@
+{
+  "id": 49417509,
+  "name": "Wolf",
+  "type": "Normal Monster",
+  "description": "Dis alpha wolf yoozes his sense a smell ta find da enemy. 'ey, quit sniffin at my socks!",
+  "attack": 1200,
+  "defense": 800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49417509.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49417509.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49417509.jpg"
+  }
+}

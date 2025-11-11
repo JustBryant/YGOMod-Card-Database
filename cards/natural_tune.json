@@ -1,0 +1,12 @@
+{
+  "id": 62896588,
+  "name": "Natural Tune",
+  "type": "Spell Card",
+  "description": "Select 1 face-up Level 4 or lower Normal Monster you control. It is treated as a Tuner monster while it is face-up on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62896588.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62896588.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62896588.jpg"
+  }
+}

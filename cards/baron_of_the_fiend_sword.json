@@ -1,0 +1,16 @@
+{
+  "id": 86325596,
+  "name": "Baron of the Fiend Sword",
+  "type": "Normal Monster",
+  "description": "An aristocrat who wields a sword possessed by a malicious spirit that preys on the weak.",
+  "attack": 1550,
+  "defense": 800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86325596.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86325596.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86325596.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19261966,
+  "name": "El Shaddoll Anoyatyllis",
+  "type": "Fusion Monster",
+  "description": "1 \"Shaddoll\" monster + 1 WATER monster\r\nMust first be Fusion Summoned. Neither player can Special Summon monsters from the hand or GY using Spell/Trap effects. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
+  "attack": 2700,
+  "defense": 2000,
+  "level": 9,
+  "attribute": "WATER",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19261966.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19261966.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19261966.jpg"
+  }
+}

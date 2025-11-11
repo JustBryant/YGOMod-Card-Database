@@ -1,0 +1,16 @@
+{
+  "id": 6400512,
+  "name": "Cyber Commander",
+  "type": "Normal Monster",
+  "description": "''A strike force equipped with rocket launchers and bazookas.''",
+  "attack": 750,
+  "defense": 700,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6400512.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6400512.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6400512.jpg"
+  }
+}

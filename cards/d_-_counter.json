@@ -1,0 +1,12 @@
+{
+  "id": 8698851,
+  "name": "D - Counter",
+  "type": "Trap Card",
+  "description": "When a \"Destiny HERO\" monster you control is targeted for an attack: Destroy the attacking monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8698851.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8698851.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8698851.jpg"
+  }
+}

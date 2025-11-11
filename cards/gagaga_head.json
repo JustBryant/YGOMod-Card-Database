@@ -1,0 +1,16 @@
+{
+  "id": 67120578,
+  "name": "Gagaga Head",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a monster and you control no monsters, you can Normal Summon this card without Tributing as a Level 4 monster. When this card is Normal Summoned: You can target up to 2 \"Gagaga\" monsters in your Graveyard, except \"Gagaga Head\"; Special Summon them, also you cannot Special Summon monsters for the rest of this turn, except by an Xyz Summon that uses only \"Gagaga\" monsters as materials. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n● If it is Xyz Summoned: Draw 1 card.",
+  "attack": 2100,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67120578.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67120578.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67120578.jpg"
+  }
+}

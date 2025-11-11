@@ -1,0 +1,16 @@
+{
+  "id": 35752363,
+  "name": "Vermillion Sparrow",
+  "type": "Fusion Monster",
+  "description": "\"Rhaimundos of the Red Sword\" + \"Fireyarou\"",
+  "attack": 1900,
+  "defense": 1500,
+  "level": 5,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35752363.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35752363.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35752363.jpg"
+  }
+}

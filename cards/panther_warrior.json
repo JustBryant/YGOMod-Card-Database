@@ -1,0 +1,16 @@
+{
+  "id": 42035044,
+  "name": "Panther Warrior",
+  "type": "Effect Monster",
+  "description": "This card cannot declare an attack unless you Tribute 1 monster.",
+  "attack": 2000,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42035044.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42035044.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42035044.jpg"
+  }
+}

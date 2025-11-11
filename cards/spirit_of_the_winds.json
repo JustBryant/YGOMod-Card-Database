@@ -1,0 +1,16 @@
+{
+  "id": 54615781,
+  "name": "Spirit of the Winds",
+  "type": "Normal Monster",
+  "description": "''A spirit of the wind that calls up a storm when it's in a bad mood.''",
+  "attack": 1700,
+  "defense": 1400,
+  "level": 5,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54615781.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54615781.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54615781.jpg"
+  }
+}

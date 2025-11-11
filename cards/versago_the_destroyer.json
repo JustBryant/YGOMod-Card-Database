@@ -1,0 +1,16 @@
+{
+  "id": 50259460,
+  "name": "Versago the Destroyer",
+  "type": "Effect Monster",
+  "description": "You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).",
+  "attack": 1100,
+  "defense": 900,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50259460.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50259460.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50259460.jpg"
+  }
+}

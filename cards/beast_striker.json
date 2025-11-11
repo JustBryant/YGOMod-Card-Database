@@ -1,0 +1,16 @@
+{
+  "id": 21362970,
+  "name": "Beast Striker",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can discard 1 card to Special Summon 1 \"Moja\" from your Deck.",
+  "attack": 1850,
+  "defense": 400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21362970.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21362970.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21362970.jpg"
+  }
+}

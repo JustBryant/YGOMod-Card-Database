@@ -1,0 +1,12 @@
+{
+  "id": 62499965,
+  "name": "Z-ONE",
+  "type": "Spell Card",
+  "description": "When this Set card is destroyed and sent to the Graveyard, select 1 Continuous Spell or Field Spell Card in your Graveyard, and add it to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62499965.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62499965.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62499965.jpg"
+  }
+}

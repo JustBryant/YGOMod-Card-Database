@@ -1,0 +1,16 @@
+{
+  "id": 52624755,
+  "name": "Peten the Dark Clown",
+  "type": "Effect Monster",
+  "description": "When this card is sent to your Graveyard: You can banish this card from your Graveyard; Special Summon 1 \"Peten the Dark Clown\" from your hand or Deck.",
+  "attack": 500,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52624755.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52624755.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52624755.jpg"
+  }
+}

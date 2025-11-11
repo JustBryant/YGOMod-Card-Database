@@ -1,0 +1,16 @@
+{
+  "id": 93108297,
+  "name": "Liquid Beast",
+  "type": "Normal Monster",
+  "description": "A liquid life form that thrives on water.",
+  "attack": 950,
+  "defense": 800,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93108297.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93108297.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93108297.jpg"
+  }
+}

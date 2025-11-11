@@ -1,0 +1,16 @@
+{
+  "id": 9053187,
+  "name": "Gagagigo the Risen",
+  "type": "XYZ Monster",
+  "description": "3 Level 4 monsters",
+  "attack": 2950,
+  "defense": 2800,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9053187.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9053187.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9053187.jpg"
+  }
+}

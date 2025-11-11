@@ -1,0 +1,12 @@
+{
+  "id": 92854392,
+  "name": "Staunch Defender",
+  "type": "Trap Card",
+  "description": "You can only activate this card when your opponent declares an attack. Select 1 face-up monster on your side of the field. During this turn, your opponent can only designate the selected monster as an attack target and your opponent must attack the selected monster with all face-up monsters.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92854392.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92854392.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92854392.jpg"
+  }
+}

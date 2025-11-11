@@ -1,0 +1,16 @@
+{
+  "id": 78984772,
+  "name": "Twin-Headed Fire Dragon",
+  "type": "Normal Monster",
+  "description": "Two dragons fused as one from the effects of the Big Bang.",
+  "attack": 2200,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78984772.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78984772.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78984772.jpg"
+  }
+}

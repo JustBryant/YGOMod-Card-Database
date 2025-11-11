@@ -1,0 +1,16 @@
+{
+  "id": 6351548,
+  "name": "Dawn Knight",
+  "type": "Effect Monster",
+  "description": "If this card is sent from the field to the Graveyard: You can send 1 LIGHT monster from your Deck to the Graveyard. If this card is sent from your Deck to the Graveyard: Target 1 LIGHT monster in your Graveyard; place that target on the top of your Deck. You can only use 1 \"Dawn Knight\" effect per turn, and only once that turn.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6351548.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6351548.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6351548.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 612115,
+  "name": "Gladiator Beast Retiari",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster, you can remove from play 1 card from your opponent's Graveyard. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Retiari\".",
+  "attack": 1200,
+  "defense": 800,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/612115.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/612115.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/612115.jpg"
+  }
+}

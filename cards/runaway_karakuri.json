@@ -1,0 +1,12 @@
+{
+  "id": 83831356,
+  "name": "Runaway Karakuri",
+  "type": "Spell Card",
+  "description": "Select 1 face-up \"Karakuri\" monster on the field. Until the End Phase, it gains 1000 ATK but its effect(s) is negated.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83831356.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83831356.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83831356.jpg"
+  }
+}

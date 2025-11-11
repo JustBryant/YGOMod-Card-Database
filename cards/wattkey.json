@@ -1,0 +1,12 @@
+{
+  "id": 53193261,
+  "name": "Wattkey",
+  "type": "Spell Card",
+  "description": "Face-up \"Watt\" monsters you control can attack your opponent directly this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53193261.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53193261.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53193261.jpg"
+  }
+}

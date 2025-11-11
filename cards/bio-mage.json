@@ -1,0 +1,16 @@
+{
+  "id": 58696829,
+  "name": "Bio-Mage",
+  "type": "Normal Monster",
+  "description": "A mysterious priest created as a result of the latest advances in biotechnology.",
+  "attack": 1150,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58696829.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58696829.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58696829.jpg"
+  }
+}

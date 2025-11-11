@@ -1,0 +1,12 @@
+{
+  "id": 81510157,
+  "name": "Soul Taker",
+  "type": "Spell Card",
+  "description": "Target 1 face-up monster your opponent controls; destroy that target, then your opponent gains 1000 LP.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81510157.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81510157.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81510157.jpg"
+  }
+}

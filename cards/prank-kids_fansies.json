@@ -1,0 +1,16 @@
+{
+  "id": 81119816,
+  "name": "Prank-Kids Fansies",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the GY as material for the Fusion or Link Summon of a \"Prank-Kids\" monster: You can send 1 \"Prank-Kids\" card from your Deck to the GY, except \"Prank-Kids Fansies\", then you can Special Summon 1 \"Prank-Kids\" monster from your hand or Deck in Defense Position, except \"Prank-Kids Fansies\". You can only use this effect of \"Prank-Kids Fansies\" once per turn.",
+  "attack": 0,
+  "defense": 2000,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81119816.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81119816.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81119816.jpg"
+  }
+}

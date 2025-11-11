@@ -1,0 +1,16 @@
+{
+  "id": 41999284,
+  "name": "Linkuriboh",
+  "type": "Link Monster",
+  "description": "1 Level 1 Monster\r\nWhen an opponent's monster declares an attack: You can Tribute this card; change that opponent's monster's ATK to 0, until the end of this turn. If this card is in your GY (Quick Effect): You can Tribute 1 Level 1 monster; Special Summon this card. You can only use this effect of \"Linkuriboh\" once per turn.",
+  "attack": 300,
+  "defense": null,
+  "level": 0,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41999284.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41999284.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41999284.jpg"
+  }
+}

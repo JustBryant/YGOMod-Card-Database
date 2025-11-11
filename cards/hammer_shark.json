@@ -1,0 +1,16 @@
+{
+  "id": 17201174,
+  "name": "Hammer Shark",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can reduce the Level of this card by 1, and if you do, Special Summon 1 Level 3 or lower WATER monster from your hand.",
+  "attack": 1700,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17201174.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17201174.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17201174.jpg"
+  }
+}

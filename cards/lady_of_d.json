@@ -1,0 +1,16 @@
+{
+  "id": 67511500,
+  "name": "Lady of D.",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot target face-up Dragon-Type monsters you control for attacks. If this card on the field would be destroyed by battle or by a card effect, you can send 1 Dragon-Type monster from your hand to the Graveyard instead.",
+  "attack": 1500,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67511500.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67511500.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67511500.jpg"
+  }
+}

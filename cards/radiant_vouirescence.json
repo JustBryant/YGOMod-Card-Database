@@ -1,0 +1,16 @@
+{
+  "id": 70856343,
+  "name": "Radiant Vouirescence",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned while your opponent controls a monster: You can discard 1 card; send any number of \"Radiant Vouirescence\" from your Deck to the GY. Once per turn, if this card is in your GY: You can make this card in the GY become DARK until the end of this turn.",
+  "attack": 1600,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70856343.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70856343.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70856343.jpg"
+  }
+}

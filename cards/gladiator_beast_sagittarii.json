@@ -1,0 +1,16 @@
+{
+  "id": 16003979,
+  "name": "Gladiator Beast Sagittarii",
+  "type": "Effect Monster",
+  "description": "If this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: You can discard 1 \"Gladiator Beast\" card; draw 2 cards. At the end of the Battle Phase, if this card battled: You can shuffle this card into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Sagittarii\".",
+  "attack": 1400,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16003979.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16003979.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16003979.jpg"
+  }
+}

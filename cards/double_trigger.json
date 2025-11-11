@@ -1,0 +1,12 @@
+{
+  "id": 38129297,
+  "name": "Double Trigger",
+  "type": "Spell Card",
+  "description": "Activate 1 of these effects (but you can only use each effect of \"Double Trigger\" once per turn);\r\n● Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing its materials from your GY, including a \"Rokket\" monster.\r\n● Ritual Summon 1 Ritual Monster from your hand, by banishing monsters from your GY whose total Levels equal or exceed that monster's Level, including a \"Rokket\" monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38129297.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38129297.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38129297.jpg"
+  }
+}

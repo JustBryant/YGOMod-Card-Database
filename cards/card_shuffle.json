@@ -1,0 +1,12 @@
+{
+  "id": 12183332,
+  "name": "Card Shuffle",
+  "type": "Spell Card",
+  "description": "Pay 300 Life Points to use this card's effect. Shuffle either your or your opponent's Deck. You can only use this effect during your turn, once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12183332.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12183332.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12183332.jpg"
+  }
+}

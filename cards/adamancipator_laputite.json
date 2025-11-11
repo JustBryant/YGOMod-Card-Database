@@ -1,0 +1,12 @@
+{
+  "id": 46552140,
+  "name": "Adamancipator Laputite",
+  "type": "Spell Card",
+  "description": "All Rock monsters you control gain 500 ATK/DEF. Once per turn, during your Main Phase: You can take up to 5 \"Adamancipator\" cards from your Deck and place them on top of your Deck in any order.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46552140.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46552140.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46552140.jpg"
+  }
+}

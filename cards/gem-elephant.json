@@ -1,0 +1,16 @@
+{
+  "id": 19019586,
+  "name": "Gem-Elephant",
+  "type": "Effect Monster",
+  "description": "During your Main Phase: You can return this face-up card on the field to the hand. During damage calculation, if this card attacked or was attacked: You can send 1 Normal Monster from your hand to the Graveyard; this card gains 1000 DEF.",
+  "attack": 400,
+  "defense": 1900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19019586.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19019586.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19019586.jpg"
+  }
+}

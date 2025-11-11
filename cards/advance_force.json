@@ -1,0 +1,12 @@
+{
+  "id": 38589847,
+  "name": "Advance Force",
+  "type": "Spell Card",
+  "description": "You can Tribute 1 Level 5 or higher monster to Tribute Summon a Level 7 or higher monster.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38589847.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38589847.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38589847.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 300302013,
+  "name": "Magician's Act",
+  "type": "Skill Card",
+  "description": "Activate 1 of the following Skills at the start of the Duel.\r\n● Add 1 \"Dark Magician\" from your Deck to your hand, then shuffle 1 card from your hand into the Deck.\r\n● Shuffle 1 \"Dark Magician\" from your hand into the Deck, then draw 1 card.\r\nDuring your Main Phase, you can Tribute 1 monster whose original name is \"Dark Magician\" to draw 2 cards.\r\nEach of these Skills can only be used once per Duel.",
+  "race": "Arkana",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302013.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302013.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302013.jpg"
+  }
+}

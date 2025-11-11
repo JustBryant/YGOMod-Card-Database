@@ -1,0 +1,12 @@
+{
+  "id": 35486099,
+  "name": "Crystal Blessing",
+  "type": "Spell Card",
+  "description": "Target up to 2 \"Crystal Beast\" monsters in your Graveyard; place those targets face-up in your Spell & Trap Card Zone as Continuous Spell Cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35486099.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35486099.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35486099.jpg"
+  }
+}

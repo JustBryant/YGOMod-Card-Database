@@ -1,0 +1,16 @@
+{
+  "id": 13108445,
+  "name": "Gem-Knight Aquamarine",
+  "type": "Fusion Monster",
+  "description": "\"Gem-Knight Sapphire\" + 1 \"Gem-Knight\" monster\nMust first be Fusion Summoned with the above Fusion Material Monsters. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. When this card is sent from the field to the Graveyard: Target 1 card your opponent controls; return that target to the hand.",
+  "attack": 1400,
+  "defense": 2600,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13108445.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13108445.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13108445.jpg"
+  }
+}

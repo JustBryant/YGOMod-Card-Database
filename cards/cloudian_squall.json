@@ -1,0 +1,12 @@
+{
+  "id": 90135989,
+  "name": "Cloudian Squall",
+  "type": "Spell Card",
+  "description": "During each of your Standby Phases, place 1 Fog Counter on every face-up monster.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90135989.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90135989.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90135989.jpg"
+  }
+}

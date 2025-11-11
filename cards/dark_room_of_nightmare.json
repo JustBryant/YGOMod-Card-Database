@@ -1,0 +1,12 @@
+{
+  "id": 85562745,
+  "name": "Dark Room of Nightmare",
+  "type": "Spell Card",
+  "description": "Each time your opponent takes damage from a card effect, except \"Dark Room of Nightmare\", inflict 300 damage to your opponent.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85562745.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85562745.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85562745.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 63035430,
+  "name": "Skyscraper",
+  "type": "Spell Card",
+  "description": "If an \"Elemental HERO\" monster attacks a monster that has a higher ATK, the attacking monster gains 1000 ATK during damage calculation only.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63035430.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63035430.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63035430.jpg"
+  }
+}

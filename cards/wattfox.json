@@ -1,0 +1,16 @@
+{
+  "id": 46897277,
+  "name": "Wattfox",
+  "type": "Tuner Monster",
+  "description": "If this card is destroyed by your opponent's card (either by battle or by card effect), your opponent cannot Special Summon a monster, or activate Spells, Traps, Spell/Trap effects, or Monster Card effects, for the rest of this turn.",
+  "attack": 800,
+  "defense": 100,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46897277.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46897277.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46897277.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16191953,
+  "name": "Master Gig",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can pay 1000 Life Points to destroy monsters your opponent controls equal to the number of face-up Psychic-Type monsters you control.",
+  "attack": 2600,
+  "defense": 1400,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16191953.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16191953.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16191953.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 57308711,
+  "name": "Unicycular",
+  "type": "Normal Monster",
+  "description": "The third of the brothers, following Tricular and Bicular.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57308711.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57308711.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57308711.jpg"
+  }
+}

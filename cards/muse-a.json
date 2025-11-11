@@ -1,0 +1,16 @@
+{
+  "id": 69992868,
+  "name": "Muse-A",
+  "type": "Normal Monster",
+  "description": "''A fairy of the arts that is unbeatable on the harp.''",
+  "attack": 850,
+  "defense": 900,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69992868.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69992868.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69992868.jpg"
+  }
+}

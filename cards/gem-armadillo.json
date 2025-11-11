@@ -1,0 +1,16 @@
+{
+  "id": 27004302,
+  "name": "Gem-Armadillo",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can add 1 \"Gem-Knight\" monster from your Deck to your hand.",
+  "attack": 1700,
+  "defense": 500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27004302.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27004302.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27004302.jpg"
+  }
+}

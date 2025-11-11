@@ -1,0 +1,16 @@
+{
+  "id": 18108166,
+  "name": "Mystery Shell Dragon",
+  "type": "Normal Monster",
+  "description": "Mysterious living matter that suddenly appeared from a different dimension. Its attack paralyzes the target's nerves, and causes intense hallucinations.",
+  "attack": 2000,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18108166.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18108166.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18108166.jpg"
+  }
+}

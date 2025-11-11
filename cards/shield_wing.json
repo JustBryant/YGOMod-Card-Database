@@ -1,0 +1,16 @@
+{
+  "id": 28859794,
+  "name": "Shield Wing",
+  "type": "Effect Monster",
+  "description": "Twice per turn, this card cannot be destroyed by battle.",
+  "attack": 0,
+  "defense": 900,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28859794.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28859794.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28859794.jpg"
+  }
+}

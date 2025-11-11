@@ -1,0 +1,12 @@
+{
+  "id": 66994718,
+  "name": "Raptor's Gust",
+  "type": "Trap Card",
+  "description": "When a Spell/Trap Card is activated while you control a \"Raidraptor\" card: Negate the activation, and if you do, destroy that card.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66994718.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66994718.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66994718.jpg"
+  }
+}

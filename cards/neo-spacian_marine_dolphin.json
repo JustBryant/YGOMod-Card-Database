@@ -1,0 +1,16 @@
+{
+  "id": 78734254,
+  "name": "Neo-Spacian Marine Dolphin",
+  "type": "Fusion Monster",
+  "description": "This card's name is also treated as \"Neo-Spacian Aqua Dolphin\". This card cannot be Special Summoned except with \"NEX\". Once per turn, you can discard 1 card to look at your opponent's hand and select 1 Monster Card in it. If you control a monster with ATK greater than or equal to the selected monster's, destroy the selected monster and inflict 500 damage to your opponent.",
+  "attack": 900,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78734254.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78734254.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78734254.jpg"
+  }
+}

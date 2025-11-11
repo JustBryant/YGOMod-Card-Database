@@ -1,0 +1,16 @@
+{
+  "id": 51435705,
+  "name": "Chronomaly Crystal Skull",
+  "type": "Effect Monster",
+  "description": "If you control a face-up \"Chronomaly\" monster: You can discard this card to the Graveyard; add 1 \"Chronomaly\" monster from your Deck or Graveyard to your hand, except \"Chronomaly Crystal Skull\". The effect of \"Chronomaly Crystal Skull\" can only be used once per turn.",
+  "attack": 900,
+  "defense": 600,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51435705.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51435705.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51435705.jpg"
+  }
+}

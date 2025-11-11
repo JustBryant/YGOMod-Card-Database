@@ -1,0 +1,16 @@
+{
+  "id": 63125616,
+  "name": "The Shadow Who Controls the Dark",
+  "type": "Normal Monster",
+  "description": "A shadow that dwells in the dark, paralyzing its opponents and rendering them harmless.",
+  "attack": 800,
+  "defense": 700,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63125616.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63125616.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63125616.jpg"
+  }
+}

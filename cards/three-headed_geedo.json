@@ -1,0 +1,16 @@
+{
+  "id": 78423643,
+  "name": "Three-Headed Geedo",
+  "type": "Normal Monster",
+  "description": "A three-headed nocturnal monster that is absolutely ruthless when fighting.",
+  "attack": 1200,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78423643.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78423643.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78423643.jpg"
+  }
+}

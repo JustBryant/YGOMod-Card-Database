@@ -3,14 +3,14 @@
   "name": "Dark Gray",
   "type": "Normal Monster",
   "description": "Entirely gray, this beast has rarely been seen by mortal eyes.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/9159938.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/9159938.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9159938.jpg"
-  },
   "attack": 800,
   "defense": 900,
   "level": 3,
   "attribute": "EARTH",
-  "race": "Beast"
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9159938.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9159938.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9159938.jpg"
+  }
 }

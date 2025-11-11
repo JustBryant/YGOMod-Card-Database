@@ -3,10 +3,10 @@
   "name": "Forest",
   "type": "Spell Card",
   "description": "All Insect, Beast, Plant, and Beast-Warrior monsters on the field gain 200 ATK/DEF.",
+  "race": "Field",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/87430998.jpg",
     "small_url": "https://images.ygoprodeck.com/images/cards_small/87430998.jpg",
     "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87430998.jpg"
-  },
-  "race": "Field"
+  }
 }

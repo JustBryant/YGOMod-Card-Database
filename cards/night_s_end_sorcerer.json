@@ -1,0 +1,16 @@
+{
+  "id": 36107810,
+  "name": "Night's End Sorcerer",
+  "type": "Tuner Monster",
+  "description": "When this card is Special Summoned: You can target up to 2 cards in your opponent's GY; banish them.",
+  "attack": 1300,
+  "defense": 400,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36107810.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36107810.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36107810.jpg"
+  }
+}

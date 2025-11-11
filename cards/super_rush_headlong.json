@@ -1,0 +1,12 @@
+{
+  "id": 48422921,
+  "name": "Super Rush Headlong",
+  "type": "Spell Card",
+  "description": "Target 1 face-up monster you control and declare 1 Attribute; if that target battles an opponent's monster with that Attribute this turn, destroy that opponent's monster at the start of the Damage Step.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48422921.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48422921.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48422921.jpg"
+  }
+}

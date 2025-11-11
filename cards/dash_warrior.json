@@ -1,0 +1,16 @@
+{
+  "id": 34257001,
+  "name": "Dash Warrior",
+  "type": "Effect Monster",
+  "description": "If this card attacks, it gains 1200 ATK during the Damage Step only.",
+  "attack": 600,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34257001.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34257001.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34257001.jpg"
+  }
+}

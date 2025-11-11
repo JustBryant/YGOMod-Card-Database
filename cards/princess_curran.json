@@ -1,0 +1,16 @@
+{
+  "id": 2316186,
+  "name": "Princess Curran",
+  "type": "Effect Monster",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Trial of the Princesses\". During your Standby Phase, inflict 600 damage to your opponent for each monster they control.",
+  "attack": 2000,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2316186.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2316186.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2316186.jpg"
+  }
+}

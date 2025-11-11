@@ -1,0 +1,16 @@
+{
+  "id": 70717628,
+  "name": "Clear Phantom",
+  "type": "Effect Monster",
+  "description": "You are unaffected by the effects of \"Clear World\". You can discard 2 cards, including this card; add 2 cards from your Deck to your hand, that are \"Clear World\" or Spells/Traps that mention it. You can only use this effect of \"Clear Phantom\" once per turn. If this card is destroyed: You can target 1 monster your opponent controls; destroy it, and if you do, send the top 3 cards of their Deck to the GY.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70717628.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70717628.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70717628.jpg"
+  }
+}

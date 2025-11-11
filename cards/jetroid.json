@@ -1,0 +1,16 @@
+{
+  "id": 43697559,
+  "name": "Jetroid",
+  "type": "Effect Monster",
+  "description": "At the time this card is selected as an attack target by an opponent's monster, you can activate Trap Card(s) from your hand.",
+  "attack": 1200,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43697559.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43697559.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43697559.jpg"
+  }
+}

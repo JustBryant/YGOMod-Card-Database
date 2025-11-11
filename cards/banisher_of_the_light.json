@@ -1,0 +1,16 @@
+{
+  "id": 61528025,
+  "name": "Banisher of the Light",
+  "type": "Effect Monster",
+  "description": "Any card sent to the Graveyard is banished instead.",
+  "attack": 100,
+  "defense": 2000,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61528025.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61528025.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61528025.jpg"
+  }
+}

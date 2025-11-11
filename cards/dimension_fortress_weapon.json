@@ -1,0 +1,16 @@
+{
+  "id": 1596508,
+  "name": "Dimension Fortress Weapon",
+  "type": "Effect Monster",
+  "description": "Cards cannot be sent from the Deck to the Graveyard.",
+  "attack": 1700,
+  "defense": 200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1596508.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1596508.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1596508.jpg"
+  }
+}

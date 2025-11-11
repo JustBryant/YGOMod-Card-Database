@@ -1,0 +1,16 @@
+{
+  "id": 62411042,
+  "name": "Ibicella Lutea",
+  "type": "Effect Monster",
+  "description": "Cannot be destroyed by battle while you control another monster. Neither player can target face-up Spells/Traps you control with card effects.",
+  "attack": 1800,
+  "defense": 100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62411042.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62411042.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62411042.jpg"
+  }
+}

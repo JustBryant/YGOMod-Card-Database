@@ -1,0 +1,16 @@
+{
+  "id": 61632317,
+  "name": "Sinister Sprocket",
+  "type": "Tuner Monster",
+  "description": "If this card is sent to the Graveyard for the Synchro Summon of a DARK Synchro Monster, you can destroy 1 face-up Spell or Trap Card.",
+  "attack": 400,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61632317.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61632317.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61632317.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 70231910,
+  "name": "Dark Core",
+  "type": "Spell Card",
+  "description": "Discard 1 card, then target 1 face-up monster on the field; banish that target.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70231910.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70231910.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70231910.jpg"
+  }
+}

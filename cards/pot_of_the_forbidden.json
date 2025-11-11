@@ -1,0 +1,16 @@
+{
+  "id": 91501248,
+  "name": "Pot of The Forbidden",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can activate 1 of these effects;\n● Draw 2 cards.\n● Return all Spell and Trap Cards on the field to the hand.\n● Destroy all monsters your opponent controls.\n● Look at your opponent's hand, also shuffle 1 card from their hand into the Deck.\nYou can only use this effect of \"Pot of The Forbidden\" once per turn.",
+  "attack": 2000,
+  "defense": 3000,
+  "level": 9,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91501248.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91501248.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91501248.jpg"
+  }
+}

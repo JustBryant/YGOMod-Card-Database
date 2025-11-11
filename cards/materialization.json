@@ -1,0 +1,12 @@
+{
+  "id": 24649931,
+  "name": "Materialization",
+  "type": "Spell Card",
+  "description": "Target 1 face-up Monster Card in any Spell & Trap Zone, then activate 1 of these effects;\r\n● Special Summon it to its owner's field.\r\n● Return it to the hand.\r\n● Destroy it, then you can destroy 1 monster on the field with an equal or lower Level.\r\nYou can only activate 1 \"Materialization\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24649931.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24649931.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24649931.jpg"
+  }
+}

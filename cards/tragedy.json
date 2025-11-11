@@ -1,0 +1,12 @@
+{
+  "id": 35686188,
+  "name": "Tragedy",
+  "type": "Trap Card",
+  "description": "When a face-up Attack Position monster(s) your opponent controls is changed to face-up Defense Position: Destroy all Defense Position monsters your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35686188.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35686188.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35686188.jpg"
+  }
+}

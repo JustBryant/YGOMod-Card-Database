@@ -1,0 +1,16 @@
+{
+  "id": 79979666,
+  "name": "Elemental HERO Bubbleman",
+  "type": "Effect Monster",
+  "description": "If this is the only card in your hand, you can Special Summon it (from your hand). When this card is Summoned: You can draw 2 cards. You must control no other cards and have no cards in your hand to activate and to resolve this effect.",
+  "attack": 800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79979666.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79979666.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79979666.jpg"
+  }
+}

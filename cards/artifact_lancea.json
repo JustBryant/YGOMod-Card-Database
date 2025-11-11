@@ -1,0 +1,16 @@
+{
+  "id": 34267821,
+  "name": "Artifact Lancea",
+  "type": "Effect Monster",
+  "description": "You can Set this card from your hand to your Spell & Trap Zone as a Spell. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your GY: Special Summon it. During your opponent's turn (Quick Effect): You can Tribute this card from your hand or face-up field; neither player can banish cards for the rest of this turn.",
+  "attack": 1700,
+  "defense": 2300,
+  "level": 5,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34267821.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34267821.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34267821.jpg"
+  }
+}

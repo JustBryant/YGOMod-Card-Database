@@ -1,0 +1,16 @@
+{
+  "id": 24184846,
+  "name": "Battlin' Boxer Rib Gardna",
+  "type": "Effect Monster",
+  "description": "During either player's turn: You can banish this card from your hand or Graveyard, then target 1 \"Battlin' Boxer\" monster you control; banish it until your next Standby Phase.",
+  "attack": 100,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24184846.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24184846.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24184846.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 58475908,
+  "name": "Wind-Up Snail",
+  "type": "Effect Monster",
+  "description": "During your Main Phase: You can target 1 Set card on the field; return that target to the hand. This effect can be used only once while this card is face-up on the field.",
+  "attack": 100,
+  "defense": 2000,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58475908.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58475908.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58475908.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 86197239,
+  "name": "Infernity Mirage",
+  "type": "Effect Monster",
+  "description": "This card cannot be Special Summoned from the Graveyard. If you have no cards in your hand, you can Tribute this card to select 2 \"Infernity\" monsters in your Graveyard. Special Summon those monsters.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86197239.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86197239.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86197239.jpg"
+  }
+}

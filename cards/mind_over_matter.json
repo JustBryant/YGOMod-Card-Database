@@ -1,0 +1,12 @@
+{
+  "id": 59718521,
+  "name": "Mind Over Matter",
+  "type": "Trap Card",
+  "description": "When a monster would be Normal or Special Summoned, OR a Spell/Trap Card is activated: Tribute 1 Psychic-Type monster; negate the Summon or activation, and if you do, destroy that card.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59718521.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59718521.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59718521.jpg"
+  }
+}

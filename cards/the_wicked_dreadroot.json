@@ -1,0 +1,16 @@
+{
+  "id": 62180201,
+  "name": "The Wicked Dreadroot",
+  "type": "Effect Monster",
+  "description": "This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Halve the ATK and DEF of all monsters on the field, except this card.",
+  "attack": 4000,
+  "defense": 4000,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62180201.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62180201.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62180201.jpg"
+  }
+}

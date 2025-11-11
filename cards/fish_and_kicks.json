@@ -1,0 +1,12 @@
+{
+  "id": 32703716,
+  "name": "Fish and Kicks",
+  "type": "Spell Card",
+  "description": "If you have 3 or more banished Fish, Sea Serpent, or Aqua-Type monsters: Target 1 card on the field; banish it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32703716.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32703716.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32703716.jpg"
+  }
+}

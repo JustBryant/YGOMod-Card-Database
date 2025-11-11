@@ -1,0 +1,12 @@
+{
+  "id": 4857085,
+  "name": "Omega Goggles",
+  "type": "Spell Card",
+  "description": "Equip only to a monster you control. Once per turn, you can look at 1 random card in your opponent's hand. The equipped monster cannot attack the turn you activate this effect.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4857085.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4857085.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4857085.jpg"
+  }
+}

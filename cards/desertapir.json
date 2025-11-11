@@ -1,0 +1,16 @@
+{
+  "id": 13409151,
+  "name": "Desertapir",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Flip 1 face-up monster on the field into face-down Defense Position. You cannot select \"Desertapir\".",
+  "attack": 900,
+  "defense": 300,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13409151.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13409151.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13409151.jpg"
+  }
+}

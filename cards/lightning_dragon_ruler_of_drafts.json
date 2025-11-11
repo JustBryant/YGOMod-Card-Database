@@ -1,0 +1,16 @@
+{
+  "id": 89185742,
+  "name": "Lightning, Dragon Ruler of Drafts",
+  "type": "Effect Monster",
+  "description": "You can discard this card and 1 Dragon or WIND monster; Special Summon 1 \"Tempest, Dragon Ruler of Storms\" from your Deck, but it cannot attack this turn. You can only use this effect of \"Lightning, Dragon Ruler of Drafts\" once per turn.",
+  "attack": 500,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89185742.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89185742.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89185742.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 98139712,
+  "name": "Skull Invitation",
+  "type": "Trap Card",
+  "description": "Each time a card(s) is sent to the Graveyard, inflict 300 damage to its owner for each card sent.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98139712.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98139712.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98139712.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 300101001,
+  "name": "Ectoplasmic Fortification!",
+  "type": "Skill Card",
+  "description": "[Flip this card over when you activate this Skill.] \r\n\r\nOnce per turn, if you control a Zombie monster, you can place 1 counter on this card. All Zombie monsters you control gain 100 ATK and lose 100 DEF for each counter on this card. Any battle damage you take from battles involving your Zombie monster is doubled.",
+  "race": "Bonz",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300101001.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300101001.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300101001.jpg"
+  }
+}

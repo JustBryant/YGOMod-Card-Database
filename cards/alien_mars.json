@@ -1,0 +1,16 @@
+{
+  "id": 99532708,
+  "name": "Alien Mars",
+  "type": "Effect Monster",
+  "description": "The effects of Effect Monsters with A-Counters are negated, except for \"Alien Mars\".",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99532708.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99532708.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99532708.jpg"
+  }
+}

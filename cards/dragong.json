@@ -1,0 +1,16 @@
+{
+  "id": 83980492,
+  "name": "Dragong",
+  "type": "Pendulum Normal Monster",
+  "description": "''This gong harbors the soul of an untamed dragon. It soars through the skies with an incredible roar, marshaling all those who hear its call to battle.''",
+  "attack": 500,
+  "defense": 2100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83980492.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83980492.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83980492.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 64554883,
+  "name": "Number 25: Force Focus",
+  "type": "XYZ Monster",
+  "description": "2 Level 6 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 Level 5 or higher Effect Monster your opponent controls; negate the effects of that opponent's face-up monster, until the end of the turn.",
+  "attack": 2800,
+  "defense": 2400,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64554883.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64554883.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64554883.jpg"
+  }
+}

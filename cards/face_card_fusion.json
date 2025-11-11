@@ -1,0 +1,12 @@
+{
+  "id": 29062925,
+  "name": "Face Card Fusion",
+  "type": "Spell Card",
+  "description": "Fusion Summon 1 LIGHT Warrior Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you control \"Queen's Knight\", \"King's Knight\", or \"Jack's Knight\", you can use 1 monster from your Deck as Fusion Material. You can only activate 1 \"Face Card Fusion\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29062925.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29062925.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29062925.jpg"
+  }
+}

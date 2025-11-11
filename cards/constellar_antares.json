@@ -1,0 +1,16 @@
+{
+  "id": 42391240,
+  "name": "Constellar Antares",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned: You can target 1 \"Constellar\" monster in your Graveyard; add that target to your hand.",
+  "attack": 2400,
+  "defense": 900,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42391240.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42391240.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42391240.jpg"
+  }
+}

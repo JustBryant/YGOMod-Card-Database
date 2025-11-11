@@ -1,0 +1,16 @@
+{
+  "id": 6622715,
+  "name": "Encode Talker",
+  "type": "Link Monster",
+  "description": "2+ Cyberse monsters\r\nOnce per turn, before damage calculation, if your monster this card points to battles an opponent's monster with higher ATK than it: You can make that monster unable to be destroyed by that battle, also you take no battle damage from that battle. After that damage calculation, have this card or 1 monster it points to gain ATK equal to the ATK of that battled opponent's monster, until the end of this turn.",
+  "attack": 2300,
+  "defense": null,
+  "level": null,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6622715.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6622715.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6622715.jpg"
+  }
+}

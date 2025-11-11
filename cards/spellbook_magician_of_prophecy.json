@@ -1,0 +1,16 @@
+{
+  "id": 14824019,
+  "name": "Spellbook Magician of Prophecy",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned or flipped face-up: Add 1 \"Spellbook\" Spell from your Deck to your hand.",
+  "attack": 500,
+  "defense": 400,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14824019.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14824019.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14824019.jpg"
+  }
+}

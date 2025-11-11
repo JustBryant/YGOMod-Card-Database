@@ -1,0 +1,16 @@
+{
+  "id": 78835747,
+  "name": "Performapal Kaleidoscorp",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nAll LIGHT monsters you control gain 300 ATK.\n\n[ Monster Effect ] \nOnce per turn: You can target 1 face-up monster you control; this turn, it can attack all Special Summoned monsters your opponent controls, once each.",
+  "attack": 100,
+  "defense": 2300,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78835747.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78835747.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78835747.jpg"
+  }
+}

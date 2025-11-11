@@ -1,0 +1,16 @@
+{
+  "id": 67441435,
+  "name": "Glow-Up Bulb",
+  "type": "Tuner Monster",
+  "description": "If this card is in your GY: You can send the top card of your Deck to the GY, and if you do, Special Summon this card. You can only use this effect of \"Glow-Up Bulb\" once per Duel.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67441435.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67441435.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67441435.jpg"
+  }
+}

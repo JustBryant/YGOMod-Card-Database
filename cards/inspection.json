@@ -1,0 +1,12 @@
+{
+  "id": 16227556,
+  "name": "Inspection",
+  "type": "Spell Card",
+  "description": "During your opponent's Standby Phase, you can pay 500 Life Points to randomly select 1 card in your opponent's hand and look at it.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16227556.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16227556.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16227556.jpg"
+  }
+}

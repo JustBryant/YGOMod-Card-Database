@@ -1,0 +1,12 @@
+{
+  "id": 36623431,
+  "name": "Iron Core of Koa'ki Meiru",
+  "type": "Spell Card",
+  "description": "During your Draw Phase, if this card is in your Graveyard, you can add this card to your hand instead of drawing, and/or send 1 \"Koa'ki Meiru\" monster from your hand to your Graveyard to add this card to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36623431.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36623431.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36623431.jpg"
+  }
+}

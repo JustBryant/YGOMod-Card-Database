@@ -1,0 +1,16 @@
+{
+  "id": 71555408,
+  "name": "Gouki Iron Claw",
+  "type": "Effect Monster",
+  "description": "During the Damage Step, when your \"Gouki\" monster battles an opponent's monster (Quick Effect): You can send this card from your hand to the GY; until the end of this turn, your monster gains 500 ATK, and if it does, it is unaffected by your opponent's card effects. If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Iron Claw\". You can only use each effect of \"Gouki Iron Claw\" once per turn.",
+  "attack": 1000,
+  "defense": 0,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71555408.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71555408.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71555408.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 56769674,
+  "name": "DNA Transplant",
+  "type": "Trap Card",
+  "description": "Activate by declaring 1 monster Attribute. All face-up monsters become that Attribute.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56769674.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56769674.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56769674.jpg"
+  }
+}

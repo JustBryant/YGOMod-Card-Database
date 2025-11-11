@@ -1,0 +1,12 @@
+{
+  "id": 18302224,
+  "name": "Reverse of Neos",
+  "type": "Spell Card",
+  "description": "Activate only when a face-up \"Neos\" Fusion Monster you control is destroyed. Special Summon 1 \"Elemental Hero Neos\" from your Deck in Attack Position. It gains 1000 ATK and is destroyed during the End Phase of this turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18302224.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18302224.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18302224.jpg"
+  }
+}

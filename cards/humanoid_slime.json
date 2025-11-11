@@ -1,0 +1,16 @@
+{
+  "id": 46821314,
+  "name": "Humanoid Slime",
+  "type": "Normal Monster",
+  "description": "This slime apparently has some human genes in its genetic makeup.",
+  "attack": 800,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46821314.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46821314.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46821314.jpg"
+  }
+}

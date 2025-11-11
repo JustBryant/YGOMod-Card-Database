@@ -1,0 +1,12 @@
+{
+  "id": 65169794,
+  "name": "Black Pendant",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65169794.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65169794.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65169794.jpg"
+  }
+}

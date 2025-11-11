@@ -1,0 +1,12 @@
+{
+  "id": 57139487,
+  "name": "Chain Disappearance",
+  "type": "Trap Card",
+  "description": "When a monster(s) with 1000 or less ATK is Summoned: Banish that monster(s) with 1000 or less ATK, then your opponent banishes all cards with the same name as that card(s) from their hand and Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57139487.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57139487.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57139487.jpg"
+  }
+}

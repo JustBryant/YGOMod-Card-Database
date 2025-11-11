@@ -1,0 +1,12 @@
+{
+  "id": 14318794,
+  "name": "Life Absorbing Machine",
+  "type": "Trap Card",
+  "description": "During your Standby Phase, gain Life Points equal to half of the total Life Points you paid during your last turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14318794.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14318794.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14318794.jpg"
+  }
+}

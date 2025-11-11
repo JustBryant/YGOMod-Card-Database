@@ -1,0 +1,16 @@
+{
+  "id": 32393580,
+  "name": "Cyber Shark",
+  "type": "Effect Monster",
+  "description": "If you control a WATER monster, you can Normal Summon this card without Tributing.",
+  "attack": 2100,
+  "defense": 2000,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32393580.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32393580.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32393580.jpg"
+  }
+}

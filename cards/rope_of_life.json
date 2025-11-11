@@ -1,0 +1,12 @@
+{
+  "id": 93382620,
+  "name": "Rope of Life",
+  "type": "Trap Card",
+  "description": "When a monster(s) is destroyed by battle and sent to your GY: Discard your entire hand (min.1), then target 1 of those monsters; Special Summon it, and if you do, it gains 800 ATK.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93382620.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93382620.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93382620.jpg"
+  }
+}

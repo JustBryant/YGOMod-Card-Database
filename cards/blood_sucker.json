@@ -1,0 +1,16 @@
+{
+  "id": 97783659,
+  "name": "Blood Sucker",
+  "type": "Effect Monster",
+  "description": "If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY.",
+  "attack": 1300,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97783659.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97783659.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97783659.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 46613515,
+  "name": "Clear Kuriboh",
+  "type": "Effect Monster",
+  "description": "When your opponent activates a monster effect that would inflict damage (Quick Effect): You can discard this card; negate the activation. When an opponent's monster declares a direct attack: You can banish this card from your GY; draw 1 card, and if it is a monster, you can Special Summon it, then change the attack target to it. You can only use this effect of \"Clear Kuriboh\" once per turn.",
+  "attack": 300,
+  "defense": 200,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46613515.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46613515.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46613515.jpg"
+  }
+}

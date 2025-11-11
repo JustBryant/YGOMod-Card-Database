@@ -1,0 +1,12 @@
+{
+  "id": 55465441,
+  "name": "Give and Take",
+  "type": "Trap Card",
+  "description": "Special Summon 1 monster from your Graveyard to your opponent's side of the field in Defense Position, and increase the Level of 1 monster you control by the Level of the Special Summoned monster, until the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55465441.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55465441.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55465441.jpg"
+  }
+}

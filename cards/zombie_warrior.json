@@ -1,0 +1,16 @@
+{
+  "id": 31339260,
+  "name": "Zombie Warrior",
+  "type": "Fusion Monster",
+  "description": "\"Skull Servant\" + \"Battle Warrior\"",
+  "attack": 1200,
+  "defense": 900,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31339260.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31339260.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31339260.jpg"
+  }
+}

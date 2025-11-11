@@ -1,0 +1,16 @@
+{
+  "id": 84696266,
+  "name": "Sonic Duck",
+  "type": "Normal Monster",
+  "description": "A duck which can walk at a sonic speed. Sometimes, he cannot deal with his incredible pace and loses control.",
+  "attack": 1700,
+  "defense": 700,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84696266.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84696266.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84696266.jpg"
+  }
+}

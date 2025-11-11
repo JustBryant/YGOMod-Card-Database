@@ -1,0 +1,16 @@
+{
+  "id": 46955770,
+  "name": "Gravekeeper's Heretic",
+  "type": "Effect Monster",
+  "description": "This card on the field is unaffected by all other card effects, as long as \"Necrovalley\" is also on the field.",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46955770.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46955770.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46955770.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21887179,
+  "name": "Getsu Fuhma",
+  "type": "Effect Monster",
+  "description": "If this card battles a Fiend or Zombie-Type monster, destroy that monster at the end of the Damage Step.",
+  "attack": 1700,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21887179.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21887179.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21887179.jpg"
+  }
+}

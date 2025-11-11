@@ -1,0 +1,16 @@
+{
+  "id": 3717252,
+  "name": "Shaddoll Beast",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can draw 2 cards, then discard 1 card.\r\nIf this card is sent to the GY by a card effect: You can draw 1 card. You can only use 1 \"Shaddoll Beast\" effect per turn, and only once that turn.",
+  "attack": 2200,
+  "defense": 1700,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3717252.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3717252.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3717252.jpg"
+  }
+}

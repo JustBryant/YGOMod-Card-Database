@@ -1,0 +1,12 @@
+{
+  "id": 43528009,
+  "name": "Gold Moon Coin",
+  "type": "Spell Card",
+  "description": "Add 2 cards from your hand to your opponent's hand, then draw 2 cards. You can only activate 1 \"Gold Moon Coin\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43528009.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43528009.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43528009.jpg"
+  }
+}

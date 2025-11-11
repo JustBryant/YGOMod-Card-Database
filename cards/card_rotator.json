@@ -1,0 +1,12 @@
+{
+  "id": 72767833,
+  "name": "Card Rotator",
+  "type": "Spell Card",
+  "description": "Send 1 card from your hand to the Graveyard. Change the battle positions of all monsters your opponent controls. (Face-down Defense Position monsters are flipped to face-up Attack Position.)",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72767833.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72767833.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72767833.jpg"
+  }
+}

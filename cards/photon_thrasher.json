@@ -1,0 +1,16 @@
+{
+  "id": 65367484,
+  "name": "Photon Thrasher",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. Cannot attack if you control another monster.",
+  "attack": 2100,
+  "defense": 0,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65367484.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65367484.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65367484.jpg"
+  }
+}

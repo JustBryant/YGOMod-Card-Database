@@ -1,0 +1,16 @@
+{
+  "id": 92746535,
+  "name": "Luster Pendulum, the Dracoslayer",
+  "type": "Pendulum Tuner Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn, if you have a card in your other Pendulum Zone: You can destroy that card, and if you do, add 1 card from your Deck to your hand, with the same name as that card.\n\n[ Monster Effect ] \nCannot Special Summon Fusion, Synchro, or Xyz Monsters using this card as material, except \"Dracoslayer\" monsters.",
+  "attack": 1850,
+  "defense": 0,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92746535.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92746535.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92746535.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 67646312,
+  "name": "Searchlightman",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Your opponent cannot Set (or flip face-down) any cards for the rest of this turn.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67646312.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67646312.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67646312.jpg"
+  }
+}

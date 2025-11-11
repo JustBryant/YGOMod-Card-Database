@@ -1,0 +1,12 @@
+{
+  "id": 35419032,
+  "name": "Infestation Infection",
+  "type": "Trap Card",
+  "description": "Once per turn: You can shuffle 1 \"lswarm\" monster from your hand or face-up from your side of the field into the Main Deck; add 1 \"lswarm\" monster from your Deck to your hand.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35419032.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35419032.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35419032.jpg"
+  }
+}

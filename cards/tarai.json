@@ -1,0 +1,16 @@
+{
+  "id": 8152834,
+  "name": "Tarai",
+  "type": "Effect Monster",
+  "description": "If this card is in your hand: You can target 1 face-up monster in the Main Monster Zone that has activated its effect on the field this turn; destroy it, and if you do, Special Summon this card to the zone that monster was in. You can only use this effect of \"Tarai\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8152834.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8152834.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8152834.jpg"
+  }
+}

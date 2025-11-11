@@ -1,0 +1,16 @@
+{
+  "id": 28803166,
+  "name": "Lacrima the Crimson Tears",
+  "type": "Effect Monster",
+  "description": "(This card is always treated as a \"Fiendsmith\" card.)\r\nIf this card is Normal or Special Summoned: You can send 1 \"Fiendsmith\" card from your Deck to the GY, except \"Lacrima the Crimson Tears\". During your opponent's turn, if this card is in your GY (Quick Effect): You can target 1 \"Fiendsmith\" Link Monster in your GY; shuffle this card into the Deck, and if you do, Special Summon that monster. You can only use each effect of \"Lacrima the Crimson Tears\" once per turn.",
+  "attack": 1200,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28803166.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28803166.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28803166.jpg"
+  }
+}

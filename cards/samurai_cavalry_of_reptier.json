@@ -1,0 +1,16 @@
+{
+  "id": 93124273,
+  "name": "Samurai Cavalry of Reptier",
+  "type": "Pendulum Effect Monster",
+  "description": "At the start of the Damage Step, if this card attacks an opponent's face-up monster that is not a Pendulum Monster: You can destroy that monster.",
+  "attack": 1800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93124273.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93124273.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93124273.jpg"
+  }
+}

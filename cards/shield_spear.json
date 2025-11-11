@@ -1,0 +1,12 @@
+{
+  "id": 3244563,
+  "name": "Shield Spear",
+  "type": "Trap Card",
+  "description": "Target 1 face-up monster on the field; it gains 400 ATK/DEF until the end of this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3244563.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3244563.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3244563.jpg"
+  }
+}

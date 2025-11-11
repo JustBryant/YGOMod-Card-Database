@@ -1,0 +1,12 @@
+{
+  "id": 68170903,
+  "name": "A Feint Plan",
+  "type": "Trap Card",
+  "description": "A player cannot attack face-down monsters during this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68170903.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68170903.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68170903.jpg"
+  }
+}

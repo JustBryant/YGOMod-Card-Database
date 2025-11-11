@@ -1,0 +1,16 @@
+{
+  "id": 1639384,
+  "name": "Divine Dragon Knight Felgrand",
+  "type": "XYZ Monster",
+  "description": "2 Level 8 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; this turn, its effects are negated, but it is unaffected by other card effects.",
+  "attack": 2800,
+  "defense": 1800,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1639384.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1639384.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1639384.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2834264,
+  "name": "Beetrooper Armor Horn",
+  "type": "Link Monster",
+  "description": "2 Insect monsters\r\nYou cannot Special Summon monsters, except Insect monsters. You can only use each of the following effects of \"Beetrooper Armor Horn\" once per turn. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 Insect monster. If this card is in your GY: You can banish 3 other Insect monsters from your GY; Special Summon this card, but banish it when it leaves the field.",
+  "attack": 1000,
+  "defense": null,
+  "level": null,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2834264.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2834264.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2834264.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 30834988,
+  "name": "All-Out Attacks",
+  "type": "Trap Card",
+  "description": "If a monster(s) is Special Summoned while this card is face-up on the field: Change that monster to face-up Attack Position, and must attack, if able, during the turn they are Special Summoned.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30834988.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30834988.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30834988.jpg"
+  }
+}

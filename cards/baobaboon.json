@@ -1,0 +1,16 @@
+{
+  "id": 55705473,
+  "name": "Baobaboon",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can draw 1 card, then place 1 card from your hand on either the top or bottom of your Deck. If this card is destroyed by battle or card effect: You can Special Summon any number of \"Baobaboon\" from your Deck.",
+  "attack": 1200,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55705473.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55705473.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55705473.jpg"
+  }
+}

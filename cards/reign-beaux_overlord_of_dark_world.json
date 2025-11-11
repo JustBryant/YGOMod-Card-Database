@@ -1,0 +1,16 @@
+{
+  "id": 99458769,
+  "name": "Reign-Beaux, Overlord of Dark World",
+  "type": "Effect Monster",
+  "description": "If this card is discarded from your hand to your Graveyard by an opponent's card effect: Special Summon this card from the Graveyard. When this card is Special Summoned this way: Destroy all monsters your opponent controls OR all Spell/Trap Cards they control.",
+  "attack": 2500,
+  "defense": 1800,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99458769.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99458769.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99458769.jpg"
+  }
+}

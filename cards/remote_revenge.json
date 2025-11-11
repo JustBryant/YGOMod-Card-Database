@@ -1,0 +1,12 @@
+{
+  "id": 61656650,
+  "name": "Remote Revenge",
+  "type": "Trap Card",
+  "description": "Activate only when a monster you control is targeted by a Spell, Trap, or Effect Monster's effect that destroys 1 monster on the field. Switch the target to an appropriate monster your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61656650.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61656650.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61656650.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12275533,
+  "name": "Trifortressops",
+  "type": "Effect Monster",
+  "description": "During either player's turn, if your opponent Summoned 3 or more monsters this turn: You can Special Summon this card from your hand. If Summoned this way, it is unaffected by other cards' effects, but loses 500 DEF during each player's Standby Phase.",
+  "attack": 1600,
+  "defense": 2800,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12275533.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12275533.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12275533.jpg"
+  }
+}

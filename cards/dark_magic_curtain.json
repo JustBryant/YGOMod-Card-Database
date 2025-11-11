@@ -1,0 +1,12 @@
+{
+  "id": 99789342,
+  "name": "Dark Magic Curtain",
+  "type": "Spell Card",
+  "description": "Pay half your LP; Special Summon 1 \"Dark Magician\" from your Deck. You cannot Summon other monsters the turn you activate this card (but you can Set).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99789342.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99789342.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99789342.jpg"
+  }
+}

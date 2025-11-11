@@ -1,0 +1,16 @@
+{
+  "id": 45002991,
+  "name": "Crusadia Equimax",
+  "type": "Link Monster",
+  "description": "2+ Effect Monsters, including a Link Monster\r\nGains ATK equal to the combined original ATK of all monsters this card points to. Monsters this card points to cannot attack. Once per turn (Quick Effect): You can Tribute 1 \"Crusadia\" or \"World Legacy\" monster this card points to, then target 1 face-up card your opponent controls; negate its effects until the end of this turn.",
+  "attack": 2000,
+  "defense": null,
+  "level": null,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45002991.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45002991.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45002991.jpg"
+  }
+}

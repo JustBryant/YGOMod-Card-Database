@@ -1,0 +1,16 @@
+{
+  "id": 50123605,
+  "name": "Heavy Cavalry of the Indestructible Insects",
+  "type": "Fusion Monster",
+  "description": "1 Level 5 or higher Insect monster + 1 Insect monster\r\nCannot be destroyed by your opponent's card effects. If all face-up monsters you control are Insect monsters (Quick Effect): You can target 2 monsters on the field, including an Insect monster you control; banish them. You can only use this effect of \"Heavy Cavalry of the Indestructible Insects\" once per turn.",
+  "attack": 2500,
+  "defense": 1800,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50123605.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50123605.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50123605.jpg"
+  }
+}

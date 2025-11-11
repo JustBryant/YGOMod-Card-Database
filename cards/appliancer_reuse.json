@@ -1,0 +1,12 @@
+{
+  "id": 30996652,
+  "name": "Appliancer Reuse",
+  "type": "Spell Card",
+  "description": "Target 1 \"Appliancer\" monster in your GY; Special Summon it, but place it on the bottom of the Deck when it leaves the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30996652.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30996652.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30996652.jpg"
+  }
+}

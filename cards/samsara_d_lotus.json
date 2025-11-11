@@ -1,0 +1,16 @@
+{
+  "id": 62318994,
+  "name": "Samsara D Lotus",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card; Special Summon 1 \"Yubel\" monster from your Deck. During your opponent's turn, when a monster effect is activated, while you control a \"Yubel\" monster (Quick Effect): You can Tribute this card; the activated effect becomes \"Destroy 1 \"Yubel\" monster on the field\". During your End Phase, if you control \"Yubel\" and this card is in your GY: You can add this card to your hand, or Special Summon it. You can only use each effect of \"Samsara D Lotus\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62318994.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62318994.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62318994.jpg"
+  }
+}

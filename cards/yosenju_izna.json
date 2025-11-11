@@ -1,0 +1,16 @@
+{
+  "id": 85970321,
+  "name": "Yosenju Izna",
+  "type": "Effect Monster",
+  "description": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Izna\" once per turn.\r\n● You can discard this card; this turn, your opponent cannot activate cards or effects when a \"Yosenju\" monster(s) is Normal or Special Summoned.\r\n● If you control another \"Yosenju\" monster: You can draw 1 card.",
+  "attack": 800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85970321.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85970321.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85970321.jpg"
+  }
+}

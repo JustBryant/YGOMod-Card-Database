@@ -1,0 +1,12 @@
+{
+  "id": 300302015,
+  "name": "No More Mrs. Nice Mai!",
+  "type": "Skill Card",
+  "description": "Once per turn, at the end of your Battle Phase, if a monster you control inflicted battle damage to your opponent this turn, you can destroy 1 Spell/Trap on the field.",
+  "race": "Mai Valentine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302015.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302015.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302015.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 78783370,
+  "name": "Barrel Behind the Door",
+  "type": "Trap Card",
+  "description": "Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78783370.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78783370.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78783370.jpg"
+  }
+}

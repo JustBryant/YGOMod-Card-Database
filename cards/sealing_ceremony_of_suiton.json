@@ -1,0 +1,12 @@
+{
+  "id": 81443745,
+  "name": "Sealing Ceremony of Suiton",
+  "type": "Trap Card",
+  "description": "Once per turn: You can send 1 WATER monster from your hand to the GY, then target 1 card in your opponent's GY; banish that target.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81443745.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81443745.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81443745.jpg"
+  }
+}

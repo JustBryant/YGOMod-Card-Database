@@ -1,0 +1,16 @@
+{
+  "id": 21454943,
+  "name": "Psychic Commander",
+  "type": "Tuner Monster",
+  "description": "When a Psychic-Type monster you control battles, during the Damage Step you can pay Life Points in multiples of 100 (max. 500) to have the monster it's battling lose that much ATK and DEF, until the End Phase.",
+  "attack": 1400,
+  "defense": 800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21454943.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21454943.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21454943.jpg"
+  }
+}

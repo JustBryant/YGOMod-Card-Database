@@ -1,0 +1,16 @@
+{
+  "id": 84453939,
+  "name": "Psychic Ace",
+  "type": "Effect Monster",
+  "description": "If this card in the Monster Zone is Tributed: You can target 1 card on the field; destroy it.",
+  "attack": 1000,
+  "defense": 0,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84453939.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84453939.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84453939.jpg"
+  }
+}

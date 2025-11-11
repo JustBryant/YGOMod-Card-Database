@@ -1,0 +1,12 @@
+{
+  "id": 60627999,
+  "name": "Sanguine Swamp",
+  "type": "Trap Card",
+  "description": "If you control any other Spell or Trap Cards, destroy this card. Face-down Spell and Trap Cards cannot be activated. Destroy this card during your 2nd Standby Phase after activation.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60627999.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60627999.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60627999.jpg"
+  }
+}

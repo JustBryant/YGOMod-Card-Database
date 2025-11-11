@@ -1,0 +1,16 @@
+{
+  "id": 84173492,
+  "name": "Indomitable Fighter Lei Lei",
+  "type": "Effect Monster",
+  "description": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect.",
+  "attack": 2300,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84173492.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84173492.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84173492.jpg"
+  }
+}

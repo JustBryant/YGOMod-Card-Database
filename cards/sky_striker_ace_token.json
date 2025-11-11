@@ -1,0 +1,12 @@
+{
+  "id": 52340445,
+  "name": "Sky Striker Ace Token",
+  "type": "Token",
+  "description": "This card can be used as a \"Sky Striker Ace Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52340445.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52340445.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52340445.jpg"
+  }
+}

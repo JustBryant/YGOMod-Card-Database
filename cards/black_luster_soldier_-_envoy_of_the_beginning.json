@@ -1,0 +1,16 @@
+{
+  "id": 72989439,
+  "name": "Black Luster Soldier - Envoy of the Beginning",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn, you can activate 1 of these effects.\r\n● Target 1 monster on the field; banish it. This card cannot attack the turn this effect is activated.\r\n● If this attacking card destroys an opponent's monster by battle: It can make a second attack in a row.",
+  "attack": 3000,
+  "defense": 2500,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72989439.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72989439.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72989439.jpg"
+  }
+}

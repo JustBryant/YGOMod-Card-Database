@@ -1,0 +1,12 @@
+{
+  "id": 26257572,
+  "name": "Corridor of Agony",
+  "type": "Spell Card",
+  "description": "Monsters that were Special Summoned from the Main Deck cannot activate their effects, their effects are negated, and they cannot declare an attack, as long as they remain face-up on the field.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26257572.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26257572.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26257572.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 17548456,
+  "name": "Jurrac Meteor",
+  "type": "Synchro Monster",
+  "description": "1 \"Jurrac\" Tuner + 2 or more non-Tuner Dinosaur-Type monsters\nWhen this card is Synchro Summoned, destroy all cards on the field. Then, you can Special Summon 1 Tuner monster from your Graveyard.",
+  "attack": 2800,
+  "defense": 2000,
+  "level": 10,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17548456.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17548456.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17548456.jpg"
+  }
+}

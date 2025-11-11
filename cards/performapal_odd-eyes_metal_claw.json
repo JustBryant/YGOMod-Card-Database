@@ -1,0 +1,16 @@
+{
+  "id": 65029288,
+  "name": "Performapal Odd-Eyes Metal Claw",
+  "type": "Fusion Monster",
+  "description": "1 \"Odd-Eyes\" monster + 1 \"Performapal\" monster\nCannot be used as Fusion Material. If this card was Fusion Summoned with \"Polymerization\", it is unaffected by other cards' effects. When this card declares an attack: All monsters you currently control gain 300 ATK until the end of the Battle Phase.",
+  "attack": 3000,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65029288.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65029288.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65029288.jpg"
+  }
+}

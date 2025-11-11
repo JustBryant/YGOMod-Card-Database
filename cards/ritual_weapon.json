@@ -1,0 +1,12 @@
+{
+  "id": 54351224,
+  "name": "Ritual Weapon",
+  "type": "Spell Card",
+  "description": "Equip only to a Level 6 or lower Ritual Monster. It gains 1500 ATK and DEF.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54351224.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54351224.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54351224.jpg"
+  }
+}

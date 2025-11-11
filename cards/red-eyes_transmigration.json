@@ -1,0 +1,12 @@
+{
+  "id": 45410988,
+  "name": "Red-Eyes Transmigration",
+  "type": "Spell Card",
+  "description": "This card is used to Ritual Summon \"Lord of the Red\". You must also Tribute monsters from your hand or field, and/or banish \"Red-Eyes\" monsters from your Graveyard, except \"Red-Eyes B. Chick\", whose total Levels equal 8 or more.",
+  "race": "Ritual",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45410988.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45410988.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45410988.jpg"
+  }
+}

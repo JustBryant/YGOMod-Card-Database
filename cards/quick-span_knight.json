@@ -1,0 +1,16 @@
+{
+  "id": 11287364,
+  "name": "Quick-Span Knight",
+  "type": "Tuner Monster",
+  "description": "If this card is sent to the Graveyard for a Synchro Summon: Target 1 face-up monster your opponent controls; that target loses 500 ATK.",
+  "attack": 1000,
+  "defense": 800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11287364.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11287364.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11287364.jpg"
+  }
+}

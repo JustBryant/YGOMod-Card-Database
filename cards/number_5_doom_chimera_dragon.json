@@ -1,0 +1,16 @@
+{
+  "id": 90126061,
+  "name": "Number 5: Doom Chimera Dragon",
+  "type": "XYZ Monster",
+  "description": "2+ Level 5 monsters\r\nGains 1000 ATK for each material attached to it. This card with material can attack all monsters your opponent controls once each. At the end of the Battle Phase, if this card battled: You can activate one of the following effects.\r\n● Target 1 monster in your GY; attach it to this card as material.\r\n● Target 1 card in your opponent's GY; place it on top of their Deck.",
+  "attack": 0,
+  "defense": 0,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90126061.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90126061.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90126061.jpg"
+  }
+}

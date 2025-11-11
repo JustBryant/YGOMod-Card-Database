@@ -1,0 +1,16 @@
+{
+  "id": 80741828,
+  "name": "Witch's Apprentice",
+  "type": "Effect Monster",
+  "description": "As long as this card remains face-up on the field, increase the ATK of all DARK monsters by 500 points and decrease the ATK of all LIGHT monsters by 400 points.",
+  "attack": 550,
+  "defense": 500,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80741828.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80741828.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80741828.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 82760689,
+  "name": "Lucky Cloud",
+  "type": "Spell Card",
+  "description": "During the End Phase, if you Summoned 2 or more \"Cloudian\" monsters with the same name this turn, draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82760689.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82760689.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82760689.jpg"
+  }
+}

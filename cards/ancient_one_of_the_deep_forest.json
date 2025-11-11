@@ -1,0 +1,16 @@
+{
+  "id": 14015067,
+  "name": "Ancient One of the Deep Forest",
+  "type": "Normal Monster",
+  "description": "This creature adopts the form of a white goat living in the forest, but is actually a Forest Elder.",
+  "attack": 1800,
+  "defense": 1900,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14015067.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14015067.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14015067.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 31904181,
+  "name": "The Six Samurai - Nisashi",
+  "type": "Effect Monster",
+  "description": "While you control a face-up \"Six Samurai\" monster with a different name, this card can attack twice during each Battle Phase. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+  "attack": 1400,
+  "defense": 700,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31904181.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31904181.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31904181.jpg"
+  }
+}

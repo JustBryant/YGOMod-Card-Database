@@ -1,0 +1,16 @@
+{
+  "id": 72631243,
+  "name": "Energy Bravery",
+  "type": "Effect Monster",
+  "description": "Gemini Monsters you control that are being treated as Effect Monsters cannot be destroyed by card effects.",
+  "attack": 1700,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72631243.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72631243.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72631243.jpg"
+  }
+}

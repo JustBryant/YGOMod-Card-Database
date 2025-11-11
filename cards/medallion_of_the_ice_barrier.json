@@ -1,0 +1,12 @@
+{
+  "id": 84206435,
+  "name": "Medallion of the Ice Barrier",
+  "type": "Spell Card",
+  "description": "Add 1 \"Ice Barrier\" monster from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84206435.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84206435.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84206435.jpg"
+  }
+}

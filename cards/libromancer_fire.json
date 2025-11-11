@@ -1,0 +1,16 @@
+{
+  "id": 16312943,
+  "name": "Libromancer Fire",
+  "type": "Effect Monster",
+  "description": "You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. If this card is Special Summoned: You can add 1 \"Libromancer\" monster from your Deck to your hand, except \"Libromancer Fire\". You can only use each effect of \"Libromancer Fire\" once per turn.",
+  "attack": 1800,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16312943.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16312943.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16312943.jpg"
+  }
+}

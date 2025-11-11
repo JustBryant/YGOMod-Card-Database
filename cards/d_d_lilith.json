@@ -1,0 +1,16 @@
+{
+  "id": 12822541,
+  "name": "D/D Lilith",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can activate 1 of these effects. You can only use this effect of \"D/D Lilith\" once per turn.\n● Target 1 \"D/D\" monster in your Graveyard; add it to your hand.\n● Add 1 face-up \"D/D\" Pendulum Monster from your Extra Deck to your hand.",
+  "attack": 100,
+  "defense": 2100,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12822541.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12822541.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12822541.jpg"
+  }
+}

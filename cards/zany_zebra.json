@@ -1,0 +1,16 @@
+{
+  "id": 97466438,
+  "name": "Zany Zebra",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn, during your Main Phase, if this card was activated this turn: You can choose 1 unused Main Monster Zone or Spell & Trap Zone; while this card is in the Pendulum Zone, that chosen Zone cannot be used.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can choose 1 unused Main Monster Zone or Spell & Trap Zone; while this card is face-up in the Monster Zone, that Zone cannot be used.",
+  "attack": 0,
+  "defense": 2000,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97466438.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97466438.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97466438.jpg"
+  }
+}

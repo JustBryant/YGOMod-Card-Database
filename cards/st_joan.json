@@ -1,0 +1,16 @@
+{
+  "id": 21175632,
+  "name": "St. Joan",
+  "type": "Fusion Monster",
+  "description": "\"The Forgiving Maiden\" + \"Darklord Marie\"",
+  "attack": 2800,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21175632.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21175632.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21175632.jpg"
+  }
+}

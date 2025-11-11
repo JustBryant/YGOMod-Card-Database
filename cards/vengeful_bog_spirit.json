@@ -1,0 +1,12 @@
+{
+  "id": 95220856,
+  "name": "Vengeful Bog Spirit",
+  "type": "Spell Card",
+  "description": "Monsters cannot attack the turn they are Summoned.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95220856.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95220856.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95220856.jpg"
+  }
+}

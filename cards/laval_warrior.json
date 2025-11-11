@@ -1,0 +1,16 @@
+{
+  "id": 52786469,
+  "name": "Laval Warrior",
+  "type": "Effect Monster",
+  "description": "When this card destroys an opponent's monster by battle: Inflict damage to your opponent equal to the original ATK of the destroyed monster. You must have 4 or more \"Laval\" monsters with different names in your Graveyard to activate and to resolve this effect.",
+  "attack": 1800,
+  "defense": 500,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52786469.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52786469.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52786469.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 94119974,
+  "name": "Two-Headed King Rex",
+  "type": "Normal Monster",
+  "description": "A powerful monster whose two heads attack as one.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94119974.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94119974.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94119974.jpg"
+  }
+}

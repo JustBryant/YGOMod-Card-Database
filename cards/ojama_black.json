@@ -1,0 +1,16 @@
+{
+  "id": 79335209,
+  "name": "Ojama Black",
+  "type": "Normal Monster",
+  "description": "He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.",
+  "attack": 0,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79335209.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79335209.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79335209.jpg"
+  }
+}

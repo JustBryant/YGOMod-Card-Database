@@ -1,0 +1,12 @@
+{
+  "id": 15854426,
+  "name": "Divine Wind of Mist Valley",
+  "type": "Spell Card",
+  "description": "Once per turn, if a WIND monster you control returns to the hand (except during the Damage Step): You can Special Summon 1 Level 4 or lower WIND monster from your Deck.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15854426.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15854426.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15854426.jpg"
+  }
+}

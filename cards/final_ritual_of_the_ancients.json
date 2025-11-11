@@ -1,0 +1,12 @@
+{
+  "id": 60369732,
+  "name": "Final Ritual of the Ancients",
+  "type": "Spell Card",
+  "description": "This card is used to Ritual Summon \"Reshef the Dark Being\". You must also Tribute monsters whose total Levels equal 8 or more from the field or your hand.",
+  "race": "Ritual",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60369732.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60369732.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60369732.jpg"
+  }
+}

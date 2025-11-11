@@ -1,0 +1,12 @@
+{
+  "id": 21076084,
+  "name": "Trickstar Reincarnation",
+  "type": "Trap Card",
+  "description": "Banish your opponent's entire hand, and if you do, they draw the same number of cards. You can banish this card from your GY, then target 1 \"Trickstar\" monster in your GY; Special Summon it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21076084.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21076084.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21076084.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 64154377,
+  "name": "Embryonic Beast",
+  "type": "Normal Monster",
+  "description": "''An imperfect monster with a belly vortex that sucks in opponents of any size.''",
+  "attack": 500,
+  "defense": 750,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64154377.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64154377.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64154377.jpg"
+  }
+}

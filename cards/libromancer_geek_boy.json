@@ -1,0 +1,16 @@
+{
+  "id": 46123974,
+  "name": "Libromancer Geek Boy",
+  "type": "Effect Monster",
+  "description": "You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. If this card is Special Summoned: You can add 1 \"Libromancer\" Spell from your Deck to your hand. You can only use each effect of \"Libromancer Geek Boy\" once per turn.",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46123974.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46123974.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46123974.jpg"
+  }
+}

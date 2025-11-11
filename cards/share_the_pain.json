@@ -1,0 +1,12 @@
+{
+  "id": 56830749,
+  "name": "Share the Pain",
+  "type": "Spell Card",
+  "description": "Tribute 1 monster; make your opponent Tribute 1 monster (for no effect).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56830749.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56830749.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56830749.jpg"
+  }
+}

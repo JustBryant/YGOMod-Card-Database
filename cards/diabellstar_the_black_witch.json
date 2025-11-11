@@ -1,0 +1,16 @@
+{
+  "id": 72270339,
+  "name": "Diabellstar the Black Witch",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by sending 1 card from your hand or field to the GY. You can only Special Summon \"Diabellstar the Black Witch\" once per turn this way. You can only use each of the following effects of \"Diabellstar the Black Witch\" once per turn. If this card is Normal or Special Summoned: You can Set 1 \"Sinful Spoils\" Spell/Trap directly from your Deck. During your opponent's turn, if this card is sent from its owner's hand or field to the GY: You can send 1 card from your hand or field to the GY, and if you do, Special Summon this card.",
+  "attack": 2500,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72270339.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72270339.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72270339.jpg"
+  }
+}

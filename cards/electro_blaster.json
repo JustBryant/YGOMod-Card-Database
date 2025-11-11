@@ -1,0 +1,16 @@
+{
+  "id": 9107531,
+  "name": "Electro Blaster",
+  "type": "Effect Monster",
+  "description": "If you Normal or Special Summon a FIRE monster(s) (except during the Damage Step): You can Special Summon this card from your hand, then you can send 1 Level 8 Pyro monster from your Deck to the GY. You can only use this effect of \"Electro Blaster\" once per turn. Once per turn, if a Spell Card is activated (except during the Damage Step): You can make all FIRE monsters you currently control gain 300 ATK.",
+  "attack": 1800,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9107531.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9107531.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9107531.jpg"
+  }
+}

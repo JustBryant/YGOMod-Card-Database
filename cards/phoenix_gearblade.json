@@ -1,0 +1,12 @@
+{
+  "id": 33872334,
+  "name": "Phoenix Gearblade",
+  "type": "Spell Card",
+  "description": "Equip only to a Warrior or FIRE monster. It gains 300 ATK. At the end of the Damage Step, if the equipped monster attacked: You can send this card to the GY; during this Battle Phase, each of your Warrior monsters and FIRE monsters can make a second attack. If this card is sent to the GY, or banished, to activate a monster effect: You can add this card to your hand. You can only use this effect of \"Phoenix Gearblade\" once per turn.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33872334.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33872334.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33872334.jpg"
+  }
+}

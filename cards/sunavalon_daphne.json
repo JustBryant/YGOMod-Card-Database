@@ -1,0 +1,16 @@
+{
+  "id": 7984540,
+  "name": "Sunavalon Daphne",
+  "type": "Link Monster",
+  "description": "2 Plant monsters\r\nThis card cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. You can Tribute 1 monster, then target 2 Plant Link Monsters in your GY, except \"Sunavalon Daphne\"; return them to the Extra Deck. You can only use this effect of \"Sunavalon Daphne\" once per turn.",
+  "attack": 0,
+  "defense": null,
+  "level": null,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7984540.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7984540.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7984540.jpg"
+  }
+}

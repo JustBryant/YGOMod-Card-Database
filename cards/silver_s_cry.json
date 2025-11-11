@@ -1,0 +1,12 @@
+{
+  "id": 87025064,
+  "name": "Silver's Cry",
+  "type": "Spell Card",
+  "description": "Target 1 Dragon Normal Monster in your GY; Special Summon that target. You can only activate 1 \"Silver's Cry\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87025064.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87025064.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87025064.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 13723605,
+  "name": "Man-Eating Treasure Chest",
+  "type": "Normal Monster",
+  "description": "A monster disguised as a treasure chest that is known to attack the unwary adventurer.",
+  "attack": 1600,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13723605.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13723605.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13723605.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15169262,
+  "name": "Laval Forest Sprite",
+  "type": "Tuner Monster",
+  "description": "When this card is sent from the field to the Graveyard: All face-up \"Laval\" monsters you currently control gain 200 ATK for each \"Laval\" monster in your Graveyard, until the End Phase.",
+  "attack": 300,
+  "defense": 200,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15169262.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15169262.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15169262.jpg"
+  }
+}

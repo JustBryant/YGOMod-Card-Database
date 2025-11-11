@@ -1,0 +1,12 @@
+{
+  "id": 22991179,
+  "name": "Insect Neglect",
+  "type": "Spell Card",
+  "description": "When your opponent's monster declares an attack: You can banish 1 Insect monster from your GY; negate the attack.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22991179.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22991179.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22991179.jpg"
+  }
+}

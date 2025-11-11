@@ -1,0 +1,12 @@
+{
+  "id": 212652,
+  "name": "Trap of the Poisonous Scorpion",
+  "type": "Trap Card",
+  "description": "When an opponent's monster declares an attack: Destroy it, then inflict 300 damage to your opponent.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/212652.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/212652.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/212652.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 76145933,
+  "name": "Spright Blue",
+  "type": "Effect Monster",
+  "description": "If you control a Level/Rank 2 monster, you can Special Summon this card (from your hand). You can only Special Summon \"Spright Blue\" once per turn this way. If this card is Special Summoned: You can add 1 \"Spright\" monster from your Deck to your hand, except \"Spright Blue\". You can only use this effect of \"Spright Blue\" once per turn.",
+  "attack": 1100,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76145933.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76145933.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76145933.jpg"
+  }
+}

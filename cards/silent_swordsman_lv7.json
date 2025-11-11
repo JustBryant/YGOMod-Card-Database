@@ -1,0 +1,16 @@
+{
+  "id": 37267041,
+  "name": "Silent Swordsman LV7",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Swordsman LV5\", and cannot be Special Summoned by other ways. Negate all Spell effects on the field.",
+  "attack": 2800,
+  "defense": 1000,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37267041.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37267041.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37267041.jpg"
+  }
+}

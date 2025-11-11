@@ -1,0 +1,16 @@
+{
+  "id": 38277918,
+  "name": "Mikazukinoyaiba",
+  "type": "Normal Monster",
+  "description": "A dragon warrior of the moon armed with a crescent sword.",
+  "attack": 2200,
+  "defense": 2350,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38277918.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38277918.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38277918.jpg"
+  }
+}

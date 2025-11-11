@@ -1,0 +1,16 @@
+{
+  "id": 66094973,
+  "name": "Transforming Sphere",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 face-up Defense Position monster your opponent controls; discard 1 card and equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains the ATK of the equipped monster. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. During the End Phase: The monster equipped to this card by this card's effect is Special Summoned to your opponent's side of the field in face-up Defense Position.",
+  "attack": 100,
+  "defense": 100,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66094973.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66094973.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66094973.jpg"
+  }
+}

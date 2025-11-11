@@ -1,0 +1,16 @@
+{
+  "id": 13069066,
+  "name": "Sword Arm of Dragon",
+  "type": "Normal Monster",
+  "description": "This Jurassic juggernaut has a spine covered in sword-like plates, and a tail to split open skulls.",
+  "attack": 1750,
+  "defense": 2030,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13069066.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13069066.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13069066.jpg"
+  }
+}

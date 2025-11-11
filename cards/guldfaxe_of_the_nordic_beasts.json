@@ -1,0 +1,16 @@
+{
+  "id": 41788781,
+  "name": "Guldfaxe of the Nordic Beasts",
+  "type": "Tuner Monster",
+  "description": "If your opponent controls a Synchro Monster and you control no monsters, you can Special Summon this card (from your hand).",
+  "attack": 1600,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41788781.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41788781.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41788781.jpg"
+  }
+}

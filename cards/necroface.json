@@ -1,0 +1,16 @@
+{
+  "id": 28297833,
+  "name": "Necroface",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned: Shuffle all banished cards into the Deck. This card gains 100 ATK for each card shuffled into the Main Deck by this effect. If this card is banished: Each player banishes 5 cards from the top of their Deck (or their entire Deck, if less than 5).",
+  "attack": 1200,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28297833.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28297833.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28297833.jpg"
+  }
+}

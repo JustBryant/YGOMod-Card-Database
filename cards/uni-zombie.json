@@ -1,0 +1,16 @@
+{
+  "id": 49959355,
+  "name": "Uni-Zombie",
+  "type": "Tuner Monster",
+  "description": "You can target 1 face-up monster on the field; discard 1 card, and if you do, increase that target's Level by 1. You can target 1 face-up monster on the field; monsters you control cannot attack for the rest of this turn, except Zombie monsters, also send 1 Zombie monster from your Deck to the GY, and if you do, increase that target's Level by 1. You can only use each effect of \"Uni-Zombie\" once per turn.",
+  "attack": 1300,
+  "defense": 0,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49959355.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49959355.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49959355.jpg"
+  }
+}

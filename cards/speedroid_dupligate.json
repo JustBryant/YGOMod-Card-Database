@@ -1,0 +1,12 @@
+{
+  "id": 58543073,
+  "name": "Speedroid Dupligate",
+  "type": "Trap Card",
+  "description": "Banish 1 WIND monster from your GY, then target 1 card your opponent controls; return it to the hand. During your Main Phase, if this card is in your GY: You can target 1 Level 2 or higher \"Speedroid\" monster you control; reduce its Level by 1, and if you do, Special Summon this card as a Normal Monster (Machine/Tuner/WIND/Level 1/ATK 0/DEF 0). (This card is NOT treated as a Trap.) You can only use this effect of \"Speedroid Dupligate\" once per Duel.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58543073.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58543073.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58543073.jpg"
+  }
+}

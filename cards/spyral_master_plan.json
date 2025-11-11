@@ -1,0 +1,16 @@
+{
+  "id": 91258852,
+  "name": "SPYRAL Master Plan",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can add 1 \"SPYRAL MISSION\" card from your Deck to your hand. If this card is sent from the field to the Graveyard: You can add 1 \"SPYRAL Resort\" and 1 \"SPYRAL\" monster from your Deck to your hand, except \"SPYRAL Master Plan\". You can only use this effect of \"SPYRAL Master Plan\" once per turn.",
+  "attack": 1200,
+  "defense": 2800,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91258852.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91258852.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91258852.jpg"
+  }
+}

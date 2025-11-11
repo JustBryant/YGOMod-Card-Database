@@ -1,0 +1,16 @@
+{
+  "id": 6979239,
+  "name": "Woodland Sprite",
+  "type": "Effect Monster",
+  "description": "Send 1 Equip Card equipped to this card to the Graveyard. Inflict 500 points of damage to your opponent's Life Points.",
+  "attack": 900,
+  "defense": 400,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6979239.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6979239.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6979239.jpg"
+  }
+}

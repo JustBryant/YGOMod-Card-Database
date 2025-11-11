@@ -1,0 +1,16 @@
+{
+  "id": 43352213,
+  "name": "Nekogal #2",
+  "type": "Normal Monster",
+  "description": "A fast and lethal creature with very dangerous claws.",
+  "attack": 1900,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43352213.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43352213.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43352213.jpg"
+  }
+}

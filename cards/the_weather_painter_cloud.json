@@ -1,0 +1,16 @@
+{
+  "id": 28806532,
+  "name": "The Weather Painter Cloud",
+  "type": "Effect Monster",
+  "description": "If another face-up \"The Weather\" card you control is sent to the GY: You can target up to 2 \"The Weather\" Spells/Traps in your GY; place them face-up in your Spell & Trap Zone. You can only use this effect of \"The Weather Painter Cloud\" once per turn. Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a \"The Weather\" card's effect: You can Special Summon this banished card.",
+  "attack": 1500,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28806532.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28806532.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28806532.jpg"
+  }
+}

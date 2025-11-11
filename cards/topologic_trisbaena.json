@@ -1,0 +1,16 @@
+{
+  "id": 72529749,
+  "name": "Topologic Trisbaena",
+  "type": "Link Monster",
+  "description": "2+ Effect Monsters\r\nIf a monster(s) is Special Summoned to a zone(s) this card points to: Banish as many of those monster(s) as possible, also as many Spells/Traps on the field as possible, and if you do, inflict 500 damage to your opponent for each of their cards banished by this effect.",
+  "attack": 2500,
+  "defense": null,
+  "level": 0,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72529749.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72529749.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72529749.jpg"
+  }
+}

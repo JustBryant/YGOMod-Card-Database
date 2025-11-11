@@ -1,0 +1,16 @@
+{
+  "id": 94664694,
+  "name": "Mad Archfiend",
+  "type": "Effect Monster",
+  "description": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this face-up Attack Position card is targeted for an attack: Change it to Defense Position.",
+  "attack": 1800,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94664694.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94664694.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94664694.jpg"
+  }
+}

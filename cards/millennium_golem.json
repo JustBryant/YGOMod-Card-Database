@@ -1,0 +1,16 @@
+{
+  "id": 47986555,
+  "name": "Millennium Golem",
+  "type": "Normal Monster",
+  "description": "For nearly a millennium, this golem has served as guardian of an ancient treasure trove.",
+  "attack": 2000,
+  "defense": 2200,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47986555.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47986555.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47986555.jpg"
+  }
+}

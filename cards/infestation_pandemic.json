@@ -1,0 +1,12 @@
+{
+  "id": 27541267,
+  "name": "Infestation Pandemic",
+  "type": "Spell Card",
+  "description": "All face-up \"lswarm\" monsters you currently control are unaffected by other Spell/Trap effects this turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27541267.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27541267.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27541267.jpg"
+  }
+}

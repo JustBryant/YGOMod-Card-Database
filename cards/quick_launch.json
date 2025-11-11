@@ -1,0 +1,12 @@
+{
+  "id": 31443476,
+  "name": "Quick Launch",
+  "type": "Spell Card",
+  "description": "Special Summon 1 \"Rokket\" monster from your Deck, but it cannot attack, also destroy it during the End Phase.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31443476.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31443476.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31443476.jpg"
+  }
+}

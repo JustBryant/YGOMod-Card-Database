@@ -1,0 +1,12 @@
+{
+  "id": 74440056,
+  "name": "Needle Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Cactus Fighter\".",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74440056.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74440056.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74440056.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 15545291,
+  "name": "Granmarg the Mega Monarch",
+  "type": "Effect Monster",
+  "description": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. When this card is Tribute Summoned: Target up to 2 Set cards on the field; destroy those targets. If this card was Tribute Summoned by Tributing an EARTH monster, add this additional effect.\n● Also, draw 1 card after that.",
+  "attack": 2800,
+  "defense": 1000,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15545291.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15545291.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15545291.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 34022970,
+  "name": "Ext Ryzeal",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by sending 1 Xyz Monster from your Extra Deck to the GY. If Summoned this way, you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Xyz Monsters. You can only Special Summon \"Ext Ryzeal\" once per turn this way. If this card is Normal or Special Summoned and you control no other face-up monsters, except Level/Rank 4 monsters: You can add 1 FIRE Thunder monster from your Deck to your hand. You can only use this effect of \"Ext Ryzeal\" once per turn.",
+  "attack": 500,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34022970.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34022970.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34022970.jpg"
+  }
+}

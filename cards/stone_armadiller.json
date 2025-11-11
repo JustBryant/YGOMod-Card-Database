@@ -1,0 +1,16 @@
+{
+  "id": 63432835,
+  "name": "Stone Armadiller",
+  "type": "Normal Monster",
+  "description": "Dis stone crittah's got rock-hahd fur. Dat gives him some really good dee-fense!",
+  "attack": 800,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63432835.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63432835.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63432835.jpg"
+  }
+}

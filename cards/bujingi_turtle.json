@@ -1,0 +1,16 @@
+{
+  "id": 5818294,
+  "name": "Bujingi Turtle",
+  "type": "Effect Monster",
+  "description": "During either player's turn, when a card or effect is activated that targets a \"Bujin\" monster you control (except during the Damage Step): You can banish this card from your Graveyard; negate that effect.",
+  "attack": 1700,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5818294.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5818294.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5818294.jpg"
+  }
+}

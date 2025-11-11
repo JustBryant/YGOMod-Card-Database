@@ -1,0 +1,16 @@
+{
+  "id": 88472456,
+  "name": "Zombyra the Dark",
+  "type": "Effect Monster",
+  "description": "This card cannot attack your opponent directly. If this card destroys a monster by battle: This card loses 200 ATK.",
+  "attack": 2100,
+  "defense": 500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88472456.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88472456.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88472456.jpg"
+  }
+}

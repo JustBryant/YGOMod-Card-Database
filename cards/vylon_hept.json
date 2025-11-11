@@ -1,0 +1,16 @@
+{
+  "id": 168917,
+  "name": "Vylon Hept",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 \"Vylon\" Monster Card you control that is an Equip Card; Special Summon that target in face-up Defense Position. Banish it when it leaves the field.",
+  "attack": 1800,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/168917.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/168917.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/168917.jpg"
+  }
+}

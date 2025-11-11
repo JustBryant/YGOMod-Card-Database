@@ -1,0 +1,16 @@
+{
+  "id": 57946551,
+  "name": "Rock Scales",
+  "type": "Effect Monster",
+  "description": "If this card is Special Summoned: You can target 1 other face-up monster on the field; equip that face-up monster to this card. At the start of the Damage Step, if this card battles an opponent's monster with the same Type and Attribute as the Monster Card equipped by this card's effect: You can destroy that opponent's monster. You can only use each effect of \"Rock Scales\" once per turn.",
+  "attack": 2100,
+  "defense": 1600,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57946551.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57946551.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57946551.jpg"
+  }
+}

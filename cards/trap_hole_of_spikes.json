@@ -1,0 +1,12 @@
+{
+  "id": 75902998,
+  "name": "Trap Hole of Spikes",
+  "type": "Trap Card",
+  "description": "When an opponent's monster that was Normal or Special Summoned this turn declares an attack: Destroy that attacking monster, and if you do, inflict damage to your opponent equal to half the original ATK of that monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75902998.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75902998.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75902998.jpg"
+  }
+}

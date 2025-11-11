@@ -1,0 +1,16 @@
+{
+  "id": 16825874,
+  "name": "Eccentric Boy",
+  "type": "Tuner Monster",
+  "description": "When using this card as a Synchro Material Monster, the other Synchro Material Monster is 1 monster in your hand. The Synchro Monster that used this card as a Synchro Material Monster cannot activate its effect, its effect(s) is negated, and it is removed from play when removed from the field.",
+  "attack": 800,
+  "defense": 200,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16825874.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16825874.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16825874.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 55673611,
+  "name": "Psychic Trigger",
+  "type": "Trap Card",
+  "description": "Activate only while your Life Points are lower than your opponent's. Select 2 Psychic-Type monsters in your Graveyard. Remove them from play and draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55673611.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55673611.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55673611.jpg"
+  }
+}

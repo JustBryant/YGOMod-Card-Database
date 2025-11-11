@@ -1,0 +1,12 @@
+{
+  "id": 71587526,
+  "name": "Karma Cut",
+  "type": "Trap Card",
+  "description": "Discard 1 card, then target 1 face-up monster your opponent controls; banish that target, then banish all cards with the same name as that monster from your opponent's Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71587526.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71587526.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71587526.jpg"
+  }
+}

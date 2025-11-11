@@ -1,0 +1,12 @@
+{
+  "id": 52417194,
+  "name": "Heavy Slump",
+  "type": "Trap Card",
+  "description": "If your opponent has 8 or more cards in their hand: They shuffle their entire hand into the Deck, then draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52417194.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52417194.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52417194.jpg"
+  }
+}

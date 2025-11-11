@@ -1,0 +1,16 @@
+{
+  "id": 43739056,
+  "name": "Amanokujaki",
+  "type": "Tuner Monster",
+  "description": "You cannot activate the effects of other Special Summoned monsters with the same Attribute as this card. Once per turn, during the Main Phase of this card's owner (Quick Effect): You can give control of this card to your opponent, then you (the activating player) can make this card become any Attribute until the end of the next turn.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43739056.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43739056.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43739056.jpg"
+  }
+}

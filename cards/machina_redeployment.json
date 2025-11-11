@@ -1,0 +1,12 @@
+{
+  "id": 86852702,
+  "name": "Machina Redeployment",
+  "type": "Spell Card",
+  "description": "Activate 1 of these effects.\r\n● Discard 1 card; add 2 \"Machina\" monsters with different names from each other from your Deck to your hand.\r\n● Discard 1 \"Machina\" card; add 2 \"Machina\" cards with different names from each other from your Deck to your hand, except \"Machina Redeployment\".\r\nYou can only activate 1 \"Machina Redeployment\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86852702.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86852702.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86852702.jpg"
+  }
+}

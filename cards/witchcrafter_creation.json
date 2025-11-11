@@ -1,0 +1,12 @@
+{
+  "id": 57916305,
+  "name": "Witchcrafter Creation",
+  "type": "Spell Card",
+  "description": "Add 1 \"Witchcrafter\" monster from your Deck to your hand. During your End Phase, if you control a \"Witchcrafter\" monster, while this card is in your GY: You can add this card to your hand. You can only use 1 \"Witchcrafter Creation\" effect per turn, and only once that turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57916305.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57916305.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57916305.jpg"
+  }
+}

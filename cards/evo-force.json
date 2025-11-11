@@ -1,0 +1,12 @@
+{
+  "id": 5338223,
+  "name": "Evo-Force",
+  "type": "Spell Card",
+  "description": "Tribute 1 \"Evoltile\" monster; Special Summon 1 \"Evolsaur\" monster from your Deck. It is treated as if it was Special Summoned by the effect of an \"Evoltile\" monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5338223.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5338223.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5338223.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80044027,
+  "name": "Mikanko Fire Dance",
+  "type": "Spell Card",
+  "description": "Special Summon 1 \"Mikanko\" monster from your hand or GY, and if you do, equip it with this card, then you can Special Summon 1 monster from your opponent's GY to their field, but negate its effects. The equipped monster cannot be destroyed by card effects. You can only activate 1 \"Mikanko Fire Dance\" per turn.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80044027.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80044027.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80044027.jpg"
+  }
+}

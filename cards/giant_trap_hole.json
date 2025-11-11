@@ -1,0 +1,12 @@
+{
+  "id": 80723580,
+  "name": "Giant Trap Hole",
+  "type": "Trap Card",
+  "description": "When 2 or more monsters are Special Summoned at the same time: Destroy all monsters on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80723580.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80723580.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80723580.jpg"
+  }
+}

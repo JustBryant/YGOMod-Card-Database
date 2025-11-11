@@ -1,0 +1,12 @@
+{
+  "id": 39041729,
+  "name": "Spacetime Transcendence",
+  "type": "Spell Card",
+  "description": "Banish 2 or more Dinosaur monsters from your GY; Special Summon 1 Dinosaur monster from your hand or GY whose Level equals the total Levels of those banished monsters, but it cannot attack this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39041729.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39041729.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39041729.jpg"
+  }
+}

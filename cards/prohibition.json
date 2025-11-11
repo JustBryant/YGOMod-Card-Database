@@ -1,0 +1,12 @@
+{
+  "id": 43711255,
+  "name": "Prohibition",
+  "type": "Spell Card",
+  "description": "Activate by declaring 1 card name. Cards with that name, and their effects, cannot be used. Cards already on the field are not affected (including face-down cards).",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43711255.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43711255.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43711255.jpg"
+  }
+}

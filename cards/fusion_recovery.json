@@ -1,0 +1,12 @@
+{
+  "id": 18511384,
+  "name": "Fusion Recovery",
+  "type": "Spell Card",
+  "description": "Target 1 \"Polymerization\" in your GY, and 1 monster in your GY that was used as material for a Fusion Summon; add them to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18511384.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18511384.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18511384.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19353570,
+  "name": "Kagemucha Knight",
+  "type": "Effect Monster",
+  "description": "When you Normal Summon a Level 3 monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.",
+  "attack": 0,
+  "defense": 0,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19353570.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19353570.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19353570.jpg"
+  }
+}

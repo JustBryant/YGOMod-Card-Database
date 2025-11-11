@@ -1,0 +1,12 @@
+{
+  "id": 82556059,
+  "name": "Engine Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Fiendish Engine Ω\".",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82556059.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82556059.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82556059.jpg"
+  }
+}

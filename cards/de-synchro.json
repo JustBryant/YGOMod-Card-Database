@@ -1,0 +1,12 @@
+{
+  "id": 32441317,
+  "name": "De-Synchro",
+  "type": "Spell Card",
+  "description": "Target 1 Synchro Monster on the field; return that target to the Extra Deck, then, if all of the monsters that were used for the Synchro Summon of that monster are in your GY, you can Special Summon all of them.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32441317.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32441317.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32441317.jpg"
+  }
+}

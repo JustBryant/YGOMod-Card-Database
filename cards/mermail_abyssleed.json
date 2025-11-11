@@ -1,0 +1,16 @@
+{
+  "id": 37781520,
+  "name": "Mermail Abyssleed",
+  "type": "Effect Monster",
+  "description": "You can discard 3 other WATER monsters to the GY; Special Summon this card from your hand. When Summoned this way: You can target 1 \"Abyss-\" Spell/Trap in your GY; add that target to your hand. You can Tribute 1 other Attack Position \"Mermail\" monster; send 1 random card from your opponent's hand to the GY. You can only use this effect of \"Mermail Abyssleed\" once per turn.",
+  "attack": 2700,
+  "defense": 1000,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37781520.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37781520.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37781520.jpg"
+  }
+}

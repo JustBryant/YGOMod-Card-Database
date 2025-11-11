@@ -1,0 +1,12 @@
+{
+  "id": 42945701,
+  "name": "Spiritual Fire Art - Kurenai",
+  "type": "Trap Card",
+  "description": "Tribute 1 FIRE monster; inflict damage to your opponent equal to that monster's original ATK.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42945701.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42945701.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42945701.jpg"
+  }
+}

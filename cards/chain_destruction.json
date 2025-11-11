@@ -1,0 +1,12 @@
+{
+  "id": 1248895,
+  "name": "Chain Destruction",
+  "type": "Trap Card",
+  "description": "When a monster(s) with 2000 or less ATK is Summoned: Target 1 of them; destroy all cards with that name in its controller's hand and Main Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1248895.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1248895.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1248895.jpg"
+  }
+}

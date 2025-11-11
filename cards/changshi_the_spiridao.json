@@ -1,0 +1,16 @@
+{
+  "id": 76352503,
+  "name": "Changshi the Spiridao",
+  "type": "Effect Monster",
+  "description": "During your Main Phase: You can send 1 Zombie monster from your hand or Deck to the GY. If this card is banished: You can banish 1 Zombie monster in your GY; Special Summon this card, but place it on the bottom of the Deck when it leaves the field. You can only use each effect of \"Changshi the Spiridao\" once per turn.",
+  "attack": 2000,
+  "defense": 0,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76352503.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76352503.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76352503.jpg"
+  }
+}

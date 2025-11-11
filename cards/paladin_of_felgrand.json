@@ -1,0 +1,16 @@
+{
+  "id": 6075801,
+  "name": "Paladin of Felgrand",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can equip 1 Level 7 or 8 Dragon monster from your hand or Deck to this card. This card is unaffected by other monsters' effects, while equipped with an Equip Card. You can Tribute 1 monster and this card, then target 1 Level 7 or 8 Dragon monster in your GY; Special Summon it.",
+  "attack": 1700,
+  "defense": 300,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6075801.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6075801.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6075801.jpg"
+  }
+}

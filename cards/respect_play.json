@@ -1,0 +1,12 @@
+{
+  "id": 8951260,
+  "name": "Respect Play",
+  "type": "Trap Card",
+  "description": "During their respective turns, each player must show their opponent their hand.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8951260.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8951260.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8951260.jpg"
+  }
+}

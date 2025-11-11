@@ -1,0 +1,12 @@
+{
+  "id": 34771947,
+  "name": "Labyrinth Wall Shadow",
+  "type": "Spell Card",
+  "description": "Monsters cannot attack the turn they are Summoned, except monsters whose original Level is 5 or higher. Once per turn, during your Main Phase: You can place 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished, or in your hand or Deck, face-up in your Spell & Trap Zone as a Continuous Spell. At the start of your opponent's Battle Phase: You can target 1 monster your opponent controls with less than 1600 ATK; destroy it.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34771947.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34771947.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34771947.jpg"
+  }
+}

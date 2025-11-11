@@ -1,0 +1,16 @@
+{
+  "id": 1035143,
+  "name": "Darkuriboh",
+  "type": "Effect Monster",
+  "description": "When a card or effect is activated that targets a Fiend and/or Fusion Monster(s) you control, or when your Fiend or Fusion Monster is targeted for an attack (Quick Effect): You can discard this card, then target 1 of them; until the end of this turn, it cannot be destroyed by battle or card effects, also its effects activated on the field cannot be negated. If this card is sent from the hand to the GY by card effect: You can add 1 \"Polymerization\" from your Deck or GY to your hand. You can only use each effect of \"Darkuriboh\" once per turn.",
+  "attack": 300,
+  "defense": 200,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1035143.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1035143.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1035143.jpg"
+  }
+}

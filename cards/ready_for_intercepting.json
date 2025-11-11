@@ -1,0 +1,12 @@
+{
+  "id": 31785398,
+  "name": "Ready for Intercepting",
+  "type": "Trap Card",
+  "description": "Target 1 Warrior or Spellcaster monster on the field; change that target to face-down Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31785398.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31785398.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31785398.jpg"
+  }
+}

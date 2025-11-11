@@ -1,0 +1,12 @@
+{
+  "id": 24707869,
+  "name": "Bright Future",
+  "type": "Trap Card",
+  "description": "Target 2 of your banished Psychic-Type monsters; return both those targets to the Graveyard and draw 1 card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24707869.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24707869.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24707869.jpg"
+  }
+}

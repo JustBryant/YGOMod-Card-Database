@@ -1,0 +1,16 @@
+{
+  "id": 58205203,
+  "name": "Mariamne Paradox, the True Dracophoenix Knight",
+  "type": "Effect Monster",
+  "description": "To Tribute Summon this card face-up, you can Tribute Continuous Spells/Traps you control, as well as monsters. You can only use each of the following effects of \"Mariamne Paradox, the True Dracophoenix Knight\" once per turn. If this card is in your hand: You can destroy 1 other \"True Draco\" or \"True King\" card in your hand or face-up field, and if you do, Special Summon this card to either field. If this card is Normal or Special Summoned from the hand: Banish the top 4 cards from your Deck.",
+  "attack": 1800,
+  "defense": 1400,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58205203.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58205203.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58205203.jpg"
+  }
+}

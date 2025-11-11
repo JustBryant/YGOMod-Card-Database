@@ -1,0 +1,16 @@
+{
+  "id": 92084010,
+  "name": "Unshaven Angler",
+  "type": "Effect Monster",
+  "description": "When Tribute Summoning a WATER monster, you can treat this 1 monster as 2 Tributes.",
+  "attack": 1500,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92084010.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92084010.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92084010.jpg"
+  }
+}

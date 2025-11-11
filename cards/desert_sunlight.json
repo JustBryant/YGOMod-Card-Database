@@ -1,0 +1,12 @@
+{
+  "id": 93747864,
+  "name": "Desert Sunlight",
+  "type": "Trap Card",
+  "description": "All monsters on your side of the field are changed to face-up Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93747864.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93747864.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93747864.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 6178850,
+  "name": "Fighting Spirit",
+  "type": "Spell Card",
+  "description": "The equipped monster gains 300 ATK for each monster your opponent controls. If it would be destroyed by battle, you can destroy this card instead.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6178850.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6178850.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6178850.jpg"
+  }
+}

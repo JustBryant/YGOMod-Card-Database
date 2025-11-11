@@ -1,0 +1,16 @@
+{
+  "id": 42328171,
+  "name": "Wind-Up Bat",
+  "type": "Effect Monster",
+  "description": "You can target 1 \"Wind-Up\" monster in your Graveyard; change this face-up Attack Position card you control to face-up Defense Position, and add that target to your hand. This effect can only be used once while this card is face-up on the field.",
+  "attack": 300,
+  "defense": 350,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42328171.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42328171.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42328171.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 300202001,
+  "name": "Peak Performance",
+  "type": "Skill Card",
+  "description": "[At the start of the Duel, place this card in your Field Spell Zone and flip it over.] \r\n\r\nAll Dragon, Winged Beast, and Thunder monsters on the field gain 200 ATK/DEF.",
+  "race": "Kaiba",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300202001.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300202001.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300202001.jpg"
+  }
+}

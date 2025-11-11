@@ -1,0 +1,12 @@
+{
+  "id": 33423043,
+  "name": "D.D. Designator",
+  "type": "Spell Card",
+  "description": "Declare 1 card name. Look at your opponent's hand, and if they have the declared card in their hand, remove that 1 card from play. If they do not have the declared card in their hand, remove 1 random card in your hand from play.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33423043.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33423043.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33423043.jpg"
+  }
+}

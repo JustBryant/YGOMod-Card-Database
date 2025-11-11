@@ -1,0 +1,16 @@
+{
+  "id": 80316585,
+  "name": "Cyber Harpie Lady",
+  "type": "Effect Monster",
+  "description": "(This card's name is always treated as \"Harpie Lady\".)",
+  "attack": 1800,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80316585.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80316585.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80316585.jpg"
+  }
+}

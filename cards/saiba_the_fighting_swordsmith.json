@@ -1,0 +1,16 @@
+{
+  "id": 36608728,
+  "name": "Saiba the Fighting Swordsmith",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nYou can target 1 Level 6 or lower Warrior monster in your GY; Special Summon it (but its effects are negated), also this card cannot be used as Synchro Material for the rest of this turn. During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using monsters you control as material, including a Warrior monster. You can only use each effect of \"Saiba the Fighting Swordsmith\" once per turn.",
+  "attack": 2000,
+  "defense": 1500,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36608728.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36608728.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36608728.jpg"
+  }
+}

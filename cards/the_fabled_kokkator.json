@@ -1,0 +1,16 @@
+{
+  "id": 26704411,
+  "name": "The Fabled Kokkator",
+  "type": "Effect Monster",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the GY: You can discard 1 \"Fabled\" monster; draw 1 card.",
+  "attack": 1700,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26704411.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26704411.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26704411.jpg"
+  }
+}

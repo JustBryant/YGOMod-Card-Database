@@ -1,0 +1,16 @@
+{
+  "id": 21051977,
+  "name": "Acorno",
+  "type": "Effect Monster",
+  "description": "During your Main Phase: You can send 1 \"Pinecono\" from your hand to the Graveyard, and Special Summon this card from the hand.",
+  "attack": 200,
+  "defense": 400,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21051977.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21051977.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21051977.jpg"
+  }
+}

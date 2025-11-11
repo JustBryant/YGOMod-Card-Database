@@ -1,0 +1,16 @@
+{
+  "id": 43580269,
+  "name": "Emes the Infinity",
+  "type": "Effect Monster",
+  "description": "Each time this card destroys an opponent's monster and sends it to the Graveyard as a result of battle, increase the ATK of this card by 700 points.",
+  "attack": 2500,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43580269.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43580269.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43580269.jpg"
+  }
+}

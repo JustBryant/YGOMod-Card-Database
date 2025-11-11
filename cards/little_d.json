@@ -1,0 +1,16 @@
+{
+  "id": 42625254,
+  "name": "Little D",
+  "type": "Normal Monster",
+  "description": "Yo, this tyrannosaurus tot's got a terrible temper.",
+  "attack": 1100,
+  "defense": 700,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42625254.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42625254.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42625254.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 79337169,
+  "name": "Gauntlet Warrior",
+  "type": "Effect Monster",
+  "description": "During either player's turn: You can Tribute this card; each Warrior-Type monster you currently control gains 500 ATK and DEF, until the end of the next Damage Step that monster attacks or is attacked.",
+  "attack": 400,
+  "defense": 1600,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79337169.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79337169.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79337169.jpg"
+  }
+}

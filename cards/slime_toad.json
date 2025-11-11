@@ -1,0 +1,16 @@
+{
+  "id": 68638985,
+  "name": "Slime Toad",
+  "type": "Normal Monster",
+  "description": "A slime with the head of a frog, it attacks by croaking terribly.",
+  "attack": 700,
+  "defense": 500,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68638985.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68638985.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68638985.jpg"
+  }
+}

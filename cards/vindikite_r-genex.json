@@ -1,0 +1,16 @@
+{
+  "id": 73483491,
+  "name": "Vindikite R-Genex",
+  "type": "Synchro Monster",
+  "description": "1 \"Genex\" Tuner + 1 or more non-Tuner WIND monsters\nYour opponent cannot select this card as an attack target. If this card destroys an opponent's monster by battle, you can add 1 \"Genex\" monster from your Deck to your hand.",
+  "attack": 2400,
+  "defense": 1000,
+  "level": 8,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73483491.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73483491.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73483491.jpg"
+  }
+}

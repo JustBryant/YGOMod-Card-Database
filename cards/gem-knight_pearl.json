@@ -1,0 +1,16 @@
+{
+  "id": 71594310,
+  "name": "Gem-Knight Pearl",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 monsters",
+  "attack": 2600,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71594310.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71594310.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71594310.jpg"
+  }
+}

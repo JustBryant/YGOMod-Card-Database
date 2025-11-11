@@ -1,0 +1,16 @@
+{
+  "id": 94344242,
+  "name": "Digital Bug Websolder",
+  "type": "Effect Monster",
+  "description": "Cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of an Insect-Type monster. Once per turn: You can target 1 face-up Attack Position monster you control; change it to Defense Position, and if you do, Special Summon 1 Level 3 Insect-Type monster from your hand in Defense Position. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n● If it is Xyz Summoned: The DEF of all face-up monsters your opponent controls become 0, also change them to Defense Position.",
+  "attack": 500,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94344242.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94344242.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94344242.jpg"
+  }
+}

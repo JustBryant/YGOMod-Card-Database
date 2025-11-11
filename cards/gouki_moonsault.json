@@ -1,0 +1,16 @@
+{
+  "id": 20191720,
+  "name": "Gouki Moonsault",
+  "type": "Effect Monster",
+  "description": "You can reveal this card in your hand, then target 1 \"Gouki\" monster you control, except \"Gouki Moonsault\"; Special Summon this card from your hand, and if you do, return that monster to the hand. You can target 1 \"Gouki\" Link Monster in your GY; return it to the Extra Deck, then you can add 1 \"Gouki\" monster from your GY to your hand. You can only use each effect of \"Gouki Moonsault\" once per turn.",
+  "attack": 1900,
+  "defense": 0,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20191720.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20191720.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20191720.jpg"
+  }
+}

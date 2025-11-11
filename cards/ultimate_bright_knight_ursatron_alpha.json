@@ -1,0 +1,16 @@
+{
+  "id": 14959144,
+  "name": "Ultimate Bright Knight Ursatron Alpha",
+  "type": "Effect Monster",
+  "description": "(This card is always treated as an \"Ursarctic\" and \"Drytron\" card.)\r\nCannot be Normal Summoned/Set. Must be Special Summoned by card effect. If you control an \"Ursarctic\" or \"Drytron\" monster other than \"Ultimate Bright Knight Ursatron Alpha\": You can Special Summon this card from your hand, then you can add 1 \"Ursarctic\" or \"Drytron\" Spell/Trap from your Deck to your hand. You can only use this effect of \"Ultimate Bright Knight Ursatron Alpha\" once per turn.",
+  "attack": 2000,
+  "defense": 700,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14959144.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14959144.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14959144.jpg"
+  }
+}

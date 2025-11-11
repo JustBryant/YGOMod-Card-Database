@@ -1,0 +1,12 @@
+{
+  "id": 2084239,
+  "name": "Wetlands",
+  "type": "Spell Card",
+  "description": "All Aqua-Type/WATER/Level 2 or lower monsters gain 1200 ATK.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2084239.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2084239.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2084239.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3841833,
+  "name": "Fluffal Bear",
+  "type": "Effect Monster",
+  "description": "You can send this card from your hand to the Graveyard; Set 1 \"Toy Vendor\" directly from your Deck to your Spell & Trap Zone. You can Tribute this card, then target 1 \"Polymerization\" in your Graveyard; add it to your hand. You can only use 1 \"Fluffal Bear\" effect per turn, and only once that turn.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3841833.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3841833.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3841833.jpg"
+  }
+}

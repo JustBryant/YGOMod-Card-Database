@@ -1,0 +1,12 @@
+{
+  "id": 28596933,
+  "name": "A Wingbeat of Giant Dragon",
+  "type": "Spell Card",
+  "description": "Return 1 Level 5 or higher Dragon-Type monster you control to the hand, and if you do, destroy all Spell and Trap Cards on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28596933.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28596933.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28596933.jpg"
+  }
+}

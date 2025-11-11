@@ -1,0 +1,16 @@
+{
+  "id": 64880894,
+  "name": "Stardust Charge Warrior",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can draw 1 card. You can only use this effect of \"Stardust Charge Warrior\" once per turn. This card can attack all Special Summoned monsters your opponent controls, once each.",
+  "attack": 2000,
+  "defense": 1300,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64880894.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64880894.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64880894.jpg"
+  }
+}

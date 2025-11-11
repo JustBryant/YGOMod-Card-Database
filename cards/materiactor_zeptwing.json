@@ -1,0 +1,16 @@
+{
+  "id": 64911387,
+  "name": "Materiactor Zeptwing",
+  "type": "Effect Monster",
+  "description": "If you control a \"Materiactor\" card: You can Special Summon this card from your hand. If this card is Normal or Special Summoned, or flipped face-up: You can add 1 \"Materiactor\" card from your Deck to your hand, except \"Materiactor Zeptwing\", then you can either add to your hand or Special Summon, 1 Level 3 Normal Monster from your GY. You can only use each effect of \"Materiactor Zeptwing\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64911387.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64911387.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64911387.jpg"
+  }
+}

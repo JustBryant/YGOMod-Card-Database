@@ -1,0 +1,12 @@
+{
+  "id": 32437102,
+  "name": "Dragonic Attack",
+  "type": "Spell Card",
+  "description": "This card can only be used to equip Warrior-Type monsters. The equipped monster is treated as Dragon-Type and increases the ATK and DEF of the equipped monster by 500 points.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32437102.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32437102.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32437102.jpg"
+  }
+}

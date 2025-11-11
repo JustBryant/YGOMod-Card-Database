@@ -1,0 +1,12 @@
+{
+  "id": 36006208,
+  "name": "Fire Lake of the Burning Abyss",
+  "type": "Trap Card",
+  "description": "Send 2 face-up \"Burning Abyss\" monsters you control to the Graveyard, then target up to 3 cards on the field; destroy those targets.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36006208.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36006208.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36006208.jpg"
+  }
+}

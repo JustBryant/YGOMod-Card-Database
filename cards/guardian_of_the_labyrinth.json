@@ -1,0 +1,16 @@
+{
+  "id": 89272878,
+  "name": "Guardian of the Labyrinth",
+  "type": "Normal Monster",
+  "description": "A monster that guards the entrance to the Netherworld.",
+  "attack": 1000,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89272878.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89272878.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89272878.jpg"
+  }
+}

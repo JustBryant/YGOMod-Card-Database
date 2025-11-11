@@ -1,0 +1,16 @@
+{
+  "id": 55277252,
+  "name": "The Fabled Nozoochee",
+  "type": "Effect Monster",
+  "description": "During your Main Phase: You can discard 1 \"Fabled\" monster, and if you do, Special Summon this card from your hand. When this card is Special Summoned this way: You can Special Summon 1 Level 2 or lower \"Fabled\" monster from your hand.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55277252.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55277252.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55277252.jpg"
+  }
+}

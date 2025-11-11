@@ -1,0 +1,16 @@
+{
+  "id": 86421986,
+  "name": "Ancient Tree of Enlightenment",
+  "type": "Normal Monster",
+  "description": "''This ancient arbor uses its extensive knowledge to avoid the damage of enemy attacks.''",
+  "attack": 600,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86421986.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86421986.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86421986.jpg"
+  }
+}

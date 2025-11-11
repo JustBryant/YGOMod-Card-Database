@@ -1,0 +1,12 @@
+{
+  "id": 20727787,
+  "name": "Disarmament",
+  "type": "Trap Card",
+  "description": "Destroy all Equip Cards on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20727787.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20727787.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20727787.jpg"
+  }
+}

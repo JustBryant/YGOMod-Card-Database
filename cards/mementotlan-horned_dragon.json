@@ -1,0 +1,16 @@
+{
+  "id": 55272555,
+  "name": "Mementotlan-Horned Dragon",
+  "type": "Effect Monster",
+  "description": "If you have 3 or more \"Memento\" monsters with different names in your GY, you can Special Summon this card (from your hand). You can only Special Summon \"Mementotlan-Horned Dragon\" once per turn this way. If this card on the field is destroyed by card effect: You can target 3 face-up cards on the field, including a \"Memento\" card you control; destroy them. You can only use this effect of \"Mementotlan-Horned Dragon\" once per turn.",
+  "attack": 2850,
+  "defense": 2350,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55272555.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55272555.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55272555.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 57690191,
+  "name": "Noble Knight Brothers",
+  "type": "Effect Monster",
+  "description": "This card can only attack if you control exactly 3 \"Noble Knight\" monsters (and no other monsters). When this card is Normal Summoned: You can Special Summon up to 2 \"Noble Knight\" monsters from your hand, also you cannot Special Summon monsters for the rest of this turn, except \"Noble Knight\" monsters. Once per turn: You can target 3 \"Noble Knight\" and/or \"Noble Arms\" cards in your GY; shuffle all 3 into the Deck, then draw 1 card.",
+  "attack": 1200,
+  "defense": 2400,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57690191.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57690191.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57690191.jpg"
+  }
+}

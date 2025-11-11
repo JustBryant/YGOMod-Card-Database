@@ -1,0 +1,12 @@
+{
+  "id": 28284902,
+  "name": "Morphtronic Monitron",
+  "type": "Trap Card",
+  "description": "When a \"Morphtronic\" monster is Summoned, you can change it to face-up Defense Position.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28284902.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28284902.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28284902.jpg"
+  }
+}

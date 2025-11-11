@@ -1,0 +1,12 @@
+{
+  "id": 14342283,
+  "name": "Token Stampede",
+  "type": "Trap Card",
+  "description": "All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14342283.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14342283.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14342283.jpg"
+  }
+}

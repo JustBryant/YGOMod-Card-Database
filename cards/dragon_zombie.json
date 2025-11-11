@@ -1,0 +1,16 @@
+{
+  "id": 66672569,
+  "name": "Dragon Zombie",
+  "type": "Normal Monster",
+  "description": "A dragon revived by sorcery. Its breath is highly corrosive.",
+  "attack": 1600,
+  "defense": 0,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66672569.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66672569.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66672569.jpg"
+  }
+}

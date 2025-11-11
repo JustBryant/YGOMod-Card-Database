@@ -1,0 +1,12 @@
+{
+  "id": 22454453,
+  "name": "Jar of Generosity",
+  "type": "Trap Card",
+  "description": "Place 1 card from your hand on either the top or bottom of the Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22454453.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22454453.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22454453.jpg"
+  }
+}

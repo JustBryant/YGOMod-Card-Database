@@ -1,0 +1,16 @@
+{
+  "id": 95440946,
+  "name": "Eldlich the Golden Lord",
+  "type": "Effect Monster",
+  "description": "You can send this card and 1 Spell/Trap from your hand to the GY, then target 1 card on the field; send it to the GY. If this card is in your GY: You can send 1 Spell/Trap you control to the GY; add this card to your hand, then you can Special Summon 1 Zombie monster from your hand, and if you do, until the end of your opponent's turn, it gains 1000 ATK/DEF and cannot be destroyed by card effects. You can only use each effect of \"Eldlich the Golden Lord\" once per turn.",
+  "attack": 2500,
+  "defense": 2800,
+  "level": 10,
+  "attribute": "LIGHT",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95440946.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95440946.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95440946.jpg"
+  }
+}

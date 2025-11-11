@@ -1,0 +1,16 @@
+{
+  "id": 44790889,
+  "name": "Hammer Bounzer",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a card and you control no cards, you can Normal Summon this card without Tributing. If this card attacks an opponent's monster, as long as you control no Spell/Trap Cards, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+  "attack": 2300,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44790889.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44790889.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44790889.jpg"
+  }
+}

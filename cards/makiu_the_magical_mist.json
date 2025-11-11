@@ -1,0 +1,12 @@
+{
+  "id": 27827272,
+  "name": "Makiu, the Magical Mist",
+  "type": "Spell Card",
+  "description": "Target 1 \"Summoned Skull\", or 1 Thunder monster, in your Monster Zone; destroy all monsters your opponent controls with DEF less than or equal to the ATK of that monster. You cannot conduct your Battle Phase the turn you activate this card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27827272.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27827272.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27827272.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 28358902,
+  "name": "Crimson Sentry",
+  "type": "Effect Monster",
+  "description": "Tribute this face-up card to return 1 of your monsters destroyed as a result of battle during this turn to the bottom of your Deck.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28358902.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28358902.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28358902.jpg"
+  }
+}

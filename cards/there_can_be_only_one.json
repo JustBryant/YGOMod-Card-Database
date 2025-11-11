@@ -1,0 +1,12 @@
+{
+  "id": 24207889,
+  "name": "There Can Be Only One",
+  "type": "Trap Card",
+  "description": "Each player can only control 1 monster of each Type. If a player controls 2 or more monsters of the same Type, they must send some to the GY so they control no more than 1 monster of that Type.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24207889.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24207889.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24207889.jpg"
+  }
+}

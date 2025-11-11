@@ -1,0 +1,12 @@
+{
+  "id": 30461781,
+  "name": "Legacy of Yata-Garasu",
+  "type": "Trap Card",
+  "description": "Activate 1 of these effects:\n● Draw 1 card.\n● Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30461781.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30461781.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30461781.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 54579801,
+  "name": "High Tide Gyojin",
+  "type": "Normal Monster",
+  "description": "A very agile half-fish warrior known for its relentless attacks.",
+  "attack": 1650,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54579801.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54579801.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54579801.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 20855340,
+  "name": "Evoltile Pleuro",
+  "type": "Effect Monster",
+  "description": "If this card you control is destroyed and sent to your Graveyard: You can Special Summon 1 \"Evolsaur\" monster from your hand.",
+  "attack": 200,
+  "defense": 200,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20855340.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20855340.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20855340.jpg"
+  }
+}

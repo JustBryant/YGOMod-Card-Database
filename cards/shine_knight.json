@@ -1,0 +1,16 @@
+{
+  "id": 86952477,
+  "name": "Shine Knight",
+  "type": "Effect Monster",
+  "description": "This card is Level 4 while in face-up Defense Position.",
+  "attack": 400,
+  "defense": 1900,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86952477.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86952477.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86952477.jpg"
+  }
+}

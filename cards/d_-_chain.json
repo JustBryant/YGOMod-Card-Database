@@ -1,0 +1,12 @@
+{
+  "id": 43405287,
+  "name": "D - Chain",
+  "type": "Trap Card",
+  "description": "Target a \"Destiny HERO\" monster you control; equip this card to that target. It gains 500 ATK. When it destroys a monster your opponent controls by battle and sends it to the Graveyard: Inflict 500 damage to your opponent.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43405287.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43405287.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43405287.jpg"
+  }
+}

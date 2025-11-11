@@ -1,0 +1,16 @@
+{
+  "id": 86926989,
+  "name": "Shiranui Skillsaga Supremacy",
+  "type": "Link Monster",
+  "description": "2+ Zombie monsters\r\nSynchro Monsters you control cannot be destroyed by card effects. FIRE monsters you control cannot be destroyed by battle. During your opponent's turn (Quick Effect): You can target 1 of your banished Zombie Synchro Monsters; Special Summon it to your zone this card points to. You can only use this effect of \"Shiranui Skillsaga Supremacy\" once per turn.",
+  "attack": 2300,
+  "defense": null,
+  "level": null,
+  "attribute": "FIRE",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86926989.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86926989.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86926989.jpg"
+  }
+}

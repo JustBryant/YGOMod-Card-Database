@@ -1,0 +1,16 @@
+{
+  "id": 4058065,
+  "name": "Evilswarm Salamandra",
+  "type": "Effect Monster",
+  "description": "Up to twice per turn: You can banish 1 monster from your Graveyard; this card gains 300 ATK until the end of your opponent's turn.",
+  "attack": 1850,
+  "defense": 950,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4058065.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4058065.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4058065.jpg"
+  }
+}

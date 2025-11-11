@@ -1,0 +1,16 @@
+{
+  "id": 61132951,
+  "name": "Heroic Challenger - Night Watchman",
+  "type": "Effect Monster",
+  "description": "If this card attacks a Defense Position monster your opponent controls, before damage calculation: You can destroy that monster.",
+  "attack": 1200,
+  "defense": 300,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61132951.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61132951.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61132951.jpg"
+  }
+}

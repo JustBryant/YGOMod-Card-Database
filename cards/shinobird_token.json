@@ -1,0 +1,12 @@
+{
+  "id": 25415053,
+  "name": "Shinobird Token",
+  "type": "Token",
+  "description": "This card can be used as a \"Shinobird Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25415053.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25415053.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25415053.jpg"
+  }
+}

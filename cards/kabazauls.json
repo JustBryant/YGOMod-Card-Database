@@ -1,0 +1,16 @@
+{
+  "id": 51934376,
+  "name": "Kabazauls",
+  "type": "Normal Monster",
+  "description": "A huge monster in the shape of a hippopotamus. The sneezing from his gigantic body is so fierce that people mistake it for a hurricane.",
+  "attack": 1700,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51934376.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51934376.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51934376.jpg"
+  }
+}

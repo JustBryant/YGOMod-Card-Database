@@ -1,0 +1,12 @@
+{
+  "id": 28355719,
+  "name": "Double Dude Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Destiny HERO - Double Dude\".",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28355719.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28355719.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28355719.jpg"
+  }
+}

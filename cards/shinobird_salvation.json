@@ -1,0 +1,12 @@
+{
+  "id": 276357,
+  "name": "Shinobird Salvation",
+  "type": "Trap Card",
+  "description": "If a face-up Spirit monster(s) you control returns to your hand while this card is face-up on the field (except during the Damage Step): You can target 1 card your opponent controls; destroy it. When an opponent's monster declares an attack: You can banish 1 Spirit monster from your Graveyard; negate the attack, then end the Battle Phase. You can only use each effect of \"Shinobird Salvation\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/276357.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/276357.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/276357.jpg"
+  }
+}

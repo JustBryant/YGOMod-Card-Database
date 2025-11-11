@@ -1,0 +1,16 @@
+{
+  "id": 78556320,
+  "name": "Vishwar Randi",
+  "type": "Normal Monster",
+  "description": "''This lady warrior with unquenchable bloodlust serves the forces of darkness.''",
+  "attack": 900,
+  "defense": 700,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78556320.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78556320.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78556320.jpg"
+  }
+}

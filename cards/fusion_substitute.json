@@ -1,0 +1,12 @@
+{
+  "id": 74335036,
+  "name": "Fusion Substitute",
+  "type": "Spell Card",
+  "description": "(This card's name is always treated as \"Polymerization\".)\r\nFusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Material. You can banish this card from your GY, then target 1 Fusion Monster in your GY; return it to the Extra Deck, then draw 1 card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74335036.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74335036.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74335036.jpg"
+  }
+}

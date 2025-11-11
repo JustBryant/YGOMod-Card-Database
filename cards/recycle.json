@@ -1,0 +1,12 @@
+{
+  "id": 96316857,
+  "name": "Recycle",
+  "type": "Spell Card",
+  "description": "During your Standby Phase, by paying 300 Life Points, select 1 non-Monster Card in your Graveyard and return it to the bottom of your Deck.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96316857.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96316857.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96316857.jpg"
+  }
+}

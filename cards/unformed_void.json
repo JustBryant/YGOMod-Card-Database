@@ -1,0 +1,16 @@
+{
+  "id": 38180759,
+  "name": "Unformed Void",
+  "type": "XYZ Monster",
+  "description": "3 Level 4 monsters\nOnce per turn, during your opponent's Main Phase: You can detach 1 Xyz Material from this card; this card gains ATK and DEF equal to the total ATK of all face-up Xyz Monsters your opponent currently controls (this is a Quick Effect).",
+  "attack": 0,
+  "defense": 0,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38180759.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38180759.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38180759.jpg"
+  }
+}

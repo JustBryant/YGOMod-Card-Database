@@ -1,0 +1,16 @@
+{
+  "id": 1434352,
+  "name": "Chaos Necromancer",
+  "type": "Effect Monster",
+  "description": "The ATK of this card is the number of Monster Cards in your Graveyard x 300.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1434352.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1434352.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1434352.jpg"
+  }
+}

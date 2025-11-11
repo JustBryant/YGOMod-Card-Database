@@ -1,0 +1,16 @@
+{
+  "id": 54635100,
+  "name": "Linkerbell",
+  "type": "Link Monster",
+  "description": "2 monsters\r\nYou cannot Link Summon this card unless you have at least 3 more cards in your Extra Deck than your opponent's.",
+  "attack": 1500,
+  "defense": null,
+  "level": 0,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54635100.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54635100.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54635100.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 164710,
+  "name": "Mischief of the Gnomes",
+  "type": "Trap Card",
+  "description": "This turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set). You can banish this card from the Graveyard; this turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/164710.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/164710.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/164710.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 79777187,
+  "name": "Bubble Barrier",
+  "type": "Spell Card",
+  "description": "Each \"Performapal\" and \"Performage\" monster you control cannot be destroyed by battle or card effect once per turn. You take no battle damage from attacks involving \"Performapal\" and \"Performage\" monsters you control.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79777187.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79777187.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79777187.jpg"
+  }
+}

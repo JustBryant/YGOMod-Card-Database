@@ -1,0 +1,12 @@
+{
+  "id": 19384334,
+  "name": "Molten Destruction",
+  "type": "Spell Card",
+  "description": "All FIRE monsters gain 500 ATK and lose 400 DEF.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19384334.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19384334.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19384334.jpg"
+  }
+}

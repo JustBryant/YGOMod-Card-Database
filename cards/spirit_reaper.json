@@ -1,0 +1,16 @@
+{
+  "id": 23205979,
+  "name": "Spirit Reaper",
+  "type": "Effect Monster",
+  "description": "Cannot be destroyed by battle. After resolving a card effect that targets this face-up card, destroy this card. When this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.",
+  "attack": 300,
+  "defense": 200,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23205979.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23205979.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23205979.jpg"
+  }
+}

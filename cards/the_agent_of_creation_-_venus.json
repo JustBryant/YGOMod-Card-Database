@@ -1,0 +1,16 @@
+{
+  "id": 64734921,
+  "name": "The Agent of Creation - Venus",
+  "type": "Effect Monster",
+  "description": "You can pay 500 LP; Special Summon 1 \"Mystical Shine Ball\" from your hand or Deck.",
+  "attack": 1600,
+  "defense": 0,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64734921.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64734921.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64734921.jpg"
+  }
+}

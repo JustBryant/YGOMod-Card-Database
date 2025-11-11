@@ -1,0 +1,16 @@
+{
+  "id": 15665977,
+  "name": "Killer Tune Red Seal",
+  "type": "Synchro Tuner Monster",
+  "description": "\"Killer Tune Reco\" + 1+ Tuners\r\nGains 300 ATK for each Tuner in the GYs. The Levels of monsters your opponent controls with 1700 or less original ATK are increased by 1. During the Main Phase (Quick Effect): You can banish 1 Tuner from your GY, then target 1 face-up card your opponent controls; negate its effects until the end of this turn. You can only use this effect of \"Killer Tune Red Seal\" once per turn.",
+  "attack": 1700,
+  "defense": 2400,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15665977.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15665977.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15665977.jpg"
+  }
+}

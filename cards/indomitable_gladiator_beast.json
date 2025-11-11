@@ -1,0 +1,12 @@
+{
+  "id": 55136228,
+  "name": "Indomitable Gladiator Beast",
+  "type": "Spell Card",
+  "description": "Target face-up \"Gladiator Beast\" monster you control gains 500 ATK until the End Phase. While this card is in your Graveyard, you can return 2 \"Gladiator Beast\" cards from your Graveyard to the Deck to return this card to your hand.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55136228.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55136228.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55136228.jpg"
+  }
+}

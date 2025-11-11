@@ -1,0 +1,16 @@
+{
+  "id": 53388413,
+  "name": "Commander Gottoms, Swordmaster",
+  "type": "Effect Monster",
+  "description": "All face-up \"Saber\" monsters you control gain 400 ATK.",
+  "attack": 2100,
+  "defense": 1600,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53388413.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53388413.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53388413.jpg"
+  }
+}

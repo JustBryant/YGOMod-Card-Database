@@ -1,0 +1,16 @@
+{
+  "id": 59281822,
+  "name": "Umbramirage the Elemental Lord",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 DARK monsters in your GY. If this card is Special Summoned: Add 1 monster with 1500 or less ATK from your Deck to your hand. You can only use this effect of \"Umbramirage the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
+  "attack": 2800,
+  "defense": 2200,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59281822.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59281822.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59281822.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 89235196,
+  "name": "Big One Warrior",
+  "type": "Effect Monster",
+  "description": "During your Main Phase, you can send 1 Level 1 monster, except this card, from your hand to the Graveyard to Special Summon this card from your hand.",
+  "attack": 100,
+  "defense": 600,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89235196.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89235196.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89235196.jpg"
+  }
+}

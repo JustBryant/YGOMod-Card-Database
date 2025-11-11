@@ -1,0 +1,12 @@
+{
+  "id": 38590361,
+  "name": "Spiral Fusion",
+  "type": "Spell Card",
+  "description": "Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you Special Summoned \"Gaia the Dragon Champion\" by this effect, it gains 2600 ATK, also it can make up to 2 attacks on monsters during each Battle Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38590361.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38590361.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38590361.jpg"
+  }
+}

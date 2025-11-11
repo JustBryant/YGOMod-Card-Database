@@ -3,10 +3,10 @@
   "name": "Beast Fangs",
   "type": "Spell Card",
   "description": "A Beast-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+  "race": "Equip",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/46009906.jpg",
     "small_url": "https://images.ygoprodeck.com/images/cards_small/46009906.jpg",
     "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46009906.jpg"
-  },
-  "race": "Equip"
+  }
 }

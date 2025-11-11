@@ -1,0 +1,12 @@
+{
+  "id": 80584548,
+  "name": "Ballista Squad",
+  "type": "Trap Card",
+  "description": "Tribute 1 monster, then target 1 card your opponent controls; destroy it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80584548.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80584548.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80584548.jpg"
+  }
+}

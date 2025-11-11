@@ -1,0 +1,12 @@
+{
+  "id": 22802010,
+  "name": "Blind Obliteration",
+  "type": "Trap Card",
+  "description": "Roll a six-sided die twice and destroy all face-up monsters with Levels/Ranks lower than the total roll.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22802010.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22802010.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22802010.jpg"
+  }
+}

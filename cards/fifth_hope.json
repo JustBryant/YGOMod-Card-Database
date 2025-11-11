@@ -1,0 +1,12 @@
+{
+  "id": 55428811,
+  "name": "Fifth Hope",
+  "type": "Spell Card",
+  "description": "Target 5 \"Elemental HERO\" cards in your Graveyard; shuffle them into the Deck, then draw 2 cards (draw 3 cards instead, if you had no other cards on your side of the field and in your hand when you activated this card).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55428811.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55428811.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55428811.jpg"
+  }
+}

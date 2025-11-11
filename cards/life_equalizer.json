@@ -1,0 +1,12 @@
+{
+  "id": 17178486,
+  "name": "Life Equalizer",
+  "type": "Trap Card",
+  "description": "Activate only when the difference between both players' Life Points is 8000 or more. Both players' Life Points become 3000.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17178486.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17178486.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17178486.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 42386471,
+  "name": "Toon Gemini Elf",
+  "type": "Toon Monster",
+  "description": "Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Discard 1 random card from your opponent's hand.",
+  "attack": 1900,
+  "defense": 900,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42386471.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42386471.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42386471.jpg"
+  }
+}

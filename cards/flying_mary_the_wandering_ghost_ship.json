@@ -1,0 +1,16 @@
+{
+  "id": 95784714,
+  "name": "Flying Mary, the Wandering Ghost Ship",
+  "type": "Link Monster",
+  "description": "2 Zombie monsters\r\nYou can target 1 of your Level 5 or higher Zombie monsters that is banished or in your GY; place this card in your Spell & Trap Zone as a face-up Continuous Spell, and if you do, Special Summon that monster. While this card is a Continuous Spell: You can target 1 Level 5 or higher Zombie monster you control; destroy 1 monster your opponent controls with ATK less than or equal to that monster. You can only use each effect of \"Flying Mary, the Wandering Ghost Ship\" once per turn.",
+  "attack": 0,
+  "defense": null,
+  "level": null,
+  "attribute": "WATER",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95784714.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95784714.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95784714.jpg"
+  }
+}

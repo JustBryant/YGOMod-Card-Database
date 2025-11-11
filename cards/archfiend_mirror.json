@@ -1,0 +1,16 @@
+{
+  "id": 15150371,
+  "name": "Archfiend Mirror",
+  "type": "Normal Monster",
+  "description": "''A wicked mirror that hypnotizes enemies, diverting attacks from their intended targets.''",
+  "attack": 700,
+  "defense": 600,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15150371.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15150371.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15150371.jpg"
+  }
+}

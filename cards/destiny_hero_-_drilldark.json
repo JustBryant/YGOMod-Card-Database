@@ -1,0 +1,16 @@
+{
+  "id": 91691605,
+  "name": "Destiny HERO - Drilldark",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Destiny HERO\" monster from your hand with ATK less than or equal to this card's ATK on the field. You can only use this effect of \"Destiny HERO - Drilldark\" once per turn. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91691605.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91691605.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91691605.jpg"
+  }
+}

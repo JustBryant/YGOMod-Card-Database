@@ -1,0 +1,16 @@
+{
+  "id": 17259470,
+  "name": "Zombie Master",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can send 1 monster from your hand to the GY, then target 1 Level 4 or lower Zombie monster in either GY; Special Summon that target. This monster must be face-up on the field to activate and to resolve this effect.",
+  "attack": 1800,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17259470.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17259470.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17259470.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 423705,
+  "name": "Gearfried the Iron Knight",
+  "type": "Effect Monster",
+  "description": "If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s).",
+  "attack": 1800,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/423705.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/423705.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/423705.jpg"
+  }
+}

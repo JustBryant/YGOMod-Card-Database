@@ -1,0 +1,12 @@
+{
+  "id": 77864539,
+  "name": "Meklord Factory",
+  "type": "Trap Card",
+  "description": "When a \"Meklord\" monster on the field is targeted for an attack: Target 1 \"Meklord Army\" monster in your Graveyard; add that target to your hand, then destroy the attack target.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77864539.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77864539.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77864539.jpg"
+  }
+}

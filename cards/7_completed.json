@@ -1,0 +1,12 @@
+{
+  "id": 86198326,
+  "name": "7 Completed",
+  "type": "Spell Card",
+  "description": "Activate this card by choosing ATK or DEF; equip only to a Machine monster. It gains 700 ATK or DEF, depending on the choice.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86198326.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86198326.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86198326.jpg"
+  }
+}

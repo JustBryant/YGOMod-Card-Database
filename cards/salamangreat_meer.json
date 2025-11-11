@@ -1,0 +1,16 @@
+{
+  "id": 67225377,
+  "name": "Salamangreat Meer",
+  "type": "Effect Monster",
+  "description": "If this card is added to your hand, except by drawing it for your normal draw: You can reveal this card; Special Summon it from your hand. If this card is in your hand: You can discard 1 other \"Salamangreat\" card; Special Summon this card from your hand. You can only use each effect of \"Salamangreat Meer\" once per turn.",
+  "attack": 800,
+  "defense": 600,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67225377.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67225377.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67225377.jpg"
+  }
+}

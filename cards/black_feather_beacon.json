@@ -1,0 +1,12 @@
+{
+  "id": 40279770,
+  "name": "Black Feather Beacon",
+  "type": "Trap Card",
+  "description": "Activate only when you take damage from a card effect. Special Summon 1 Level 4 or lower \"Blackwing\" monster from your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40279770.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40279770.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40279770.jpg"
+  }
+}

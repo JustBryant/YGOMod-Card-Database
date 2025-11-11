@@ -1,0 +1,12 @@
+{
+  "id": 54564198,
+  "name": "Monster Rebirth",
+  "type": "Trap Card",
+  "description": "If a monster(s) was destroyed by battle this turn: Send 1 \"Monster Reborn\" from your hand or Deck to the GY, then target 1 monster in either GY; Special Summon that monster to your field. (This is treated as a Special Summon by the effect of \"Monster Reborn\".)",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54564198.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54564198.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54564198.jpg"
+  }
+}

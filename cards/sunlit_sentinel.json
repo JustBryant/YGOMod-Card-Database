@@ -1,0 +1,16 @@
+{
+  "id": 78360952,
+  "name": "Sunlit Sentinel",
+  "type": "Effect Monster",
+  "description": "You can Set this card from your hand to your Spell & Trap Zone as a Spell. Once per turn, during the Standby Phase of the next turn after this Set card was destroyed and sent to the GY: You can Special Summon this card, then destroy all cards your opponent controls in this card's column.",
+  "attack": 2300,
+  "defense": 1500,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78360952.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78360952.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78360952.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 48115277,
+  "name": "Blockman",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card; Special Summon in Defense Position, a number of \"Block Tokens\" (Rock-Type/EARTH/Level 4/ATK 1000/DEF 1500) equal to the number of your turns this card has been face-up on your field. These Tokens cannot declare an attack.",
+  "attack": 1000,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48115277.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48115277.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48115277.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 80368942,
+  "name": "Cocoon Party",
+  "type": "Spell Card",
+  "description": "Special Summon 1 \"Chrysalis\" monster from your Deck for each \"Neo-Spacian\" monster with a different name in your Graveyard.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80368942.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80368942.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80368942.jpg"
+  }
+}

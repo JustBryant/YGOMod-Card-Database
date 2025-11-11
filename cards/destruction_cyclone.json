@@ -1,0 +1,16 @@
+{
+  "id": 59235795,
+  "name": "Destruction Cyclone",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-WIND monsters.",
+  "attack": 2000,
+  "defense": 1500,
+  "level": 7,
+  "attribute": "WIND",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59235795.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59235795.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59235795.jpg"
+  }
+}

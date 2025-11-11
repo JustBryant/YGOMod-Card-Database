@@ -1,0 +1,16 @@
+{
+  "id": 18967507,
+  "name": "Cyberdarkness Dragon",
+  "type": "Fusion Monster",
+  "description": "5 \"Cyberdark\" Effect Monsters\r\nMust first be Fusion Summoned. If this card is Special Summoned: You can equip 1 Dragon or Machine monster from your GY to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. When your opponent activates a card or effect (Quick Effect): You can send 1 Equip Card you control to the GY; negate the activation, and if you do, destroy that card.",
+  "attack": 2000,
+  "defense": 2000,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18967507.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18967507.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18967507.jpg"
+  }
+}

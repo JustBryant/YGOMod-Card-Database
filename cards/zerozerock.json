@@ -1,0 +1,12 @@
+{
+  "id": 85446833,
+  "name": "Zerozerock",
+  "type": "Spell Card",
+  "description": "Your opponent cannot target face-up Attack Position monsters with 0 ATK for attacks.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85446833.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85446833.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85446833.jpg"
+  }
+}

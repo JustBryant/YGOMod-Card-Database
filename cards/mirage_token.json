@@ -1,0 +1,12 @@
+{
+  "id": 63442605,
+  "name": "Mirage Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Physical Double\". Destroy this Token at the end of the turn.",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63442605.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63442605.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63442605.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 65824822,
+  "name": "Dark Deal",
+  "type": "Trap Card",
+  "description": "When your opponent activates a Normal Spell Card: Pay 1000 Life Points; the effect of that Normal Spell Card becomes \"Your opponent discards 1 random card\".",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65824822.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65824822.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65824822.jpg"
+  }
+}

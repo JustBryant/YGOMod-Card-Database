@@ -1,0 +1,12 @@
+{
+  "id": 62834295,
+  "name": "Orcustrated Einsatz",
+  "type": "Spell Card",
+  "description": "If your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can take 1 \"Orcust\" or \"World Legacy\" monster from your hand or Deck, and either send it to the GY or banish it. You can only use this effect of \"Orcustrated Einsatz\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62834295.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62834295.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62834295.jpg"
+  }
+}

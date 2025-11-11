@@ -1,0 +1,16 @@
+{
+  "id": 56511382,
+  "name": "Genex Ally Volcannon",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can send 1 face-up FIRE \"Genex\" monster you control to the Graveyard to select 1 face-up monster your opponent controls, destroy it, and inflict damage to your opponent equal to the Level of the destroyed monster x 400.",
+  "attack": 1700,
+  "defense": 600,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56511382.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56511382.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56511382.jpg"
+  }
+}

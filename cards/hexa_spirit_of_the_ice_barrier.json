@@ -1,0 +1,16 @@
+{
+  "id": 70703416,
+  "name": "Hexa Spirit of the Ice Barrier",
+  "type": "Tuner Monster",
+  "description": "While you control another \"Ice Barrier\" monster, monsters your opponent controls lose 500 ATK/DEF. During your Main Phase: You can send 1 Level 3 or lower \"Ice Barrier\" monster from your Deck to the GY, and if you do, this card's Level becomes the same as that monster's, until the end of this turn. You can only use this effect of \"Hexa Spirit of the Ice Barrier\" once per turn.",
+  "attack": 400,
+  "defense": 200,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70703416.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70703416.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70703416.jpg"
+  }
+}

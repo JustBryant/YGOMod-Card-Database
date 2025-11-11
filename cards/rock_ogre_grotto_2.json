@@ -1,0 +1,16 @@
+{
+  "id": 62193699,
+  "name": "Rock Ogre Grotto #2",
+  "type": "Normal Monster",
+  "description": "A golem formed by boulders, this monster turns its enemies to stone and crushes them to dust.",
+  "attack": 700,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62193699.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62193699.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62193699.jpg"
+  }
+}

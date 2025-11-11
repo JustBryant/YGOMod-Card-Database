@@ -1,0 +1,16 @@
+{
+  "id": 31149212,
+  "name": "Kashtira Riseheart",
+  "type": "Effect Monster",
+  "description": "If you control a \"Kashtira\" monster: You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Xyz Monsters. During your Main Phase, if this card was Normal or Special Summoned this turn: You can banish 1 \"Kashtira\" card from your Deck, except \"Kashtira Riseheart\"; banish the top 3 cards of your opponent's Deck face-down, and if you banish any, this card's Level becomes 7. You can only use each effect of \"Kashtira Riseheart\" once per turn.",
+  "attack": 1500,
+  "defense": 2100,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31149212.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31149212.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31149212.jpg"
+  }
+}

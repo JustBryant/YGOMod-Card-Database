@@ -1,0 +1,16 @@
+{
+  "id": 31383545,
+  "name": "XX-Saber Darksoul",
+  "type": "Effect Monster",
+  "description": "During the End Phase, if this card was sent from your side of the field to your Graveyard this turn: You can add 1 \"X-Saber\" monster from your Deck to your hand.",
+  "attack": 100,
+  "defense": 100,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31383545.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31383545.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31383545.jpg"
+  }
+}

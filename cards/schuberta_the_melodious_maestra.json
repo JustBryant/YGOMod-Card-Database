@@ -1,0 +1,16 @@
+{
+  "id": 57594700,
+  "name": "Schuberta the Melodious Maestra",
+  "type": "Fusion Monster",
+  "description": "2 \"Melodious\" monsters\nDuring either player's turn: You can target up to 3 cards in any Graveyard(s); banish them, and if you do, this card gains 200 ATK for each. This effect can only be used once while this card is face-up on the field.",
+  "attack": 2400,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57594700.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57594700.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57594700.jpg"
+  }
+}

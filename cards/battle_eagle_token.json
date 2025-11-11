@@ -1,0 +1,12 @@
+{
+  "id": 10389143,
+  "name": "Battle Eagle Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Number 42: Galaxy Tomahawk\". Destroy this Token during the End Phase of the turn it is Special Summoned.",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10389143.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10389143.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10389143.jpg"
+  }
+}

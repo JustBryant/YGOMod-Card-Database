@@ -1,0 +1,12 @@
+{
+  "id": 23265313,
+  "name": "Cost Down",
+  "type": "Spell Card",
+  "description": "Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23265313.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23265313.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23265313.jpg"
+  }
+}

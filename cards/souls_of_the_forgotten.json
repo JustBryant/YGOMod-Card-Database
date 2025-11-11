@@ -1,0 +1,16 @@
+{
+  "id": 4920010,
+  "name": "Souls of the Forgotten",
+  "type": "Normal Monster",
+  "description": "A wicked spirit created by the hateful souls of those who fell in battle. It grows by assimilating the souls of its enemies.",
+  "attack": 900,
+  "defense": 200,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4920010.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4920010.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4920010.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 51365514,
+  "name": "Hieratic Seal of Supremacy",
+  "type": "Spell Card",
+  "description": "Special Summon 1 \"Hieratic\" monster from your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51365514.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51365514.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51365514.jpg"
+  }
+}

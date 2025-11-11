@@ -1,0 +1,16 @@
+{
+  "id": 5284653,
+  "name": "Evilswarm Obliviwisp",
+  "type": "Effect Monster",
+  "description": "If this card battles a monster, after damage calculation: Negate the effects of that monster (including in the Graveyard).",
+  "attack": 450,
+  "defense": 2050,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5284653.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5284653.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5284653.jpg"
+  }
+}

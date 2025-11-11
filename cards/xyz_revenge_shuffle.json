@@ -1,0 +1,12 @@
+{
+  "id": 31554054,
+  "name": "Xyz Revenge Shuffle",
+  "type": "Trap Card",
+  "description": "When a face-up Xyz Monster you control is targeted for an attack: Target 1 Xyz Monster in your Graveyard; return that face-up attack target to the Extra Deck, then Special Summon this card's target from the Graveyard, and if you do, attach this card to it, as an Xyz Material.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31554054.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31554054.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31554054.jpg"
+  }
+}

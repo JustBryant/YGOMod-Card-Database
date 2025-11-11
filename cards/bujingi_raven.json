@@ -1,0 +1,16 @@
+{
+  "id": 11958188,
+  "name": "Bujingi Raven",
+  "type": "Effect Monster",
+  "description": "When a \"Bujin\" monster you control is destroyed by battle with an opponent's monster and sent to your Graveyard: You can send this card from your hand to the Graveyard; destroy that opponent's monster.",
+  "attack": 1600,
+  "defense": 900,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11958188.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11958188.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11958188.jpg"
+  }
+}

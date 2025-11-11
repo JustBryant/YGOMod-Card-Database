@@ -1,0 +1,16 @@
+{
+  "id": 84900597,
+  "name": "Lamia",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can add 1 Level 8 Reptile monster from your Deck to your hand. If this card is banished: You can target 1 Reptile monster you control; it cannot be destroyed by card effects until the end of the next turn. You can only use each effect of \"Lamia\" once per turn.",
+  "attack": 1300,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84900597.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84900597.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84900597.jpg"
+  }
+}

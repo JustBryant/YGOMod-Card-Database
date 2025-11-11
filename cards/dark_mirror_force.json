@@ -1,0 +1,12 @@
+{
+  "id": 20522190,
+  "name": "Dark Mirror Force",
+  "type": "Trap Card",
+  "description": "When an opponent's monster declares an attack: Banish all Defense Position monsters your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20522190.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20522190.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20522190.jpg"
+  }
+}

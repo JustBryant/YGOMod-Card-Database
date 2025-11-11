@@ -1,0 +1,12 @@
+{
+  "id": 62125439,
+  "name": "Synchron Token",
+  "type": "Token",
+  "description": "This card can be used as a \"Synchron Token\".\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62125439.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62125439.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62125439.jpg"
+  }
+}

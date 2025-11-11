@@ -1,0 +1,16 @@
+{
+  "id": 26304459,
+  "name": "Ancient Flamvell Deity",
+  "type": "Synchro Monster",
+  "description": "1 FIRE Tuner + 1 or more non-Tuner Pyro-Type monsters\nWhen this card is Synchro Summoned, remove from play cards from your opponent's Graveyard up to the number of cards in their hand. This card gains 200 ATK for each card removed from play by this effect.",
+  "attack": 2500,
+  "defense": 200,
+  "level": 7,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26304459.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26304459.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26304459.jpg"
+  }
+}

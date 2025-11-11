@@ -1,0 +1,12 @@
+{
+  "id": 300302024,
+  "name": "Blaze Accelerator Deployment (Skill Card)",
+  "type": "Skill Card",
+  "description": "Once per turn, you can change the name of 1 \"Blaze Accelerator\" you control to \"Tri-Blaze Accelerator\". This Skill can be used twice per Duel.",
+  "race": "Axel Brodie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302024.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302024.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302024.jpg"
+  }
+}

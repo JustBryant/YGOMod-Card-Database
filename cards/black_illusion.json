@@ -1,0 +1,12 @@
+{
+  "id": 32754886,
+  "name": "Black Illusion",
+  "type": "Trap Card",
+  "description": "Until the end of this turn, all DARK Spellcaster-Type monsters with 2000 or more ATK you currently control cannot be destroyed by battle, their effects are negated, also they are unaffected by your opponent's card effects.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32754886.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32754886.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32754886.jpg"
+  }
+}

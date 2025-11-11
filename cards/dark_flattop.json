@@ -1,0 +1,16 @@
+{
+  "id": 67904682,
+  "name": "Dark Flattop",
+  "type": "Synchro Monster",
+  "description": "1 DARK Tuner + 1 or more non-Tuner Machine-Type monsters\nOnce per turn: You can target 1 \"Reactor\" monster or \"Flying Fortress SKY FIRE\" in your Graveyard; Special Summon that target, ignoring its Summoning conditions. If this card is destroyed and sent to the Graveyard: You can Special Summon 1 Level 5 or lower Machine-Type monster from your hand.",
+  "attack": 0,
+  "defense": 3000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67904682.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67904682.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67904682.jpg"
+  }
+}

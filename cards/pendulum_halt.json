@@ -1,0 +1,12 @@
+{
+  "id": 36111775,
+  "name": "Pendulum Halt",
+  "type": "Spell Card",
+  "description": "If you have 3 or more face-up Pendulum Monsters with different names in your Extra Deck: Draw 2 cards. You cannot add cards from the Deck to your hand for the rest of this turn after this card resolves.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36111775.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36111775.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36111775.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 59185998,
+  "name": "Altergeist Pookuery",
+  "type": "Effect Monster",
+  "description": "If an \"Altergeist\" monster you control would be used as Link Material for an \"Altergeist\" monster, this card in your hand can also be used as material. You can only use this effect of \"Altergeist Pookuery\" once per turn. If an \"Altergeist\" Link Monster is Link Summoned to your field, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use this effect of \"Altergeist Pookuery\" once per Duel.",
+  "attack": 300,
+  "defense": 100,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59185998.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59185998.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59185998.jpg"
+  }
+}

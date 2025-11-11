@@ -1,0 +1,16 @@
+{
+  "id": 43332022,
+  "name": "Jurrac Gallim",
+  "type": "Tuner Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: Your opponent can discard 1 card to negate this card's effect, otherwise destroy the monster that destroyed this card.",
+  "attack": 1200,
+  "defense": 0,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43332022.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43332022.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43332022.jpg"
+  }
+}

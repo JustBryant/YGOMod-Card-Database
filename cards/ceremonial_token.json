@@ -1,0 +1,12 @@
+{
+  "id": 82340057,
+  "name": "Ceremonial Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Offering to the Immortals\". This Token cannot be Tributed, except for a Tribute Summon of an \"Earthbound Immortal\" monster, and cannot be used as Synchro Material monsters.",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82340057.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82340057.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82340057.jpg"
+  }
+}

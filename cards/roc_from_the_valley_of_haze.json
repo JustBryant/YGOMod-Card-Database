@@ -1,0 +1,16 @@
+{
+  "id": 28143906,
+  "name": "Roc from the Valley of Haze",
+  "type": "Effect Monster",
+  "description": "When this card is sent directly from your hand to the Graveyard, add this card to the Deck and shuffle it.",
+  "attack": 2400,
+  "defense": 1400,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28143906.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28143906.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28143906.jpg"
+  }
+}

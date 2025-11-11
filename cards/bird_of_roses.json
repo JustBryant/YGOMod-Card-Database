@@ -1,0 +1,16 @@
+{
+  "id": 75252099,
+  "name": "Bird of Roses",
+  "type": "Effect Monster",
+  "description": "When this face-up Attack Position card is destroyed by battle with an opponent's attacking monster and sent to the Graveyard, you can Special Summon 2 Plant-Type Tuner monsters from your Deck in face-up Defense Position.",
+  "attack": 1800,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75252099.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75252099.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75252099.jpg"
+  }
+}

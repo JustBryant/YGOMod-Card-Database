@@ -1,0 +1,12 @@
+{
+  "id": 96907086,
+  "name": "Earthbound Whirlwind",
+  "type": "Spell Card",
+  "description": "If you control an \"Earthbound Immortal\" monster: Destroy all Spell and Trap Cards your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96907086.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96907086.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96907086.jpg"
+  }
+}

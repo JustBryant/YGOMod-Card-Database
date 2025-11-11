@@ -1,0 +1,16 @@
+{
+  "id": 87475570,
+  "name": "Crystal Master",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nYour opponent cannot target \"Ultimate Crystal\" monsters or \"Crystal Beast\" cards you control with card effects.\n\n[ Monster Effect ] \nYou can Tribute this card; add 1 \"Ultimate Crystal\" monster, \"Crystal Beast\" monster, or \"Crystal\" Spell/Trap from your Deck to your hand.",
+  "attack": 1300,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87475570.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87475570.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87475570.jpg"
+  }
+}

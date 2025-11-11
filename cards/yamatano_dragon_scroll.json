@@ -1,0 +1,16 @@
+{
+  "id": 76704943,
+  "name": "Yamatano Dragon Scroll",
+  "type": "Normal Monster",
+  "description": "''A dragon conjured from the very scroll in which it was depicted.''",
+  "attack": 900,
+  "defense": 300,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76704943.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76704943.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76704943.jpg"
+  }
+}

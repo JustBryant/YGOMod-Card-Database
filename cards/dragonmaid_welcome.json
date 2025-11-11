@@ -1,0 +1,12 @@
+{
+  "id": 14625090,
+  "name": "Dragonmaid Welcome",
+  "type": "Spell Card",
+  "description": "All monsters you control gain 100 ATK/DEF for each \"Dragonmaid\" monster you control. If you control 2 or more \"Dragonmaid\" monsters: You can target 1 \"Dragonmaid\" card in your GY, except \"Dragonmaid Welcome\"; add it to your hand. You can only use this effect of \"Dragonmaid Welcome\" once per turn. If this card is sent to the GY: Your opponent cannot target \"Dragonmaid\" monsters you control with card effects this turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14625090.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14625090.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14625090.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 36262024,
+  "name": "Black Dragon's Chick",
+  "type": "Effect Monster",
+  "description": "You can send this face-up card you control to the Graveyard; Special Summon 1 \"Red-Eyes B. Dragon\" from your hand.",
+  "attack": 800,
+  "defense": 500,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36262024.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36262024.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36262024.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3510565,
+  "name": "Stealth Bird",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Inflict 1000 damage to your opponent.",
+  "attack": 700,
+  "defense": 1700,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3510565.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3510565.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3510565.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 91250514,
+  "name": "Tongue Twister",
+  "type": "Effect Monster",
+  "description": "If this card was Tribute Summoned, when it is sent from the field to the Graveyard, draw 2 cards and remove this card from play.",
+  "attack": 400,
+  "defense": 300,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91250514.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91250514.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91250514.jpg"
+  }
+}

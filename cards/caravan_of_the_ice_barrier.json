@@ -1,0 +1,16 @@
+{
+  "id": 37806313,
+  "name": "Caravan of the Ice Barrier",
+  "type": "Effect Monster",
+  "description": "Once per turn, you can select 2 \"Ice Barrier\" monsters in your Graveyard. Return the selected monsters to the Deck and each player draws 1 card.",
+  "attack": 500,
+  "defense": 200,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37806313.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37806313.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37806313.jpg"
+  }
+}

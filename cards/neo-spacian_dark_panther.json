@@ -1,0 +1,16 @@
+{
+  "id": 43237273,
+  "name": "Neo-Spacian Dark Panther",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, this card's name becomes that monster's original name, also replace this effect with that monster's original effects (if any).",
+  "attack": 1000,
+  "defense": 500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43237273.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43237273.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43237273.jpg"
+  }
+}

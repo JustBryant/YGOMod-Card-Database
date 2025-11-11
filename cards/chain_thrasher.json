@@ -1,0 +1,16 @@
+{
+  "id": 88190453,
+  "name": "Chain Thrasher",
+  "type": "Effect Monster",
+  "description": "This card can attack 1 additional time during the same Battle Phase for each \"Chain Thrasher\" in your Graveyard.",
+  "attack": 1000,
+  "defense": 600,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88190453.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88190453.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88190453.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7183277,
+  "name": "Aurkus, Lightsworn Druid",
+  "type": "Effect Monster",
+  "description": "Neither player can target \"Lightsworn\" monsters (anywhere) with card effects. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.",
+  "attack": 1200,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7183277.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7183277.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7183277.jpg"
+  }
+}

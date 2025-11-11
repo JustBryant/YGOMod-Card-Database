@@ -1,0 +1,16 @@
+{
+  "id": 31118030,
+  "name": "Prediction Princess Arrowsylph",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can add 1 Ritual Spell Card from your Deck or Graveyard to your hand.",
+  "attack": 1000,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31118030.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31118030.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31118030.jpg"
+  }
+}

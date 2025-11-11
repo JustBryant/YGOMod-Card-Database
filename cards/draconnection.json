@@ -1,0 +1,12 @@
+{
+  "id": 90887783,
+  "name": "Draconnection",
+  "type": "Spell Card",
+  "description": "Reveal 1 Dragon-Type monster in your hand, add 1 Dragon-Type monster with the same Level from your Deck to your hand, then shuffle the revealed monster into the Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90887783.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90887783.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90887783.jpg"
+  }
+}

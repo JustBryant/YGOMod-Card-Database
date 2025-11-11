@@ -1,0 +1,12 @@
+{
+  "id": 2625939,
+  "name": "Spool Code",
+  "type": "Spell Card",
+  "description": "When an opponent's monster declares a direct attack, while you have 3 or more Cyberse monsters in your GY: Negate the attack, then, you can Special Summon up to 3 \"Spool Tokens\" (Cyberse/LIGHT/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2625939.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2625939.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2625939.jpg"
+  }
+}

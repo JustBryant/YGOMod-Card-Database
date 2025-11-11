@@ -1,0 +1,16 @@
+{
+  "id": 92736188,
+  "name": "Great Spirit",
+  "type": "Effect Monster",
+  "description": "Once per turn, during your Main Phase, you can flip this card into face-down Defense Position. When this card is Flip Summoned, you can switch the original ATK and DEF of 1 face-up EARTH monster on the field until the end of this turn.",
+  "attack": 500,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92736188.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92736188.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92736188.jpg"
+  }
+}

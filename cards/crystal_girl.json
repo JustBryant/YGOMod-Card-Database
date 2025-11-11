@@ -1,0 +1,16 @@
+{
+  "id": 93169863,
+  "name": "Crystal Girl",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can activate this effect; during the End Phase of this turn, add 1 Level 5 or higher WATER monster from your Deck to your hand. If you control a Level 5 or higher WATER monster and this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Crystal Girl\" once per turn.",
+  "attack": 200,
+  "defense": 100,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93169863.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93169863.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93169863.jpg"
+  }
+}

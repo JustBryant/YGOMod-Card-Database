@@ -1,0 +1,12 @@
+{
+  "id": 79323590,
+  "name": "Chain Energy",
+  "type": "Spell Card",
+  "description": "Each player must pay 500 Life Points per card to Normal Summon, Special Summon, Set or activate cards from his/her respective hand.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79323590.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79323590.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79323590.jpg"
+  }
+}

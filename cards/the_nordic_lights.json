@@ -1,0 +1,12 @@
+{
+  "id": 50433147,
+  "name": "The Nordic Lights",
+  "type": "Spell Card",
+  "description": "\"Nordic\" monsters on the field cannot be destroyed by battle. If this card on the field is destroyed: Destroy all \"Nordic\" monsters on the field.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50433147.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50433147.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50433147.jpg"
+  }
+}

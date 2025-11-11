@@ -1,0 +1,16 @@
+{
+  "id": 2830693,
+  "name": "Rainbow Kuriboh",
+  "type": "Effect Monster",
+  "description": "You can only use each effect of \"Rainbow Kuriboh\" once per turn.\n● When an opponent's monster declares an attack: You can target that attacking monster; equip this card from your hand to that monster. It cannot attack.\n● When an opponent's monster declares a direct attack while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2830693.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2830693.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2830693.jpg"
+  }
+}

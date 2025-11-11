@@ -1,0 +1,12 @@
+{
+  "id": 37511832,
+  "name": "Sargasso Lighthouse",
+  "type": "Spell Card",
+  "description": "When a Spell effect that would inflict damage to you is activated: You take no damage from that effect. While this card is in your Graveyard, you take no damage from the effect of \"Sargasso the D.D. Battlefield\". When this Set card is sent to the Graveyard: You can add 1 \"Sargasso the D.D. Battlefield\" from your Deck to your hand.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37511832.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37511832.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37511832.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 31425736,
+  "name": "Cupsy☆Yummy",
+  "type": "Effect Monster",
+  "description": "If you control a Link-1 monster or a Level 2 Synchro Monster, you can Special Summon this card (from your hand). You can only Special Summon \"Cupsy☆Yummy\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 \"Yummy\" card from your Deck to your hand, except \"Cupsy☆Yummy\", or, if this card was Special Summoned by the effect of a Synchro Monster, you can draw 1 card instead. You can only use this effect of \"Cupsy☆Yummy\" once per turn.",
+  "attack": 0,
+  "defense": 1600,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31425736.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31425736.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31425736.jpg"
+  }
+}

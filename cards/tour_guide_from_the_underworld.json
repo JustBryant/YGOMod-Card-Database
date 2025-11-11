@@ -1,0 +1,16 @@
+{
+  "id": 10802915,
+  "name": "Tour Guide From the Underworld",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 3 Fiend monster from your hand or Deck, but negate its effects, also it cannot be used as Synchro Material.",
+  "attack": 1000,
+  "defense": 600,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10802915.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10802915.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10802915.jpg"
+  }
+}

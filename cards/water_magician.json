@@ -1,0 +1,16 @@
+{
+  "id": 93343894,
+  "name": "Water Magician",
+  "type": "Normal Monster",
+  "description": "This monster swamps an opponent with an almost endless supply of water.",
+  "attack": 1400,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93343894.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93343894.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93343894.jpg"
+  }
+}

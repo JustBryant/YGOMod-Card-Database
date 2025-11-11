@@ -3,10 +3,10 @@
   "name": "Mountain",
   "type": "Spell Card",
   "description": "All Dragon, Winged Beast, and Thunder monsters on the field gain 200 ATK/DEF.",
+  "race": "Field",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/50913601.jpg",
     "small_url": "https://images.ygoprodeck.com/images/cards_small/50913601.jpg",
     "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50913601.jpg"
-  },
-  "race": "Field"
+  }
 }

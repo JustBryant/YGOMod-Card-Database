@@ -1,0 +1,12 @@
+{
+  "id": 55573346,
+  "name": "Oops!",
+  "type": "Trap Card",
+  "description": "Target 1 card you control; destroy it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55573346.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55573346.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55573346.jpg"
+  }
+}

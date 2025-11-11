@@ -1,0 +1,12 @@
+{
+  "id": 69042950,
+  "name": "Crashbug Road",
+  "type": "Spell Card",
+  "description": "Each player can Special Summon 1 monster from their hand with the same Level as 1 face-up Level 4 or lower monster they control.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69042950.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69042950.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69042950.jpg"
+  }
+}

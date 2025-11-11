@@ -1,0 +1,16 @@
+{
+  "id": 58131925,
+  "name": "Blackwing - Damascus the Polar Night",
+  "type": "Effect Monster",
+  "description": "During either player's turn: You can discard this card to target 1 \"Blackwing\" monster you control; it gains 500 ATK until the End Phase.",
+  "attack": 1300,
+  "defense": 700,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58131925.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58131925.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58131925.jpg"
+  }
+}

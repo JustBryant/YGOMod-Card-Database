@@ -1,0 +1,16 @@
+{
+  "id": 76145142,
+  "name": "Longirsu, the Orcust Orchestrator",
+  "type": "Link Monster",
+  "description": "2+ Effect Monsters, including an \"Orcust\" monster\r\nThis linked card cannot be destroyed by card effects. You can target 2 of your banished Machine monsters; shuffle them into the Deck, then you can send 1 linked monster your opponent controls to the GY. This card cannot attack the turn you activate this effect. You can only use this effect of \"Longirsu, the Orcust Orchestrator\" once per turn.",
+  "attack": 2500,
+  "defense": null,
+  "level": 0,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76145142.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76145142.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76145142.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 48068378,
+  "name": "Link Devotee",
+  "type": "Link Monster",
+  "description": "1 Level 4 or lower Cyberse monster\r\nIf this card is Special Summoned: For the rest of this turn, you cannot Link Summon Link-3 or higher Link Monsters. If this co-linked card is Tributed: You can Special Summon 2 \"Link Tokens\" (Cyberse/LIGHT/Level 1/ATK 0/DEF 0). You can only use this effect of \"Link Devotee\" once per turn.",
+  "attack": 500,
+  "defense": null,
+  "level": 0,
+  "attribute": "EARTH",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48068378.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48068378.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48068378.jpg"
+  }
+}

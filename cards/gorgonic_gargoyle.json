@@ -1,0 +1,16 @@
+{
+  "id": 64379261,
+  "name": "Gorgonic Gargoyle",
+  "type": "Effect Monster",
+  "description": "When you Normal Summon a Rock-Type monster: You can Special Summon this card from your hand.",
+  "attack": 1000,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64379261.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64379261.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64379261.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 36975314,
+  "name": "Crackdown",
+  "type": "Trap Card",
+  "description": "Activate by targeting 1 face-up monster your opponent controls; take control of that monster. While you control that monster, it cannot attack or activate effects. When that monster leaves the field, destroy this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36975314.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36975314.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36975314.jpg"
+  }
+}

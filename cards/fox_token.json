@@ -1,0 +1,12 @@
+{
+  "id": 27198002,
+  "name": "Fox Token",
+  "type": "Token",
+  "description": "This card can be used as a \"Fox Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.\n}}",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27198002.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27198002.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27198002.jpg"
+  }
+}

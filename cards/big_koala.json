@@ -1,0 +1,16 @@
+{
+  "id": 42129512,
+  "name": "Big Koala",
+  "type": "Normal Monster",
+  "description": "A species of huge Des Koala. He's meek, but people are afraid of him because he's very powerful.",
+  "attack": 2700,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42129512.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42129512.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42129512.jpg"
+  }
+}

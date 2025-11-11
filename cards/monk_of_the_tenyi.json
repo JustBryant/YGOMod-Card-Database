@@ -1,0 +1,16 @@
+{
+  "id": 32519092,
+  "name": "Monk of the Tenyi",
+  "type": "Link Monster",
+  "description": "1 non-Link \"Tenyi\" monster",
+  "attack": 1000,
+  "defense": null,
+  "level": null,
+  "attribute": "EARTH",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32519092.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32519092.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32519092.jpg"
+  }
+}

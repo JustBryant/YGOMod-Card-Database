@@ -1,0 +1,16 @@
+{
+  "id": 74148483,
+  "name": "Infernity Wildcat",
+  "type": "Tuner Monster",
+  "description": "You can Special Summon this card (from your hand) by sending 1 other \"Infernity\" monster in your hand to the GY. You can only Special Summon \"Infernity Wildcat\" once per turn this way. While you have no cards in your hand: You can banish 1 \"Infernity\" monster from your GY; increase or decrease the Level of this card by 1 until the end of this turn. You can only use this effect of \"Infernity Wildcat\" once per turn.",
+  "attack": 1400,
+  "defense": 0,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74148483.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74148483.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74148483.jpg"
+  }
+}

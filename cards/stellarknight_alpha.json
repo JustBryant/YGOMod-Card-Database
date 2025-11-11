@@ -1,0 +1,12 @@
+{
+  "id": 81810441,
+  "name": "Stellarknight Alpha",
+  "type": "Spell Card",
+  "description": "Equip only to a \"tellarknight\" monster you control. It gains 500 ATK and DEF, also it is unaffected by your opponent's card effects. If you control a face-up monster that is not a \"tellarknight\" monster, destroy this card.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81810441.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81810441.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81810441.jpg"
+  }
+}

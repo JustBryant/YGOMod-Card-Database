@@ -1,0 +1,16 @@
+{
+  "id": 662857,
+  "name": "Iron Knight of Revolution",
+  "type": "Link Monster",
+  "description": "3+ Machine Effect Monsters\nMust be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+  "attack": 2400,
+  "defense": null,
+  "level": 0,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/662857.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/662857.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/662857.jpg"
+  }
+}

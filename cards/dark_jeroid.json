@@ -1,0 +1,16 @@
+{
+  "id": 90980792,
+  "name": "Dark Jeroid",
+  "type": "Effect Monster",
+  "description": "If this card is Summoned: Target 1 face-up monster on the field; it loses 800 ATK.",
+  "attack": 1200,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90980792.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90980792.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90980792.jpg"
+  }
+}

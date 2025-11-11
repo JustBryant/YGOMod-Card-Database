@@ -1,0 +1,16 @@
+{
+  "id": 15667446,
+  "name": "Latinum, Exarch of Dark World",
+  "type": "Effect Monster",
+  "description": "If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, target 1 Fiend-Type monster on the field; Special Summon this card from the Graveyard, then that target (if any) gains 500 ATK.",
+  "attack": 1500,
+  "defense": 2400,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15667446.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15667446.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15667446.jpg"
+  }
+}

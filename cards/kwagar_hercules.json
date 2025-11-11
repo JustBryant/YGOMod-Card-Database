@@ -1,0 +1,16 @@
+{
+  "id": 95144193,
+  "name": "Kwagar Hercules",
+  "type": "Fusion Monster",
+  "description": "\"Kuwagata α\" + \"Hercules Beetle\"",
+  "attack": 1900,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95144193.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95144193.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95144193.jpg"
+  }
+}

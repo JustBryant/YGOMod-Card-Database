@@ -1,0 +1,16 @@
+{
+  "id": 71564252,
+  "name": "Thunder King Rai-Oh",
+  "type": "Effect Monster",
+  "description": "Neither player can add cards from their Deck to their hand except by drawing them. During either player's turn, when your opponent would Special Summon exactly 1 monster: You can send this face-up card to the Graveyard; negate the Special Summon, and if you do, destroy it.",
+  "attack": 1900,
+  "defense": 800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71564252.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71564252.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71564252.jpg"
+  }
+}

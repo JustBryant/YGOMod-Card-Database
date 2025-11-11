@@ -1,0 +1,16 @@
+{
+  "id": 4896788,
+  "name": "Spirit of the Pot of Greed",
+  "type": "Effect Monster",
+  "description": "While this card is in face-up Attack Position on the field, if a player activates \"Pot of Greed\", they can draw 1 more card.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4896788.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4896788.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4896788.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 12923641,
+  "name": "Swords of Concealing Light",
+  "type": "Spell Card",
+  "description": "Destroy this card during your 2nd Standby Phase after activation. When this card resolves, change all monsters your opponent controls to face-down Defense Position. Monsters your opponent controls cannot change their battle positions.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12923641.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12923641.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12923641.jpg"
+  }
+}

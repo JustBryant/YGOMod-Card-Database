@@ -1,0 +1,16 @@
+{
+  "id": 73698349,
+  "name": "Giant Orc",
+  "type": "Effect Monster",
+  "description": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. You cannot change this battle position until the end of your next turn.",
+  "attack": 2200,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73698349.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73698349.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73698349.jpg"
+  }
+}

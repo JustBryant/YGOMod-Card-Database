@@ -1,0 +1,12 @@
+{
+  "id": 37318031,
+  "name": "R - Righteous Justice",
+  "type": "Spell Card",
+  "description": "Destroy Spell/Trap Cards equal to the number of \"Elemental HERO\" cards you control.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37318031.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37318031.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37318031.jpg"
+  }
+}

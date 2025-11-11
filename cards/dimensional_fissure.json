@@ -1,0 +1,12 @@
+{
+  "id": 81674782,
+  "name": "Dimensional Fissure",
+  "type": "Spell Card",
+  "description": "Any monster sent to the Graveyard is banished instead.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81674782.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81674782.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81674782.jpg"
+  }
+}

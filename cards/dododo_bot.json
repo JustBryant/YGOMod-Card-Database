@@ -1,0 +1,16 @@
+{
+  "id": 19700943,
+  "name": "Dododo Bot",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned (but can be Normal Set). If this card attacks, it is unaffected by other card effects until the end of the Damage Step.",
+  "attack": 1800,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19700943.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19700943.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19700943.jpg"
+  }
+}

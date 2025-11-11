@@ -1,0 +1,12 @@
+{
+  "id": 33846209,
+  "name": "Gemini Spark",
+  "type": "Spell Card",
+  "description": "Tribute 1 face-up Level 4 Gemini monster, then target 1 card on the field; destroy it, and if you do, draw 1 card.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33846209.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33846209.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33846209.jpg"
+  }
+}

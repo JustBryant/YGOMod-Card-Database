@@ -1,0 +1,12 @@
+{
+  "id": 88204302,
+  "name": "Speed Recovery",
+  "type": "Spell Card",
+  "description": "Target 1 \"Speedroid\" monster in your Graveyard; Special Summon it. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 \"Speedroid\" monster in your Graveyard; add it to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88204302.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88204302.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88204302.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 62729173,
+  "name": "Steelswarm Genome",
+  "type": "Effect Monster",
+  "description": "This card can be treated as 2 Tributes for the Tribute Summon of a \"Steelswarm\" monster.",
+  "attack": 1000,
+  "defense": 0,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62729173.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62729173.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62729173.jpg"
+  }
+}

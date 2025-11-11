@@ -1,0 +1,16 @@
+{
+  "id": 3121655,
+  "name": "Junk Dragonlet",
+  "type": "Effect Monster",
+  "description": "If you control a Synchro Monster, you can Special Summon this card (from your hand). You can only Special Summon \"Junk Dragonlet\" once per turn this way. When a Synchro Monster you control declares an attack: You can banish this card from your GY; that monster you control gains 800 ATK until the end of this turn. You can only use this effect of \"Junk Dragonlet\" once per turn.",
+  "attack": 2100,
+  "defense": 1800,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3121655.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3121655.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3121655.jpg"
+  }
+}

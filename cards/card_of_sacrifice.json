@@ -1,0 +1,12 @@
+{
+  "id": 88513608,
+  "name": "Card of Sacrifice",
+  "type": "Trap Card",
+  "description": "Draw 2 cards, if the combined ATK of all your face-up Attack Position monsters (minimum 2) is less than the ATK of your opponent's face-up monster with the lowest ATK. You cannot Summon or change Battle Position the turn you activate this card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88513608.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88513608.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88513608.jpg"
+  }
+}

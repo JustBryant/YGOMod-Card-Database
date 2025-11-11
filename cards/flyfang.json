@@ -1,0 +1,16 @@
+{
+  "id": 11954712,
+  "name": "Flyfang",
+  "type": "Effect Monster",
+  "description": "If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. At the end of the Battle Phase, if this card inflicted Battle Damage to your opponent: Banish this card until your next Standby Phase.",
+  "attack": 1600,
+  "defense": 300,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11954712.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11954712.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11954712.jpg"
+  }
+}

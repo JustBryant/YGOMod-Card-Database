@@ -1,0 +1,16 @@
+{
+  "id": 81843628,
+  "name": "Needle Worm",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Send the top 5 cards of your opponent's Deck to the Graveyard.",
+  "attack": 750,
+  "defense": 600,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81843628.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81843628.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81843628.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 23770284,
+  "name": "Strong Wind Dragon",
+  "type": "Effect Monster",
+  "description": "Cannot be destroyed by battle with a monster that has the same ATK. If this card is Tribute Summoned by Tributing a Dragon-Type monster: It gains ATK equal to half the original ATK of the Tributed monster. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "attack": 2400,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23770284.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23770284.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23770284.jpg"
+  }
+}

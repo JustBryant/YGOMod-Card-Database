@@ -1,0 +1,12 @@
+{
+  "id": 97439308,
+  "name": "Chaos Greed",
+  "type": "Spell Card",
+  "description": "You can only activate this card if 4 or more of your cards are currently removed from play and there are no cards in your Graveyard. Draw 2 cards from your Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97439308.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97439308.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97439308.jpg"
+  }
+}

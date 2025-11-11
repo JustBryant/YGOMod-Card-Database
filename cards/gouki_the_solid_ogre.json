@@ -1,0 +1,16 @@
+{
+  "id": 22510667,
+  "name": "Gouki The Solid Ogre",
+  "type": "Link Monster",
+  "description": "2+ \"Gouki\" monsters\r\nCannot be destroyed by battle or card effects while it points to a \"Gouki\" monster. Once per turn (Quick Effect): You can target 1 \"Gouki\" monster in your Main Monster Zone, except \"Gouki The Solid Ogre\"; move that monster you control to your Main Monster Zone this card points to.",
+  "attack": 2400,
+  "defense": null,
+  "level": null,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22510667.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22510667.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22510667.jpg"
+  }
+}

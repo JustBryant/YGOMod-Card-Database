@@ -1,0 +1,16 @@
+{
+  "id": 67629977,
+  "name": "Hoshiningen",
+  "type": "Effect Monster",
+  "description": "All LIGHT monsters on the field gain 500 ATK, also all DARK monsters on the field lose 400 ATK.",
+  "attack": 500,
+  "defense": 700,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67629977.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67629977.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67629977.jpg"
+  }
+}

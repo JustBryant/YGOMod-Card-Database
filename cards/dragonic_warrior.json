@@ -1,0 +1,16 @@
+{
+  "id": 3837261,
+  "name": "Dragonic Warrior",
+  "type": "Effect Monster",
+  "description": "You can discard 1 card; Special Summon 1 Level 4 or lower Dragon monster from your hand or Deck, except \"Dragonic Warrior\", but its effects are negated. You can only use this effect of \"Dragonic Warrior\" once per turn.",
+  "attack": 1500,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3837261.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3837261.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3837261.jpg"
+  }
+}

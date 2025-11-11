@@ -1,0 +1,16 @@
+{
+  "id": 79409334,
+  "name": "Black Stego",
+  "type": "Effect Monster",
+  "description": "If this Attack Position card is targeted for an attack: Change this card to Defense Position.",
+  "attack": 1200,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79409334.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79409334.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79409334.jpg"
+  }
+}

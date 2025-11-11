@@ -1,0 +1,12 @@
+{
+  "id": 60530944,
+  "name": "Battle of the Elements",
+  "type": "Trap Card",
+  "description": "Activate only while all monsters on the field are face-up. Both players send monsters they control to the Graveyard so that they each control only 1 Attribute.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60530944.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60530944.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60530944.jpg"
+  }
+}

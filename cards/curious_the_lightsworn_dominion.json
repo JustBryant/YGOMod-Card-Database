@@ -1,0 +1,16 @@
+{
+  "id": 98095162,
+  "name": "Curious, the Lightsworn Dominion",
+  "type": "Link Monster",
+  "description": "3 monsters with the same Attribute but different Types\r\nIf this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can target 1 card in your GY; add it to your hand. You can only use each of the following effects of \"Curious, the Lightsworn Dominion\" once per turn.\r\n● If this card is Link Summoned: You can send 1 card from your Deck to the GY.\r\n● If a card(s) is sent from your Deck to the GY by an effect: Send the top 3 cards of your Deck to the GY.",
+  "attack": 2400,
+  "defense": null,
+  "level": 0,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98095162.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98095162.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98095162.jpg"
+  }
+}

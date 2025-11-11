@@ -1,0 +1,16 @@
+{
+  "id": 52253888,
+  "name": "Light Law Medium",
+  "type": "Effect Monster",
+  "description": "At the start of your opponent's Battle Phase: You can target any number of Attack Position monsters your opponent controls; while this card is in your Monster Zone, those monsters must attack this card this turn, if able. Once per turn, when an attack is declared involving this card and an opponent's Attack Position monster: You can negate the attack, and if you do, inflict damage to your opponent equal to half the original ATK of that opponent's monster.",
+  "attack": 400,
+  "defense": 300,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52253888.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52253888.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52253888.jpg"
+  }
+}

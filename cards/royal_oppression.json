@@ -1,0 +1,12 @@
+{
+  "id": 93016201,
+  "name": "Royal Oppression",
+  "type": "Trap Card",
+  "description": "Either player can pay 800 Life Points to negate the Special Summon of a monster(s), and/or an effect that Special Summons a monster(s), and destroy those cards.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93016201.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93016201.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93016201.jpg"
+  }
+}

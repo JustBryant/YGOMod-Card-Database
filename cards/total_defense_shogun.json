@@ -1,0 +1,16 @@
+{
+  "id": 75372290,
+  "name": "Total Defense Shogun",
+  "type": "Effect Monster",
+  "description": "This card is changed to Defense Position when it is Normal Summoned or Flip Summoned successfully. This card can attack while it is in Defense Position. If this card attacks while in Defense Position, apply the ATK of this card for damage calculation.",
+  "attack": 1550,
+  "defense": 2500,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75372290.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75372290.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75372290.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 29802344,
+  "name": "Snakeyashi",
+  "type": "Normal Monster",
+  "description": "This monster is formed by several serpents that break off to individually attack nearby enemies.",
+  "attack": 1000,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29802344.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29802344.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29802344.jpg"
+  }
+}

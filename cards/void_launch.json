@@ -1,0 +1,12 @@
+{
+  "id": 94432298,
+  "name": "Void Launch",
+  "type": "Trap Card",
+  "description": "During each of your Standby Phases: You can send up to 2 \"Infernoid\" monsters from your Deck to the Graveyard. If you control a monster that is not an \"Infernoid\" monster, send this card to the Graveyard.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94432298.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94432298.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94432298.jpg"
+  }
+}

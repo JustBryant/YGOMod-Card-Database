@@ -1,0 +1,16 @@
+{
+  "id": 39191307,
+  "name": "Masked Dragon",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Dragon-Type monster with 1500 or less ATK from your Deck.",
+  "attack": 1400,
+  "defense": 1100,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39191307.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39191307.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39191307.jpg"
+  }
+}

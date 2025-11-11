@@ -1,0 +1,12 @@
+{
+  "id": 60519422,
+  "name": "Kishido Spirit",
+  "type": "Spell Card",
+  "description": "Monsters on your side of the field cannot be destroyed in a battle if the monsters' ATK are equal.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60519422.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60519422.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60519422.jpg"
+  }
+}

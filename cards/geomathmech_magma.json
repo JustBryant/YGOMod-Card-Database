@@ -1,0 +1,16 @@
+{
+  "id": 15248594,
+  "name": "Geomathmech Magma",
+  "type": "Synchro Tuner Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nWhen this card destroys a monster by battle: You can target up to 2 cards your opponent controls; destroy them. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can add 1 \"Mathmech\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Geomathmech Magma\" once per turn.",
+  "attack": 2500,
+  "defense": 0,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15248594.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15248594.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15248594.jpg"
+  }
+}

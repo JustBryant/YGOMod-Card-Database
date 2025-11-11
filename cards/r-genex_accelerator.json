@@ -1,0 +1,16 @@
+{
+  "id": 73783043,
+  "name": "R-Genex Accelerator",
+  "type": "Effect Monster",
+  "description": "When a \"Genex\" monster is added from your Deck to your hand, you can reveal that monster to Special Summon it.",
+  "attack": 1500,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73783043.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73783043.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73783043.jpg"
+  }
+}

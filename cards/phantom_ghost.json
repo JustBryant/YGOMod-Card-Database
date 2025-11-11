@@ -1,0 +1,16 @@
+{
+  "id": 61201220,
+  "name": "Phantom Ghost",
+  "type": "Normal Monster",
+  "description": "''A vengeful spirit made up of many restless souls.''",
+  "attack": 600,
+  "defense": 800,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61201220.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61201220.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61201220.jpg"
+  }
+}

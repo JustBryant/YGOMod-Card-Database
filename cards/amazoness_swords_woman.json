@@ -1,0 +1,16 @@
+{
+  "id": 94004268,
+  "name": "Amazoness Swords Woman",
+  "type": "Effect Monster",
+  "description": "Your opponent takes any battle damage you would have taken from battles involving this card instead.",
+  "attack": 1500,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94004268.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94004268.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94004268.jpg"
+  }
+}

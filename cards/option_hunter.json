@@ -1,0 +1,12 @@
+{
+  "id": 33248692,
+  "name": "Option Hunter",
+  "type": "Trap Card",
+  "description": "Activate only when a monster you control is destroyed by battle and sent to the Graveyard. Gain Life Points equal to the original ATK of the destroyed monster.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33248692.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33248692.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33248692.jpg"
+  }
+}

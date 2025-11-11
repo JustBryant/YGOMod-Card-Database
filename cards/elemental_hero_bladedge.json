@@ -1,0 +1,16 @@
+{
+  "id": 59793705,
+  "name": "Elemental HERO Bladedge",
+  "type": "Effect Monster",
+  "description": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "attack": 2600,
+  "defense": 1800,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59793705.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59793705.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59793705.jpg"
+  }
+}

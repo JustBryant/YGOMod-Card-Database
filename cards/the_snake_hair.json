@@ -1,0 +1,16 @@
+{
+  "id": 29491031,
+  "name": "The Snake Hair",
+  "type": "Normal Monster",
+  "description": "A monster with a head of poison snakes. One look from this monster can turn an opponent to stone.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29491031.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29491031.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29491031.jpg"
+  }
+}

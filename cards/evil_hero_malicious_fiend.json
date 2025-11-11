@@ -1,0 +1,16 @@
+{
+  "id": 86676862,
+  "name": "Evil HERO Malicious Fiend",
+  "type": "Fusion Monster",
+  "description": "\"Evil HERO Malicious Edge\" + 1 Level 6 or higher Fiend monster\nMust be Special Summoned with \"Dark Fusion\". During your opponent's Battle Phase, all monsters they control are changed to face-up Attack Position, and each monster they control must attack this card, if able.",
+  "attack": 3500,
+  "defense": 2100,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86676862.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86676862.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86676862.jpg"
+  }
+}

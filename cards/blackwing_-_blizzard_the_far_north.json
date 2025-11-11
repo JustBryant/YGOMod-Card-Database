@@ -1,0 +1,16 @@
+{
+  "id": 22835145,
+  "name": "Blackwing - Blizzard the Far North",
+  "type": "Tuner Monster",
+  "description": "Cannot be Special Summoned. When this card is Normal Summoned: You can target 1 Level 4 or lower \"Blackwing\" monster in your Graveyard; Special Summon that target in Defense Position.",
+  "attack": 1300,
+  "defense": 0,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22835145.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22835145.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22835145.jpg"
+  }
+}

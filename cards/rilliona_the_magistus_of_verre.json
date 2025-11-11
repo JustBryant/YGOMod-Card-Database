@@ -1,0 +1,16 @@
+{
+  "id": 72498838,
+  "name": "Rilliona, the Magistus of Verre",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can activate 1 of these effects;\r\n● Add 1 \"Magistus\" Spell/Trap from your Deck to your hand.\r\n● Return 1 of your banished Level 4 or lower Spellcaster monsters to your GY.\r\nYou can banish this card from your GY, then target 1 \"Magistus\" monster you control; equip it with 1 \"Magistus\" monster from your GY, except a Level 4 monster.\r\nYou can only use each effect of \"Rilliona, the Magistus of Verre\" once per turn.",
+  "attack": 800,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72498838.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72498838.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72498838.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7602840,
+  "name": "UFOroid",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Machine-Type monster with 1500 or less ATK from your Deck in face-up Attack Position.",
+  "attack": 1200,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7602840.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7602840.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7602840.jpg"
+  }
+}

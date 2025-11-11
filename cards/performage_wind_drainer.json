@@ -1,0 +1,16 @@
+{
+  "id": 70417076,
+  "name": "Performage Wind Drainer",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn: You can target 1 \"Performage\" Pendulum Monster you control, then activate 1 of these effects;\r\n● Reduce its Level by 1.\r\n● Increase this card's Pendulum Scale by that monster's.\n\n[ Monster Effect ] \nIf your opponent controls a monster, or a \"Performage\" monster is on the field: You can Special Summon this card from your hand, but while it is face-up in the Monster Zone, you cannot Special Summon, except \"Performage\" monsters. You can only use this effect of \"Performage Wind Drainer\" once per turn. If this card is Special Summoned: You can reduce its Level by 1. Once per turn: You can change the Levels of all Level 4 \"Performage\" monsters you control to Level 5.",
+  "attack": 2100,
+  "defense": 0,
+  "level": 5,
+  "attribute": "WIND",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70417076.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70417076.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70417076.jpg"
+  }
+}

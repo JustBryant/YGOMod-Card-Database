@@ -1,0 +1,16 @@
+{
+  "id": 19740112,
+  "name": "Barrier Statue of the Drought",
+  "type": "Effect Monster",
+  "description": "No monsters can be Special Summoned, except for EARTH monsters.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19740112.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19740112.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19740112.jpg"
+  }
+}

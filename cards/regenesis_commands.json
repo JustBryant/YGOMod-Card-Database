@@ -1,0 +1,12 @@
+{
+  "id": 95382988,
+  "name": "Regenesis Commands",
+  "type": "Trap Card",
+  "description": "Apply these effects to all cards your opponent controls in the same column as your \"Regenesis\" monsters.\r\n● Face-up cards: Negate their effects.\r\n● Face-down monsters: Cannot change their battle positions.\r\n● Face-down Spells/Traps: Cannot be activated until the end of the next turn.\r\nYou can only activate 1 \"Regenesis Commands\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95382988.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95382988.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95382988.jpg"
+  }
+}

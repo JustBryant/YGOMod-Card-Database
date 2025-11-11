@@ -1,0 +1,16 @@
+{
+  "id": 47387961,
+  "name": "Number 8: Heraldic King Genom-Heritage",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 \"Heraldic Beast\" monsters\nOnce per turn: You can target 1 face-up Xyz Monster your opponent controls; this card's name and original ATK become that monster's name and current ATK, and this card's effect becomes that monster's original effect, then that monster's ATK becomes 0 and its effects are negated. These changes last until the End Phase.",
+  "attack": 2400,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47387961.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47387961.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47387961.jpg"
+  }
+}

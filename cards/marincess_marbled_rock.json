@@ -1,0 +1,16 @@
+{
+  "id": 5524387,
+  "name": "Marincess Marbled Rock",
+  "type": "Link Monster",
+  "description": "2+ WATER monsters\r\nYou can target 1 \"Marincess\" card in your GY, except \"Marincess Marbled Rock\"; add it to your hand. You can only use this effect of \"Marincess Marbled Rock\" once per turn. When an opponent's monster declares an attack: You can send 1 \"Marincess\" monster from your hand to the GY; for that battle, monsters cannot be destroyed by battle, also you take no battle damage.",
+  "attack": 2500,
+  "defense": null,
+  "level": null,
+  "attribute": "WATER",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5524387.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5524387.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5524387.jpg"
+  }
+}

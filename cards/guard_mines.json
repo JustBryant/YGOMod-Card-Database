@@ -1,0 +1,12 @@
+{
+  "id": 88928798,
+  "name": "Guard Mines",
+  "type": "Trap Card",
+  "description": "Activate only when a card is activated with an effect that would target and destroy 1 monster you control. Negate the effect and destroy that card. Then inflict 500 damage to your opponent.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88928798.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88928798.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88928798.jpg"
+  }
+}

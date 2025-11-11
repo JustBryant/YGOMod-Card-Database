@@ -1,0 +1,12 @@
+{
+  "id": 44716890,
+  "name": "Toll Hike",
+  "type": "Trap Card",
+  "description": "Each player must send 1 card from their hand to the GY to declare an attack.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44716890.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44716890.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44716890.jpg"
+  }
+}

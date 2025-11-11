@@ -1,0 +1,16 @@
+{
+  "id": 88453933,
+  "name": "Parlor Dragonmaid",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can send 1 \"Dragonmaid\" card from your Deck to the GY, except \"Parlor Dragonmaid\". At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 8 \"Dragonmaid\" monster from your hand or GY. You can only use each effect of \"Parlor Dragonmaid\" once per turn.",
+  "attack": 500,
+  "defense": 1700,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88453933.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88453933.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88453933.jpg"
+  }
+}

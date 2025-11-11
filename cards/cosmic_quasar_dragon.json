@@ -1,0 +1,16 @@
+{
+  "id": 37442336,
+  "name": "Cosmic Quasar Dragon",
+  "type": "Synchro Monster",
+  "description": "1 Tuner Synchro Monster + 2+ non-Tuner Synchro Monsters\r\nMust first be Synchro Summoned with the above materials. Once per turn: You can target face-up cards on the field, up to the number of monsters used as Synchro Material for this card +1; negate their effects. This effect's activation and effect cannot be negated. (Quick Effect): You can banish this Synchro Summoned card; Special Summon 1 Dragon Synchro Monster from your Extra Deck that requires 2+ non-Tuner Synchro Monsters as material. (This is treated as a Synchro Summon.)",
+  "attack": 4000,
+  "defense": 4000,
+  "level": 12,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37442336.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37442336.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37442336.jpg"
+  }
+}

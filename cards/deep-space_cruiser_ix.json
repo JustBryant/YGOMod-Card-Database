@@ -1,0 +1,16 @@
+{
+  "id": 1586457,
+  "name": "Deep-Space Cruiser IX",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by sending 1 other Machine-Type monster from your hand to the Graveyard.",
+  "attack": 900,
+  "defense": 900,
+  "level": 9,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1586457.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1586457.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1586457.jpg"
+  }
+}

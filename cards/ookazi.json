@@ -1,0 +1,12 @@
+{
+  "id": 19523799,
+  "name": "Ookazi",
+  "type": "Spell Card",
+  "description": "Inflict 800 damage to your opponent.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19523799.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19523799.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19523799.jpg"
+  }
+}

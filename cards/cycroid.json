@@ -1,0 +1,16 @@
+{
+  "id": 45945685,
+  "name": "Cycroid",
+  "type": "Normal Monster",
+  "description": "The most lovable and friendly of all the Vehicroids. It can arm itself with training wheels!",
+  "attack": 800,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45945685.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45945685.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45945685.jpg"
+  }
+}

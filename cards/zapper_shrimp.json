@@ -1,0 +1,16 @@
+{
+  "id": 92744676,
+  "name": "Zapper Shrimp",
+  "type": "Synchro Tuner Monster",
+  "description": "1 Tuner + 1 non-Tuner monster\r\nIf this card is Special Summoned: You can send 1 other card from your hand or field to the GY, then target 1 Spell/Trap your opponent controls; destroy it. You can only use this effect of \"Zapper Shrimp\" once per turn. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
+  "attack": 1000,
+  "defense": 1200,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92744676.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92744676.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92744676.jpg"
+  }
+}

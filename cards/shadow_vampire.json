@@ -1,0 +1,16 @@
+{
+  "id": 14212201,
+  "name": "Shadow Vampire",
+  "type": "Effect Monster",
+  "description": "Cannot be used as material for an Xyz Summon, except for the Xyz Summon of a DARK monster. When this card is Normal Summoned: You can Special Summon 1 DARK \"Vampire\" monster from your hand or Deck, except \"Shadow Vampire\", but monsters you control cannot attack for the rest of this turn, except that Special Summoned monster.",
+  "attack": 2000,
+  "defense": 0,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14212201.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14212201.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14212201.jpg"
+  }
+}

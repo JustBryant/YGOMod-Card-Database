@@ -1,0 +1,12 @@
+{
+  "id": 57069605,
+  "name": "Frozen Soul",
+  "type": "Trap Card",
+  "description": "You can only activate this card when your Life Points are at least 2000 lower than your opponent's. Skip your opponent's next Battle Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57069605.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57069605.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57069605.jpg"
+  }
+}

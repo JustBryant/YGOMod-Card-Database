@@ -1,0 +1,16 @@
+{
+  "id": 84305651,
+  "name": "Goyo King",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1 or more non-Tuner Synchro Monsters\r\nWhen this card declares an attack on an opponent's monster: This card gains 400 ATK for each EARTH Warrior-Type Synchro Monster you control, until the end of the Damage Step. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can activate 1 of these effects;\r\n● Special Summon that monster to your side of the field.\r\n● Take control of 1 face-up monster your opponent controls.",
+  "attack": 2800,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84305651.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84305651.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84305651.jpg"
+  }
+}

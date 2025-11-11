@@ -1,0 +1,16 @@
+{
+  "id": 44125452,
+  "name": "Rose Fairy",
+  "type": "Effect Monster",
+  "description": "If this card is added from your Deck to your hand by a card effect: You can Special Summon this card.",
+  "attack": 600,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44125452.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44125452.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44125452.jpg"
+  }
+}

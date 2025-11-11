@@ -1,0 +1,16 @@
+{
+  "id": 42364374,
+  "name": "Arsenal Bug",
+  "type": "Effect Monster",
+  "description": "If you control no other Insect-Type monsters, this card's ATK and DEF become 1000.",
+  "attack": 2000,
+  "defense": 2000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42364374.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42364374.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42364374.jpg"
+  }
+}

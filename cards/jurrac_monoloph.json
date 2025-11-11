@@ -1,0 +1,16 @@
+{
+  "id": 36717258,
+  "name": "Jurrac Monoloph",
+  "type": "Tuner Monster",
+  "description": "This card can attack all monsters your opponent controls once each.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36717258.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36717258.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36717258.jpg"
+  }
+}

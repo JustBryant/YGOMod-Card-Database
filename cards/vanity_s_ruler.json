@@ -1,0 +1,16 @@
+{
+  "id": 72634965,
+  "name": "Vanity's Ruler",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned. Your opponent cannot Special Summon monsters.",
+  "attack": 2500,
+  "defense": 1600,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72634965.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72634965.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72634965.jpg"
+  }
+}

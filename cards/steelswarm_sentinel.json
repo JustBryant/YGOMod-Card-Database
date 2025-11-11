@@ -1,0 +1,16 @@
+{
+  "id": 99214782,
+  "name": "Steelswarm Sentinel",
+  "type": "Effect Monster",
+  "description": "While this card is in face-up Attack Position, Special Summoned Level 5 or higher monsters on the field cannot activate their effects.",
+  "attack": 1100,
+  "defense": 0,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99214782.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99214782.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99214782.jpg"
+  }
+}

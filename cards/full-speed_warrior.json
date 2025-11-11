@@ -1,0 +1,16 @@
+{
+  "id": 17201951,
+  "name": "Full-Speed Warrior",
+  "type": "Effect Monster",
+  "description": "Monsters you control that mention \"Junk Warrior\", or are a Synchro Monster with \"Warrior\" in their original name, gain 900 ATK during your Battle Phase only. If this card is Normal or Special Summoned: You can add 1 \"Junk Synchron\" or 1 Spell/Trap that mentions \"Junk Warrior\" from your Deck to your hand. You can only use this effect of \"Full-Speed Warrior\" once per turn.",
+  "attack": 900,
+  "defense": 400,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17201951.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17201951.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17201951.jpg"
+  }
+}

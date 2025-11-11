@@ -1,0 +1,12 @@
+{
+  "id": 42956964,
+  "name": "Nightmare Archfiend Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Nightmare Archfiends\". When it is destroyed, the controller will take 800 damage.",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42956964.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42956964.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42956964.jpg"
+  }
+}

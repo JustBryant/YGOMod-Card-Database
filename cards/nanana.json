@@ -1,0 +1,12 @@
+{
+  "id": 98931003,
+  "name": "Nanana",
+  "type": "Spell Card",
+  "description": "Target 1 Level 7 or Rank 7 monster you control; it gains 700 ATK/DEF until the end of this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98931003.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98931003.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98931003.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 60682203,
+  "name": "Cold Wave",
+  "type": "Spell Card",
+  "description": "This card can only be activated at the start of Main Phase 1. Until your next turn, you and your opponent cannot play or Set any Spell or Trap Cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60682203.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60682203.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60682203.jpg"
+  }
+}

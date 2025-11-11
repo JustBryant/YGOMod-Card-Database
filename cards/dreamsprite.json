@@ -1,0 +1,16 @@
+{
+  "id": 8687195,
+  "name": "Dreamsprite",
+  "type": "Effect Monster",
+  "description": "When attacked by your opponent's monster, select another 1 of your Monster Cards and designate it as the attack's target, then calculate damage.",
+  "attack": 300,
+  "defense": 200,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8687195.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8687195.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8687195.jpg"
+  }
+}

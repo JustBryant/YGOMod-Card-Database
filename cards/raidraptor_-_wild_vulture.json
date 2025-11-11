@@ -1,0 +1,16 @@
+{
+  "id": 8785161,
+  "name": "Raidraptor - Wild Vulture",
+  "type": "Effect Monster",
+  "description": "During your Main Phase, if this card was Normal or Special Summoned this turn: You can Tribute this card; Special Summon 2 \"Raidraptor\" monsters from your hand and/or Graveyard whose total Levels equal 6.",
+  "attack": 1600,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8785161.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8785161.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8785161.jpg"
+  }
+}

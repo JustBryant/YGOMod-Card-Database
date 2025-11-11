@@ -1,0 +1,12 @@
+{
+  "id": 42461852,
+  "name": "Cynet Storm",
+  "type": "Spell Card",
+  "description": "All linked monsters on the field gain 500 ATK/DEF. Link Summons of Link Monsters cannot be negated. Once per Chain, if you take 2000 or more battle or effect damage: You can shuffle the face-down cards in your Extra Deck, excavate the top card, and if it is a Cyberse Link Monster, Special Summon it. Otherwise, return it to the Extra Deck.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42461852.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42461852.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42461852.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9837195,
+  "name": "Musto, Oracle of Gusto",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 \"Gusto\" monster in your Graveyard and 1 face-up monster on the field; shuffle the first target into the Deck, and if you do, negate the second target's effects until the End Phase.",
+  "attack": 1800,
+  "defense": 900,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9837195.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9837195.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9837195.jpg"
+  }
+}

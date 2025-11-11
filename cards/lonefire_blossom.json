@@ -1,0 +1,16 @@
+{
+  "id": 48686504,
+  "name": "Lonefire Blossom",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can Tribute 1 face-up Plant monster; Special Summon 1 Plant monster from your Deck.",
+  "attack": 500,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48686504.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48686504.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48686504.jpg"
+  }
+}

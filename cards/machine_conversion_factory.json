@@ -3,10 +3,10 @@
   "name": "Machine Conversion Factory",
   "type": "Spell Card",
   "description": "Equip only to a Machine monster. It gains 300 ATK/DEF.",
+  "race": "Equip",
   "images": {
     "artwork_url": "https://images.ygoprodeck.com/images/cards/25769732.jpg",
     "small_url": "https://images.ygoprodeck.com/images/cards_small/25769732.jpg",
     "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25769732.jpg"
-  },
-  "race": "Equip"
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "id": 91420202,
+  "name": "Avendread Savior",
+  "type": "Link Monster",
+  "description": "2 Zombie monsters\r\nThis card's name becomes \"Revendread Slayer\" while on the field. You can only use each of the following effects of \"Avendread Savior\" once per turn.\r\n● You can target 1 \"Vendread\" card in your GY; add it to your hand.\r\n● During damage calculation, if this card battles an opponent's monster (Quick Effect): You can send 1 Zombie monster from your Deck to the GY; that opponent's monster loses ATK equal to the Level of the monster sent to the GY x 200, until the end of this turn.",
+  "attack": 1600,
+  "defense": 0,
+  "level": 0,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91420202.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91420202.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91420202.jpg"
+  }
+}

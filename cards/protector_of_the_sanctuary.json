@@ -1,0 +1,16 @@
+{
+  "id": 24221739,
+  "name": "Protector of the Sanctuary",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot draw cards except during Draw Phases.",
+  "attack": 1100,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24221739.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24221739.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24221739.jpg"
+  }
+}

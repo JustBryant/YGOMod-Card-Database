@@ -1,0 +1,12 @@
+{
+  "id": 10667321,
+  "name": "Ancient Rules",
+  "type": "Spell Card",
+  "description": "Special Summon 1 Level 5 or higher Normal Monster from your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10667321.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10667321.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10667321.jpg"
+  }
+}

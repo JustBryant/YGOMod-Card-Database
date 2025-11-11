@@ -1,0 +1,16 @@
+{
+  "id": 402568,
+  "name": "Wattgiraffe",
+  "type": "Effect Monster",
+  "description": "This card can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: Your opponent cannot activate cards or effects until the end of this turn.",
+  "attack": 1200,
+  "defense": 100,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/402568.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/402568.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/402568.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 43040603,
+  "name": "Monster Gate",
+  "type": "Spell Card",
+  "description": "Tribute 1 monster; excavate cards from the top of your Deck until you excavate a monster that can be Normal Summoned/Set. Special Summon it, also send the other excavated cards to the GY.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43040603.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43040603.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43040603.jpg"
+  }
+}

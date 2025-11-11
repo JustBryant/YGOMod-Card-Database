@@ -1,0 +1,12 @@
+{
+  "id": 75500286,
+  "name": "Gold Sarcophagus",
+  "type": "Spell Card",
+  "description": "Banish 1 card from your Deck, face-up. During your second Standby Phase after this card's activation, add that card to the hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75500286.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75500286.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75500286.jpg"
+  }
+}

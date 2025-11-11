@@ -1,0 +1,12 @@
+{
+  "id": 92379223,
+  "name": "El Dorado Adelantado",
+  "type": "Trap Card",
+  "description": "If you control an \"Eldlich\" monster: Activate 1 of these effects;\r\n● Shuffle 3 of your banished \"Eldlixir\" Spells/Traps with different names into your Deck, and if you do, destroy all cards on the field.\r\n● Shuffle 3 of your banished \"Golden Land\" Spells/Traps with different names into your Deck, and if you do, halve your opponent's LP, then you gain LP equal to their LP.\r\nYou can only activate 1 \"El Dorado Adelantado\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92379223.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92379223.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92379223.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1689516,
+  "name": "The Big March of Animals",
+  "type": "Spell Card",
+  "description": "Until the end of this turn, all face-up Beast-Type monsters on your side of the field gain 200 ATK for each Beast-Type monster on your side of the field.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1689516.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1689516.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1689516.jpg"
+  }
+}

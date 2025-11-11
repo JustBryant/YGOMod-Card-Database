@@ -1,0 +1,16 @@
+{
+  "id": 58589739,
+  "name": "S-Force Professor DiGamma",
+  "type": "Effect Monster",
+  "description": "Each of your opponent's monsters in the same column as one of your \"S-Force\" monsters cannot change its battle position. If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; change its battle position. You can only use this effect of \"S-Force Professor DiGamma\" once per turn.",
+  "attack": 1000,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58589739.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58589739.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58589739.jpg"
+  }
+}

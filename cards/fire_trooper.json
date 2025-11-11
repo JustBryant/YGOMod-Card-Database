@@ -1,0 +1,16 @@
+{
+  "id": 53927679,
+  "name": "Fire Trooper",
+  "type": "Effect Monster",
+  "description": "When this card is Summoned, you can send it to the Graveyard to inflict 1000 damage to your opponent.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53927679.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53927679.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53927679.jpg"
+  }
+}

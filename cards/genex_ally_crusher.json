@@ -1,0 +1,16 @@
+{
+  "id": 27827903,
+  "name": "Genex Ally Crusher",
+  "type": "Effect Monster",
+  "description": "Once per turn, when a monster with the same Attribute as this card is Normal Summoned to your side of the field, you can select 1 card your opponent controls, and destroy it.",
+  "attack": 1000,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27827903.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27827903.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27827903.jpg"
+  }
+}

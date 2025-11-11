@@ -1,0 +1,16 @@
+{
+  "id": 7540107,
+  "name": "Gouki Guts",
+  "type": "Effect Monster",
+  "description": "This Defense Position card cannot be destroyed by battle. You can only use each of the following effects of \"Gouki Guts\" once per turn.\r\n● During your Main Phase: You can make all \"Gouki\" monsters you control gain 200 ATK.\r\n● If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Guts\".",
+  "attack": 800,
+  "defense": 0,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7540107.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7540107.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7540107.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 34001672,
+  "name": "Goblin Biker Big Gabonga",
+  "type": "XYZ Monster",
+  "description": "2 Level 3 monsters\r\nIf this card is Xyz Summoned: You can add 1 \"Goblin\" monster from your Deck to your hand. If material is detached from a monster(s) on the field (except during the Damage Step): You can target 1 face-up monster on the field, except this card; attach it to this card as material. During the End Phase: You can attach 1 \"Goblin\" monster from your Deck to this card as material. You can only use each effect of \"Goblin Biker Big Gabonga\" once per turn.",
+  "attack": 2100,
+  "defense": 0,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34001672.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34001672.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34001672.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 49296203,
+  "name": "Karakuri Bonze mdl 9763 \"Kunamzan\"",
+  "type": "Effect Monster",
+  "description": "This card must attack, if able. If this card is targeted for an attack: Change the battle position of this card. If this card is in your hand: You can target 1 \"Karakuri\" monster you control; change its battle position, and if you do, Special Summon this card as a Tuner, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except EARTH Machine monsters. You can only use this effect of \"Karakuri Bonze mdl 9763 \"Kunamzan\"\" once per turn.",
+  "attack": 2000,
+  "defense": 1500,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49296203.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49296203.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49296203.jpg"
+  }
+}

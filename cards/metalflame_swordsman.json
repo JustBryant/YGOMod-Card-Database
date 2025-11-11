@@ -1,0 +1,16 @@
+{
+  "id": 27704731,
+  "name": "Metalflame Swordsman",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Max Metalmorph\" that was activated by Tributing a Level 5 or higher Warrior monster. You can reveal this card in your hand; add 1 card that mentions \"Max Metalmorph\" from your Deck to your hand, except \"Metalflame Swordsman\", and if you do, shuffle this card into the Deck. You can only use this effect of \"Metalflame Swordsman\" once per turn. Each time your opponent activates a card or effect, this card gains 300 ATK and inflicts 500 damage to your opponent when that card/effect resolves.",
+  "attack": 2500,
+  "defense": 1600,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27704731.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27704731.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27704731.jpg"
+  }
+}

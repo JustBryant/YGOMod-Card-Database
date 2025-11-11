@@ -1,0 +1,16 @@
+{
+  "id": 71583486,
+  "name": "Outstanding Dog Mary",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the GY: You can activate 1 of these effects;\r\n● Place this card on the bottom of your Deck.\r\n● Add 1 \"Outstanding Dog Marron\" from your Deck to your hand, and if you do, place this card on top of your Deck.\r\nYou can only use this effect of \"Outstanding Dog Mary\" once per turn.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71583486.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71583486.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71583486.jpg"
+  }
+}

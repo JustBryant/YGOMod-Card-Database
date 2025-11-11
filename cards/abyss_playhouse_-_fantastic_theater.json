@@ -1,0 +1,12 @@
+{
+  "id": 77297908,
+  "name": "Abyss Playhouse - Fantastic Theater",
+  "type": "Spell Card",
+  "description": "You can reveal 1 \"Abyss Actor\" Pendulum Monster and 1 \"Abyss Script\" Spell in your hand; add 1 \"Abyss Script\" Spell from your Deck to your hand, with a different name than that revealed Spell. While you control a Pendulum Summoned \"Abyss Actor\" Pendulum Monster, any monster effect activated by your opponent becomes \"Destroy 1 Set Spell/Trap your opponent controls\". You can only use each effect of \"Abyss Playhouse - Fantastic Theater\" once per turn.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77297908.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77297908.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77297908.jpg"
+  }
+}

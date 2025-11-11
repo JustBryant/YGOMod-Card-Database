@@ -1,0 +1,16 @@
+{
+  "id": 35183584,
+  "name": "World Legacy Guardragon Mardark",
+  "type": "Effect Monster",
+  "description": "All monsters your opponent controls lose 500 ATK/DEF for each Dragon monster you control. You can only use each of the following effects of \"World Legacy Guardragon Mardark\" once per turn.\r\n● You can banish 2 Normal Monsters from your hand or GY; Special Summon this card from your hand.\r\n● If this card on the field is destroyed by battle or card effect: You can add, from your GY to your hand, 1 Level 9 monster with a different original Type and Attribute than this card.",
+  "attack": 2600,
+  "defense": 3000,
+  "level": 9,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35183584.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35183584.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35183584.jpg"
+  }
+}

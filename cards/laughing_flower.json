@@ -1,0 +1,16 @@
+{
+  "id": 42591472,
+  "name": "Laughing Flower",
+  "type": "Normal Monster",
+  "description": "''A flower whose laugh can confuse the minds of enemies.''",
+  "attack": 900,
+  "defense": 500,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42591472.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42591472.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42591472.jpg"
+  }
+}

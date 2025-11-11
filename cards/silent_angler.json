@@ -1,0 +1,16 @@
+{
+  "id": 90303176,
+  "name": "Silent Angler",
+  "type": "Effect Monster",
+  "description": "If you control a WATER monster, you can Special Summon this card (from your hand), but you cannot Special Summon monsters from your hand for the rest of this turn.",
+  "attack": 800,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90303176.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90303176.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90303176.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 62793020,
+  "name": "Mystery Hand",
+  "type": "Normal Monster",
+  "description": "''This monster twists reality and reaches between dimensions to attack its enemies.''",
+  "attack": 500,
+  "defense": 500,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62793020.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62793020.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62793020.jpg"
+  }
+}

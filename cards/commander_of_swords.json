@@ -1,0 +1,12 @@
+{
+  "id": 12197543,
+  "name": "Commander of Swords",
+  "type": "Trap Card",
+  "description": "When your opponent draws for their normal draw in their Draw Phase: They reveal the card(s) they drew, then if any is a Spell/Trap Card, you apply 1 of these effects.\n● Discard all cards they drew.\n● Destroy 1 Spell/Trap Card they control.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12197543.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12197543.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12197543.jpg"
+  }
+}

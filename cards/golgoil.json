@@ -1,0 +1,16 @@
+{
+  "id": 7526150,
+  "name": "Golgoil",
+  "type": "Normal Monster",
+  "description": "An iron giant that appears from a dimensional rift.",
+  "attack": 900,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7526150.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7526150.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7526150.jpg"
+  }
+}

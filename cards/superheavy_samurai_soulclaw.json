@@ -1,0 +1,16 @@
+{
+  "id": 40028305,
+  "name": "Superheavy Samurai Soulclaw",
+  "type": "Effect Monster",
+  "description": "You can target 1 \"Superheavy Samurai\" monster you control; equip this monster from your hand or your side of the field to that target. It gains 500 ATK and DEF, also it cannot be destroyed by battle. While this card is equipped to a monster by this card's effect: You can Special Summon this card. You can only use this effect of \"Superheavy Samurai Soulclaw\" once per turn.",
+  "attack": 500,
+  "defense": 500,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40028305.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40028305.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40028305.jpg"
+  }
+}

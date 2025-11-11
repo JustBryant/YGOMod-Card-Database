@@ -1,0 +1,16 @@
+{
+  "id": 53152590,
+  "name": "Iron Chain Coil",
+  "type": "Tuner Monster",
+  "description": "Once per turn, you can select 1 \"Iron Chain\" monster you control to have it gain 300 ATK and DEF as long as this card is face-up on the field.",
+  "attack": 1100,
+  "defense": 1600,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53152590.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53152590.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53152590.jpg"
+  }
+}

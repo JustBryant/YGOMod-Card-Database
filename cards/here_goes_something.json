@@ -1,0 +1,12 @@
+{
+  "id": 300302031,
+  "name": "Here Goes Something!",
+  "type": "Skill Card",
+  "description": "Once per Duel, you can activate this Skill at the start of your Battle Phase, while you control exactly 1 \"Elemental HERO\" monster (and no other monsters). For the rest of this turn, that 1 monster gains 800 ATK while battling an opponent's monster and can attack all monsters your opponent controls, once each, also you cannot Special Summon monsters for the rest of this turn.",
+  "race": "Jaden Yuki",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302031.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302031.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302031.jpg"
+  }
+}

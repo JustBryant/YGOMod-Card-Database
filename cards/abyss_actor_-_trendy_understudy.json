@@ -1,0 +1,16 @@
+{
+  "id": 39024589,
+  "name": "Abyss Actor - Trendy Understudy",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nWhen you Pendulum Summon a monster: You can add 1 face-up Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand.\n\n[ Monster Effect ] \nIf you have 2 \"Abyss Actor\" cards in your Pendulum Zones: You can Tribute this card; Special Summon 1 Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your hand or face-up from your Extra Deck. You can only use this effect of \"Abyss Actor - Trendy Understudy\" once per turn.",
+  "attack": 700,
+  "defense": 700,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39024589.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39024589.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39024589.jpg"
+  }
+}

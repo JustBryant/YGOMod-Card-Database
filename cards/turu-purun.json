@@ -1,0 +1,16 @@
+{
+  "id": 59053232,
+  "name": "Turu-Purun",
+  "type": "Normal Monster",
+  "description": "A strange, one-eyed monster that can fell an enemy with a single stab of its spear.",
+  "attack": 450,
+  "defense": 500,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59053232.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59053232.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59053232.jpg"
+  }
+}

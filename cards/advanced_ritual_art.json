@@ -1,0 +1,12 @@
+{
+  "id": 46052429,
+  "name": "Advanced Ritual Art",
+  "type": "Spell Card",
+  "description": "This card is used to Ritual Summon any 1 Ritual Monster. You must also send Normal Monsters from your Deck to the GY whose total Levels equal the Level of that Ritual Monster.",
+  "race": "Ritual",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46052429.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46052429.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46052429.jpg"
+  }
+}

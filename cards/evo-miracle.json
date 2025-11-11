@@ -1,0 +1,12 @@
+{
+  "id": 34026662,
+  "name": "Evo-Miracle",
+  "type": "Spell Card",
+  "description": "Target 1 monster that was Special Summoned by the effect of an \"Evoltile\" monster; this turn, it cannot be destroyed by battle or by card effects.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34026662.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34026662.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34026662.jpg"
+  }
+}

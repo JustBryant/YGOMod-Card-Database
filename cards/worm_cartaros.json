@@ -1,0 +1,16 @@
+{
+  "id": 51043243,
+  "name": "Worm Cartaros",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Add 1 Level 4 or lower Reptile-Type \"Worm\" monster from your Deck to your hand.",
+  "attack": 1200,
+  "defense": 500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51043243.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51043243.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51043243.jpg"
+  }
+}

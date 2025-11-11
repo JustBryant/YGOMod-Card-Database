@@ -1,0 +1,16 @@
+{
+  "id": 85065943,
+  "name": "Saint Azamina",
+  "type": "Fusion Monster",
+  "description": "2 Level 6 or higher monsters (1 Fusion + 1 Synchro)\r\nYour opponent cannot target cards in their field, GY, or banishment, or this card on the field, with card effects. Your opponent takes any battle damage you would have taken. If this card was Fusion Summoned this turn (Quick Effect): You can Special Summon 1 Level 9 or lower \"Azamina\" monster from your Deck or Extra Deck. You can only use this effect of \"Saint Azamina\" once per turn.",
+  "attack": 0,
+  "defense": 4000,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Illusion",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85065943.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85065943.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85065943.jpg"
+  }
+}

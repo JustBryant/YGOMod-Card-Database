@@ -1,0 +1,16 @@
+{
+  "id": 64681432,
+  "name": "Gandora the Dragon of Destruction",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned. You can pay half your LP; destroy as many cards on the field as possible (other than this card), and if you do, banish them. This card gains 300 ATK for each card destroyed this way. Once per turn, during the End Phase, if this card was Normal or Flip Summoned this turn: Send it to the Graveyard.",
+  "attack": 0,
+  "defense": 0,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64681432.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64681432.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64681432.jpg"
+  }
+}

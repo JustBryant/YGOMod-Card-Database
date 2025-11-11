@@ -1,0 +1,16 @@
+{
+  "id": 31603289,
+  "name": "Cupsy★Yummy Way",
+  "type": "Synchro Tuner Monster",
+  "description": "1 Tuner + 1 non-Tuner monster\r\nFor this card's Synchro Summon, you can treat 1 Link-1 monster you control as a Level 1 Tuner. You can only use each of the following effects of \"Cupsy★Yummy Way\" once per turn. If this card is Synchro Summoned: You can add 2 \"Yummy\" monsters from your Deck to your hand, then discard 1 card. When your opponent activates a card or effect (Quick Effect): You can return this card to the Extra Deck; Special Summon up to 2 \"Yummy\" monsters from your GY.",
+  "attack": 0,
+  "defense": 2200,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31603289.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31603289.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31603289.jpg"
+  }
+}

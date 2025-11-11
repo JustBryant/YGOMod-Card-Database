@@ -1,0 +1,16 @@
+{
+  "id": 66740005,
+  "name": "Bravo, Fighter Fur Hire",
+  "type": "Effect Monster",
+  "description": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Bravo, Fighter Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can have all monsters \"Fur Hire\" currently on the field gain 500 ATK/DEF until the end of this turn. You can only use each effect of \"Bravo, Fighter Fur Hire\" once per turn.",
+  "attack": 1900,
+  "defense": 200,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66740005.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66740005.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66740005.jpg"
+  }
+}

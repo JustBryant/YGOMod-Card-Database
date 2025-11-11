@@ -1,0 +1,12 @@
+{
+  "id": 30435145,
+  "name": "Ancient Gear Factory",
+  "type": "Spell Card",
+  "description": "Reveal 1 Level 5 or higher \"Ancient Gear\" monster from your hand, then banish a number of \"Ancient Gear\" monsters from your Graveyard, whose combined Levels are double the revealed monster's, and if you do, if you Normal Summon the revealed monster this turn, you must Normal Smmon it without Tributing.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30435145.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30435145.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30435145.jpg"
+  }
+}

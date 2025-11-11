@@ -1,0 +1,16 @@
+{
+  "id": 48891960,
+  "name": "Dragunity Knight - Ascalon",
+  "type": "Synchro Monster",
+  "description": "1 \"Dragunity\" Tuner + 1+ non-Tuner monsters\r\nYou can banish 1 \"Dragunity\" monster from your GY, then target 1 monster your opponent controls; banish it. If this Synchro Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 1 \"Dragunity\" Synchro Monster with 3000 or less ATK from your Extra Deck. (This is treated as a Synchro Summon.) You can only use this effect of \"Dragunity Knight - Ascalon\" once per turn.",
+  "attack": 3300,
+  "defense": 3200,
+  "level": 10,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48891960.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48891960.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48891960.jpg"
+  }
+}

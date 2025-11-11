@@ -1,0 +1,12 @@
+{
+  "id": 66719324,
+  "name": "Rain of Mercy",
+  "type": "Spell Card",
+  "description": "Increases the Life Points of both players by 1000 points.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66719324.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66719324.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66719324.jpg"
+  }
+}

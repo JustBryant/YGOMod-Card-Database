@@ -1,0 +1,12 @@
+{
+  "id": 64815084,
+  "name": "Evo-Branch",
+  "type": "Trap Card",
+  "description": "Target 1 face-up Reptile-Type monster you control; destroy it and Special Summon 1 \"Evoltile\" monster in face-down Defense Position from your Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64815084.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64815084.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64815084.jpg"
+  }
+}

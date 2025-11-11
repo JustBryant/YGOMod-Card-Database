@@ -1,0 +1,12 @@
+{
+  "id": 78811937,
+  "name": "Creeping Darkness",
+  "type": "Spell Card",
+  "description": "Banish 2 DARK monsters from your GY; add 1 Level 4 DARK monster from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78811937.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78811937.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78811937.jpg"
+  }
+}

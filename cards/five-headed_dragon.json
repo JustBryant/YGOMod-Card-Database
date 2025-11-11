@@ -1,0 +1,16 @@
+{
+  "id": 99267150,
+  "name": "Five-Headed Dragon",
+  "type": "Fusion Monster",
+  "description": "5 Dragon monsters\r\nMust be Fusion Summoned. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster.",
+  "attack": 5000,
+  "defense": 5000,
+  "level": 12,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99267150.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99267150.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99267150.jpg"
+  }
+}

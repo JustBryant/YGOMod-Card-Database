@@ -3,14 +3,14 @@
   "name": "Man Eater",
   "type": "Normal Monster",
   "description": "Man-eating plant with poison feelers for attacking enemies.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/93553943.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/93553943.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93553943.jpg"
-  },
   "attack": 800,
   "defense": 600,
   "level": 2,
   "attribute": "EARTH",
-  "race": "Plant"
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93553943.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93553943.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93553943.jpg"
+  }
 }

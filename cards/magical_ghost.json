@@ -1,0 +1,16 @@
+{
+  "id": 46474915,
+  "name": "Magical Ghost",
+  "type": "Normal Monster",
+  "description": "This creature casts a spell of terror and confusion just before attacking its enemies.",
+  "attack": 1300,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46474915.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46474915.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46474915.jpg"
+  }
+}

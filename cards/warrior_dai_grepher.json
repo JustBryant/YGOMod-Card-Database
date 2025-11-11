@@ -1,0 +1,16 @@
+{
+  "id": 75953262,
+  "name": "Warrior Dai Grepher",
+  "type": "Normal Monster",
+  "description": "The warrior who can manipulate dragons. Nobody knows his mysterious past.",
+  "attack": 1700,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75953262.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75953262.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75953262.jpg"
+  }
+}

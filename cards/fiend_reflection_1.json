@@ -1,0 +1,16 @@
+{
+  "id": 68870276,
+  "name": "Fiend Reflection #1",
+  "type": "Normal Monster",
+  "description": "This monster can draw its enemies into a mirror world that renders them helpless.",
+  "attack": 1300,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68870276.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68870276.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68870276.jpg"
+  }
+}

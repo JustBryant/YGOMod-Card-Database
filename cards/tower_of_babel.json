@@ -1,0 +1,12 @@
+{
+  "id": 94256039,
+  "name": "Tower of Babel",
+  "type": "Trap Card",
+  "description": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. If the 4th Spell Counter is placed on this card: Destroy this card, and if you do, the player who activated the Spell Card at that time takes 3000 damage.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94256039.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94256039.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94256039.jpg"
+  }
+}

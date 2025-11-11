@@ -1,0 +1,16 @@
+{
+  "id": 11317977,
+  "name": "Lunalight Black Sheep",
+  "type": "Effect Monster",
+  "description": "You can discard this card, then activate 1 of these effects;\n● Add 1 \"Lunalight\" monster from your Graveyard to your hand, except \"Lunalight Black Sheep\".\n● Add 1 \"Polymerization\" from your Deck to your hand.\nIf this card is sent to the Graveyard as a Fusion Material for a Fusion Summon: You can add to your hand, 1 face-up \"Lunalight\" Pendulum Monster from your Extra Deck or 1 \"Lunalight\" monster from your Graveyard, except \"Lunalight Black Sheep\".",
+  "attack": 100,
+  "defense": 600,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11317977.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11317977.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11317977.jpg"
+  }
+}

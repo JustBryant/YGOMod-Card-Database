@@ -1,0 +1,12 @@
+{
+  "id": 76403456,
+  "name": "Power Wall",
+  "type": "Trap Card",
+  "description": "During damage calculation, when you would take battle damage from an opponent's attacking monster: Send 1 card from the top of your Deck to the Graveyard for every 500 damage (round up) you are about to take, also you take no battle damage from that battle.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76403456.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76403456.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76403456.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 11613567,
+  "name": "Blackwing - Elphin the Raven",
+  "type": "Effect Monster",
+  "description": "If you control a \"Blackwing\" monster, you can Normal Summon this card without Tributing. When this card is Normal Summoned: You can target 1 monster your opponent controls; change that target's battle position.",
+  "attack": 2200,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11613567.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11613567.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11613567.jpg"
+  }
+}

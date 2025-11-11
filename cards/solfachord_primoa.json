@@ -1,0 +1,16 @@
+{
+  "id": 11688916,
+  "name": "Solfachord Primoa",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nWhen you Pendulum Summon: You can target 1 \"Solfachord\" card in your Pendulum Zone; return it to the hand.\n\n[ Monster Effect ] \nWhile you have \"Solfachord\" cards in both of your Pendulum Zones (1 odd and 1 even Pendulum Scale), the activated effects of your \"Solfachord\" cards cannot be negated. You can only use each of the following effects of \"Solfachord Primoa\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" card from your Deck to your hand, except \"Solfachord Primoa\". If you Link Summon a \"Solfachord\" monster: You can add 1 \"Solfachord\" card from your face-up Extra Deck or GY to your hand.",
+  "attack": 0,
+  "defense": 400,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11688916.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11688916.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11688916.jpg"
+  }
+}

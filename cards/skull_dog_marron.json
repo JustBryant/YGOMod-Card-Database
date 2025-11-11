@@ -1,0 +1,16 @@
+{
+  "id": 86652646,
+  "name": "Skull Dog Marron",
+  "type": "Normal Monster",
+  "description": "A lost dog that wandered off 1000 years ago. He's still waiting for his master to come for him.",
+  "attack": 1350,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86652646.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86652646.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86652646.jpg"
+  }
+}

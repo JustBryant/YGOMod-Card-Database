@@ -1,0 +1,16 @@
+{
+  "id": 32295838,
+  "name": "Digitron",
+  "type": "Normal Monster",
+  "description": "A subspecies found in electronic space. There's little information on it.",
+  "attack": 1500,
+  "defense": 0,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32295838.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32295838.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32295838.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 61405855,
+  "name": "Sword of Dragon's Soul",
+  "type": "Spell Card",
+  "description": "Equip only to a Warrior monster. It gains 700 ATK. After damage calculation, if the equipped monster battled a Dragon monster: Destroy that monster at the end of that Battle Phase.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61405855.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61405855.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61405855.jpg"
+  }
+}

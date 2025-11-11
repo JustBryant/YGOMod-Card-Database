@@ -1,0 +1,16 @@
+{
+  "id": 51126152,
+  "name": "Night Express Knight",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned from the Deck. You can Normal Summon this card without Tributing, but its original ATK becomes 0.",
+  "attack": 3000,
+  "defense": 3000,
+  "level": 10,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51126152.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51126152.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51126152.jpg"
+  }
+}

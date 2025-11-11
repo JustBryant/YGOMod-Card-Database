@@ -1,0 +1,16 @@
+{
+  "id": 61901281,
+  "name": "Black Dragon Collapserpent",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT monster from your GY. You can only Special Summon \"Black Dragon Collapserpent\" once per turn this way. If this card is sent from the field to the GY: You can add 1 \"White Dragon Wyverburster\" from your Deck to your hand.",
+  "attack": 1800,
+  "defense": 1700,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61901281.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61901281.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61901281.jpg"
+  }
+}

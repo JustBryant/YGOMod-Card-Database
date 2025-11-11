@@ -1,0 +1,16 @@
+{
+  "id": 77841719,
+  "name": "Evilswarm Coppelia",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned. When this card leaves the field because of your opponent's card (either by battle or by card effect): You can target 1 face-up monster your opponent controls; take control of that target until your next End Phase.",
+  "attack": 2450,
+  "defense": 2050,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77841719.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77841719.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77841719.jpg"
+  }
+}

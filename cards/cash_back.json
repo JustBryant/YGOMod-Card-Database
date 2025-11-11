@@ -1,0 +1,12 @@
+{
+  "id": 59957503,
+  "name": "Cash Back",
+  "type": "Trap Card",
+  "description": "When your opponent activates a Spell/Trap Card, or monster effect, by paying their Life Points: Negate the activation, and if you do, return it to the Deck.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59957503.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59957503.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59957503.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35255456,
+  "name": "Miracle Contact",
+  "type": "Spell Card",
+  "description": "Shuffle into the Deck, from your hand, field, or GY, the Fusion Materials that are listed on an \"Elemental HERO\" Fusion Monster that lists \"Elemental HERO Neos\" as Fusion Material, then Special Summon that Fusion Monster from your Extra Deck, ignoring its Summoning conditions.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35255456.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35255456.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35255456.jpg"
+  }
+}

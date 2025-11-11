@@ -1,0 +1,16 @@
+{
+  "id": 87514539,
+  "name": "Marionette Mite",
+  "type": "Effect Monster",
+  "description": "You can discard this card to the GY, then target 1 Fiend or Zombie monster your opponent controls; take control of that target until the End Phase.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/87514539.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/87514539.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/87514539.jpg"
+  }
+}

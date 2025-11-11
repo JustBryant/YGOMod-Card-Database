@@ -1,0 +1,12 @@
+{
+  "id": 21648584,
+  "name": "Raidraptor - Readiness",
+  "type": "Trap Card",
+  "description": "This turn, \"Raidraptor\" monsters you control cannot be destroyed by battle. If you have a \"Raidraptor\" monster in your Graveyard: You can banish this card from your Graveyard; you take no damage this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21648584.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21648584.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21648584.jpg"
+  }
+}

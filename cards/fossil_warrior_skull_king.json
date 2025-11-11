@@ -1,0 +1,16 @@
+{
+  "id": 96897184,
+  "name": "Fossil Warrior Skull King",
+  "type": "Fusion Monster",
+  "description": "1 Rock monster + 1 Level 7 or higher monster\r\nMust first be Special Summoned with \"Fossil Fusion\". This card can make a second attack during each Battle Phase. If this card attacks a Defense Position monster, inflict piercing battle damage. During your opponent's turn (Quick Effect): You can target 1 monster in your opponent's GY; discard 1 card, and if you do, Special Summon that monster to your field. You can only use this effect of \"Fossil Warrior Skull King\" once per turn.",
+  "attack": 2800,
+  "defense": 1300,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96897184.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96897184.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96897184.jpg"
+  }
+}

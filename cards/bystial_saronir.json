@@ -1,0 +1,16 @@
+{
+  "id": 60242223,
+  "name": "Bystial Saronir",
+  "type": "Effect Monster",
+  "description": "You can target 1 LIGHT or DARK monster in either GY; banish it, and if you do, Special Summon this card from your hand. This is a Quick Effect if your opponent controls a monster. If this card is sent to the GY: You can send 1 \"Bystial\" monster or 1 \"Branded\" Spell/Trap from your Deck to the GY, except \"Bystial Saronir\". You can only use each effect of \"Bystial Saronir\" once per turn.",
+  "attack": 2500,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60242223.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60242223.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60242223.jpg"
+  }
+}

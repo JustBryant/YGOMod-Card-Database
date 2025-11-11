@@ -1,0 +1,16 @@
+{
+  "id": 68087897,
+  "name": "Scary Moth",
+  "type": "Effect Monster",
+  "description": "Each player can only Special Summon a monster(s) once per turn.",
+  "attack": 1800,
+  "defense": 2300,
+  "level": 6,
+  "attribute": "WIND",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68087897.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68087897.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68087897.jpg"
+  }
+}

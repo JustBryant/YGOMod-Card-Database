@@ -1,0 +1,12 @@
+{
+  "id": 2924048,
+  "name": "Karakuri Cash Shed",
+  "type": "Trap Card",
+  "description": "Activate only if you control a \"Karakuri\" monster in face-up Defense Position. Negate the activation of an opponent's Spell/Trap Card and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2924048.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2924048.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2924048.jpg"
+  }
+}

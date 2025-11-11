@@ -1,0 +1,16 @@
+{
+  "id": 4756629,
+  "name": "Evilswarm Kerykeion",
+  "type": "Effect Monster",
+  "description": "You can only use each effect of \"Evilswarm Kerykeion\" once per turn. While this card is in the Graveyard, if it was sent there this turn, you can Normal Summon 1 \"lswarm\" monster for 1 less Tribute.\nYou can banish 1 \"lswarm\" monster from your Graveyard, then target 1 \"lswarm\" monster in your Graveyard; add that target to your hand, also, this card gains the following effect.\n● This turn: You can activate this effect; Normal Summon 1 \"lswarm\" monster.",
+  "attack": 1600,
+  "defense": 1550,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4756629.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4756629.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4756629.jpg"
+  }
+}

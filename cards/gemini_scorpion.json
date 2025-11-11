@@ -1,0 +1,16 @@
+{
+  "id": 91798373,
+  "name": "Gemini Scorpion",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Special Summoned, you can Special Summon 1 Level 4 or lower Gemini monster from your hand.",
+  "attack": 1600,
+  "defense": 400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91798373.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91798373.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91798373.jpg"
+  }
+}

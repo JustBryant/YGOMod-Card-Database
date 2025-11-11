@@ -1,0 +1,16 @@
+{
+  "id": 71209500,
+  "name": "Amazoness Scouts",
+  "type": "Effect Monster",
+  "description": "During either player's turn: You can Tribute this card; this turn, face-up \"Amazoness\" monsters you currently control cannot be targeted by monster effects, and cannot be destroyed by card effects.",
+  "attack": 500,
+  "defense": 1100,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71209500.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71209500.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71209500.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 52098461,
+  "name": "Wrath of Neos",
+  "type": "Spell Card",
+  "description": "Select 1 face-up \"Elemental HERO Neos\" you control. Return it to the Deck and destroy all cards on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52098461.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52098461.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52098461.jpg"
+  }
+}

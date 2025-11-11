@@ -1,0 +1,16 @@
+{
+  "id": 84530620,
+  "name": "Pahunder",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can Normal Summon 1 Level 4 LIGHT Thunder-Type monster from your hand, except \"Pahunder\", as an additional Normal Summon.",
+  "attack": 1300,
+  "defense": 600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84530620.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84530620.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84530620.jpg"
+  }
+}

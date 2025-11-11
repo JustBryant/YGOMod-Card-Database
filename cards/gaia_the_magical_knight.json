@@ -1,0 +1,16 @@
+{
+  "id": 34130561,
+  "name": "Gaia the Magical Knight",
+  "type": "Effect Monster",
+  "description": "(This card is also always treated as a \"Gaia The Fierce Knight\" card.)\r\nIf you control no monsters, or your opponent controls a monster with 2300 or more ATK, you can Normal Summon this card without Tributing. If this card is Normal or Special Summoned: You can Special Summon 1 Level 5 Dragon monster from your hand or GY in Defense Position. You can only use this effect of \"Gaia the Magical Knight\" once per turn.",
+  "attack": 2300,
+  "defense": 2100,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34130561.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34130561.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34130561.jpg"
+  }
+}

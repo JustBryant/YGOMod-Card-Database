@@ -1,0 +1,12 @@
+{
+  "id": 9995766,
+  "name": "Imperial Custom",
+  "type": "Trap Card",
+  "description": "Face-up Continuous Trap Cards cannot be destroyed, except \"Imperial Custom\". You can only control 1 \"Imperial Custom\".",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9995766.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9995766.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9995766.jpg"
+  }
+}

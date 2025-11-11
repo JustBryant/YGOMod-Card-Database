@@ -1,0 +1,12 @@
+{
+  "id": 63477921,
+  "name": "Cyber Summon Blaster",
+  "type": "Trap Card",
+  "description": "Each time a Machine monster(s) is Special Summoned, while this card is already face-up in your Spell & Trap Zone: Inflict 300 damage to your opponent.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63477921.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63477921.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63477921.jpg"
+  }
+}

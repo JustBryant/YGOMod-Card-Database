@@ -1,0 +1,12 @@
+{
+  "id": 94681654,
+  "name": "Raptor Wing Strike",
+  "type": "Spell Card",
+  "description": "Shuffle 1 \"Blackwing\" monster you control into the Main Deck; add 1 \"Blackwing\" monster from your Deck to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94681654.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94681654.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94681654.jpg"
+  }
+}

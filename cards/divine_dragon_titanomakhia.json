@@ -1,0 +1,16 @@
+{
+  "id": 32975247,
+  "name": "Divine Dragon Titanomakhia",
+  "type": "Effect Monster",
+  "description": "This Special Summoned card cannot be destroyed by battle. You can only use each of the following effects of \"Divine Dragon Titanomakhia\" once per turn. You can banish 3 \"Divine Dragon Titanomakhia\" from your GY and/or face-up field, including this card on the field; destroy all cards your opponent controls. During the End Phase: You can send cards from the top of your Deck to your GY, equal to the number of Dragon monsters you control.",
+  "attack": 3000,
+  "defense": 2000,
+  "level": 10,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32975247.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32975247.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32975247.jpg"
+  }
+}

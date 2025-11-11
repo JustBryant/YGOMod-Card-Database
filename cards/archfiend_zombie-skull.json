@@ -1,0 +1,16 @@
+{
+  "id": 59969392,
+  "name": "Archfiend Zombie-Skull",
+  "type": "Synchro Monster",
+  "description": "\"Plaguespreader Zombie\" + 2+ non-Tuner Zombie monsters\r\nZombie monsters you control cannot be destroyed by card effects.",
+  "attack": 2500,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59969392.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59969392.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59969392.jpg"
+  }
+}

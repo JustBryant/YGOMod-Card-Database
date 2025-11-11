@@ -1,0 +1,16 @@
+{
+  "id": 67483216,
+  "name": "Genex Searcher",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 \"Genex\" monster with 1500 or less ATK from your Deck in face-up Attack Position.",
+  "attack": 1600,
+  "defense": 400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67483216.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67483216.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67483216.jpg"
+  }
+}

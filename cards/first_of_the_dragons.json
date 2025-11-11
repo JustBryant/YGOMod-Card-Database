@@ -1,0 +1,16 @@
+{
+  "id": 10817524,
+  "name": "First of the Dragons",
+  "type": "Fusion Monster",
+  "description": "2 Normal Monsters\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can only control 1 \"First of the Dragons\". This card cannot be destroyed by battle, except by battle with a Normal Monster, and is unaffected by other monsters' effects.",
+  "attack": 2700,
+  "defense": 2000,
+  "level": 9,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10817524.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10817524.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10817524.jpg"
+  }
+}

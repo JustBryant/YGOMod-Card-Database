@@ -1,0 +1,16 @@
+{
+  "id": 83107873,
+  "name": "Thunder Dragonhawk",
+  "type": "Effect Monster",
+  "description": "You can discard this card; Special Summon 1 of your \"Thunder Dragon\" monsters that is banished or in your GY, except \"Thunder Dragonhawk\". If this card is banished, or sent from the field to the GY: You can shuffle any number of cards from your hand into the Deck, then draw the same number of cards. You can only use 1 \"Thunder Dragonhawk\" effect per turn, and only once that turn.",
+  "attack": 1800,
+  "defense": 2200,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83107873.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83107873.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83107873.jpg"
+  }
+}

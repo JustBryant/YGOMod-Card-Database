@@ -1,0 +1,16 @@
+{
+  "id": 76986005,
+  "name": "Cyber Kirin",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card to make any effect damage you take this turn 0.",
+  "attack": 300,
+  "defense": 800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76986005.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76986005.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76986005.jpg"
+  }
+}

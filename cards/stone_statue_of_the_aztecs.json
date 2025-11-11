@@ -1,0 +1,16 @@
+{
+  "id": 31812496,
+  "name": "Stone Statue of the Aztecs",
+  "type": "Effect Monster",
+  "description": "Double any Battle Damage your opponent takes when they attack this monster.",
+  "attack": 300,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31812496.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31812496.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31812496.jpg"
+  }
+}

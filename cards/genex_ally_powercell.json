@@ -1,0 +1,16 @@
+{
+  "id": 94622638,
+  "name": "Genex Ally Powercell",
+  "type": "Effect Monster",
+  "description": "Other face-up monsters you control with the same Attribute as this card gain 500 ATK.",
+  "attack": 1700,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94622638.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94622638.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94622638.jpg"
+  }
+}

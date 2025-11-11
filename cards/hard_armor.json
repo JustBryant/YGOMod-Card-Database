@@ -3,14 +3,14 @@
   "name": "Hard Armor",
   "type": "Normal Monster",
   "description": "A living suit of armor that attacks enemies with a bone-jarring tackle.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/20060230.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/20060230.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20060230.jpg"
-  },
   "attack": 300,
   "defense": 1200,
   "level": 3,
   "attribute": "EARTH",
-  "race": "Warrior"
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20060230.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20060230.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20060230.jpg"
+  }
 }

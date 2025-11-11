@@ -1,0 +1,16 @@
+{
+  "id": 28990150,
+  "name": "Photon Cerberus",
+  "type": "Effect Monster",
+  "description": "During the turn this card was Normal Summoned, neither player can activate Trap Cards while this card is face-up on the field.",
+  "attack": 1300,
+  "defense": 600,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28990150.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28990150.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28990150.jpg"
+  }
+}

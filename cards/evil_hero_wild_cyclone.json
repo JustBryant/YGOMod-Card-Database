@@ -1,0 +1,16 @@
+{
+  "id": 13293158,
+  "name": "Evil HERO Wild Cyclone",
+  "type": "Fusion Monster",
+  "description": "\"Elemental HERO Avian\" + \"Elemental HERO Wildheart\"\nMust be Special Summoned with \"Dark Fusion\" and cannot be Special Summoned by other ways. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. When this card inflicts Battle Damage to your opponent: Destroy all face-down Spell and Trap Cards your opponent controls.",
+  "attack": 1900,
+  "defense": 2300,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13293158.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13293158.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13293158.jpg"
+  }
+}

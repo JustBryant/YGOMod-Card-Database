@@ -1,0 +1,12 @@
+{
+  "id": 20457551,
+  "name": "Iron Core Armor",
+  "type": "Spell Card",
+  "description": "Equip only to a \"Koa'ki Meiru\" monster. During damage calculation only, monsters that battle with the equipped monster lose ATK equal to the equipped monster's Level x 100. If the equipped monster would be destroyed during the End Phase, you can send this card to the Graveyard instead.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20457551.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20457551.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20457551.jpg"
+  }
+}

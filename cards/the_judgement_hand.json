@@ -1,0 +1,16 @@
+{
+  "id": 28003512,
+  "name": "The Judgement Hand",
+  "type": "Normal Monster",
+  "description": "An all-powerful hand that delivers ruthless attacks.",
+  "attack": 1400,
+  "defense": 700,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28003512.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28003512.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28003512.jpg"
+  }
+}

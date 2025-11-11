@@ -1,0 +1,16 @@
+{
+  "id": 85306040,
+  "name": "Goblin Elite Attack Force",
+  "type": "Effect Monster",
+  "description": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the end of your next turn.",
+  "attack": 2200,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85306040.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85306040.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85306040.jpg"
+  }
+}

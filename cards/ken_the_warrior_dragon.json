@@ -1,0 +1,16 @@
+{
+  "id": 25131968,
+  "name": "Ken the Warrior Dragon",
+  "type": "Effect Monster",
+  "description": "Once per turn, at the end of the Battle Phase: Return this card from the field to the hand. You can only use each of the following effects of \"Ken the Warrior Dragon\" once per turn. During your Main Phase: You can Special Summon 1 \"Gen the Diamond Tiger\" from your hand or Deck to your opponent's field in Defense Position. If this card is Special Summoned by the effect of \"Gen the Diamond Tiger\": Your opponent draws 2 cards, then they discard 1 card.",
+  "attack": 1300,
+  "defense": 1550,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25131968.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25131968.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25131968.jpg"
+  }
+}

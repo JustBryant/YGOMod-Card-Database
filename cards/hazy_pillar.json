@@ -1,0 +1,12 @@
+{
+  "id": 83108603,
+  "name": "Hazy Pillar",
+  "type": "Spell Card",
+  "description": "You can Normal Summon \"Hazy Flame\" monsters for 1 less Tribute. Once per turn: You can target 1 face-up Xyz Monster you control; attach 1 \"Hazy Flame\" monster from your hand or your side of the field to that Xyz Monster as an Xyz Material.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83108603.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83108603.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83108603.jpg"
+  }
+}

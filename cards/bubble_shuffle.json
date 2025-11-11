@@ -1,0 +1,12 @@
+{
+  "id": 61968753,
+  "name": "Bubble Shuffle",
+  "type": "Spell Card",
+  "description": "Target 1 face-up Attack Position \"Elemental HERO Bubbleman\" you control and 1 face-up Attack Position monster your opponent controls; change both those targets to Defense Position, then Tribute that \"Elemental HERO Bubbleman\", then Special Summon 1 \"Elemental HERO\" monster from your hand.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61968753.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61968753.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61968753.jpg"
+  }
+}

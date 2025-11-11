@@ -1,0 +1,16 @@
+{
+  "id": 82566662,
+  "name": "Taotie Dragon",
+  "type": "Link Monster",
+  "description": "2+ monsters Special Summoned from the Extra Deck\r\nThis card gains effects based on the card types (Fusion/Synchro/Xyz) of materials used for its Link Summon.\r\n● Fusion: Your opponent cannot activate monster effects during the Battle Phase.\r\n● Synchro: Your opponent cannot activate Spell/Trap Cards and effects during your Main Phase.\r\n● Xyz: Your opponent cannot activate the effects of cards in the GY during your Main Phase or Battle Phase.",
+  "attack": 2500,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82566662.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82566662.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82566662.jpg"
+  }
+}

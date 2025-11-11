@@ -1,0 +1,16 @@
+{
+  "id": 7914843,
+  "name": "Electromagnetic Bagworm",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Target 1 Machine-Type monster your opponent controls; take control of that target until your next End Phase.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+  "attack": 200,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7914843.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7914843.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7914843.jpg"
+  }
+}

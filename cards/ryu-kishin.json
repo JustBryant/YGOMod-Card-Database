@@ -1,0 +1,16 @@
+{
+  "id": 15303296,
+  "name": "Ryu-Kishin",
+  "type": "Normal Monster",
+  "description": "A very elusive creature that looks like a harmless statue until it attacks.",
+  "attack": 1000,
+  "defense": 500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15303296.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15303296.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15303296.jpg"
+  }
+}

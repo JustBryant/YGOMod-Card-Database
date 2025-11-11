@@ -1,0 +1,16 @@
+{
+  "id": 98126725,
+  "name": "Shien's Advisor",
+  "type": "Effect Monster",
+  "description": "If this card is Normal Summoned while you control a \"Six Samurai\" monster: Declare 1 Monster Type; while this card is face-up on the field, monsters with the declared Monster Type cannot declare an attack or be Special Summoned.",
+  "attack": 1200,
+  "defense": 400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98126725.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98126725.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98126725.jpg"
+  }
+}

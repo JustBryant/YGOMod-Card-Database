@@ -1,0 +1,12 @@
+{
+  "id": 35371948,
+  "name": "Trickstar Light Stage",
+  "type": "Spell Card",
+  "description": "When this card is activated: You can add 1 \"Trickstar\" monster from your Deck to your hand. Once per turn: You can target 1 Set card in your opponent's Spell & Trap Zone; while this card is in the Field Zone, that Set card cannot be activated until the End Phase, and your opponent must activate it during the End Phase or else send it to the GY. Each time a \"Trickstar\" monster you control inflicts battle or effect damage to your opponent, inflict 200 damage to them.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35371948.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35371948.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35371948.jpg"
+  }
+}

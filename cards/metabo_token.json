@@ -1,0 +1,12 @@
+{
+  "id": 49808197,
+  "name": "Metabo Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Metabo Globster\". This Token cannot be used as a Tribute for a Tribute Summon.",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49808197.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49808197.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49808197.jpg"
+  }
+}

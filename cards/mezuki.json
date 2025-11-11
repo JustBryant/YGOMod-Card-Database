@@ -1,0 +1,16 @@
+{
+  "id": 92826944,
+  "name": "Mezuki",
+  "type": "Effect Monster",
+  "description": "You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon that target.",
+  "attack": 1700,
+  "defense": 800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92826944.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92826944.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92826944.jpg"
+  }
+}

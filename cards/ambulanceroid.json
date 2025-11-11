@@ -1,0 +1,16 @@
+{
+  "id": 36378213,
+  "name": "Ambulanceroid",
+  "type": "Effect Monster",
+  "description": "When a \"roid\" monster is added from your Graveyard to your hand, you can Special Summon that monster.",
+  "attack": 300,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36378213.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36378213.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36378213.jpg"
+  }
+}

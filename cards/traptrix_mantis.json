@@ -1,0 +1,16 @@
+{
+  "id": 82738277,
+  "name": "Traptrix Mantis",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can add 1 \"Traptrix\" monster from your Deck to your hand. Unaffected by the effects of \"Hole\" Normal Traps. Once per turn (Quick Effect): You can target 1 Set Spell/Trap you control; return that target to the hand, then you can Set 1 Spell/Trap from your hand.",
+  "attack": 1500,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82738277.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82738277.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82738277.jpg"
+  }
+}

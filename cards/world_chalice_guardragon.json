@@ -1,0 +1,16 @@
+{
+  "id": 84899094,
+  "name": "World Chalice Guardragon",
+  "type": "Effect Monster",
+  "description": "When a card or effect is activated that targets your linked monster (Quick Effect): You can send this card from your hand or field to the GY; negate the activation, and if you do, destroy that card. You can banish this card from your GY, then target 1 Normal Monster in your GY; Special Summon it in Defense Position to your zone a Link Monster points to. You can only use this effect of \"World Chalice Guardragon\" once per turn.",
+  "attack": 400,
+  "defense": 400,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84899094.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84899094.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84899094.jpg"
+  }
+}

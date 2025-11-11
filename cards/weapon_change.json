@@ -1,0 +1,12 @@
+{
+  "id": 10035717,
+  "name": "Weapon Change",
+  "type": "Spell Card",
+  "description": "Once during each of your Standby Phases: You can pay 700 Life Points, then target 1 Warrior or Machine-Type monster you control; switch the current ATK and DEF of that target until the end of your opponent's next turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10035717.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10035717.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10035717.jpg"
+  }
+}

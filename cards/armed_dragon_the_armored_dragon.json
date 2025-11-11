@@ -1,0 +1,16 @@
+{
+  "id": 75220074,
+  "name": "Armed Dragon, the Armored Dragon",
+  "type": "Effect Monster",
+  "description": "When this card destroys an opponent's monster by battle: You can Special Summon 1 Level 5 or lower WIND Dragon monster from your hand or Deck, except \"Armed Dragon, the Armored Dragon\", but it cannot attack directly this turn.",
+  "attack": 1900,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75220074.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75220074.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75220074.jpg"
+  }
+}

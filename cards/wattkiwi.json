@@ -1,0 +1,16 @@
+{
+  "id": 24996659,
+  "name": "Wattkiwi",
+  "type": "Tuner Monster",
+  "description": "\"Watt\" monsters you control cannot be destroyed by battle while they are attacking.",
+  "attack": 600,
+  "defense": 100,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24996659.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24996659.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24996659.jpg"
+  }
+}

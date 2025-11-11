@@ -1,0 +1,16 @@
+{
+  "id": 7392745,
+  "name": "Chewbone",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Special Summon 3 \"Chewbone Jr. Tokens\" (Zombie-Type/EARTH/Level 1/ATK 100/DEF 300) to your opponent's field in Defense Position.",
+  "attack": 300,
+  "defense": 300,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7392745.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7392745.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7392745.jpg"
+  }
+}

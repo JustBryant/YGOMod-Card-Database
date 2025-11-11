@@ -1,0 +1,16 @@
+{
+  "id": 739444,
+  "name": "Vorticular Drumgon",
+  "type": "Link Monster",
+  "description": "3 DARK Dragon monsters\r\nIf this card is Special Summoned: You can draw 1 card. You can only use this effect of \"Vorticular Drumgon\" once per turn. If this effect resolves, the unused Monster Zones this card points to cannot be used for the rest of this turn.",
+  "attack": 1000,
+  "defense": null,
+  "level": 0,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/739444.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/739444.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/739444.jpg"
+  }
+}

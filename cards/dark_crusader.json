@@ -1,0 +1,16 @@
+{
+  "id": 91596726,
+  "name": "Dark Crusader",
+  "type": "Effect Monster",
+  "description": "You can send 1 DARK monster from your hand to the Graveyard; this card gains 400 ATK.",
+  "attack": 1600,
+  "defense": 200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91596726.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91596726.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91596726.jpg"
+  }
+}

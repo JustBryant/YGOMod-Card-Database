@@ -1,0 +1,12 @@
+{
+  "id": 14730606,
+  "name": "Ivy Shackles",
+  "type": "Trap Card",
+  "description": "All face-up monsters your opponent controls become Plant-Type during your turns only. If this face-up card you control is destroyed and sent to your Graveyard by an opponent's card effect: Draw 1 card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14730606.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14730606.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14730606.jpg"
+  }
+}

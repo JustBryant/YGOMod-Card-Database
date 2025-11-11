@@ -1,0 +1,16 @@
+{
+  "id": 74426895,
+  "name": "Awakening of the Possessed - Gagigobyte",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up Spellcaster monster and 1 face-up Level 4 or lower WATER monster you control to the GY. You can only use each of the following effects of \"Awakening of the Possessed - Gagigobyte\" once per turn.\r\n● When this card is Special Summoned by its effect: You can send 1 random card from your opponent's hand to the GY, then each player draws 1 card.\r\n● If this card is sent from the field to the GY: You can add 1 \"Spiritual Water Art\" card or 1 \"Possessed\" Spell/Trap from your Deck to your hand.",
+  "attack": 2000,
+  "defense": 200,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74426895.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74426895.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74426895.jpg"
+  }
+}

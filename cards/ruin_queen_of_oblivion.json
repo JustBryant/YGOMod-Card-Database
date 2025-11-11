@@ -1,0 +1,16 @@
+{
+  "id": 46427957,
+  "name": "Ruin, Queen of Oblivion",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with \"End of the World\". When this attacking card destroys an opponent's monster by battle: You can activate this effect; this card can make a second attack in a row.",
+  "attack": 2300,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46427957.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46427957.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46427957.jpg"
+  }
+}

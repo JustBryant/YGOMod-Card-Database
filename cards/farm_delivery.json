@@ -1,0 +1,12 @@
+{
+  "id": 27001740,
+  "name": "Farm Delivery",
+  "type": "Trap Card",
+  "description": "If you control a Normal Monster: Target up to 3 of your banished Normal Monsters; shuffle them into the Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27001740.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27001740.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27001740.jpg"
+  }
+}

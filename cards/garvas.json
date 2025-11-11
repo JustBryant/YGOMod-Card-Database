@@ -1,0 +1,16 @@
+{
+  "id": 69780745,
+  "name": "Garvas",
+  "type": "Normal Monster",
+  "description": "''A wicked beast that resembles a winged lion.''",
+  "attack": 2000,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69780745.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69780745.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69780745.jpg"
+  }
+}

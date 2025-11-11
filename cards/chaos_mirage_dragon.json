@@ -1,0 +1,16 @@
+{
+  "id": 66699781,
+  "name": "Chaos Mirage Dragon",
+  "type": "Tuner Monster",
+  "description": "You can target 1 banished LIGHT or DARK monster; Special Summon it to your field, but negate its effects, also for the rest of this turn, you cannot Special Summon monsters from the Extra Deck, except LIGHT or DARK Synchro Monsters. If this card is sent to the GY as Synchro Material: You can target cards your opponent controls, up to the number of other monsters used for the Synchro Summon; banish them. You can only use each effect of \"Chaos Mirage Dragon\" once per turn.",
+  "attack": 1600,
+  "defense": 600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66699781.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66699781.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66699781.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 99157310,
+  "name": "Tindangle Delaunay",
+  "type": "Trap Card",
+  "description": "When you take battle damage from an opponent's attacking monster, while you have 3 or more \"Tindangle\" monsters with different names in your GY: You can destroy the attacking monster, and if you do, Special Summon 1 \"Tindangle Acute Cerberus\" from your Extra Deck. If you control no monsters in the Extra Monster Zone: You can banish this card from your GY, then target 3 \"Tindangle\" monsters with different names in your GY; Special Summon them in face-down Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99157310.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99157310.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99157310.jpg"
+  }
+}

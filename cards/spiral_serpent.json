@@ -1,0 +1,16 @@
+{
+  "id": 32626733,
+  "name": "Spiral Serpent",
+  "type": "Normal Monster",
+  "description": "When huge whirlpools lay cities asunder, it is the hunger of this sea serpent at work. No one has ever escaped its dreaded Spiral Wave to accurately describe the terror they experienced.",
+  "attack": 2900,
+  "defense": 2900,
+  "level": 8,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32626733.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32626733.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32626733.jpg"
+  }
+}

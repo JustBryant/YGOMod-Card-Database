@@ -1,0 +1,12 @@
+{
+  "id": 96875080,
+  "name": "Orbital Bombardment",
+  "type": "Trap Card",
+  "description": "Send 1 \"Alien\" monster from your side of the field to the Graveyard to activate this card. Destroy 1 Spell or Trap Card on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96875080.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96875080.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96875080.jpg"
+  }
+}

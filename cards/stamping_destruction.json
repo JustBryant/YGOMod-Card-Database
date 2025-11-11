@@ -1,0 +1,12 @@
+{
+  "id": 81385346,
+  "name": "Stamping Destruction",
+  "type": "Spell Card",
+  "description": "If you control a Dragon monster: Target 1 Spell/Trap on the field; destroy that target, and if you do, inflict 500 damage to its controller.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81385346.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81385346.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81385346.jpg"
+  }
+}

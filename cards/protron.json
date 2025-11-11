@@ -1,0 +1,16 @@
+{
+  "id": 24154052,
+  "name": "Protron",
+  "type": "Normal Monster",
+  "description": "Ancestral species found in electronic space. No one knows how much information it holds.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24154052.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24154052.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24154052.jpg"
+  }
+}

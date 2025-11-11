@@ -1,0 +1,12 @@
+{
+  "id": 3492538,
+  "name": "Insect Armor with Laser Cannon",
+  "type": "Spell Card",
+  "description": "Equip only to an Insect monster. It gains 700 ATK.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3492538.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3492538.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3492538.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 88438982,
+  "name": "Worm Dimikles",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: This card gains 300 ATK and DEF.",
+  "attack": 1700,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88438982.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88438982.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88438982.jpg"
+  }
+}

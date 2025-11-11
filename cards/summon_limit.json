@@ -1,0 +1,12 @@
+{
+  "id": 23516703,
+  "name": "Summon Limit",
+  "type": "Trap Card",
+  "description": "Neither player can Summon more than two times per turn. (Negated Summons count toward this limit. Negated cards/effects that would Summon do not count.)",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23516703.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23516703.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23516703.jpg"
+  }
+}

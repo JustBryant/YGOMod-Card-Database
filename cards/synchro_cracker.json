@@ -1,0 +1,12 @@
+{
+  "id": 41097056,
+  "name": "Synchro Cracker",
+  "type": "Spell Card",
+  "description": "Target 1 Synchro Monster you control; return it to the Extra Deck, and if you do, destroy all face-up monsters your opponent controls with ATK less than or equal to that Synchro Monster's original ATK.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41097056.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41097056.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41097056.jpg"
+  }
+}

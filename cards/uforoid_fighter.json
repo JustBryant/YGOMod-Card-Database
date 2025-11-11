@@ -1,0 +1,16 @@
+{
+  "id": 32752319,
+  "name": "UFOroid Fighter",
+  "type": "Fusion Monster",
+  "description": "\"UFOroid\" + 1 Warrior-Type monster\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. The original ATK and DEF of this card become equal to the combined original ATK of the 2 Fusion Material Monsters you used for the Fusion Summon of this card.",
+  "attack": -1,
+  "defense": -1,
+  "level": 10,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32752319.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32752319.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32752319.jpg"
+  }
+}

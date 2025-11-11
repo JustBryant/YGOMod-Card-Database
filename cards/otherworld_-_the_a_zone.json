@@ -1,0 +1,12 @@
+{
+  "id": 60946968,
+  "name": "Otherworld - The \"A\" Zone",
+  "type": "Spell Card",
+  "description": "If your opponent's monster battles an \"Alien\" monster you control, the opponent's monster loses 300 ATK and DEF during damage calculation only.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60946968.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60946968.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60946968.jpg"
+  }
+}

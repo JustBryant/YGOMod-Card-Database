@@ -1,0 +1,16 @@
+{
+  "id": 92142169,
+  "name": "Bite Bug",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand). When you do: Target 1 monster your opponent controls; that monster loses 300 ATK.",
+  "attack": 300,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92142169.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92142169.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92142169.jpg"
+  }
+}

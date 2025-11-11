@@ -1,0 +1,12 @@
+{
+  "id": 79161790,
+  "name": "Inverse Universe",
+  "type": "Trap Card",
+  "description": "Switch the ATK and DEF of all face-up Effect Monsters on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79161790.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79161790.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79161790.jpg"
+  }
+}

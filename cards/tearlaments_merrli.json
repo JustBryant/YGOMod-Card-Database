@@ -1,0 +1,16 @@
+{
+  "id": 74078255,
+  "name": "Tearlaments Merrli",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can send the top 3 cards of your Deck to the GY. If this card is sent to the GY by card effect (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by placing Fusion Materials mentioned on it from your hand, field, and/or GY, including this card from your GY, on the bottom of the Deck in any order. You can only use each effect of \"Tearlaments Merrli\" once per turn.",
+  "attack": 800,
+  "defense": 2000,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74078255.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74078255.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74078255.jpg"
+  }
+}

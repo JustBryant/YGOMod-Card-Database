@@ -1,0 +1,16 @@
+{
+  "id": 31286915,
+  "name": "K9-X \"Ripper/Millennia\"",
+  "type": "XYZ Monster",
+  "description": "2 Level 9 monsters\r\nIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. You can only use each of the following effects of \"K9-X \"Ripper/Millennia\"\" once per turn. If this card is Special Summoned by a \"K9\" Spell/Trap effect: You can target up to 2 cards in your opponent's GY and/or banishment; shuffle them into the Deck. When your opponent activates a monster effect (Quick Effect): You can detach 2 materials from this card; negate that effect, then destroy all cards on the field.",
+  "attack": 3100,
+  "defense": 2600,
+  "level": 9,
+  "attribute": "WIND",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31286915.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31286915.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31286915.jpg"
+  }
+}

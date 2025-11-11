@@ -1,0 +1,16 @@
+{
+  "id": 28736826,
+  "name": "Ultimate Baseball Homerun King",
+  "type": "Effect Monster",
+  "description": "When this card destroys an opponent's monster by battle: You can make this card gain 1000 ATK.",
+  "attack": 1500,
+  "defense": 300,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28736826.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28736826.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28736826.jpg"
+  }
+}

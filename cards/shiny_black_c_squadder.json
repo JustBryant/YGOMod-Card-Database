@@ -1,0 +1,16 @@
+{
+  "id": 4148264,
+  "name": "Shiny Black \"C\" Squadder",
+  "type": "Normal Monster",
+  "description": "''Wherever there are shadows, you'll find the \"C\" Squad! Their hidden flying abilities let them confront the giants on equal terms!''",
+  "attack": 2000,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4148264.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4148264.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4148264.jpg"
+  }
+}

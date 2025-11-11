@@ -1,0 +1,12 @@
+{
+  "id": 71645243,
+  "name": "Rose Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Black Garden\".",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71645243.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71645243.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71645243.jpg"
+  }
+}

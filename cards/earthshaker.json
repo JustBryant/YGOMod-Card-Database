@@ -1,0 +1,12 @@
+{
+  "id": 60866277,
+  "name": "Earthshaker",
+  "type": "Trap Card",
+  "description": "Select 2 Monster Card Attributes. Your opponent then selects 1 of the 2 Attributes and destroys all face-up monsters with that Attribute on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60866277.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60866277.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60866277.jpg"
+  }
+}

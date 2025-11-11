@@ -1,0 +1,16 @@
+{
+  "id": 10321588,
+  "name": "Sunlight Unicorn",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can excavate the top card of your Deck, and if it is an Equip Spell Card, add it to your hand. Otherwise, place it on the bottom of your Deck.",
+  "attack": 1800,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10321588.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10321588.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10321588.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 17827173,
+  "name": "Floowandereeze & Toccan",
+  "type": "Effect Monster",
+  "description": "If this face-up card would leave the field, banish it instead. You can only use each of the following effects of \"Floowandereeze & Toccan\" once per turn, and cannot Special Summon during the turn you activate either effect. If this card is Normal Summoned: You can target 1 of your banished \"Floowandereeze\" cards; add it to your hand, then immediately after this effect resolves, you can Normal Summon 1 Winged Beast monster. If a Winged Beast monster is Normal Summoned to your field while this card is banished: You can add this card to your hand.",
+  "attack": 500,
+  "defense": 1300,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17827173.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17827173.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17827173.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 29415459,
+  "name": "Mekk-Knight Yellow Star",
+  "type": "Effect Monster",
+  "description": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Yellow Star\" once per turn this way. You can banish 1 \"Mekk-Knight\" monster from your GY, then target 1 Spell/Trap in this card's column; destroy it.",
+  "attack": 2200,
+  "defense": 2800,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29415459.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29415459.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29415459.jpg"
+  }
+}

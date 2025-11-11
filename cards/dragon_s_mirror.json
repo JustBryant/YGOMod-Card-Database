@@ -1,0 +1,12 @@
+{
+  "id": 71490127,
+  "name": "Dragon's Mirror",
+  "type": "Spell Card",
+  "description": "Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71490127.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71490127.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71490127.jpg"
+  }
+}

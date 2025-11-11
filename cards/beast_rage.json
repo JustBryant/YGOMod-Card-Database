@@ -1,0 +1,12 @@
+{
+  "id": 9999961,
+  "name": "Beast Rage",
+  "type": "Spell Card",
+  "description": "All monsters you control gain 200 ATK for each of your removed from play Beast-Type and Winged Beast-Type monsters.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9999961.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9999961.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9999961.jpg"
+  }
+}

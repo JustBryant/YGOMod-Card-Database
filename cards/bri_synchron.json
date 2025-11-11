@@ -1,0 +1,16 @@
+{
+  "id": 52840598,
+  "name": "Bri Synchron",
+  "type": "Tuner Monster",
+  "description": "If this card is sent to the Graveyard as a Synchro Material, until the end of this turn, the Synchro Monster that used this card as a Synchro Material gains 600 ATK, but its effects are negated.",
+  "attack": 1500,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52840598.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52840598.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52840598.jpg"
+  }
+}

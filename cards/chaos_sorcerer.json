@@ -1,0 +1,16 @@
+{
+  "id": 9596126,
+  "name": "Chaos Sorcerer",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can target 1 face-up monster on the field; banish that target. This card cannot attack the turn you activate this effect.",
+  "attack": 2300,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9596126.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9596126.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9596126.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 66540884,
+  "name": "Archfiend Heiress",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the Graveyard because of a card effect or being destroyed by battle: You can add 1 \"Archfiend\" card from your Deck to your hand, except \"Archfiend Heiress\". You can only use the effect of \"Archfiend Heiress\" once per turn.",
+  "attack": 1000,
+  "defense": 0,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66540884.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66540884.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66540884.jpg"
+  }
+}

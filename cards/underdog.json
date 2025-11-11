@@ -1,0 +1,12 @@
+{
+  "id": 5779502,
+  "name": "Underdog",
+  "type": "Trap Card",
+  "description": "During your turn, negate the effects of all face-up monsters your opponent controls. During your opponent's turn, negate the effects of all face-up monsters you control.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5779502.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5779502.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5779502.jpg"
+  }
+}

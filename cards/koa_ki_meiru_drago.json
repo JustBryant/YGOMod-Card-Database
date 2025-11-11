@@ -1,0 +1,16 @@
+{
+  "id": 12435193,
+  "name": "Koa'ki Meiru Drago",
+  "type": "Effect Monster",
+  "description": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Dragon-Type monster in your hand. Neither player can Special Summon LIGHT or DARK monsters.",
+  "attack": 1900,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12435193.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12435193.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12435193.jpg"
+  }
+}

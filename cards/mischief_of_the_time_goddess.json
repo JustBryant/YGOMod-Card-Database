@@ -1,0 +1,12 @@
+{
+  "id": 92182447,
+  "name": "Mischief of the Time Goddess",
+  "type": "Spell Card",
+  "description": "Neither player can activate cards or effects in response to this card's activation. Cannot be activated as Chain Link 2 or higher. At the end of your Battle Phase, if all monsters you control are \"Valkyrie\" monsters (min. 1): Send this card to the GY, also, immediately after this effect resolves, skip to the start of the Battle Phase of your next turn. If you do, you cannot activate \"Mischief of the Time Goddess\" until the end of that turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92182447.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92182447.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92182447.jpg"
+  }
+}

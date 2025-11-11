@@ -1,0 +1,12 @@
+{
+  "id": 7625614,
+  "name": "Raregold Armor",
+  "type": "Spell Card",
+  "description": "As long as you control the monster equipped with this card, your opponent cannot attack other monsters other than the equipped monster.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7625614.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7625614.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7625614.jpg"
+  }
+}

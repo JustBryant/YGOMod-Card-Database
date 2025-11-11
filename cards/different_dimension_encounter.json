@@ -1,0 +1,12 @@
+{
+  "id": 39900763,
+  "name": "Different Dimension Encounter",
+  "type": "Trap Card",
+  "description": "If both players have at least 1 banished monster that can be Special Summoned: Each player Special Summons 1 of their banished monsters in face-down Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39900763.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39900763.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39900763.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 76821171,
+  "name": "Duralume, Vaalmonican Heathen Hallow",
+  "type": "Link Monster",
+  "description": "1 Effect Monster\r\nCannot be Link Summoned unless you have 3 or more Resonance Counters on Fairy Monster Card(s) in your Pendulum Zone. You can only Special Summon \"Duralume, Vaalmonican Heathen Hallow\" once per turn. If this card is Link Summoned: You can target monsters your opponent controls, up to the number of Resonance Counters in your Pendulum Zone; destroy them. You can remove 3 Resonance Counters from your Pendulum Zone; this card can make up to 3 attacks during each Battle Phase this turn.",
+  "attack": 2500,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76821171.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76821171.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76821171.jpg"
+  }
+}

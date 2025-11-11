@@ -1,0 +1,16 @@
+{
+  "id": 8696773,
+  "name": "Hazy Flame Hydra",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot target this card with card effects. You cannot Special Summon monsters, except FIRE monsters. An Xyz Monster that was Summoned using this card as an Xyz Material gains this effect.\n● When it is Xyz Summoned: You can target 1 \"Hazy Flame\" monster in your Graveyard; attach that target to this card as an Xyz Material.",
+  "attack": 2300,
+  "defense": 200,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8696773.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8696773.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8696773.jpg"
+  }
+}

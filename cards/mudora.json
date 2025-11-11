@@ -1,0 +1,16 @@
+{
+  "id": 82108372,
+  "name": "Mudora",
+  "type": "Effect Monster",
+  "description": "This card gains 200 ATK for each Fairy-Type monster in your Graveyard.",
+  "attack": 1500,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82108372.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82108372.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82108372.jpg"
+  }
+}

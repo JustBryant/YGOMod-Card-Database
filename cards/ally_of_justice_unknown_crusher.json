@@ -1,0 +1,16 @@
+{
+  "id": 22371016,
+  "name": "Ally of Justice Unknown Crusher",
+  "type": "Effect Monster",
+  "description": "When this card battles a LIGHT monster, remove that monster from play after damage calculation.",
+  "attack": 1200,
+  "defense": 800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22371016.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22371016.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22371016.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 78402798,
+  "name": "Night Lizard",
+  "type": "Normal Monster",
+  "description": "''A lizard warrior protected by a hide of very tough emerald scales.''",
+  "attack": 1150,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78402798.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78402798.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78402798.jpg"
+  }
+}

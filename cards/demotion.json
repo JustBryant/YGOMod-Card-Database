@@ -1,0 +1,12 @@
+{
+  "id": 72575145,
+  "name": "Demotion",
+  "type": "Spell Card",
+  "description": "Downgrade the monster equipped with this card by 2 Levels.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72575145.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72575145.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72575145.jpg"
+  }
+}

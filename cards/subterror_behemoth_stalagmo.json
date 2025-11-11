@@ -1,0 +1,16 @@
+{
+  "id": 78202553,
+  "name": "Subterror Behemoth Stalagmo",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can discard 1 \"Subterror\" monster, and if you do, draw 2 cards. You can only use this effect of \"Subterror Behemoth Stalagmo\" once per turn.\r\nWhen a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position.",
+  "attack": 2800,
+  "defense": 2100,
+  "level": 10,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78202553.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78202553.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78202553.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 60410769,
+  "name": "Jutte Fighter",
+  "type": "Tuner Monster",
+  "description": "Once per turn, you can change 1 face-up Attack Position monster your opponent controls to face-up Defense Position.",
+  "attack": 700,
+  "defense": 900,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60410769.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60410769.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60410769.jpg"
+  }
+}

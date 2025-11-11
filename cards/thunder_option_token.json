@@ -1,0 +1,12 @@
+{
+  "id": 14089429,
+  "name": "Thunder Option Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Blue Thunder T-45\". This Token cannot be used as a Tribute for a Tribute Summon.",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14089429.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14089429.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14089429.jpg"
+  }
+}

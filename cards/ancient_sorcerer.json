@@ -1,0 +1,16 @@
+{
+  "id": 36821538,
+  "name": "Ancient Sorcerer",
+  "type": "Normal Monster",
+  "description": "''Armed with an array of magic wands, this creature is capable of multiple attacks.''",
+  "attack": 1000,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36821538.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36821538.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36821538.jpg"
+  }
+}

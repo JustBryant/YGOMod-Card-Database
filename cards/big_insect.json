@@ -1,0 +1,16 @@
+{
+  "id": 53606874,
+  "name": "Big Insect",
+  "type": "Normal Monster",
+  "description": "A giant ant that dwells in the jungle, it is powerful whether attacking or defending.",
+  "attack": 1200,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53606874.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53606874.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53606874.jpg"
+  }
+}

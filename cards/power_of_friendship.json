@@ -1,0 +1,12 @@
+{
+  "id": 300302016,
+  "name": "Power of Friendship",
+  "type": "Skill Card",
+  "description": "You take no effect damage from your opponent's card effects during your turn.",
+  "race": "Tea Gardner",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302016.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302016.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302016.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 37961969,
+  "name": "Tearlaments Havnis",
+  "type": "Effect Monster",
+  "description": "When your opponent activates a monster effect on the field (Quick Effect): You can Special Summon this card from your hand, and if you do, send the top 3 cards of your Deck to the GY. If this card is sent to the GY by card effect (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by placing Fusion Materials mentioned on it from your hand, field, and/or GY, including this card from your GY, on the bottom of the Deck in any order. You can only use each effect of \"Tearlaments Havnis\" once per turn.",
+  "attack": 1600,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37961969.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37961969.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37961969.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 27132350,
+  "name": "Fire Sorcerer",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Randomly select 2 cards from your hand and remove them from play to inflict 800 points of damage to your opponent's Life Points.",
+  "attack": 1000,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27132350.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27132350.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27132350.jpg"
+  }
+}

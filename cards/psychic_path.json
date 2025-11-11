@@ -1,0 +1,12 @@
+{
+  "id": 25401880,
+  "name": "Psychic Path",
+  "type": "Spell Card",
+  "description": "Pay 800 Life Points and select up to 2 of your removed from play Psychic-Type monsters. Add them to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25401880.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25401880.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25401880.jpg"
+  }
+}

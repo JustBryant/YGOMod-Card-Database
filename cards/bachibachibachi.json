@@ -1,0 +1,16 @@
+{
+  "id": 83272895,
+  "name": "Bachibachibachi",
+  "type": "Effect Monster",
+  "description": "An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83272895.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83272895.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83272895.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 94739788,
+  "name": "Remove Brainwashing",
+  "type": "Trap Card",
+  "description": "The control of all monsters on the field returns to the owners.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94739788.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94739788.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94739788.jpg"
+  }
+}

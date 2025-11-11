@@ -1,0 +1,12 @@
+{
+  "id": 4081094,
+  "name": "The Second Sarcophagus",
+  "type": "Spell Card",
+  "description": "This card can only be placed on the field by the effect of \"The First Sarcophagus\".",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4081094.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4081094.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4081094.jpg"
+  }
+}

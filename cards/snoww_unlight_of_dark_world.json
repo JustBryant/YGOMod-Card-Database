@@ -1,0 +1,16 @@
+{
+  "id": 60228941,
+  "name": "Snoww, Unlight of Dark World",
+  "type": "Effect Monster",
+  "description": "If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, you can target 1 monster in your opponent's Graveyard; add 1 \"Dark World\" card from your Deck to your hand, then Special Summon that target (if any) in face-up Defense Position.",
+  "attack": 1700,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60228941.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60228941.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60228941.jpg"
+  }
+}

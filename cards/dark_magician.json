@@ -1,16 +1,16 @@
 {
-  "id": 36996508,
+  "id": 46986414,
   "name": "Dark Magician",
   "type": "Normal Monster",
   "description": "''The ultimate wizard in terms of attack and defense.''",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/36996508.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/36996508.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36996508.jpg"
-  },
   "attack": 2500,
   "defense": 2100,
   "level": 7,
   "attribute": "DARK",
-  "race": "Spellcaster"
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46986414.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46986414.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46986414.jpg"
+  }
 }

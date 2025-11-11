@@ -1,0 +1,16 @@
+{
+  "id": 46796664,
+  "name": "D/D Savant Copernicus",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once, while this card is in your Pendulum Zone, you can negate an activated Spell effect that would inflict damage to you, then destroy this card.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can send 1 \"D/D\" or \"Dark Contract\" card from your Deck to the GY, except \"D/D Savant Copernicus\". You can only use this effect of \"D/D Savant Copernicus\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46796664.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46796664.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46796664.jpg"
+  }
+}

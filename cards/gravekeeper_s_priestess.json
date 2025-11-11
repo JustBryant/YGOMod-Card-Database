@@ -1,0 +1,16 @@
+{
+  "id": 3381441,
+  "name": "Gravekeeper's Priestess",
+  "type": "Effect Monster",
+  "description": "While there is no face-up Field Spell, the field is treated as \"Necrovalley\". All \"Gravekeeper's\" monsters on the field gain 200 ATK/DEF.",
+  "attack": 1000,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3381441.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3381441.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3381441.jpg"
+  }
+}

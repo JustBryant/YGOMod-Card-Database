@@ -1,0 +1,12 @@
+{
+  "id": 90263923,
+  "name": "Leeching the Light",
+  "type": "Spell Card",
+  "description": "Select 1 face-up LIGHT monster your opponent controls. All face-up Attack Position monsters you control gain ATK equal to the ATK of the selected monster, until the End Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90263923.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90263923.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90263923.jpg"
+  }
+}

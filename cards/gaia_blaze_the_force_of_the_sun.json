@@ -1,0 +1,16 @@
+{
+  "id": 9709452,
+  "name": "Gaia Blaze, the Force of the Sun",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nIf this attacking card destroys an opponent's monster by battle: It can make a second attack in a row. Once per turn, at the end of the Battle Phase: You can target FIRE monsters in your GY up to the number of monsters this card destroyed by battle this turn; add them to your hand.",
+  "attack": 2600,
+  "defense": 2100,
+  "level": 7,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9709452.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9709452.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9709452.jpg"
+  }
+}

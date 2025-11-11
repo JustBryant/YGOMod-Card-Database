@@ -1,0 +1,12 @@
+{
+  "id": 52097679,
+  "name": "Shield & Sword",
+  "type": "Spell Card",
+  "description": "Switch the original ATK and DEF of all face-up monsters currently on the field, until the end of this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52097679.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52097679.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52097679.jpg"
+  }
+}

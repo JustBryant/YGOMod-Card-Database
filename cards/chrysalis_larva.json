@@ -1,0 +1,16 @@
+{
+  "id": 16241441,
+  "name": "Chrysalis Larva",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Flare Scarab\" from your hand or Deck.",
+  "attack": 300,
+  "defense": 300,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16241441.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16241441.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16241441.jpg"
+  }
+}

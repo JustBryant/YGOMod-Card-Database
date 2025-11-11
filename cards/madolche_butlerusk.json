@@ -1,0 +1,16 @@
+{
+  "id": 48252330,
+  "name": "Madolche Butlerusk",
+  "type": "Effect Monster",
+  "description": "When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. When this card is Normal Summoned: You can add 1 Field Spell Card from your Deck to your hand. There must be another face-up \"Madolche\" monster on the field to activate and to resolve this effect.",
+  "attack": 1500,
+  "defense": 800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48252330.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48252330.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48252330.jpg"
+  }
+}

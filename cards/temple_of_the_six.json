@@ -1,0 +1,12 @@
+{
+  "id": 53819808,
+  "name": "Temple of the Six",
+  "type": "Spell Card",
+  "description": "Each time a \"Six Samurai\" monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card. Monsters your opponent controls lose 100 ATK for each Bushido Counter on this card.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53819808.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53819808.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53819808.jpg"
+  }
+}

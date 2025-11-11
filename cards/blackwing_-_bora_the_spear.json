@@ -1,0 +1,16 @@
+{
+  "id": 49003716,
+  "name": "Blackwing - Bora the Spear",
+  "type": "Effect Monster",
+  "description": "If you control a \"Blackwing\" monster other than \"Blackwing - Bora the Spear\", you can Special Summon this card (from your hand). If this card attacks a Defense Position monster, inflict piercing battle damage.",
+  "attack": 1700,
+  "defense": 800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49003716.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49003716.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49003716.jpg"
+  }
+}

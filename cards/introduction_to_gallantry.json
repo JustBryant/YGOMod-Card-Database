@@ -1,0 +1,12 @@
+{
+  "id": 69091732,
+  "name": "Introduction to Gallantry",
+  "type": "Trap Card",
+  "description": "Activate only when your opponent has 5 or more cards in their hand. Your opponent discards 1 random card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69091732.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69091732.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69091732.jpg"
+  }
+}

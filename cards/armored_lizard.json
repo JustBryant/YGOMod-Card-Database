@@ -1,0 +1,16 @@
+{
+  "id": 15480588,
+  "name": "Armored Lizard",
+  "type": "Normal Monster",
+  "description": "A lizard with a very tough hide and a vicious bite.",
+  "attack": 1500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15480588.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15480588.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15480588.jpg"
+  }
+}

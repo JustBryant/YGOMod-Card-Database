@@ -1,0 +1,16 @@
+{
+  "id": 51476410,
+  "name": "Clock Lizard",
+  "type": "Link Monster",
+  "description": "2 Cyberse monsters\r\nYou can Tribute this card; return 1 Fusion Monster from your GY to the Extra Deck, then Fusion Summon that Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your GY. If this card is banished from your GY: You can make Special Summoned monsters your opponent currently controls lose 400 ATK for each Cyberse monster currently in your GY, until the end of this turn.",
+  "attack": 1200,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51476410.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51476410.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51476410.jpg"
+  }
+}

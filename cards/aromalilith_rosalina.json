@@ -1,0 +1,16 @@
+{
+  "id": 24689197,
+  "name": "Aromalilith Rosalina",
+  "type": "Tuner Monster",
+  "description": "(Quick Effect): You can discard this card, then target 1 \"Aroma\" monster you control; gain LP equal to half its ATK. If this card is Normal or Special Summoned: You can Special Summon 1 non-Tuner \"Aroma\" monster from your Deck, also you cannot Special Summon for the rest of this turn, except Plant monsters. You can only use each effect of \"Aromalilith Rosalina\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24689197.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24689197.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24689197.jpg"
+  }
+}

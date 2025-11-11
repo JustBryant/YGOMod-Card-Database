@@ -1,0 +1,12 @@
+{
+  "id": 9267769,
+  "name": "Flashbang",
+  "type": "Trap Card",
+  "description": "Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9267769.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9267769.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9267769.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 88610708,
+  "name": "Bashing Shield",
+  "type": "Spell Card",
+  "description": "Equip only to a Normal Summoned/Set monster. It gains 1000 ATK. You take no battle damage from attacks involving it.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88610708.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88610708.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88610708.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21390858,
+  "name": "Familiar-Possessed - Dharc",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Dharc the Dark Charmer\" you control and 1 face-up DARK monster you control to the Graveyard. When you do: You can add 1 Level 3 or 4 LIGHT Spellcaster-Type monster from your Deck to your hand. If this card was Special Summoned by this effect and attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+  "attack": 1850,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21390858.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21390858.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21390858.jpg"
+  }
+}

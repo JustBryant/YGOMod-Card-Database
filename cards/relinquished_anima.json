@@ -1,0 +1,16 @@
+{
+  "id": 94259633,
+  "name": "Relinquished Anima",
+  "type": "Link Monster",
+  "description": "1 Level 1 monster, except a Token\r\nYou can target 1 face-up monster this card points to; equip that face-up monster to this card (max. 1). You can only use this effect of \"Relinquished Anima\" once per turn. This card gains ATK equal to that equipped monster's.",
+  "attack": 0,
+  "defense": null,
+  "level": 0,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94259633.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94259633.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94259633.jpg"
+  }
+}

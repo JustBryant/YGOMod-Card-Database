@@ -1,0 +1,12 @@
+{
+  "id": 17008760,
+  "name": "Materiactor Annulus",
+  "type": "Spell Card",
+  "description": "Detach 1 Xyz Material from a monster you control, then if the detached material was sent to your GY, you can Set that card to your field. You can only activate 1 \"Materiactor Annulus\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17008760.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17008760.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17008760.jpg"
+  }
+}

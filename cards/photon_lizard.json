@@ -1,0 +1,16 @@
+{
+  "id": 38973775,
+  "name": "Photon Lizard",
+  "type": "Effect Monster",
+  "description": "You can Tribute this card; add 1 Level 4 or lower \"Photon\" monster from your Deck to your hand. You can only use this effect of \"Photon Lizard\" once per turn.",
+  "attack": 900,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38973775.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38973775.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38973775.jpg"
+  }
+}

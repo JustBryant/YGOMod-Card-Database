@@ -1,0 +1,16 @@
+{
+  "id": 27873305,
+  "name": "D/D/D Wave Oblivion King Caesar Ragnarok",
+  "type": "Fusion Monster",
+  "description": "2 \"D/D/D\" monsters\nOnce per turn, when an attack is declared involving this card: You can target 1 other \"D/D\" or \"Dark Contract\" card you control; return it to the hand, and if you do, equip 1 face-up monster your opponent controls to this card, except the battling monster. This card gains ATK equal to the combined original ATK of the monsters equipped to it by this effect.",
+  "attack": 3200,
+  "defense": 3000,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27873305.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27873305.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27873305.jpg"
+  }
+}

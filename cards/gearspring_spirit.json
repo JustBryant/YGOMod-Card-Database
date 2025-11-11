@@ -1,0 +1,16 @@
+{
+  "id": 45458027,
+  "name": "Gearspring Spirit",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having only Machine-Type monsters in your Graveyard (min. 1). Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase.",
+  "attack": 100,
+  "defense": 100,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45458027.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45458027.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45458027.jpg"
+  }
+}

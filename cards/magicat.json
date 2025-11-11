@@ -1,0 +1,16 @@
+{
+  "id": 25531465,
+  "name": "Magicat",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the Graveyard for the Synchro Summon of a Spellcaster-Type Synchro Monster, you can return 1 Spell Card from your Graveyard to the top of your Deck.",
+  "attack": 600,
+  "defense": 500,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25531465.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25531465.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25531465.jpg"
+  }
+}

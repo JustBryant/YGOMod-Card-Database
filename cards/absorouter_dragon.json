@@ -1,0 +1,16 @@
+{
+  "id": 67748760,
+  "name": "Absorouter Dragon",
+  "type": "Effect Monster",
+  "description": "If you control a \"Rokket\" monster, you can Special Summon this card (from your hand). You can only Special Summon \"Absorouter Dragon\" once per turn this way. If this card is sent to the GY: You can add 1 \"Rokket\" monster from your Deck to your hand. You can only use this effect of \"Absorouter Dragon\" once per turn.",
+  "attack": 1200,
+  "defense": 2800,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67748760.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67748760.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67748760.jpg"
+  }
+}

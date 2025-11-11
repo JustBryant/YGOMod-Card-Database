@@ -1,0 +1,12 @@
+{
+  "id": 25880422,
+  "name": "Block Attack",
+  "type": "Spell Card",
+  "description": "Target 1 face-up Attack Position monster your opponent controls; change that target to face-up Defense Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25880422.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25880422.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25880422.jpg"
+  }
+}

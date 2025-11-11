@@ -1,0 +1,12 @@
+{
+  "id": 31189536,
+  "name": "Vampire Awakening",
+  "type": "Trap Card",
+  "description": "Special Summon 1 \"Vampire\" monster from your Deck, but destroy it during the End Phase of this turn. You can only activate 1 \"Vampire Awakening\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31189536.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31189536.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31189536.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 50357013,
+  "name": "Tokusano Shinkyojin",
+  "type": "Spell Card",
+  "description": "Send monster(s) from your hand and/or face-up field to the GY whose total Levels equal 10; draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50357013.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50357013.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50357013.jpg"
+  }
+}

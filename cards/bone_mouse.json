@@ -1,0 +1,16 @@
+{
+  "id": 21239280,
+  "name": "Bone Mouse",
+  "type": "Normal Monster",
+  "description": "''A mouse that has returned as a zombie to seek revenge on cats.''",
+  "attack": 400,
+  "defense": 300,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21239280.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21239280.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21239280.jpg"
+  }
+}

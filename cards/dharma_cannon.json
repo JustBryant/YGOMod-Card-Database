@@ -1,0 +1,16 @@
+{
+  "id": 96967123,
+  "name": "Dharma Cannon",
+  "type": "Normal Monster",
+  "description": "A monstrous creature whose body is lined with cannons that never miss their targets.",
+  "attack": 900,
+  "defense": 500,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96967123.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96967123.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96967123.jpg"
+  }
+}

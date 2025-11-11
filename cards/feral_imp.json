@@ -1,0 +1,16 @@
+{
+  "id": 41392891,
+  "name": "Feral Imp",
+  "type": "Normal Monster",
+  "description": "A playful little fiend that lurks in the dark, waiting to attack an unwary enemy.",
+  "attack": 1300,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41392891.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41392891.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41392891.jpg"
+  }
+}

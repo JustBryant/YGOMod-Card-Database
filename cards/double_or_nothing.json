@@ -1,0 +1,12 @@
+{
+  "id": 94770493,
+  "name": "Double or Nothing!",
+  "type": "Spell Card",
+  "description": "When a monster's attack is negated: Target that monster; it can make a second attack during this Battle Phase, and if it does, its ATK is doubled during the Damage Step only.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94770493.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94770493.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94770493.jpg"
+  }
+}

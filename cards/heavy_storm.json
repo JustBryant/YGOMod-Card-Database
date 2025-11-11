@@ -1,0 +1,12 @@
+{
+  "id": 19613556,
+  "name": "Heavy Storm",
+  "type": "Spell Card",
+  "description": "Destroy all Spell and Trap Cards on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19613556.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19613556.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19613556.jpg"
+  }
+}

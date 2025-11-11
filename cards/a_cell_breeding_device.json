@@ -1,0 +1,12 @@
+{
+  "id": 34541863,
+  "name": "\"A\" Cell Breeding Device",
+  "type": "Spell Card",
+  "description": "During each of your Standby Phases, put 1 A-Counter on 1 face-up monster your opponent controls.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34541863.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34541863.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34541863.jpg"
+  }
+}

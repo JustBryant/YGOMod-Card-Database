@@ -1,0 +1,12 @@
+{
+  "id": 34906152,
+  "name": "Mass Driver",
+  "type": "Spell Card",
+  "description": "Tribute 1 monster on your side of the field to inflict 400 points of damage to your opponent's Life Points.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34906152.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34906152.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34906152.jpg"
+  }
+}

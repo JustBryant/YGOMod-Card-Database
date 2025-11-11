@@ -1,0 +1,16 @@
+{
+  "id": 99865167,
+  "name": "Wind Effigy",
+  "type": "Effect Monster",
+  "description": "This card can be treated as 2 Tributes for the Tribute Summon of a WIND Normal Monster.",
+  "attack": 1800,
+  "defense": 200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99865167.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99865167.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99865167.jpg"
+  }
+}

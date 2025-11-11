@@ -1,0 +1,16 @@
+{
+  "id": 85060248,
+  "name": "Mind Protector",
+  "type": "Effect Monster",
+  "description": "This card's controller must pay 500 Life Points during each of their Standby Phases. If they cannot, destroy this card. Monsters with 2000 or less ATK cannot declare an attack, except for Psychic-Type monsters.",
+  "attack": 0,
+  "defense": 2200,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85060248.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85060248.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85060248.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 80813021,
+  "name": "Torike",
+  "type": "Normal Monster",
+  "description": "''Although a poor defender, this monster's sharp horn gives it an edge when attacking.''",
+  "attack": 1200,
+  "defense": 600,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80813021.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80813021.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80813021.jpg"
+  }
+}

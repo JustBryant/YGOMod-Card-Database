@@ -1,0 +1,16 @@
+{
+  "id": 1498449,
+  "name": "Dracotail Faimena",
+  "type": "Effect Monster",
+  "description": "During the Main Phase (Quick Effect): You can discard this card; Fusion Summon 1 Dragon or Spellcaster Fusion Monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Faimena\" once per turn.",
+  "attack": 1300,
+  "defense": 2500,
+  "level": 5,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1498449.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1498449.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1498449.jpg"
+  }
+}

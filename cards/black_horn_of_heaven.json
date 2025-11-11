@@ -1,0 +1,12 @@
+{
+  "id": 50323155,
+  "name": "Black Horn of Heaven",
+  "type": "Trap Card",
+  "description": "When your opponent would Special Summon exactly 1 monster: Negate the Special Summon, and if you do, destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50323155.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50323155.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50323155.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 50690129,
+  "name": "Catche Eve L2",
+  "type": "Effect Monster",
+  "description": "If this card is in your hand: You can target 1 Level 3 or higher monster you control; reduce its Level by exactly 2, and if you do, Special Summon this card. You can only use this effect of \"Catche Eve L2\" once per turn.",
+  "attack": 800,
+  "defense": 600,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50690129.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50690129.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50690129.jpg"
+  }
+}

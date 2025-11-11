@@ -1,0 +1,12 @@
+{
+  "id": 91148083,
+  "name": "Gotterdammerung",
+  "type": "Spell Card",
+  "description": "Target 1 \"Aesir\" monster you control; give control of that monster to your opponent. During your opponent's next End Phase, destroy that monster, and if you do, banish all cards your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91148083.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91148083.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91148083.jpg"
+  }
+}

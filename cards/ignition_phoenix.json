@@ -1,0 +1,12 @@
+{
+  "id": 79555535,
+  "name": "Ignition Phoenix",
+  "type": "Spell Card",
+  "description": "All \"Igknight\" monsters on the field gain 300 ATK and DEF. Once per turn: You can target 1 \"Igknight\" card you control; destroy it, and if you do, add 1 \"Igknight\" card from your Deck to your hand.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/79555535.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/79555535.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/79555535.jpg"
+  }
+}

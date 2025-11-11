@@ -1,0 +1,12 @@
+{
+  "id": 83467607,
+  "name": "Nature's Reflection",
+  "type": "Trap Card",
+  "description": "During this turn, any effect activated by your opponent that would inflict damage becomes an effect that inflicts damage to their Life Points.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83467607.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83467607.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83467607.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 95231062,
+  "name": "Lost Blue Breaker",
+  "type": "Effect Monster",
+  "description": "If there is another face-up Fish, Sea Serpent, or Aqua monster on the field: You can Tribute this card, then target 1 Spell/Trap on the field; destroy that target.",
+  "attack": 1400,
+  "defense": 0,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/95231062.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/95231062.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/95231062.jpg"
+  }
+}

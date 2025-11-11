@@ -1,0 +1,16 @@
+{
+  "id": 2766877,
+  "name": "Daigusto Phoenix",
+  "type": "XYZ Monster",
+  "description": "2 Level 2 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 face-up WIND monster you control; this turn, it can attack twice during each Battle Phase.",
+  "attack": 1500,
+  "defense": 1100,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2766877.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2766877.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2766877.jpg"
+  }
+}

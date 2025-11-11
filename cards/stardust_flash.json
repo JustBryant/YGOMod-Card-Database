@@ -1,0 +1,12 @@
+{
+  "id": 27196937,
+  "name": "Stardust Flash",
+  "type": "Trap Card",
+  "description": "Target 1 \"Stardust\" monster in your Graveyard; Special Summon it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27196937.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27196937.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27196937.jpg"
+  }
+}

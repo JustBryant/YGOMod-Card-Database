@@ -1,0 +1,16 @@
+{
+  "id": 98888032,
+  "name": "Spore the Fairy Seed",
+  "type": "Tuner Monster",
+  "description": "If this card is Special Summoned: You can count the number of monsters you control, and have this card gain up to that many Levels. If you control \"Ancient Fairy Dragon\", or a LIGHT monster (Beast, Plant, or Fairy), and this card is in your GY: You can Special Summon this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use this effect of \"Spore the Fairy Seed\" once per turn.",
+  "attack": 400,
+  "defense": 800,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98888032.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98888032.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98888032.jpg"
+  }
+}

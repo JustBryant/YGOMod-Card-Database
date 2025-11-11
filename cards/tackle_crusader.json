@@ -1,0 +1,16 @@
+{
+  "id": 12467005,
+  "name": "Tackle Crusader",
+  "type": "Effect Monster",
+  "description": "If this card is sent to the Graveyard: You can activate 1 of these effects.\n● Target 1 face-up monster your opponent controls; change that target to face-down Defense Position.\n● Target 1 face-up Spell/Trap Card your opponent controls; return that target to the hand. This turn, your opponent cannot activate cards with the same name as the card returned to the hand by this effect.",
+  "attack": 1500,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12467005.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12467005.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12467005.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21593977,
+  "name": "Makyura the Destructor",
+  "type": "Effect Monster",
+  "description": "If this card is sent from the Monster Zone to the GY: You can activate 1 Trap Card from your hand this turn. You can only use this effect of \"Makyura the Destructor\" once per turn.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21593977.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21593977.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21593977.jpg"
+  }
+}

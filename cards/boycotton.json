@@ -1,0 +1,16 @@
+{
+  "id": 45025640,
+  "name": "Boycotton",
+  "type": "Effect Monster",
+  "description": "You take any battle damage your opponent would have taken from battles involving this card, instead. If this card battles, is not destroyed, and you took damage from that battle: Return this card to the hand.",
+  "attack": 1000,
+  "defense": 2500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45025640.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45025640.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45025640.jpg"
+  }
+}

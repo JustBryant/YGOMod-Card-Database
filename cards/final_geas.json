@@ -1,0 +1,12 @@
+{
+  "id": 16832845,
+  "name": "Final Geas",
+  "type": "Trap Card",
+  "description": "If a monster(s) with an original Level of 7 or higher is sent from each player's field to the Graveyard this turn: Banish as many monsters from the Graveyards as possible, then you can Special Summon the 1 highest-Level Spellcaster-Type monster among those banished monsters to your field (your choice, if tied).",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16832845.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16832845.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16832845.jpg"
+  }
+}

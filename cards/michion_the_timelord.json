@@ -1,0 +1,16 @@
+{
+  "id": 7733560,
+  "name": "Michion, the Timelord",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Halve your opponent's LP. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
+  "attack": 0,
+  "defense": 0,
+  "level": 10,
+  "attribute": "FIRE",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7733560.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7733560.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7733560.jpg"
+  }
+}

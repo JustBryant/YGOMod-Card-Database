@@ -1,0 +1,16 @@
+{
+  "id": 56649609,
+  "name": "Phantasm Spiral Dragon",
+  "type": "Normal Monster",
+  "description": "A ferocious serpent that was being hunted by Atlanteans. Battle-weary and ragged, it came upon an ancient light, and gained new strength for its battle. With its increased power, it launched an invasion of enemy territory with a renewed assault.",
+  "attack": 2900,
+  "defense": 2900,
+  "level": 8,
+  "attribute": "WATER",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56649609.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56649609.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56649609.jpg"
+  }
+}

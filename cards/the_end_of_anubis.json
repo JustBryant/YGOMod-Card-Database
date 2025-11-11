@@ -1,0 +1,16 @@
+{
+  "id": 65403020,
+  "name": "The End of Anubis",
+  "type": "Effect Monster",
+  "description": "While this card is face-up on the field, all effects of Spell, Trap, and Monster Cards that target a card(s) in the Graveyard or that activate in the Graveyard are negated.",
+  "attack": 2500,
+  "defense": 0,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65403020.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65403020.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65403020.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 29389368,
+  "name": "Nutrient Z",
+  "type": "Trap Card",
+  "description": "During damage calculation, when you are about to take 2000 or more battle damage: Gain 4000 LP first.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29389368.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29389368.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29389368.jpg"
+  }
+}

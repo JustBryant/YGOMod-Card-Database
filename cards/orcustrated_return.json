@@ -1,0 +1,12 @@
+{
+  "id": 26845680,
+  "name": "Orcustrated Return",
+  "type": "Spell Card",
+  "description": "Send 1 \"Orcust\" or \"World Legacy\" monster from your hand or face-up field to the GY; draw 2 cards. You can only activate 1 \"Orcustrated Return\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26845680.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26845680.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26845680.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 56099748,
+  "name": "Visas Starfrost",
+  "type": "Tuner Monster",
+  "description": "If this card is in your hand: You can target 1 monster you control with a different Type and Attribute than this card; destroy that monster, and if you do, Special Summon this card. You can only use this effect of \"Visas Starfrost\" once per turn. When this card destroys an opponent's monster by battle: You can make this card gain ATK equal to half the original ATK or DEF of that monster (whichever is higher, your choice if tied).",
+  "attack": 2100,
+  "defense": 1500,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56099748.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56099748.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56099748.jpg"
+  }
+}

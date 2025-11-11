@@ -1,0 +1,16 @@
+{
+  "id": 20586572,
+  "name": "Exploder Dragon",
+  "type": "Effect Monster",
+  "description": "If this card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed it. Neither player takes any battle damage from attacks involving this attacking card.",
+  "attack": 1000,
+  "defense": 0,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20586572.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20586572.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20586572.jpg"
+  }
+}

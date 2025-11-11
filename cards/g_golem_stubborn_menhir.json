@@ -1,0 +1,16 @@
+{
+  "id": 97053215,
+  "name": "G Golem Stubborn Menhir",
+  "type": "Link Monster",
+  "description": "2 EARTH monsters\r\nIf this card is Special Summoned from the GY: You can target 1 EARTH monster in your GY that can be Normal Summoned/Set; Special Summon it (but negate its effects, also banish it when it leaves the field) or add it to your hand. You can only use this effect of \"G Golem Stubborn Menhir\" once per turn.",
+  "attack": 1500,
+  "defense": null,
+  "level": null,
+  "attribute": "EARTH",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97053215.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97053215.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97053215.jpg"
+  }
+}

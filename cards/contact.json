@@ -1,0 +1,12 @@
+{
+  "id": 16616620,
+  "name": "Contact",
+  "type": "Spell Card",
+  "description": "Send all \"Chrysalis\" monsters you control to the Graveyard, and Special Summon 1 monster from your hand or Deck that is written in the card text of those cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16616620.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16616620.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16616620.jpg"
+  }
+}

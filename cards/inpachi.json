@@ -1,0 +1,16 @@
+{
+  "id": 97923414,
+  "name": "Inpachi",
+  "type": "Normal Monster",
+  "description": "A log that attacks lost travelers in the forest. Originally a big tree, it was cut down and possessed by a wicked spirit.",
+  "attack": 1600,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97923414.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97923414.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97923414.jpg"
+  }
+}

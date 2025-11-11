@@ -1,0 +1,16 @@
+{
+  "id": 48381268,
+  "name": "Morphtronic Boarden",
+  "type": "Effect Monster",
+  "description": "● While in Attack Position: \"Morphtronic\" monsters you control can attack your opponent directly.\n● While in Defense Position: Other \"Morphtronic\" monsters you control cannot be destroyed by battle.",
+  "attack": 500,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48381268.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48381268.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48381268.jpg"
+  }
+}

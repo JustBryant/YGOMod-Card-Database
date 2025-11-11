@@ -1,0 +1,16 @@
+{
+  "id": 9666558,
+  "name": "Golem Dragon",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot target face-up Dragon-Type monsters for attacks, except this one.",
+  "attack": 200,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9666558.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9666558.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9666558.jpg"
+  }
+}

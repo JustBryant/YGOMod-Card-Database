@@ -1,0 +1,12 @@
+{
+  "id": 3576031,
+  "name": "Crystolic Potential",
+  "type": "Spell Card",
+  "description": "All \"Crystron\" monsters you control gain 300 ATK and DEF. Once per turn, during the End Phase: You can draw cards equal to the number of \"Crystron\" Synchro Monsters you Synchro Summoned this turn.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3576031.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3576031.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3576031.jpg"
+  }
+}

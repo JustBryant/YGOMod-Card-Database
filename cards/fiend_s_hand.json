@@ -1,0 +1,16 @@
+{
+  "id": 52800428,
+  "name": "Fiend's Hand",
+  "type": "Normal Monster",
+  "description": "''Arms that reach out from the Swamp of Chaos to drag down the unwary.''",
+  "attack": 600,
+  "defense": 600,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52800428.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52800428.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52800428.jpg"
+  }
+}

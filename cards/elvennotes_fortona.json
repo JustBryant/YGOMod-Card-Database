@@ -1,0 +1,16 @@
+{
+  "id": 85976588,
+  "name": "Elvennotes Fortona",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) to your center Main Monster Zone. You can only Special Summon \"Elvennotes Fortona\" once per turn this way. You can only use each of the following effects of \"Elvennotes Fortona\" once per turn. During your Main Phase: You can place 1 \"Elvennotes\" Continuous Trap from your hand or Deck face-up on your field. During your opponent's turn (Quick Effect): You can switch the locations of this card in your Main Monster Zone and the monster in your center Main Monster Zone, then you can return 1 face-up Spell/Trap on the field to the hand.",
+  "attack": 2200,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85976588.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85976588.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85976588.jpg"
+  }
+}

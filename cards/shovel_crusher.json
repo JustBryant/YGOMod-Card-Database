@@ -1,0 +1,16 @@
+{
+  "id": 71950093,
+  "name": "Shovel Crusher",
+  "type": "Normal Monster",
+  "description": "Armed with a pair of shovels, this monster will destroy anything that stands in its way.",
+  "attack": 900,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71950093.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71950093.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71950093.jpg"
+  }
+}

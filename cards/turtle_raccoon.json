@@ -1,0 +1,16 @@
+{
+  "id": 17441953,
+  "name": "Turtle Raccoon",
+  "type": "Normal Monster",
+  "description": "''A cunning raccoon protected by a solid turtle shell, it attacks with deception.''",
+  "attack": 700,
+  "defense": 900,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17441953.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17441953.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17441953.jpg"
+  }
+}

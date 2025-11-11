@@ -1,0 +1,12 @@
+{
+  "id": 66947414,
+  "name": "Boss Rush",
+  "type": "Spell Card",
+  "description": "You cannot Normal Summon or Set. During the End Phase of the turn that a \"B.E.S.\" monster or a \"Big Core\" is destroyed and sent to the Graveyard, you can Special Summon 1 \"B.E.S.\" monster or 1 \"Big Core\" from your Deck.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66947414.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66947414.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66947414.jpg"
+  }
+}

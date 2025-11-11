@@ -1,0 +1,16 @@
+{
+  "id": 29765339,
+  "name": "Watthydra",
+  "type": "Synchro Monster",
+  "description": "1 \"Watt\" Tuner + 1 or more non-Tuner Thunder-Type monsters\nThis card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack, choose 1 card in your Deck and remove it from play. Add that card to your hand during your 2nd Standby Phase after activating this effect.",
+  "attack": 1500,
+  "defense": 1500,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29765339.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29765339.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29765339.jpg"
+  }
+}

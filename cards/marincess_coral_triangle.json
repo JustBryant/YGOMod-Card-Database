@@ -1,0 +1,16 @@
+{
+  "id": 84546257,
+  "name": "Marincess Coral Triangle",
+  "type": "Link Monster",
+  "description": "2+ \"Marincess\" monsters\r\nYou can send 1 WATER monster from your hand to your GY; add 1 \"Marincess\" Trap from your Deck to your hand. If only your opponent controls a monster: You can banish this card from your GY; Special Summon WATER Link Monsters from your GY whose combined Link Ratings equal exactly 3. You can only use each effect of \"Marincess Coral Triangle\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except WATER monsters.",
+  "attack": 1500,
+  "defense": null,
+  "level": null,
+  "attribute": "WATER",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84546257.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84546257.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84546257.jpg"
+  }
+}

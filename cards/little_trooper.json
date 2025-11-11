@@ -1,0 +1,16 @@
+{
+  "id": 73702909,
+  "name": "Little Trooper",
+  "type": "Effect Monster",
+  "description": "If this card is destroyed by battle: You can Special Summon 1 Level 2 or lower Warrior-Type monster from your Deck in face-down Defense Position.",
+  "attack": 900,
+  "defense": 500,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73702909.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73702909.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73702909.jpg"
+  }
+}

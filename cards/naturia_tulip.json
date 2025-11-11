@@ -1,0 +1,16 @@
+{
+  "id": 70261145,
+  "name": "Naturia Tulip",
+  "type": "Tuner Monster",
+  "description": "While you control this face-up card, each time your opponent activates a Spell or Trap Card, all face-up \"Naturia\" monsters you control gain 500 ATK until the End Phase.",
+  "attack": 600,
+  "defense": 1500,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70261145.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70261145.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70261145.jpg"
+  }
+}

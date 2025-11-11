@@ -1,0 +1,16 @@
+{
+  "id": 50486289,
+  "name": "Amazoness War Chief",
+  "type": "Effect Monster",
+  "description": "If you control no monsters, or only \"Amazoness\" monsters: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can Set 1 \"Amazoness\" Spell/Trap or 1 \"Polymerization\" directly from your Deck, also you can only attack with \"Amazoness\" monsters for the rest of this turn. You can only use each effect of \"Amazoness War Chief\" once per turn.",
+  "attack": 1900,
+  "defense": 0,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50486289.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50486289.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50486289.jpg"
+  }
+}

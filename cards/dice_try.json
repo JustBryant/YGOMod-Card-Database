@@ -1,0 +1,12 @@
+{
+  "id": 59905358,
+  "name": "Dice Try!",
+  "type": "Trap Card",
+  "description": "When your opponent activates a Spell/Trap Card, or monster effect, that requires a dice roll: Negate the activation, and if you do, destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59905358.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59905358.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59905358.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 55885348,
+  "name": "Kozmo Dark Destroyer",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can target 1 monster on the field; destroy it. Cannot be targeted by an opponent's card effects. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 7 or lower \"Kozmo\" monster from your Deck.",
+  "attack": 3000,
+  "defense": 1800,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55885348.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55885348.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55885348.jpg"
+  }
+}

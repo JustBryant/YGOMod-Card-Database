@@ -1,0 +1,16 @@
+{
+  "id": 27324313,
+  "name": "Wattkid",
+  "type": "Normal Monster",
+  "description": "A creature that electrocutes opponents with bolts of lightning.",
+  "attack": 1000,
+  "defense": 500,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27324313.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27324313.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27324313.jpg"
+  }
+}

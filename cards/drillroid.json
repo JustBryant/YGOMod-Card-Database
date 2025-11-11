@@ -1,0 +1,16 @@
+{
+  "id": 71218746,
+  "name": "Drillroid",
+  "type": "Effect Monster",
+  "description": "Before damage calculation, if this card attacks a Defense Position monster: Destroy that monster.",
+  "attack": 1600,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71218746.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71218746.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71218746.jpg"
+  }
+}

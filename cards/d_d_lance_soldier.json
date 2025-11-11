@@ -1,0 +1,16 @@
+{
+  "id": 67322708,
+  "name": "D/D Lance Soldier",
+  "type": "Tuner Monster",
+  "description": "You can target 1 \"D/D\" monster you control; increase its Level by up to the number of \"Dark Contract\" cards in your field and GY. If this card is in your GY: You can target 1 \"Dark Contract\" card you control; destroy it, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"D/D Lance Soldier\" once per turn.",
+  "attack": 400,
+  "defense": 400,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67322708.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67322708.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67322708.jpg"
+  }
+}

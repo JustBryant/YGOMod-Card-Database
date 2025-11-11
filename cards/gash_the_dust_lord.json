@@ -1,0 +1,16 @@
+{
+  "id": 19012345,
+  "name": "Gash the Dust Lord",
+  "type": "Effect Monster",
+  "description": "When this card inflicts battle damage to your opponent: Increase the Level of this card by 1 (max. 12).",
+  "attack": 1000,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19012345.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19012345.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19012345.jpg"
+  }
+}

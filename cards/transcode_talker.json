@@ -1,0 +1,16 @@
+{
+  "id": 46947713,
+  "name": "Transcode Talker",
+  "type": "Link Monster",
+  "description": "2+ Effect Monsters\r\nWhile this card is co-linked, it and its co-linked monsters gain 500 ATK, also your opponent cannot target any of them with card effects. You can target 1 Link-3 or lower Cyberse Link Monster in your GY, except \"Transcode Talker\"; Special Summon it to your zone this card points to. You cannot Special Summon monsters the turn you activate this effect, except Cyberse monsters. You can only use this effect of \"Transcode Talker\" once per turn.",
+  "attack": 2300,
+  "defense": null,
+  "level": 0,
+  "attribute": "EARTH",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46947713.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46947713.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46947713.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 96565487,
+  "name": "Blizzard Warrior",
+  "type": "Effect Monster",
+  "description": "If this card destroys an opponent's monster by battle, look at the top card of their Deck, then return that card to either the top or the bottom of their Deck.",
+  "attack": 1400,
+  "defense": 400,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96565487.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96565487.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96565487.jpg"
+  }
+}

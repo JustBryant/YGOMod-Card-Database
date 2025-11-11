@@ -1,0 +1,16 @@
+{
+  "id": 51838385,
+  "name": "Theban Nightmare",
+  "type": "Effect Monster",
+  "description": "Gains 1500 ATK while you have no cards in your hand nor in your Spell & Trap Zones.",
+  "attack": 1500,
+  "defense": 500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51838385.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51838385.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51838385.jpg"
+  }
+}

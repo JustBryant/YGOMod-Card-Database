@@ -1,0 +1,16 @@
+{
+  "id": 44163252,
+  "name": "Valkyrie Sechste",
+  "type": "Effect Monster",
+  "description": "If this card is Special Summoned: You can Special Summon 1 \"Valkyrie\" monster from your Deck, except \"Valkyrie Sechste\". During your Main Phase: You can send the top 2 cards of your opponent's Deck to the GY. You can only use each effect of \"Valkyrie Sechste\" once per turn.",
+  "attack": 0,
+  "defense": 2000,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44163252.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44163252.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44163252.jpg"
+  }
+}

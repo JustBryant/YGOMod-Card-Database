@@ -1,0 +1,16 @@
+{
+  "id": 581014,
+  "name": "Daigusto Emeral",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 monsters\nOnce per turn: You can detach 1 material from this card, then activate 1 of these effects.\n● Target 3 monsters in your GY; shuffle all 3 into the Deck, then draw 1 card.\n● Target 1 non-Effect Monster in your GY; Special Summon that target.",
+  "attack": 1800,
+  "defense": 800,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/581014.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/581014.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/581014.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21615956,
+  "name": "Flamvell Guard",
+  "type": "Normal Tuner Monster",
+  "description": "A Flamvell guardian who commands fire with his will. His magma-hot barrier protects his troops from intruders.",
+  "attack": 100,
+  "defense": 2000,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21615956.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21615956.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21615956.jpg"
+  }
+}

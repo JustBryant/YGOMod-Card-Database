@@ -1,0 +1,16 @@
+{
+  "id": 25795273,
+  "name": "Al-Lumi'raj",
+  "type": "Tuner Monster",
+  "description": "All monsters on the field lose ATK and DEF equal to their own Level/Rank x 300.",
+  "attack": 1600,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25795273.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25795273.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25795273.jpg"
+  }
+}

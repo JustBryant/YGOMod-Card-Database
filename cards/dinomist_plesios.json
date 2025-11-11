@@ -1,0 +1,16 @@
+{
+  "id": 38988538,
+  "name": "Dinomist Plesios",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card(s) you control, then destroy this card.\n\n[ Monster Effect ] \nAll face-up monsters your opponent controls lose 100 ATK and DEF for each \"Dinomist\" card you control.",
+  "attack": 1700,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38988538.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38988538.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38988538.jpg"
+  }
+}

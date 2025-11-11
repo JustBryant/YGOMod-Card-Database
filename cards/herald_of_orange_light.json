@@ -1,0 +1,16 @@
+{
+  "id": 17266660,
+  "name": "Herald of Orange Light",
+  "type": "Tuner Monster",
+  "description": "When your opponent activates a monster effect (Quick Effect): You can send this card and 1 other Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it.",
+  "attack": 300,
+  "defense": 500,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17266660.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17266660.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17266660.jpg"
+  }
+}

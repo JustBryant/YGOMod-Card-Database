@@ -1,0 +1,12 @@
+{
+  "id": 18114794,
+  "name": "Summon Breaker",
+  "type": "Spell Card",
+  "description": "During Main Phase 1, if the turn player successfully conducts their third Summon of a monster(s) this turn: It becomes the End Phase.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18114794.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18114794.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18114794.jpg"
+  }
+}

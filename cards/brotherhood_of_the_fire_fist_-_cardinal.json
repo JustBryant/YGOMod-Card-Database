@@ -1,0 +1,16 @@
+{
+  "id": 58504745,
+  "name": "Brotherhood of the Fire Fist - Cardinal",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 \"Fire Fist\" monsters\r\nYou can detach 2 materials from this card, then target 2 \"Fire Fist\" / \"Fire Formation\" cards in your GY and/or face-up field, and 2 cards in your opponent's GY and/or face-up field; shuffle those targets into the Deck. You can only use this effect of \"Brotherhood of the Fire Fist - Cardinal\" once per turn.",
+  "attack": 1800,
+  "defense": 2200,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58504745.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58504745.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58504745.jpg"
+  }
+}

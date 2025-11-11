@@ -1,0 +1,16 @@
+{
+  "id": 6442944,
+  "name": "Kaiser Sea Snake",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). You can only Special Summon \"Kaiser Sea Snake\" once per turn this way. When Summoned this way: You can Special Summon 1 Level 8 Sea Serpent monster from your hand or GY, but its ATK/DEF become 0. If this card is Special Summoned, its Level becomes 4 and original ATK becomes 0.",
+  "attack": 2500,
+  "defense": 1000,
+  "level": 8,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6442944.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6442944.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6442944.jpg"
+  }
+}

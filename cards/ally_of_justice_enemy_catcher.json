@@ -1,0 +1,16 @@
+{
+  "id": 45033006,
+  "name": "Ally of Justice Enemy Catcher",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned, you can take control of 1 face-down Defense Position monster your opponent controls, until the End Phase of this turn.",
+  "attack": 1800,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45033006.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45033006.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45033006.jpg"
+  }
+}

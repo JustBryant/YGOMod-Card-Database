@@ -1,0 +1,16 @@
+{
+  "id": 80651316,
+  "name": "Evolsaur Cerato",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: It gains 200 ATK. If this card was Special Summoned by the effect of an \"Evoltile\" monster, each time this card destroys an opponent's monster by battle: You can add 1 \"Evoltile\" monster from your Deck to your hand.",
+  "attack": 1900,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80651316.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80651316.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80651316.jpg"
+  }
+}

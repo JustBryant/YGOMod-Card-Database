@@ -1,0 +1,16 @@
+{
+  "id": 73417207,
+  "name": "Mara of the Nordic Alfar",
+  "type": "Tuner Monster",
+  "description": "When using this card as Synchro Material, the other Synchro Materials must be 2 \"Nordic\" monsters in your hand.",
+  "attack": 1000,
+  "defense": 500,
+  "level": 2,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73417207.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73417207.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73417207.jpg"
+  }
+}

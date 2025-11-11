@@ -1,0 +1,12 @@
+{
+  "id": 45895206,
+  "name": "Dark-Piercing Light",
+  "type": "Spell Card",
+  "description": "Flip all face-down monsters on your opponent's side of the field face-up.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45895206.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45895206.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45895206.jpg"
+  }
+}

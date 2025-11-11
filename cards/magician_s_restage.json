@@ -1,0 +1,12 @@
+{
+  "id": 40252269,
+  "name": "Magician's Restage",
+  "type": "Spell Card",
+  "description": "You can target 1 Level 3 or lower Spellcaster-Type monster in your Graveyard; Special Summon it. This effect can only be used once while this card is face-up on the field. If this card is sent to the Graveyard: You can add 1 \"Magician\" Continuous Spell Card from your Deck to your hand, except \"Magician's Restage\".",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40252269.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40252269.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40252269.jpg"
+  }
+}

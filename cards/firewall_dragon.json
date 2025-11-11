@@ -1,0 +1,16 @@
+{
+  "id": 5043010,
+  "name": "Firewall Dragon",
+  "type": "Link Monster",
+  "description": "2+ monsters\r\nOnce while face-up on the field (Quick Effect): You can target monsters on the field and/or GY up to the number of monsters co-linked to this card; return them to the hand. If a monster this card points to is destroyed by battle or sent to the GY: You can Special Summon 1 Cyberse monster from your hand. You can only use each effect of \"Firewall Dragon\" once per turn.",
+  "attack": 2500,
+  "defense": null,
+  "level": null,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5043010.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5043010.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5043010.jpg"
+  }
+}

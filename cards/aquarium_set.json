@@ -1,0 +1,12 @@
+{
+  "id": 65446452,
+  "name": "Aquarium Set",
+  "type": "Spell Card",
+  "description": "All WATER monsters you control gain 300 ATK and DEF. All \"Aquaactress\" monsters you control gain 300 ATK and DEF. If this card is sent from the field to the Graveyard: You can target 1 Aqua-Type monster in your Graveyard; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Aqua-Type monsters.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65446452.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65446452.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65446452.jpg"
+  }
+}

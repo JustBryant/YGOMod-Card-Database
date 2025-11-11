@@ -1,0 +1,16 @@
+{
+  "id": 37261776,
+  "name": "Salamangreat Violet Chimera",
+  "type": "Fusion Monster",
+  "description": "1 \"Salamangreat\" monster + 1 Link Monster\r\nIf this card is Fusion Summoned: You can make this card gain ATK equal to half the combined original ATK of the materials used to Summon it, until the end of this turn. Once per battle, during damage calculation, if this monster battles a monster whose current ATK is different from its original ATK (Quick Effect): You can double this card's ATK during damage calculation only. If this card that was Fusion Summoned using \"Salamangreat Violet Chimera\" as material battles a monster, that monster's ATK becomes 0 during damage calculation only.",
+  "attack": 2800,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37261776.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37261776.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37261776.jpg"
+  }
+}

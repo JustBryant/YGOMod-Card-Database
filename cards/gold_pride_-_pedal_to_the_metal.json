@@ -1,0 +1,12 @@
+{
+  "id": 27275398,
+  "name": "Gold Pride - Pedal to the Metal!",
+  "type": "Spell Card",
+  "description": "Target 1 \"Gold Pride\" monster you control; until the end of this turn, it gains 500 ATK, it cannot be destroyed by battle or card effects, and it cannot activate its effects. During the End Phase, if a face-up \"Gold Pride\" monster(s) you control was destroyed by battle or card effect this turn: You can Set this card from your GY. You can only use this effect of \"Gold Pride - Pedal to the Metal!\" once per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27275398.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27275398.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27275398.jpg"
+  }
+}

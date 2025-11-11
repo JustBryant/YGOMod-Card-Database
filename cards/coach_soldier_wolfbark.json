@@ -1,0 +1,16 @@
+{
+  "id": 3534077,
+  "name": "Coach Soldier Wolfbark",
+  "type": "Effect Monster",
+  "description": "You can target 1 Level 4 FIRE Beast-Warrior-Type monster in your Graveyard; Special Summon it in face-up Defense Position. Its effects are negated. You can only use the effect of \"Coach Soldier Wolfbark\" once per turn.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3534077.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3534077.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3534077.jpg"
+  }
+}

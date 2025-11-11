@@ -1,0 +1,12 @@
+{
+  "id": 37576645,
+  "name": "Reckless Greed",
+  "type": "Trap Card",
+  "description": "Draw 2 cards and skip your next 2 Draw Phases.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37576645.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37576645.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37576645.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 68280530,
+  "name": "Royal Knight",
+  "type": "Effect Monster",
+  "description": "When this card destroys a monster by battle and sends it to the Graveyard, gain Life Points equal to the DEF of the destroyed monster.",
+  "attack": 1300,
+  "defense": 800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68280530.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68280530.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68280530.jpg"
+  }
+}

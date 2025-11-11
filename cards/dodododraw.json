@@ -1,0 +1,12 @@
+{
+  "id": 73866096,
+  "name": "Dodododraw",
+  "type": "Spell Card",
+  "description": "Send 1 \"Dododo\" monster from your hand or face-up from your side of the field to the Graveyard; draw 2 cards. You can only activate 1 \"Dodododraw\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73866096.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73866096.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73866096.jpg"
+  }
+}

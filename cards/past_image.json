@@ -1,0 +1,12 @@
+{
+  "id": 50292967,
+  "name": "Past Image",
+  "type": "Trap Card",
+  "description": "If you control a face-up Psychic-Type monster: Target 1 monster your opponent controls; banish it. During the next Standby Phase, it returns to the opponent's side of the field in the same Battle Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50292967.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50292967.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50292967.jpg"
+  }
+}

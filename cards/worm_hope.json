@@ -1,0 +1,16 @@
+{
+  "id": 11159464,
+  "name": "Worm Hope",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: When this card is flipped face-up by an opponent's monster's attack, draw 1 card.\nWhen this card is sent from the field to the Graveyard, send 1 card from your hand to the Graveyard.",
+  "attack": 800,
+  "defense": 1500,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11159464.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11159464.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11159464.jpg"
+  }
+}

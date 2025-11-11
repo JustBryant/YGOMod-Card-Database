@@ -1,0 +1,16 @@
+{
+  "id": 67750322,
+  "name": "Skull Meister",
+  "type": "Effect Monster",
+  "description": "When a card effect is activated in your opponent's GY (Quick Effect): You can send this card from your hand to the GY; negate that effect.",
+  "attack": 1700,
+  "defense": 400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67750322.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67750322.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67750322.jpg"
+  }
+}

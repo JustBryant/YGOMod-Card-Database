@@ -1,0 +1,16 @@
+{
+  "id": 70271583,
+  "name": "Karakuri Watchdog mdl 313 \"Saizan\"",
+  "type": "Tuner Monster",
+  "description": "This card must attack if able. When this face-up card is selected as an attack target, change its battle position. When you take Battle Damage from a battle involving this card, all face-up \"Karakuri\" monsters you control gain 800 ATK and DEF until the End Phase. While this card is in face-up Attack Position, it cannot be destroyed by battle.",
+  "attack": 600,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70271583.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70271583.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70271583.jpg"
+  }
+}

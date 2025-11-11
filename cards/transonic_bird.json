@@ -1,0 +1,16 @@
+{
+  "id": 34072799,
+  "name": "Transonic Bird",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with \"Sonic Tracker\". Once per turn: You can reveal 1 Ritual Spell in your hand, add 1 Ritual Monster from your Deck to your hand whose name is listed on that card, and if you do, shuffle the revealed card into the Deck. Once per opponent's turn (Quick Effect): You can send 1 Ritual Spell from your Deck to the GY; this effect becomes that card's effect that Ritual Summons a monster when the card is activated. If this Ritual Summoned card is Tributed: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn.",
+  "attack": 0,
+  "defense": 2400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34072799.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34072799.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34072799.jpg"
+  }
+}

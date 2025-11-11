@@ -1,17 +1,12 @@
 {
-  "id": 83764718,
+  "id": 83764719,
   "name": "Monster Reborn",
   "type": "Spell Card",
   "description": "Target 1 monster in either GY; Special Summon it.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/83764718.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/83764718.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83764718.jpg"
-  },
   "race": "Normal",
-  "banlist_info": {
-    "ban_tcg": "Limited",
-    "ban_ocg": "Limited",
-    "ban_goat": "Forbidden"
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83764719.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83764719.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83764719.jpg"
   }
 }

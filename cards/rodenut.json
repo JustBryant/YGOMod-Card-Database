@@ -1,0 +1,16 @@
+{
+  "id": 13478040,
+  "name": "Rodenut",
+  "type": "Effect Monster",
+  "description": "Each time your opponent Special Summons a monster(s), place 1 Nut Counter on this card. You can remove 1 Nut Counter from this card to target 1 monster your opponent controls; destroy that target.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13478040.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13478040.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13478040.jpg"
+  }
+}

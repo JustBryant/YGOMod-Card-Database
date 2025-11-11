@@ -1,0 +1,12 @@
+{
+  "id": 57433966,
+  "name": "Danger! Excitement! Mystery!",
+  "type": "Spell Card",
+  "description": "Discard 1 Level 5 or higher \"Danger!\" monster; add 1 Level 4 or lower \"Danger!\" monster from your Deck to your hand. You cannot Special Summon monsters for the rest of this turn after this card resolves, except \"Danger!\" monsters. You can only activate 1 \"Danger! Excitement! Mystery!\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57433966.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57433966.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57433966.jpg"
+  }
+}

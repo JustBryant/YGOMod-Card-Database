@@ -1,0 +1,16 @@
+{
+  "id": 13529466,
+  "name": "Invoked Caliga",
+  "type": "Fusion Monster",
+  "description": "\"Aleister the Invoker\" + 1 DARK monster\r\nIf a player's monster effect attempts to activate, none of that player's monsters can activate their effects for the rest of this turn while this card is face-up on the field. Each player can attack with only 1 monster during each Battle Phase.",
+  "attack": 1000,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13529466.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13529466.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13529466.jpg"
+  }
+}

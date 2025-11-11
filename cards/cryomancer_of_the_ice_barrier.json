@@ -1,0 +1,16 @@
+{
+  "id": 23950192,
+  "name": "Cryomancer of the Ice Barrier",
+  "type": "Tuner Monster",
+  "description": "While you control another \"Ice Barrier\" monster, Level 4 or higher monsters cannot declare an attack.",
+  "attack": 1300,
+  "defense": 0,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23950192.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23950192.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23950192.jpg"
+  }
+}

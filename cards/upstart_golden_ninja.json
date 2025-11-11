@@ -1,0 +1,16 @@
+{
+  "id": 58911105,
+  "name": "Upstart Golden Ninja",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can send 1 Trap from your hand to the GY; Special Summon 1 Level 4 or lower \"Ninja\" monster from your Deck in face-up Defense Position or face-down Defense Position.",
+  "attack": 500,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58911105.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58911105.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58911105.jpg"
+  }
+}

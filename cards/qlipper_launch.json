@@ -1,0 +1,12 @@
+{
+  "id": 30845999,
+  "name": "Qlipper Launch",
+  "type": "Trap Card",
+  "description": "Until the end of this turn, all Normal Summoned/Set \"Qli\" monsters currently on the field gain 300 ATK, but are unaffected by other Spell/Trap effects, also their effects are negated.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30845999.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30845999.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30845999.jpg"
+  }
+}

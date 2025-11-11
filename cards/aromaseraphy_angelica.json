@@ -1,0 +1,16 @@
+{
+  "id": 16759958,
+  "name": "Aromaseraphy Angelica",
+  "type": "Tuner Monster",
+  "description": "During either player's turn: You can discard this card, then target 1 \"Aroma\" monster in your Graveyard; gain LP equal to that target's ATK. While your LP is higher than your opponent's, you control an \"Aroma\" monster, and this card is in your Graveyard: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Aromaseraphy Angelica\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16759958.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16759958.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16759958.jpg"
+  }
+}

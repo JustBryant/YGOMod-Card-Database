@@ -1,0 +1,12 @@
+{
+  "id": 72648810,
+  "name": "Unwavering Bond",
+  "type": "Trap Card",
+  "description": "When your opponent activates a Pendulum Monster's effect, or an effect of a card in the Pendulum Zone: Negate the activation, and if you do, banish that card.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72648810.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72648810.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72648810.jpg"
+  }
+}

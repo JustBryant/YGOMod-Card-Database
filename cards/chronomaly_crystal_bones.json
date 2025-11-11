@@ -1,0 +1,16 @@
+{
+  "id": 15941690,
+  "name": "Chronomaly Crystal Bones",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). When you do: You can Special Summon 1 \"Chronomaly\" monster from your hand or Graveyard, except \"Chronomaly Crystal Bones\".",
+  "attack": 1300,
+  "defense": 400,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15941690.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15941690.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15941690.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19182751,
+  "name": "Genex Neutron",
+  "type": "Effect Monster",
+  "description": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: You can add 1 Machine-Type Tuner monster from your Deck to your hand.",
+  "attack": 1800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19182751.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19182751.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19182751.jpg"
+  }
+}

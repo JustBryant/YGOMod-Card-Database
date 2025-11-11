@@ -1,0 +1,12 @@
+{
+  "id": 30459350,
+  "name": "Imperial Iron Wall",
+  "type": "Trap Card",
+  "description": "Neither player can banish cards.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30459350.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30459350.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30459350.jpg"
+  }
+}

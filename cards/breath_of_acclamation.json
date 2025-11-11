@@ -1,0 +1,12 @@
+{
+  "id": 44221928,
+  "name": "Breath of Acclamation",
+  "type": "Spell Card",
+  "description": "This card can be used to Ritual Summon any WIND Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.",
+  "race": "Ritual",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44221928.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44221928.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44221928.jpg"
+  }
+}

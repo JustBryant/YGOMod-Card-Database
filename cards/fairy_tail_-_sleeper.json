@@ -1,0 +1,16 @@
+{
+  "id": 42921475,
+  "name": "Fairy Tail - Sleeper",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: You can Special Summon 1 monster from your hand.\r\nWhen your opponent activates a Normal Spell/Trap Card (Quick Effect): You can Tribute 1 other monster; the activated effect becomes \"Change 1 face-up monster your opponent controls to face-down Defense Position\". You can only use this effect of \"Fairy Tail - Sleeper\" once per turn.",
+  "attack": 1850,
+  "defense": 1000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42921475.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42921475.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42921475.jpg"
+  }
+}

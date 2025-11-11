@@ -1,0 +1,12 @@
+{
+  "id": 22414174,
+  "name": "Synchro Creed",
+  "type": "Spell Card",
+  "description": "If a Synchro Monster is on the field: Draw 1 card, then, if 3 or more Synchro Monsters are on the field, you can draw 1 more card. You can only activate 1 \"Synchro Creed\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22414174.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22414174.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22414174.jpg"
+  }
+}

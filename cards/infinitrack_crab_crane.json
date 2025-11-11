@@ -1,0 +1,16 @@
+{
+  "id": 98439949,
+  "name": "Infinitrack Crab Crane",
+  "type": "Effect Monster",
+  "description": "You can Tribute 1 EARTH Machine monster; Special Summon this card from your hand in Defense Position. You can banish 1 Machine monster from your GY; add 1 \"Outrigger Extension\" from your Deck to your hand. You can only use each effect of \"Infinitrack Crab Crane\" once per turn.",
+  "attack": 2100,
+  "defense": 500,
+  "level": 5,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98439949.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98439949.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98439949.jpg"
+  }
+}

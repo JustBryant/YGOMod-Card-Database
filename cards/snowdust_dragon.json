@@ -1,0 +1,16 @@
+{
+  "id": 67675300,
+  "name": "Snowdust Dragon",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by removing 4 Ice Counters from anywhere on the field. Other monsters with Ice Counters cannot attack or change their battle positions.",
+  "attack": 2800,
+  "defense": 1800,
+  "level": 8,
+  "attribute": "WATER",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67675300.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67675300.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67675300.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 75195825,
+  "name": "Master Pendulum, the Dracoslayer",
+  "type": "Pendulum Normal Monster",
+  "description": "[ Pendulum Effect ] \nOnce, while this card is in your Pendulum Zone: You can target 1 card in a Pendulum Zone; destroy it.\n\n[ Monster Effect ] \n''\"Luster Pendulum, the Dracoslayer\" continues his journey to uncover the secrets of Dragon Alchemy, believing it is the key to dispelling his curse and restoring his memory. His power continues to grow... perhaps the same power used by the Dracofiends?''",
+  "attack": 1950,
+  "defense": 0,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75195825.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75195825.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75195825.jpg"
+  }
+}

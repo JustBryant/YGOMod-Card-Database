@@ -1,0 +1,12 @@
+{
+  "id": 54120521,
+  "name": "The Legend of Tickets",
+  "type": "Spell Card",
+  "description": "Target 1 card in your GY; place it on top of the Deck during the End Phase of this turn, also draw 2 cards instead of 1 for your normal draw during your next Draw Phase. You can only activate 1 \"The Legend of Tickets\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54120521.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54120521.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54120521.jpg"
+  }
+}

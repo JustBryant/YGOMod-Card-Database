@@ -1,0 +1,12 @@
+{
+  "id": 49010598,
+  "name": "Divine Wrath",
+  "type": "Trap Card",
+  "description": "When a monster effect is activated: Discard 1 card; negate the activation, and if you do, destroy that monster.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49010598.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49010598.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49010598.jpg"
+  }
+}

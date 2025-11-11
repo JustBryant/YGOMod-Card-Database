@@ -1,0 +1,12 @@
+{
+  "id": 63166095,
+  "name": "Sky Striker Mobilize - Engage!",
+  "type": "Spell Card",
+  "description": "If you control no monsters in your Main Monster Zone: Add 1 \"Sky Striker\" card from your Deck to your hand, except \"Sky Striker Mobilize - Engage!\", then, if you have 3 or more Spells in your GY, you can draw 1 card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63166095.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63166095.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63166095.jpg"
+  }
+}

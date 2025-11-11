@@ -1,0 +1,16 @@
+{
+  "id": 74968065,
+  "name": "Hecatrice",
+  "type": "Effect Monster",
+  "description": "You can discard this card to the GY; add 1 \"Valhalla, Hall of the Fallen\" from your Deck to your hand.",
+  "attack": 1500,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74968065.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74968065.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74968065.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 73309655,
+  "name": "Eria the Water Charmer, Gentle",
+  "type": "Link Monster",
+  "description": "2 monsters, including a WATER monster\r\n(This card is always treated as a \"Familiar-Possessed\" card.)\r\nYou can target 1 WATER monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 WATER monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Eria the Water Charmer, Gentle\" once per turn.",
+  "attack": 1850,
+  "defense": null,
+  "level": null,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73309655.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73309655.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73309655.jpg"
+  }
+}

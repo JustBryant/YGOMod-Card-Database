@@ -1,0 +1,12 @@
+{
+  "id": 300302005,
+  "name": "Fury of Thunder",
+  "type": "Skill Card",
+  "description": "Activate the following Skill(s).\r\n● During your Main Phase, while you control \"Slifer the Sky Dragon\", draw until you have 4 cards in your hand.\r\n● If \"Slifer the Sky Dragon\" is sent to the GY, you can shuffle it back into your Deck.\r\nEach of these Skills can only be used once per Duel.",
+  "race": "Yami Yugi",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300302005.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300302005.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300302005.jpg"
+  }
+}

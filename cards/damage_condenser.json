@@ -1,0 +1,12 @@
+{
+  "id": 28378427,
+  "name": "Damage Condenser",
+  "type": "Trap Card",
+  "description": "When you take battle damage: Discard 1 card; Special Summon 1 monster from your Deck with ATK less than or equal to the battle damage you took, in face-up Attack Position.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28378427.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28378427.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28378427.jpg"
+  }
+}

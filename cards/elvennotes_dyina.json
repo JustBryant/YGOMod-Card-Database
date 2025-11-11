@@ -1,0 +1,16 @@
+{
+  "id": 59581480,
+  "name": "Elvennotes Dyina",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) to your center Main Monster Zone. You can only Special Summon \"Elvennotes Dyina\" once per turn this way. You can only use each of the following effects of \"Elvennotes Dyina\" once per turn. During your Main Phase: You can place 1 \"Elvennotes\" Continuous Spell from your Deck face-up on your field. During your opponent's turn (Quick Effect): You can switch the locations of this card in your Main Monster Zone and the monster in your center Main Monster Zone, then you can banish 1 random card from your opponent's hand face-up until the End Phase.",
+  "attack": 2400,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59581480.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59581480.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59581480.jpg"
+  }
+}

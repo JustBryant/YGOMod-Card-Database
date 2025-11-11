@@ -1,0 +1,16 @@
+{
+  "id": 14462257,
+  "name": "Ice Queen",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned from the GY. When this face-up card you control is destroyed and sent to your GY: You can target 1 Spell in your GY; add that target to your hand. You must have 3 or more Spellcaster monsters in your GY to activate and to resolve this effect.",
+  "attack": 2900,
+  "defense": 2100,
+  "level": 8,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14462257.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14462257.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14462257.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 58330108,
+  "name": "Gigarays Gandora the Dragon of Destruction",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 2 other monsters from your hand and/or field to the GY. Gains 300 ATK for each banished card. Once per turn: You can pay half your LP; apply 1 of these effects, depending on the number of \"Gandora\" monsters with different names in your GY.\r\n● 1: Destroy all other cards on the field.\r\n● 2: Banish all other cards on the field.\r\n● 3+: Banish all other cards on the field and in the GYs.",
+  "attack": 0,
+  "defense": 0,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58330108.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58330108.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58330108.jpg"
+  }
+}

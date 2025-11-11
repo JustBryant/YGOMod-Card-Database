@@ -1,0 +1,12 @@
+{
+  "id": 49669730,
+  "name": "Water Hazard",
+  "type": "Spell Card",
+  "description": "Once per turn: You can Special Summon 1 Level 4 or lower WATER monster from your hand. You must control no monsters to activate and to resolve this effect.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49669730.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49669730.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49669730.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 81059524,
+  "name": "Des Volstgalph",
+  "type": "Effect Monster",
+  "description": "If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 500 damage to your opponent. Each time a Normal or Quick-Play Spell Card resolves, this card gains 200 ATK until the end of this turn.",
+  "attack": 2200,
+  "defense": 1700,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81059524.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81059524.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81059524.jpg"
+  }
+}

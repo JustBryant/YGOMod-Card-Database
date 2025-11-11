@@ -1,0 +1,16 @@
+{
+  "id": 78751195,
+  "name": "Doshin @Ignister",
+  "type": "Effect Monster",
+  "description": "If you control an \"@Ignister\" monster: You can Special Summon this card from your hand. You can target 1 Cyberse Link Monster in your GY; return it to the Extra Deck, and if you do, add 1 \"A.I. Love Fusion\" from your Deck to your hand. You can only use each effect of \"Doshin @Ignister\" once per turn.",
+  "attack": 100,
+  "defense": 800,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78751195.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78751195.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78751195.jpg"
+  }
+}

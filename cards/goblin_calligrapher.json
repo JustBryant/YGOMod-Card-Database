@@ -1,0 +1,16 @@
+{
+  "id": 12057781,
+  "name": "Goblin Calligrapher",
+  "type": "Normal Monster",
+  "description": "A Goblin who devotes himself to mastering perfect calligraphy of the word \"False\". He gives his all to each stroke.",
+  "attack": 400,
+  "defense": 400,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12057781.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12057781.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12057781.jpg"
+  }
+}

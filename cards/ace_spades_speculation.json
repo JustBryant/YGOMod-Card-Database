@@ -1,0 +1,16 @@
+{
+  "id": 10796448,
+  "name": "Ace★Spades Speculation",
+  "type": "Fusion Monster",
+  "description": "1 monster with 2500 or more ATK + 1 face-down Defense Position monster with 2500 or less DEF\r\nYou can only Special Summon \"Ace★Spades Speculation(s)\" once per turn. You can Tribute 1 Attack Position monster and 1 face-down Defense Position monster; Special Summon this card from your GY. This card gains the following effect based on its battle position.\r\n● Attack Position: Gains ATK equal to the highest original ATK among monsters your opponent controls (your choice, if tied).\r\n● Defense Position: Cannot be destroyed by battle or card effects.",
+  "attack": 2500,
+  "defense": 2500,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10796448.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10796448.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10796448.jpg"
+  }
+}

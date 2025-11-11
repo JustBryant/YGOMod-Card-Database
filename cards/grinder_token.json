@@ -1,0 +1,12 @@
+{
+  "id": 75732623,
+  "name": "Grinder Token",
+  "type": "Token",
+  "description": "This card can be used as a \"Grinder Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75732623.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75732623.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75732623.jpg"
+  }
+}

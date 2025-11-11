@@ -1,0 +1,16 @@
+{
+  "id": 11609969,
+  "name": "D/D Savant Kepler",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once per turn, during your Standby Phase: Reduce this card's Pendulum Scale by 2 (min. 1), then destroy all monsters you control with a Level greater than or equal to this card's Pendulum Scale, except \"D/D\" monsters.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can activate 1 of these effects. You can only use this effect of \"D/D Savant Kepler\" once per turn.\r\n● Target 1 other \"D/D\" card you control; return it to the hand.\r\n● Add 1 \"Dark Contract\" card from your Deck to your hand.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11609969.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11609969.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11609969.jpg"
+  }
+}

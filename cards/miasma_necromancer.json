@@ -1,0 +1,16 @@
+{
+  "id": 69176851,
+  "name": "Miasma Necromancer",
+  "type": "Link Monster",
+  "description": "2 monsters, including a DARK Spellcaster monster\r\nIf this card is Link Summoned: You can add 1 Level 5 or higher DARK Spellcaster monster from your GY to your hand, but you cannot activate cards, or the effects of cards, with its name for the rest of this turn. You can send 1 Spell/Trap from your hand or field to the GY; immediately after this effect resolves, Normal Summon 1 Spellcaster monster. You can only use each effect of \"Miasma Necromancer\" once per turn.",
+  "attack": 1800,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69176851.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69176851.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69176851.jpg"
+  }
+}

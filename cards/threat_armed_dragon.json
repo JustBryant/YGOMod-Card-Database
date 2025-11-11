@@ -1,0 +1,16 @@
+{
+  "id": 49181828,
+  "name": "Threat Armed Dragon",
+  "type": "Effect Monster",
+  "description": "If this card is in your GY: You can target 1 Dragon monster you control; destroy it, and if you do, Special Summon this card. You can discard 1 card, then target 1 monster on the field with 2400 or less ATK; destroy it, then if you destroyed a monster you control, you can Special Summon 1 Dragon monster from your hand or Deck whose original Level is 2 higher than the destroyed monster. You can only use each effect of \"Threat Armed Dragon\" once per turn.",
+  "attack": 2400,
+  "defense": 1700,
+  "level": 5,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49181828.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49181828.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49181828.jpg"
+  }
+}

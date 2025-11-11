@@ -1,0 +1,12 @@
+{
+  "id": 40605147,
+  "name": "Solemn Strike",
+  "type": "Trap Card",
+  "description": "When a monster(s) would be Special Summoned, OR a monster effect is activated: Pay 1500 LP; negate the Summon or activation, and if you do, destroy that card.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40605147.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40605147.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40605147.jpg"
+  }
+}

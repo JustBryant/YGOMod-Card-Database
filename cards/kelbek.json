@@ -1,0 +1,16 @@
+{
+  "id": 54878498,
+  "name": "Kelbek",
+  "type": "Effect Monster",
+  "description": "A monster that attacks this card returns to the hand. Damage calculation is applied normally.",
+  "attack": 1500,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54878498.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54878498.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54878498.jpg"
+  }
+}

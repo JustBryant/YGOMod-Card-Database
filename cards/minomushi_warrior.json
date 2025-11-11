@@ -1,0 +1,16 @@
+{
+  "id": 46864967,
+  "name": "Minomushi Warrior",
+  "type": "Normal Monster",
+  "description": "''A rock warrior that wields a heavy blade carved from stone.''",
+  "attack": 1300,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46864967.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46864967.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46864967.jpg"
+  }
+}

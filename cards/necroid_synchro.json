@@ -1,0 +1,12 @@
+{
+  "id": 26194151,
+  "name": "Necroid Synchro",
+  "type": "Spell Card",
+  "description": "Banish 1 Tuner and up to 2 non-Tuner monsters from your Graveyard, and if you do, Special Summon 1 \"Stardust\" Synchro Monster from your Extra Deck whose Level equals the total Levels of those banished monsters, but it has its effects negated. (This Special Summon is treated as a Synchro Summon.)",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/26194151.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/26194151.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/26194151.jpg"
+  }
+}

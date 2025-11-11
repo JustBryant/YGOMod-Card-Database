@@ -1,0 +1,12 @@
+{
+  "id": 17874674,
+  "name": "Seal of Wickedness",
+  "type": "Trap Card",
+  "description": "Once per turn, during your opponent's Standby Phase, select 1 face-up card on the field. The selected card's effect(s) is negated during that turn. During each of your Standby Phases, pay 500 Life Points or destroy this card.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17874674.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17874674.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17874674.jpg"
+  }
+}

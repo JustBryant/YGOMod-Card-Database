@@ -1,0 +1,12 @@
+{
+  "id": 13301895,
+  "name": "Fallen Paradise",
+  "type": "Spell Card",
+  "description": "Your opponent cannot target \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\", or \"Armityle the Chaos Phantom\" in your Monster Zones with card effects, also those monsters cannot be destroyed by your opponent's card effects while you control them. If you control \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\" or \"Armityle the Chaos Phantom\" in your Monster Zone: You can draw 2 cards. You can only use this effect of \"Fallen Paradise\" once per turn.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13301895.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13301895.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13301895.jpg"
+  }
+}

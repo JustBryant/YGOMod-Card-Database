@@ -1,0 +1,12 @@
+{
+  "id": 56433456,
+  "name": "The Sanctuary in the Sky",
+  "type": "Spell Card",
+  "description": "Battle damage to the controller of a Fairy monster from a battle involving that monster becomes 0.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56433456.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56433456.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56433456.jpg"
+  }
+}

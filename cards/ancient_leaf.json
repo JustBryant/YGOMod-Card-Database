@@ -1,0 +1,12 @@
+{
+  "id": 11830996,
+  "name": "Ancient Leaf",
+  "type": "Spell Card",
+  "description": "If you have 9000 or more Life Points, you can pay 2000 Life Points to draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11830996.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11830996.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11830996.jpg"
+  }
+}

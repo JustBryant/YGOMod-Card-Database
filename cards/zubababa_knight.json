@@ -1,0 +1,16 @@
+{
+  "id": 62006866,
+  "name": "Zubababa Knight",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can activate 1 of these effects;\r\n● Add 1 \"Zubaba\" monster from your Deck to your hand, except \"Zubababa Knight\". This card's Level becomes that added monster's Level.\r\n● Destroy 1 Level 4 or lower Defense Position monster your opponent controls.\r\nIf this card is detached from an Xyz Monster to activate that monster's effect: You can add 1 \"Gagaga\" monster from your Deck to your hand. You can only use each effect of \"Zubababa Knight\" once per turn.",
+  "attack": 1600,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62006866.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62006866.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62006866.jpg"
+  }
+}

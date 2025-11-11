@@ -1,0 +1,16 @@
+{
+  "id": 98642179,
+  "name": "Ferocious Flame Swordsman",
+  "type": "Link Monster",
+  "description": "2 monsters with different names\r\nAll Warrior monsters on the field gain 500 ATK. If this Link Summoned card is destroyed by battle, or by an opponent's card effect while in its owner's Monster Zone: You can target 1 non-Link Warrior monster in your GY; Special Summon it, but banish it when it leaves the field. You can only use this effect of \"Ferocious Flame Swordsman\" once per turn.",
+  "attack": 1300,
+  "defense": null,
+  "level": null,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98642179.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98642179.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98642179.jpg"
+  }
+}

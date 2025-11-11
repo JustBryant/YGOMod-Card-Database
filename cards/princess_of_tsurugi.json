@@ -1,0 +1,16 @@
+{
+  "id": 51371017,
+  "name": "Princess of Tsurugi",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Inflict 500 damage to your opponent for each Spell and Trap Card on your opponent's side of the field.",
+  "attack": 900,
+  "defense": 700,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51371017.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51371017.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51371017.jpg"
+  }
+}

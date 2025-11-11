@@ -1,0 +1,12 @@
+{
+  "id": 74983882,
+  "name": "Maize Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Sweet Corn\".",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74983882.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74983882.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74983882.jpg"
+  }
+}

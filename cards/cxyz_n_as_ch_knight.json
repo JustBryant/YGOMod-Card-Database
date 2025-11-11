@@ -1,0 +1,16 @@
+{
+  "id": 61374414,
+  "name": "CXyz N.As.Ch. Knight",
+  "type": "XYZ Monster",
+  "description": "3 Level 6 monsters\r\nYou can also Xyz Summon this card by using \"N.As.H. Knight\" you control. (Transfer its materials to this card.) Cannot be destroyed by card effects. You can detach 1 material from this card; Special Summon from your Extra Deck, 1 \"Number\" Xyz Monster that has a number between \"101\" and \"107\" in its name, using this face-up card you control as material, but destroy it during your opponent's next End Phase. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only use this effect of \"CXyz N.As.Ch. Knight\" once per turn.",
+  "attack": 2000,
+  "defense": 3000,
+  "level": 6,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61374414.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61374414.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61374414.jpg"
+  }
+}

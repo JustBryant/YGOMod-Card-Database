@@ -1,0 +1,16 @@
+{
+  "id": 82556058,
+  "name": "Fiendish Engine Omega",
+  "type": "Effect Monster",
+  "description": "During your End Phase: Special Summon 1 \"Engine Token\" (Machine-Type/EARTH/Level 1/ATK 200/DEF 200) in Attack Position. Once per turn: You can have this card gain 1000 ATK until the End Phase. During the End Phase, if this effect of this card was used: Destroy this card.",
+  "attack": 2800,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82556058.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82556058.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82556058.jpg"
+  }
+}

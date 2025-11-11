@@ -1,0 +1,16 @@
+{
+  "id": 49881766,
+  "name": "Archfiend Soldier",
+  "type": "Normal Monster",
+  "description": "An expert at battle who belongs to a crack diabolical unit. He's famous because he always gets the job done.",
+  "attack": 1900,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49881766.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49881766.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49881766.jpg"
+  }
+}

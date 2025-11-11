@@ -1,0 +1,16 @@
+{
+  "id": 16923472,
+  "name": "Wind-Up Hunter",
+  "type": "Effect Monster",
+  "description": "You can Tribute 1 face-up \"Wind-Up\" monster, except \"Wind-Up Hunter\"; send 1 random card from your opponent's hand to the Graveyard. This effect can only be used once while this card is face-up on the field.",
+  "attack": 1600,
+  "defense": 500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16923472.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16923472.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16923472.jpg"
+  }
+}

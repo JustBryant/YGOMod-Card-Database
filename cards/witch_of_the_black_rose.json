@@ -1,0 +1,16 @@
+{
+  "id": 17720747,
+  "name": "Witch of the Black Rose",
+  "type": "Tuner Monster",
+  "description": "Cannot be Special Summoned. If this card is Normal Summoned, and you control no other cards: Draw 1 card and show it, then, if it is not a monster, send it to the GY, also destroy this card.",
+  "attack": 1700,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/17720747.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/17720747.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/17720747.jpg"
+  }
+}

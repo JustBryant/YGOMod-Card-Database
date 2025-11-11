@@ -1,0 +1,16 @@
+{
+  "id": 43138260,
+  "name": "Xyz Remora",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by detaching 2 Xyz Materials from monster(s) you control. When you do: You can target 2 Level 4 Fish-Type monsters in your Graveyard; Special Summon those targets in face-up Defense Position. Their effects are negated, they cannot attack or change their battle positions, and cannot be used as Xyz Material for an Xyz Summon, except for the Xyz Summon of a WATER monster.",
+  "attack": 800,
+  "defense": 800,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43138260.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43138260.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43138260.jpg"
+  }
+}

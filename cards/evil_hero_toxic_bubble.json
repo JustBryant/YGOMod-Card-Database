@@ -1,0 +1,16 @@
+{
+  "id": 3598351,
+  "name": "Evil HERO Toxic Bubble",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand), but you cannot Special Summon for the rest of this turn, except \"HERO\" monsters. You can only Special Summon \"Evil HERO Toxic Bubble\" once per turn this way. If this card is Special Summoned, and you control a Fusion Monster that must be Special Summoned with \"Dark Fusion\": You can draw 2 cards. You can only use this effect of \"Evil HERO Toxic Bubble\" once per turn.",
+  "attack": 800,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3598351.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3598351.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3598351.jpg"
+  }
+}

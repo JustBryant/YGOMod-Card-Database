@@ -1,0 +1,12 @@
+{
+  "id": 62437430,
+  "name": "Different Dimension Deepsea Trench",
+  "type": "Spell Card",
+  "description": "When this card resolves: Banish 1 WATER monster from your hand, Graveyard, or face-up on your field. Then, when this face-up card on the field is destroyed: Special Summon that banished monster to your side of the field.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62437430.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62437430.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62437430.jpg"
+  }
+}

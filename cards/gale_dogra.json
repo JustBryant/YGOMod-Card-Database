@@ -1,0 +1,16 @@
+{
+  "id": 16229315,
+  "name": "Gale Dogra",
+  "type": "Effect Monster",
+  "description": "You can pay 3000 Life Points to send 1 monster from your Extra Deck to the Graveyard.",
+  "attack": 650,
+  "defense": 600,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16229315.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16229315.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16229315.jpg"
+  }
+}

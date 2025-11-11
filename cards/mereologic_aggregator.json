@@ -1,0 +1,16 @@
+{
+  "id": 9940036,
+  "name": "Mereologic Aggregator",
+  "type": "XYZ Monster",
+  "description": "2+ Level 9 monsters\r\nIf this card is Xyz Summoned: You can send 1 monster from your Extra Deck to the GY. You can target monsters in your GY, up to the number of materials this card has; detach materials from this card equal to the number of those targets in the GY, and if you do, attach those targets to this card as material. If this card is sent to the GY: You can target 1 face-up card on the field; negate its effects until the end of this turn. You can only use each effect of \"Mereologic Aggregator\" once per turn.",
+  "attack": 2600,
+  "defense": 3000,
+  "level": 9,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9940036.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9940036.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9940036.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 92807548,
+  "name": "Darklord Ukoback",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can send 1 \"Darklord\" card from your Deck to the Graveyard. You can only use this effect of \"Darklord Ukoback\" once per turn.",
+  "attack": 700,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92807548.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92807548.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92807548.jpg"
+  }
+}

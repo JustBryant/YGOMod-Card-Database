@@ -1,0 +1,12 @@
+{
+  "id": 33184236,
+  "name": "Karakuri Trick House",
+  "type": "Trap Card",
+  "description": "Activate only when the battle position of a face-up \"Karakuri\" monster you control is changed. Select 1 card on the field, and destroy it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33184236.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33184236.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33184236.jpg"
+  }
+}

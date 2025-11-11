@@ -1,0 +1,16 @@
+{
+  "id": 62403074,
+  "name": "Rhaimundos of the Red Sword",
+  "type": "Normal Monster",
+  "description": "Armed with the Sword of Crimson Flames, this warrior can bind a monster with fiery restraints.",
+  "attack": 1200,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62403074.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62403074.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62403074.jpg"
+  }
+}

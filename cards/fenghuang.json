@@ -1,0 +1,16 @@
+{
+  "id": 50866755,
+  "name": "Fenghuang",
+  "type": "Spirit Monster",
+  "description": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: Destroy all Set Spell/Trap Cards your opponent controls.",
+  "attack": 2100,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50866755.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50866755.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50866755.jpg"
+  }
+}

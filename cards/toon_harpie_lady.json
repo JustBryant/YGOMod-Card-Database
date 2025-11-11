@@ -1,0 +1,16 @@
+{
+  "id": 64116319,
+  "name": "Toon Harpie Lady",
+  "type": "Toon Monster",
+  "description": "Cannot attack the turn it is Summoned. If you control \"Toon World\": You can Special Summon this card from your hand, then, if you control another Toon monster, you can destroy 1 Spell/Trap your opponent controls. You can only use this effect of \"Toon Harpie Lady\" once per turn. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack directly.",
+  "attack": 1300,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64116319.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64116319.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64116319.jpg"
+  }
+}

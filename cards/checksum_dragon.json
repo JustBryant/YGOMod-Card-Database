@@ -1,0 +1,16 @@
+{
+  "id": 94136469,
+  "name": "Checksum Dragon",
+  "type": "Effect Monster",
+  "description": "When an opponent's monster declares an attack: You can Special Summon this card from your hand, then, gain LP equal to half this card's DEF. This Attack Position card cannot be destroyed by battle.",
+  "attack": 400,
+  "defense": 2400,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94136469.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94136469.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94136469.jpg"
+  }
+}

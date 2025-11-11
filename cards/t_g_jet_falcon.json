@@ -1,0 +1,16 @@
+{
+  "id": 37300735,
+  "name": "T.G. Jet Falcon",
+  "type": "Tuner Monster",
+  "description": "If this card is sent to the Graveyard as a Synchro Material: Inflict 500 damage to your opponent.",
+  "attack": 1400,
+  "defense": 1200,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37300735.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37300735.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37300735.jpg"
+  }
+}

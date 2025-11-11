@@ -1,0 +1,12 @@
+{
+  "id": 70389815,
+  "name": "Amazing Time Ticket",
+  "type": "Spell Card",
+  "description": "Pay 800 LP; apply this effect, depending whose turn it is.\r\n● Your turn: Add 1 \"Amazement\" card from your Deck to your hand.\r\n● Your opponent's turn: Set 1 \"Attraction\" Trap directly from your Deck. It can be activated this turn.\r\nYou can only activate 1 \"Amazing Time Ticket\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70389815.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70389815.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70389815.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 97806240,
+  "name": "Forced Ceasefire",
+  "type": "Trap Card",
+  "description": "Discard 1 card from your hand. No Trap Cards can be activated until the end of this turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97806240.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97806240.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97806240.jpg"
+  }
+}

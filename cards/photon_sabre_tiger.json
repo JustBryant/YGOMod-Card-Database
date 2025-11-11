@@ -1,0 +1,16 @@
+{
+  "id": 80495985,
+  "name": "Photon Sabre Tiger",
+  "type": "Effect Monster",
+  "description": "When this card is Normal or Flip Summoned: You can add 1 \"Photon Sabre Tiger\" from your Deck to your hand. If you do not control another \"Photon Sabre Tiger\", this card loses 800 ATK.",
+  "attack": 2000,
+  "defense": 300,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80495985.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80495985.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80495985.jpg"
+  }
+}

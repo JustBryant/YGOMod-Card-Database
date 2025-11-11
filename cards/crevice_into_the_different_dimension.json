@@ -1,0 +1,12 @@
+{
+  "id": 49600724,
+  "name": "Crevice Into the Different Dimension",
+  "type": "Trap Card",
+  "description": "Declare 1 Attribute and select a total of 2 monsters with that Attribute from the Graveyards. Remove those monsters from play.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49600724.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49600724.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49600724.jpg"
+  }
+}

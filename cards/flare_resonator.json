@@ -1,0 +1,16 @@
+{
+  "id": 13708425,
+  "name": "Flare Resonator",
+  "type": "Tuner Monster",
+  "description": "A Synchro Monster that used this card as a Synchro Material gains 300 ATK.",
+  "attack": 300,
+  "defense": 1300,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13708425.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13708425.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13708425.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 23421244,
+  "name": "Reborn Zombie",
+  "type": "Effect Monster",
+  "description": "While you have no cards in your hand and this card is in Attack Position, it cannot be destroyed by battle.",
+  "attack": 1000,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23421244.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23421244.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23421244.jpg"
+  }
+}

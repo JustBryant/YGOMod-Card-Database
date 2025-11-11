@@ -1,0 +1,16 @@
+{
+  "id": 96676583,
+  "name": "Maliss Chessy Cat",
+  "type": "Effect Monster",
+  "description": "Any monster destroyed by battle with a \"Maliss\" Link Monster that points to this card is banished. You can only use each of the following effects of \"Maliss Chessy Cat\" once per turn. During your Main Phase: You can banish 1 \"Maliss\" card from your hand, then you can draw 2 cards. If this card is banished: You can pay 300 LP; Special Summon it, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Link Monsters.",
+  "attack": 1500,
+  "defense": 300,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96676583.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96676583.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96676583.jpg"
+  }
+}

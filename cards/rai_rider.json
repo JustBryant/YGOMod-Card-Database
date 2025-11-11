@@ -1,0 +1,16 @@
+{
+  "id": 31173519,
+  "name": "Rai Rider",
+  "type": "Effect Monster",
+  "description": "If this card battles an opponent's monster: That monster cannot attack while it is face-up on the field.",
+  "attack": 1200,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31173519.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31173519.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31173519.jpg"
+  }
+}

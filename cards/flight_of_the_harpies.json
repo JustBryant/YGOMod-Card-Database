@@ -1,0 +1,12 @@
+{
+  "id": 300202008,
+  "name": "Flight of the Harpies",
+  "type": "Skill Card",
+  "description": "[If you lose 1800 or more LP, you can activate this Skill during your next Draw Phase.]\r\n\r\nDuring your Draw Phase, you may search your Deck for a “Harpie” card, reveal it to your opponent, and add it to your hand instead of drawing. If you do that, flip this card over.",
+  "race": "Mai",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300202008.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300202008.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300202008.jpg"
+  }
+}

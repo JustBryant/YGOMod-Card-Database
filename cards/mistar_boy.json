@@ -1,0 +1,16 @@
+{
+  "id": 65170459,
+  "name": "Mistar Boy",
+  "type": "Link Monster",
+  "description": "2 WATER monsters\r\nAll WATER monsters on the field gain 500 ATK and DEF, also all FIRE monsters on the field lose 400 ATK and DEF. If this card is destroyed by battle or card effect: You can target 1 WATER monster in your GY; add it to your hand. You can only use this effect of \"Mistar Boy\" once per turn.",
+  "attack": 1400,
+  "defense": null,
+  "level": 0,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65170459.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65170459.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65170459.jpg"
+  }
+}

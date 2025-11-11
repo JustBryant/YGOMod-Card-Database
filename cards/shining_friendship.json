@@ -1,0 +1,16 @@
+{
+  "id": 82085619,
+  "name": "Shining Friendship",
+  "type": "Normal Monster",
+  "description": "The peacemaker among monsters.",
+  "attack": 1300,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82085619.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82085619.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82085619.jpg"
+  }
+}

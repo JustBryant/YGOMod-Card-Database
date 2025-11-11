@@ -1,0 +1,12 @@
+{
+  "id": 596051,
+  "name": "Snake Fang",
+  "type": "Trap Card",
+  "description": "Decrease 1 selected monster's DEF by 500 points during the turn this card is activated.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/596051.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/596051.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/596051.jpg"
+  }
+}

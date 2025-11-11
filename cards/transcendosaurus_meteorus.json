@@ -1,0 +1,16 @@
+{
+  "id": 31241087,
+  "name": "Transcendosaurus Meteorus",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. During your opponent's turn (Quick Effect): You can destroy 2 other Dinosaur monsters in your hand and/or field, and if you do, Special Summon this card from your hand. If this card is Special Summoned: You can send 1 Dinosaur monster from your Deck to the GY. If this card is destroyed: You can shuffle 1 Normal Monster from your GY into the Deck, then you can Special Summon this card. You can only use each effect of \"Transcendosaurus Meteorus\" once per turn.",
+  "attack": 3500,
+  "defense": 700,
+  "level": 12,
+  "attribute": "FIRE",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31241087.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31241087.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31241087.jpg"
+  }
+}

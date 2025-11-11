@@ -1,0 +1,12 @@
+{
+  "id": 10004783,
+  "name": "Crystal Release",
+  "type": "Spell Card",
+  "description": "Equip only to a \"Crystal Beast\" monster. It gains 800 ATK. When this card is sent from the field to the GY: You can place 1 \"Crystal Beast\" monster from your Deck face-up in your Spell & Trap Zone as a Continuous Spell.",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/10004783.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/10004783.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/10004783.jpg"
+  }
+}

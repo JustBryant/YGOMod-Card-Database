@@ -1,0 +1,12 @@
+{
+  "id": 82263578,
+  "name": "After the Storm",
+  "type": "Spell Card",
+  "description": "If there are no other cards on the field: Target 1 WATER or WIND monster in your Graveyard; add that target to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/82263578.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/82263578.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/82263578.jpg"
+  }
+}

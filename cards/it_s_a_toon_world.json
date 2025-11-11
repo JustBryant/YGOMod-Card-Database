@@ -1,0 +1,12 @@
+{
+  "id": 300201007,
+  "name": "It's a Toon World!",
+  "type": "Skill Card",
+  "description": "[At the start of the Duel, place this card in your center Spell & Trap Zone and flip it over.]\r\n\r\nThis card is treated as “Toon World”.",
+  "race": "Pegasus",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/300201007.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/300201007.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/300201007.jpg"
+  }
+}

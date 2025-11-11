@@ -1,0 +1,16 @@
+{
+  "id": 44223284,
+  "name": "Abyssal Kingshark",
+  "type": "Effect Monster",
+  "description": "Once per turn, if this card would be destroyed by an effect that does not target it, it is not destroyed.",
+  "attack": 1700,
+  "defense": 600,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44223284.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44223284.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44223284.jpg"
+  }
+}

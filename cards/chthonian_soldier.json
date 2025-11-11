@@ -1,0 +1,16 @@
+{
+  "id": 50916353,
+  "name": "Chthonian Soldier",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by an opponent's attacking monster and sent to the Graveyard, the Battle Damage you took from this battle is also inflicted to your opponent.",
+  "attack": 1200,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50916353.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50916353.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50916353.jpg"
+  }
+}

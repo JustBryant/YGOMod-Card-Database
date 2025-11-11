@@ -1,0 +1,16 @@
+{
+  "id": 69123138,
+  "name": "Zera the Mant",
+  "type": "Ritual Monster",
+  "description": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Zera Ritual\".",
+  "attack": 2800,
+  "defense": 2300,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69123138.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69123138.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69123138.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2311603,
+  "name": "Overdrive",
+  "type": "Normal Monster",
+  "description": "An all-terrain armored vehicle armed with a heavy-duty machine gun.",
+  "attack": 1600,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/2311603.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/2311603.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/2311603.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 52518793,
+  "name": "Colosseum - Cage of the Gladiator Beasts",
+  "type": "Spell Card",
+  "description": "Place 1 Counter on this card each time a monster is Special Summoned from either player's Deck. All \"Gladiator Beast\" monsters gain 100 ATK and DEF for each of these counters on this card. If this card would be destroyed by a card effect, you can discard 1 \"Colosseum - Cage of the Gladiator Beasts\" to prevent this card from being destroyed.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52518793.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52518793.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52518793.jpg"
+  }
+}

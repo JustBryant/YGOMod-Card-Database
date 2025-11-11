@@ -1,0 +1,16 @@
+{
+  "id": 15734813,
+  "name": "Soul Tiger",
+  "type": "Normal Monster",
+  "description": "The soul of a tiger that is said to devour human souls. He is a famous soul that you wouldn't want to run into in a dark alley.",
+  "attack": 0,
+  "defense": 2100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15734813.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15734813.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15734813.jpg"
+  }
+}

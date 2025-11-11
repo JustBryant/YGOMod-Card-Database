@@ -1,0 +1,16 @@
+{
+  "id": 81823360,
+  "name": "Megalosmasher X",
+  "type": "Normal Monster",
+  "description": "With its sound-baffling armor and gargantuan jaws, this primeval predator's phosphorescence was the only possible pardon for its primitive prey.",
+  "attack": 2000,
+  "defense": 0,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81823360.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81823360.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81823360.jpg"
+  }
+}

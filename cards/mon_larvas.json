@@ -1,0 +1,16 @@
+{
+  "id": 7225792,
+  "name": "Mon Larvas",
+  "type": "Normal Monster",
+  "description": "''A further step in the evolutionary chain, it is much more powerful than \"Larvas\".''",
+  "attack": 1300,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7225792.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7225792.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7225792.jpg"
+  }
+}

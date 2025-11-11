@@ -1,0 +1,16 @@
+{
+  "id": 29834183,
+  "name": "Graydle Eagle",
+  "type": "Effect Monster",
+  "description": "If this card in your Monster Zone is destroyed by battle or monster effect and sent to your Graveyard: You can target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster. When this card leaves the field, destroy the equipped monster.",
+  "attack": 1500,
+  "defense": 500,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29834183.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29834183.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29834183.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 72837335,
+  "name": "Chronomaly Gordian Knot",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 \"Chronomaly\" monster from your hand, and if you do, this card's Level becomes the current Level of that Special Summoned monster.",
+  "attack": 300,
+  "defense": 900,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72837335.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72837335.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72837335.jpg"
+  }
+}

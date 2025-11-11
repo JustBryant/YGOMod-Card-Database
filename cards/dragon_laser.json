@@ -1,0 +1,12 @@
+{
+  "id": 29228350,
+  "name": "Dragon Laser",
+  "type": "Spell Card",
+  "description": "Send 1 \"Trigon\" equipped to a face-up \"Delta Tri\" you control to the Graveyard, and destroy all monsters your opponent controls.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29228350.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29228350.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29228350.jpg"
+  }
+}

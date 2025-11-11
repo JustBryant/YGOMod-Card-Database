@@ -1,0 +1,16 @@
+{
+  "id": 31692182,
+  "name": "Koa'ki Meiru Hydro Barrier",
+  "type": "Effect Monster",
+  "description": "You can return 1 \"Iron Core of Koa'ki Meiru\" from your hand to the top of the Deck. If you do, the effect(s) of all face-up Effect Monsters are negated until the Standby Phase of your next turn, except \"Koa'ki Meiru\" monsters.",
+  "attack": 1000,
+  "defense": 1900,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31692182.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31692182.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31692182.jpg"
+  }
+}

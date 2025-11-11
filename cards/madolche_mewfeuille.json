@@ -1,0 +1,16 @@
+{
+  "id": 12980373,
+  "name": "Madolche Mewfeuille",
+  "type": "Effect Monster",
+  "description": "When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. When this card is Normal Summoned: You can Special Summon 1 \"Madolche\" monster from your hand.",
+  "attack": 500,
+  "defense": 300,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12980373.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12980373.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12980373.jpg"
+  }
+}

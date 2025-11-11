@@ -1,0 +1,16 @@
+{
+  "id": 76103404,
+  "name": "Cyber Petit Angel",
+  "type": "Effect Monster",
+  "description": "If this card is Summoned: You can add 1 \"Cyber Angel\" monster or \"Machine Angel Ritual\" from your Deck to your hand. You can only use this effect of \"Cyber Petit Angel\" once per turn.",
+  "attack": 300,
+  "defense": 200,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76103404.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76103404.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76103404.jpg"
+  }
+}

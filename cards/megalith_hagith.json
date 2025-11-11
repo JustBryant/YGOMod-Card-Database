@@ -1,0 +1,16 @@
+{
+  "id": 90444325,
+  "name": "Megalith Hagith",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with a \"Megalith\" card. If this card is Ritual Summoned: You can add 1 \"Megalith\" Spell/Trap from your Deck to your hand. During your Main Phase: You can activate this effect; Ritual Summon 1 Ritual Monster from your hand, by Tributing monsters from your hand or field, including this card on your field, whose total Levels equal or exceed the Level of the Ritual Monster. You can only use this effect of \"Megalith Hagith\" once per turn.",
+  "attack": 1300,
+  "defense": 2600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90444325.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90444325.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90444325.jpg"
+  }
+}

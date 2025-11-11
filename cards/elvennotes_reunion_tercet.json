@@ -1,0 +1,12 @@
+{
+  "id": 90880453,
+  "name": "Elvennotes ~Reunion Tercet~",
+  "type": "Spell Card",
+  "description": "Your opponent cannot target the monster in your center Main Monster Zone with card effects. This card gains these effects based on the Attribute(s) of the monster in your center Main Monster Zone.\r\n● FIRE/EARTH: If your Synchro Monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.\r\n● WATER/WIND: Other face-up Spells/Traps you control cannot be destroyed by your opponent's card effects.\r\n● LIGHT/DARK: You take no battle damage.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90880453.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90880453.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90880453.jpg"
+  }
+}

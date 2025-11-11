@@ -1,0 +1,16 @@
+{
+  "id": 34320307,
+  "name": "Living Vase",
+  "type": "Normal Monster",
+  "description": "''A living vase that bites enemies and blinds them with a blast of pollen from its flower.''",
+  "attack": 900,
+  "defense": 1100,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34320307.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34320307.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34320307.jpg"
+  }
+}

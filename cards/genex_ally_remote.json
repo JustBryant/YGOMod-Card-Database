@@ -1,0 +1,16 @@
+{
+  "id": 57238939,
+  "name": "Genex Ally Remote",
+  "type": "Tuner Monster",
+  "description": "Once per turn, you can select 1 face-up Tuner monster on the field. The selected monster's name is treated as \"Genex Controller\" until the End Phase.",
+  "attack": 500,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57238939.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57238939.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57238939.jpg"
+  }
+}

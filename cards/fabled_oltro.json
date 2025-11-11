@@ -1,0 +1,16 @@
+{
+  "id": 49633574,
+  "name": "Fabled Oltro",
+  "type": "Tuner Monster",
+  "description": "Once per turn: You can send 1 card from your hand to the GY; Special Summon 1 Level 3 \"Fabled\" monster from your hand.",
+  "attack": 800,
+  "defense": 500,
+  "level": 2,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/49633574.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/49633574.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/49633574.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 54706054,
+  "name": "The Calibrator",
+  "type": "Effect Monster",
+  "description": "This card gains ATK equal to the combined Ranks of all face-up Xyz Monsters your opponent controls x 300.",
+  "attack": 1500,
+  "defense": 1500,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54706054.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54706054.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54706054.jpg"
+  }
+}

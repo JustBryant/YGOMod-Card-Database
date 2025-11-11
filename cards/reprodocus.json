@@ -1,0 +1,16 @@
+{
+  "id": 34989413,
+  "name": "Reprodocus",
+  "type": "Link Monster",
+  "description": "2 monsters\r\nYou can activate 1 of these effects.\r\n● Declare 1 Monster Type; all face-up monsters this card points to become that Type until the end of this turn.\r\n● Declare 1 Attribute; all face-up monsters this card points to become that Attribute until the end of this turn.\r\nYou can only use this effect of \"Reprodocus\" once per turn.",
+  "attack": 800,
+  "defense": null,
+  "level": 0,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/34989413.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/34989413.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/34989413.jpg"
+  }
+}

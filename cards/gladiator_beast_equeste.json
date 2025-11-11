@@ -1,0 +1,16 @@
+{
+  "id": 57731460,
+  "name": "Gladiator Beast Equeste",
+  "type": "Effect Monster",
+  "description": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: Target 1 \"Gladiator Beast\" card in your Graveyard; add that target to your hand. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Equeste\".",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57731460.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57731460.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57731460.jpg"
+  }
+}

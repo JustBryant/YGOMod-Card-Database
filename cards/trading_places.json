@@ -1,0 +1,12 @@
+{
+  "id": 63875853,
+  "name": "Trading Places",
+  "type": "Spell Card",
+  "description": "If your LP is higher than your opponent's, switch your LP with your opponent.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63875853.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63875853.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63875853.jpg"
+  }
+}

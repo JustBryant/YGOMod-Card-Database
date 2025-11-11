@@ -1,0 +1,16 @@
+{
+  "id": 53921056,
+  "name": "General Gantala of the Ice Barrier",
+  "type": "Effect Monster",
+  "description": "Once per turn, during your End Phase, you can select 1 \"Ice Barrier\" monster in your Graveyard, except \"General Gantala of the Ice Barrier\", and Special Summon it.",
+  "attack": 2700,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53921056.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53921056.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53921056.jpg"
+  }
+}

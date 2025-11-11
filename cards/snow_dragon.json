@@ -1,0 +1,16 @@
+{
+  "id": 3070049,
+  "name": "Snow Dragon",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle or by a card effect and sent to the Graveyard: Place 1 Ice Counter on each face-up monster on the field.",
+  "attack": 1400,
+  "defense": 900,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3070049.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3070049.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3070049.jpg"
+  }
+}

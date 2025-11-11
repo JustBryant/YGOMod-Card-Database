@@ -1,0 +1,16 @@
+{
+  "id": 39695323,
+  "name": "Gogogo Giant",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can target 1 \"Gogogo\" monster in your GY; Special Summon that target in Defense Position, then change this card to Defense Position. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.",
+  "attack": 2000,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39695323.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39695323.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39695323.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 66337215,
+  "name": "Herald of Creation",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can discard 1 card, then target 1 Level 7 or higher monster in your Graveyard; add that target to your hand.",
+  "attack": 1800,
+  "defense": 600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66337215.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66337215.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66337215.jpg"
+  }
+}

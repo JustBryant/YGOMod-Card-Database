@@ -1,0 +1,16 @@
+{
+  "id": 32750341,
+  "name": "Battlin' Boxer Sparrer",
+  "type": "Effect Monster",
+  "description": "If you control a \"Battlin' Boxer\" monster, you can Special Summon this card (from your hand). If you do, you cannot conduct your Battle Phase for the rest of this turn.",
+  "attack": 1200,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32750341.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32750341.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32750341.jpg"
+  }
+}

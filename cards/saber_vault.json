@@ -1,0 +1,12 @@
+{
+  "id": 73787254,
+  "name": "Saber Vault",
+  "type": "Spell Card",
+  "description": "Each face-up \"X-Saber\" monster on the field gains 100 ATK x its Level, and loses 100 DEF x its Level.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73787254.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73787254.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73787254.jpg"
+  }
+}

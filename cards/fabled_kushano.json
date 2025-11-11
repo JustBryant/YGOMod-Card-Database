@@ -1,0 +1,16 @@
+{
+  "id": 97439806,
+  "name": "Fabled Kushano",
+  "type": "Tuner Monster",
+  "description": "If this card is in your GY: You can discard 1 \"Fabled\" monster to the GY, except \"Fabled Kushano\"; add this card to your hand.",
+  "attack": 1100,
+  "defense": 800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97439806.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97439806.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97439806.jpg"
+  }
+}

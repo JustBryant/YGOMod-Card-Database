@@ -1,0 +1,12 @@
+{
+  "id": 37931734,
+  "name": "Generaider Boss Fight",
+  "type": "Trap Card",
+  "description": "Activate 1 \"Generaider\" Field Spell directly from your Deck or GY, then your opponent draws 1 card. You can only activate 1 \"Generaider Boss Fight\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37931734.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37931734.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37931734.jpg"
+  }
+}

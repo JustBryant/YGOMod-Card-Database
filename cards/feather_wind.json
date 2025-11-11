@@ -1,0 +1,12 @@
+{
+  "id": 71060915,
+  "name": "Feather Wind",
+  "type": "Trap Card",
+  "description": "When a Spell/Trap Card is activated while you control a face-up \"Elemental HERO Avian\": Negate the activation and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71060915.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71060915.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71060915.jpg"
+  }
+}

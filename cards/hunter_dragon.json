@@ -1,0 +1,16 @@
+{
+  "id": 96005454,
+  "name": "Hunter Dragon",
+  "type": "Normal Monster",
+  "description": "This dragon has taken down countless prey with its sharp fangs. It strikes very quickly, because if it does not strike first it is vulnerable to a counter-attack.",
+  "attack": 1700,
+  "defense": 100,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/96005454.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/96005454.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/96005454.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 54976796,
+  "name": "Level Limit - Area A",
+  "type": "Trap Card",
+  "description": "Change all face-up Level 3 or lower monsters to Attack Position.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54976796.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54976796.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54976796.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 55289183,
+  "name": "Capricious Darklord",
+  "type": "Effect Monster",
+  "description": "During the Main Phase (Quick Effect): You can activate this effect; Tribute Summon 1 Fairy monster face-up. If this card is sent to the GY: You can make all monsters your opponent currently controls lose 500 ATK/DEF for each Fairy monster on the field, until the end of this turn. You can only use each effect of \"Capricious Darklord\" once per turn.",
+  "attack": 0,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55289183.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55289183.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55289183.jpg"
+  }
+}

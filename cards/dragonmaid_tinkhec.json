@@ -1,0 +1,16 @@
+{
+  "id": 42055234,
+  "name": "Dragonmaid Tinkhec",
+  "type": "Effect Monster",
+  "description": "Cannot be destroyed by card effects while you control a Fusion Monster. You can only use each of the following effects of \"Dragonmaid Tinkhec\" once per turn.\r\n● (Quick Effect): You can discard this card, then target 1 \"Dragonmaid\" monster you control; it gains 2000 ATK until the end of this turn.\r\n● At the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 3 \"Dragonmaid\" monster from your hand.",
+  "attack": 2700,
+  "defense": 1700,
+  "level": 8,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42055234.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42055234.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42055234.jpg"
+  }
+}

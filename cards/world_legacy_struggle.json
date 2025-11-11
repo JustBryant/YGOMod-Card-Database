@@ -1,0 +1,12 @@
+{
+  "id": 58374719,
+  "name": "World Legacy Struggle",
+  "type": "Trap Card",
+  "description": "Target Spells/Traps on the field, up to the number of co-linked monsters on the field; destroy them.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58374719.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58374719.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58374719.jpg"
+  }
+}

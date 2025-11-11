@@ -1,0 +1,12 @@
+{
+  "id": 85519211,
+  "name": "Minefield Eruption",
+  "type": "Trap Card",
+  "description": "Inflict 1000 damage to your opponent for each face-up \"Mine Golem\" on your side of the field. After that, destroy all face-up \"Mine Golem\"(s) on your side of the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85519211.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85519211.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85519211.jpg"
+  }
+}

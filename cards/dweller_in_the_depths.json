@@ -1,0 +1,16 @@
+{
+  "id": 46508640,
+  "name": "Dweller in the Depths",
+  "type": "Effect Monster",
+  "description": "Gains 300 ATK for each Continuous Spell in your Spell & Trap Zone.",
+  "attack": 1500,
+  "defense": 700,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46508640.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46508640.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46508640.jpg"
+  }
+}

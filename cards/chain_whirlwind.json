@@ -1,0 +1,12 @@
+{
+  "id": 22205600,
+  "name": "Chain Whirlwind",
+  "type": "Trap Card",
+  "description": "Activate only when a card on the field is destroyed by a card effect. Select 2 Spell/Trap Cards on the field and destroy them.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22205600.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22205600.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22205600.jpg"
+  }
+}

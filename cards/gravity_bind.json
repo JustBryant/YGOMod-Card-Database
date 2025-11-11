@@ -1,0 +1,12 @@
+{
+  "id": 85742772,
+  "name": "Gravity Bind",
+  "type": "Trap Card",
+  "description": "Level 4 or higher monsters cannot attack.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/85742772.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/85742772.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/85742772.jpg"
+  }
+}

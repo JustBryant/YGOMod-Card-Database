@@ -1,0 +1,16 @@
+{
+  "id": 39972129,
+  "name": "Number 64: Ronin Raccoon Sandayu",
+  "type": "XYZ Monster",
+  "description": "2 Level 2 Beast-Type monsters\r\nOnce per turn: You can detach 1 Xyz Material from this card; Special Summon 1 \"Kagemusha Raccoon Token\" (Beast-Type/EARTH/Level 1/ATK ?/DEF 0). (When Summoned, its ATK becomes equal to the current ATK of the monster on the field that has the highest ATK. Your choice, if tied.) While you control another Beast-Type monster, this card cannot be destroyed by battle or card effects.",
+  "attack": 1000,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39972129.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39972129.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39972129.jpg"
+  }
+}

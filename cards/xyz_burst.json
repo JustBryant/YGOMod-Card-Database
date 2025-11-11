@@ -1,0 +1,12 @@
+{
+  "id": 30600344,
+  "name": "Xyz Burst",
+  "type": "Spell Card",
+  "description": "If you control a Rank 6 or higher Xyz Monster: Destroy all Set cards your opponent controls.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30600344.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30600344.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30600344.jpg"
+  }
+}

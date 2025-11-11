@@ -1,0 +1,12 @@
+{
+  "id": 64952266,
+  "name": "Against the Wind",
+  "type": "Spell Card",
+  "description": "Select 1 \"Blackwing\" monster in your Graveyard. Take damage equal to the ATK of the selected monster, and add it to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64952266.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64952266.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64952266.jpg"
+  }
+}

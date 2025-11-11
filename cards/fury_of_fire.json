@@ -1,0 +1,12 @@
+{
+  "id": 92345028,
+  "name": "Fury of Fire",
+  "type": "Spell Card",
+  "description": "(This card is always treated as a \"Salamangreat\" card.)\r\nSpecial Summon up to 2 \"Salamangreat\" monsters with different names from your hand and/or GY in Defense Position, but their effects are negated, also, for the rest of this turn after this card resolves, you can only Special Summon from the Extra Deck once. You can only activate 1 \"Fury of Fire\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92345028.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92345028.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92345028.jpg"
+  }
+}

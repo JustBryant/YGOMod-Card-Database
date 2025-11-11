@@ -1,0 +1,12 @@
+{
+  "id": 58015506,
+  "name": "Pikeru's Second Sight",
+  "type": "Trap Card",
+  "description": "Until your opponent's second End Phase, your opponent shows you all cards that they draw before adding them to their hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58015506.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58015506.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58015506.jpg"
+  }
+}

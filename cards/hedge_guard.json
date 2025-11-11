@@ -1,0 +1,16 @@
+{
+  "id": 59042331,
+  "name": "Hedge Guard",
+  "type": "Effect Monster",
+  "description": "During damage calculation, in either player's turn, when a monster you control attacks or is attacked: You can send this card from your hand to the Graveyard; halve the ATK of that monster you control until the end of this turn, but that monster cannot be destroyed by this battle.",
+  "attack": 0,
+  "defense": 2100,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/59042331.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/59042331.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/59042331.jpg"
+  }
+}

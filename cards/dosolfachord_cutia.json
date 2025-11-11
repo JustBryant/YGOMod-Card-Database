@@ -1,0 +1,16 @@
+{
+  "id": 55226153,
+  "name": "DoSolfachord Cutia",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nPendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.\n\n[ Monster Effect ] \nWhile you have an even Pendulum Scale in your Pendulum Zone, \"Solfachord\" Pendulum Monsters you control gain ATK equal to 100 x their own Pendulum Scale. If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your hand, except \"DoSolfachord Cutia\". You can only use this effect of \"DoSolfachord Cutia\" once per turn.",
+  "attack": 100,
+  "defense": 400,
+  "level": 1,
+  "attribute": "EARTH",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/55226153.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/55226153.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/55226153.jpg"
+  }
+}

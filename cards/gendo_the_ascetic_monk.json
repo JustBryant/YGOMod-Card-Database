@@ -1,0 +1,16 @@
+{
+  "id": 99000107,
+  "name": "Gendo the Ascetic Monk",
+  "type": "Effect Monster",
+  "description": "Face-up Attack Position monsters on the field cannot activate their effects. This Defense Position card cannot be targeted, or destroyed, by card effects.",
+  "attack": 300,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/99000107.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/99000107.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/99000107.jpg"
+  }
+}

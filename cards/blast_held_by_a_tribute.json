@@ -1,0 +1,12 @@
+{
+  "id": 89041555,
+  "name": "Blast Held by a Tribute",
+  "type": "Trap Card",
+  "description": "When an opponent's monster that was Tribute Summoned declares an attack: Destroy as many face-up Attack Position monsters they control as possible, and if you do, inflict 1000 damage to your opponent.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89041555.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89041555.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89041555.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 25774450,
+  "name": "Mystic Box",
+  "type": "Spell Card",
+  "description": "Target 1 monster your opponent controls and 1 monster you control; destroy the first target, then give control of the second target to your opponent.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25774450.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25774450.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25774450.jpg"
+  }
+}

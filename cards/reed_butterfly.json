@@ -1,0 +1,16 @@
+{
+  "id": 71353388,
+  "name": "Reed Butterfly",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a face-up Synchro Monster(s) and you control no face-up Synchro Monsters, you can Special Summon this card from your hand.",
+  "attack": 300,
+  "defense": 600,
+  "level": 1,
+  "attribute": "WIND",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71353388.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71353388.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71353388.jpg"
+  }
+}

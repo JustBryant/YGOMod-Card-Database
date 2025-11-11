@@ -1,0 +1,12 @@
+{
+  "id": 56058888,
+  "name": "Royal Surrender",
+  "type": "Trap Card",
+  "description": "Activate only when your opponent activates a Continuous Trap Card. Negate the activation and the effect of the card and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56058888.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56058888.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56058888.jpg"
+  }
+}

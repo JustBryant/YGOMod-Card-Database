@@ -1,0 +1,12 @@
+{
+  "id": 72355441,
+  "name": "Xyz Gift",
+  "type": "Spell Card",
+  "description": "If you control 2 or more face-up Xyz Monsters: Detach 2 Xyz Materials from a monster you control and draw 2 cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72355441.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72355441.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72355441.jpg"
+  }
+}

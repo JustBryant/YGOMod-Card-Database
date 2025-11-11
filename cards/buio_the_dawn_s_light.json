@@ -1,0 +1,16 @@
+{
+  "id": 19000848,
+  "name": "Buio the Dawn's Light",
+  "type": "Effect Monster",
+  "description": "Monsters in your leftmost or rightmost Main Monster Zones cannot be destroyed by card effects. You can only use each of the following effects of \"Buio the Dawn's Light\" once per turn. If this card is in your hand: You can target 1 Fiend Effect Monster you control; negate its effects, and if you do, Special Summon this card. If this card is sent to the GY: You can add 1 \"Mutiny in the Sky\" from your Deck to your hand.",
+  "attack": 1000,
+  "defense": 1500,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19000848.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19000848.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19000848.jpg"
+  }
+}

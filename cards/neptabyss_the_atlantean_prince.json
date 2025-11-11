@@ -1,0 +1,16 @@
+{
+  "id": 21565445,
+  "name": "Neptabyss, the Atlantean Prince",
+  "type": "Effect Monster",
+  "description": "You can send 1 \"Atlantean\" monster from your Deck to the Graveyard, except \"Neptabyss, the Atlantean Prince\"; add 1 \"Atlantean\" card from your Deck to your hand, except \"Neptabyss, the Atlantean Prince\". If this card is sent to the Graveyard to activate a WATER monster's effect: Target 1 \"Atlantean\" monster in your Graveyard, except \"Neptabyss, the Atlantean Prince\"; Special Summon it. You can only use each effect of \"Neptabyss, the Atlantean Prince\" once per turn.",
+  "attack": 800,
+  "defense": 0,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21565445.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21565445.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21565445.jpg"
+  }
+}

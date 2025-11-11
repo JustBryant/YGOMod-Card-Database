@@ -1,0 +1,12 @@
+{
+  "id": 76848240,
+  "name": "Non Aggression Area",
+  "type": "Trap Card",
+  "description": "You can only activate this card during your Standby Phase. Discard 1 card from your hand. Your opponent cannot Normal Summon, Set and/or Special Summon during his/her next turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76848240.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76848240.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76848240.jpg"
+  }
+}

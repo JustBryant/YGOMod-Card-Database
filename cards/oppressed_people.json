@@ -1,0 +1,16 @@
+{
+  "id": 58538870,
+  "name": "Oppressed People",
+  "type": "Normal Monster",
+  "description": "They are oppressed, but believe they will have their freedom someday.",
+  "attack": 400,
+  "defense": 2000,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58538870.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58538870.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58538870.jpg"
+  }
+}

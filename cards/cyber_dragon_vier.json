@@ -1,0 +1,16 @@
+{
+  "id": 29975188,
+  "name": "Cyber Dragon Vier",
+  "type": "Effect Monster",
+  "description": "This card's name becomes \"Cyber Dragon\" while on the field or in the GY. If you Normal or Special Summon \"Cyber Dragon\", except during the Damage Step: You can Special Summon this card from your hand in Defense Position. You can only use this effect of \"Cyber Dragon Vier\" once per turn. Each \"Cyber Dragon\" you control gains 500 ATK/DEF.",
+  "attack": 1100,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29975188.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29975188.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29975188.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 46961802,
+  "name": "Cross Attack",
+  "type": "Spell Card",
+  "description": "Target 2 face-up Attack Position monsters you control with the same ATK; this turn, one of them can attack your opponent directly and the other cannot attack.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46961802.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46961802.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46961802.jpg"
+  }
+}

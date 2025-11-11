@@ -1,0 +1,12 @@
+{
+  "id": 75105429,
+  "name": "Synchro Ejection",
+  "type": "Trap Card",
+  "description": "Select 1 face-up Synchro Monster your opponent controls and remove it from play. Then, your opponent draws 1 card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75105429.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75105429.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75105429.jpg"
+  }
+}

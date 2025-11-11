@@ -1,0 +1,16 @@
+{
+  "id": 24433920,
+  "name": "Pendulum Machine",
+  "type": "Normal Monster",
+  "description": "A horrible torture machine with a large pendulum blade.",
+  "attack": 1750,
+  "defense": 2000,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/24433920.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/24433920.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/24433920.jpg"
+  }
+}

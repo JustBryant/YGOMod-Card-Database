@@ -1,0 +1,16 @@
+{
+  "id": 46696593,
+  "name": "Crimson Sunbird",
+  "type": "Fusion Monster",
+  "description": "\"Faith Bird\" + \"Skull Red Bird\"",
+  "attack": 2300,
+  "defense": 1800,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46696593.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46696593.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46696593.jpg"
+  }
+}

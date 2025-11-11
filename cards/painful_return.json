@@ -1,0 +1,12 @@
+{
+  "id": 57902193,
+  "name": "Painful Return",
+  "type": "Spell Card",
+  "description": "Your opponent chooses 1 monster in your Graveyard. During the End Phase, add that monster to your hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57902193.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57902193.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57902193.jpg"
+  }
+}

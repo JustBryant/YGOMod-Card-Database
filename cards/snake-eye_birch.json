@@ -1,0 +1,16 @@
+{
+  "id": 12058741,
+  "name": "Snake-Eye Birch",
+  "type": "Effect Monster",
+  "description": "If you control a FIRE monster, you can Special Summon this card (from your hand). You can only Special Summon \"Snake-Eye Birch\" once per turn this way. During your opponent's turn (Quick Effect): You can send 2 face-up cards you control to the GY, including this card; Special Summon 1 \"Snake-Eye\" monster from your hand or Deck, except \"Snake-Eye Birch\". You can only use this effect of \"Snake-Eye Birch\" once per turn.",
+  "attack": 0,
+  "defense": 2100,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/12058741.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/12058741.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/12058741.jpg"
+  }
+}

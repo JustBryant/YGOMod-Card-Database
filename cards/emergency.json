@@ -1,0 +1,12 @@
+{
+  "id": 61292243,
+  "name": "EMERGENCY!",
+  "type": "Spell Card",
+  "description": "(This card is always treated as a \"Rescue-ACE\" card.)\r\nSpecial Summon 1 \"Rescue-ACE\" monster from your Deck in Defense Position, then Tribute 1 \"Rescue-ACE\" monster from your hand or field. During your Main Phase: You can banish this card from your GY, then target 1 \"Rescue-ACE\" Trap in your GY; Set it. You can only use each effect of \"EMERGENCY!\" once per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/61292243.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/61292243.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/61292243.jpg"
+  }
+}

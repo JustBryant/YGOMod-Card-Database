@@ -1,0 +1,16 @@
+{
+  "id": 33746252,
+  "name": "Majesty's Fiend",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned. Neither player can activate monster effects.",
+  "attack": 2400,
+  "defense": 1000,
+  "level": 6,
+  "attribute": "LIGHT",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/33746252.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/33746252.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/33746252.jpg"
+  }
+}

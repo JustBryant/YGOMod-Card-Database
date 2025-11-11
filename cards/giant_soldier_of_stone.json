@@ -3,14 +3,14 @@
   "name": "Giant Soldier of Stone",
   "type": "Normal Monster",
   "description": "A giant warrior made of stone. A punch from this creature has earth-shaking results.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/13039848.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/13039848.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13039848.jpg"
-  },
   "attack": 1300,
   "defense": 2000,
   "level": 3,
   "attribute": "EARTH",
-  "race": "Rock"
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/13039848.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/13039848.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/13039848.jpg"
+  }
 }

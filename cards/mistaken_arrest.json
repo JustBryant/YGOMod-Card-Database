@@ -1,0 +1,12 @@
+{
+  "id": 4227096,
+  "name": "Mistaken Arrest",
+  "type": "Spell Card",
+  "description": "Until the end of your next turn after this card resolves, neither player can add cards from their Deck to their hand except by drawing them.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4227096.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4227096.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4227096.jpg"
+  }
+}

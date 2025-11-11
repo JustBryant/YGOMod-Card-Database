@@ -1,0 +1,12 @@
+{
+  "id": 1224927,
+  "name": "Malevolent Catastrophe",
+  "type": "Trap Card",
+  "description": "When an opponent's monster declares an attack: Destroy all Spell and Trap Cards on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/1224927.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/1224927.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/1224927.jpg"
+  }
+}

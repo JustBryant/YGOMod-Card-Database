@@ -1,0 +1,16 @@
+{
+  "id": 9264485,
+  "name": "Horus' Servant",
+  "type": "Effect Monster",
+  "description": "Your opponent cannot target face-up \"Horus the Black Flame Dragon\" monsters with Spells, Traps, or card effects.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/9264485.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/9264485.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/9264485.jpg"
+  }
+}

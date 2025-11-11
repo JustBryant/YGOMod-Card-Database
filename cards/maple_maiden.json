@@ -1,0 +1,16 @@
+{
+  "id": 73104892,
+  "name": "Maple Maiden",
+  "type": "Synchro Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Special Summoned: You can declare 1 Attribute; this card gains the following effect.\r\n● All face-up monsters become that Attribute.\r\nYou can target 1 monster in your opponent's Main Monster Zone; your opponent must send 1 card from among its adjacent Monster Zones or Spell & Trap Zones to the GY. You can only use each effect of \"Maple Maiden\" once per turn.",
+  "attack": 2100,
+  "defense": 2600,
+  "level": 7,
+  "attribute": "WIND",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/73104892.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/73104892.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/73104892.jpg"
+  }
+}

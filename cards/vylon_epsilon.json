@@ -1,0 +1,16 @@
+{
+  "id": 75779210,
+  "name": "Vylon Epsilon",
+  "type": "Synchro Monster",
+  "description": "1 LIGHT Tuner + 1 or more non-Tuner monsters\nEquip Cards equipped to this card cannot be targeted by cards or effects. Once per turn: You can send 1 Equip Card equipped to this card to the Graveyard to target 1 monster your opponent controls; destroy that target.",
+  "attack": 2800,
+  "defense": 1200,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/75779210.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/75779210.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/75779210.jpg"
+  }
+}

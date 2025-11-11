@@ -1,0 +1,12 @@
+{
+  "id": 64681263,
+  "name": "Localized Tornado",
+  "type": "Trap Card",
+  "description": "Shuffle all cards from your hand and Graveyard into the Deck.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/64681263.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/64681263.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/64681263.jpg"
+  }
+}

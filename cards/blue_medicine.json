@@ -1,0 +1,12 @@
+{
+  "id": 20871001,
+  "name": "Blue Medicine",
+  "type": "Spell Card",
+  "description": "Increase your Life Points by 400 points.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20871001.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20871001.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20871001.jpg"
+  }
+}

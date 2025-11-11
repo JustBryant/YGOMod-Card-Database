@@ -1,0 +1,16 @@
+{
+  "id": 31986288,
+  "name": "Regenerating Rose",
+  "type": "Effect Monster",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 2 \"Regenerating Rose Tokens\" (Plant-Type/DARK/Level 3/ATK 1200/DEF 1200).",
+  "attack": 0,
+  "defense": 1500,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/31986288.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/31986288.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/31986288.jpg"
+  }
+}

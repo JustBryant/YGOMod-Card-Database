@@ -1,0 +1,16 @@
+{
+  "id": 21159309,
+  "name": "Majestic Dragon",
+  "type": "Tuner Monster",
+  "description": "Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Majestic\" monster.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21159309.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21159309.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21159309.jpg"
+  }
+}

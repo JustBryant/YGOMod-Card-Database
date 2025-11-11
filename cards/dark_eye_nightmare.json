@@ -1,0 +1,16 @@
+{
+  "id": 88685329,
+  "name": "Dark Eye Nightmare",
+  "type": "Effect Monster",
+  "description": "Once per turn, if this card would be destroyed by battle, you can banish 1 Trap from your GY instead. You can banish up to 3 Traps from your GY; apply this effect, based on the number banished.\r\n● 1: Draw 1 card, then place 1 card from your hand on top of the Deck.\r\n● 2: Draw 1 card.\r\n● 3: Draw 2 cards, then discard 1 card.\r\nYou can only use this effect of \"Dark Eye Nightmare\" once per turn.",
+  "attack": 1700,
+  "defense": 1700,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88685329.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88685329.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88685329.jpg"
+  }
+}

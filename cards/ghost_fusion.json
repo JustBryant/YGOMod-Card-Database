@@ -1,0 +1,12 @@
+{
+  "id": 35705817,
+  "name": "Ghost Fusion",
+  "type": "Spell Card",
+  "description": "Fusion Summon 1 Fusion Monster from your Extra Deck, using only Zombie monsters you control as material. If your LP are lower than your opponent's, you can also banish up to 1 Zombie monster from your hand, Deck, or GY as material. You can only activate 1 \"Ghost Fusion\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/35705817.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/35705817.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/35705817.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14513016,
+  "name": "Ritual Beast Tamer Elder",
+  "type": "Effect Monster",
+  "description": "After you Normal Summon this card, you can Normal Summon 1 \"Ritual Beast\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can only Special Summon \"Ritual Beast Tamer Elder(s)\" once per turn.",
+  "attack": 200,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14513016.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14513016.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14513016.jpg"
+  }
+}

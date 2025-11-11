@@ -1,0 +1,12 @@
+{
+  "id": 23459650,
+  "name": "Rebirth of Nephthys",
+  "type": "Spell Card",
+  "description": "This card can be used to Ritual Summon any \"Nephthys\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. Then, if you Tributed \"Devotee of Nephthys\" or \"Cerulean Sacred Phoenix of Nephthys\", you can destroy 1 card on the field.",
+  "race": "Ritual",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23459650.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23459650.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23459650.jpg"
+  }
+}

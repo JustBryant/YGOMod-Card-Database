@@ -1,0 +1,12 @@
+{
+  "id": 37480144,
+  "name": "Column Switch",
+  "type": "Spell Card",
+  "description": "Target 1 monster in your Main Monster Zone; move that target to another of your Main Monster Zones.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37480144.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37480144.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37480144.jpg"
+  }
+}

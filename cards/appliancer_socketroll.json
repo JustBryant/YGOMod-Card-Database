@@ -1,0 +1,16 @@
+{
+  "id": 78447174,
+  "name": "Appliancer Socketroll",
+  "type": "Effect Monster",
+  "description": "If you control an \"Appliancer\" monster: You can Special Summon this card from your hand. If another \"Appliancer Socketroll\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can Special Summon 1 \"Appliancer Socketroll\" from your Deck. You can only use each effect of \"Appliancer Socketroll\" once per turn.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/78447174.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/78447174.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/78447174.jpg"
+  }
+}

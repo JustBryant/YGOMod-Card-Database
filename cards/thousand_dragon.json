@@ -1,0 +1,16 @@
+{
+  "id": 41462083,
+  "name": "Thousand Dragon",
+  "type": "Fusion Monster",
+  "description": "\"Time Wizard\" + \"Baby Dragon\"",
+  "attack": 2400,
+  "defense": 2000,
+  "level": 7,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41462083.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41462083.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41462083.jpg"
+  }
+}

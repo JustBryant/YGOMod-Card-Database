@@ -1,0 +1,16 @@
+{
+  "id": 27126980,
+  "name": "Gem-Knight Sapphire",
+  "type": "Normal Monster",
+  "description": "His Sapphire power commands the waters to protect him from attack. His comrades trust in his silent protection.",
+  "attack": 0,
+  "defense": 2100,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27126980.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27126980.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27126980.jpg"
+  }
+}

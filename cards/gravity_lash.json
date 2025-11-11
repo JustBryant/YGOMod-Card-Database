@@ -1,0 +1,12 @@
+{
+  "id": 69319869,
+  "name": "Gravity Lash",
+  "type": "Spell Card",
+  "description": "Target 1 face-up monster on the field; it loses ATK equal to its DEF until the end of this turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69319869.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69319869.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69319869.jpg"
+  }
+}

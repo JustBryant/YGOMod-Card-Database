@@ -1,0 +1,12 @@
+{
+  "id": 44901281,
+  "name": "Saber Hole",
+  "type": "Trap Card",
+  "description": "Activate only while you control a face-up \"X-Saber\" monster. Negate the Summon of a monster, and destroy it.",
+  "race": "Counter",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44901281.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44901281.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44901281.jpg"
+  }
+}

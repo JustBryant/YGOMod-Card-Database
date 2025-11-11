@@ -1,0 +1,16 @@
+{
+  "id": 30707994,
+  "name": "Maximum Six",
+  "type": "Effect Monster",
+  "description": "When this card is Tribute Summoned: Roll a six-sided die, and this card gains ATK equal to the result x 200.",
+  "attack": 1900,
+  "defense": 1600,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30707994.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30707994.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30707994.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 37115973,
+  "name": "Numeral Hunter",
+  "type": "Effect Monster",
+  "description": "If this card is Summoned: Return all \"Number\" Xyz Monsters on the field to the Extra Deck. Neither player can Special Summon \"Number\" Xyz Monsters. Cannot be destroyed by battle with an Xyz Monster. This card is unaffected by the effects of Xyz Monsters.",
+  "attack": 1600,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37115973.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37115973.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37115973.jpg"
+  }
+}

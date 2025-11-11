@@ -1,0 +1,16 @@
+{
+  "id": 8058240,
+  "name": "Binding Chain",
+  "type": "Normal Monster",
+  "description": "''The mystic links of this chain can rob enemies of their power.''",
+  "attack": 1000,
+  "defense": 1100,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8058240.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8058240.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8058240.jpg"
+  }
+}

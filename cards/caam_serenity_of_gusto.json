@@ -1,0 +1,16 @@
+{
+  "id": 91449144,
+  "name": "Caam, Serenity of Gusto",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can shuffle 2 \"Gusto\" monsters from your Graveyard into the Main Deck; draw 1 card.",
+  "attack": 1700,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "WIND",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91449144.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91449144.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91449144.jpg"
+  }
+}

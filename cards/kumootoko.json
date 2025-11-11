@@ -3,14 +3,14 @@
   "name": "Kumootoko",
   "type": "Normal Monster",
   "description": "A massive, intelligent spider that traps enemies with webbing.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/56283725.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/56283725.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56283725.jpg"
-  },
   "attack": 700,
   "defense": 1400,
   "level": 3,
   "attribute": "EARTH",
-  "race": "Insect"
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56283725.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56283725.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56283725.jpg"
+  }
 }

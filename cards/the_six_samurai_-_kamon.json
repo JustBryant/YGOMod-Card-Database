@@ -1,0 +1,16 @@
+{
+  "id": 90397998,
+  "name": "The Six Samurai - Kamon",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 face-up Spell/Trap Card; destroy that target. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. This card cannot declare an attack during the turn this effect is activated. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+  "attack": 1500,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90397998.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90397998.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90397998.jpg"
+  }
+}

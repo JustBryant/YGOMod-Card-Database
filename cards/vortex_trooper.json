@@ -1,0 +1,16 @@
+{
+  "id": 7736719,
+  "name": "Vortex Trooper",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can shuffle 2 cards from your hand into the Deck, then draw 2 cards. If this card is destroyed: Draw 1 card.",
+  "attack": 0,
+  "defense": 600,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/7736719.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/7736719.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/7736719.jpg"
+  }
+}

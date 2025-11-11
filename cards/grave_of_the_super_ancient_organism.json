@@ -1,0 +1,12 @@
+{
+  "id": 83266092,
+  "name": "Grave of the Super Ancient Organism",
+  "type": "Trap Card",
+  "description": "All Level 6 or higher Special Summoned monsters on the field cannot declare attacks or activate their effects.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83266092.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83266092.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83266092.jpg"
+  }
+}

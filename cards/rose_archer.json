@@ -1,0 +1,16 @@
+{
+  "id": 51852507,
+  "name": "Rose Archer",
+  "type": "Effect Monster",
+  "description": "During either player's turn, when your opponent activates a Trap Card while you control a Plant-Type monster: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+  "attack": 1000,
+  "defense": 100,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51852507.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51852507.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51852507.jpg"
+  }
+}

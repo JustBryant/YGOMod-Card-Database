@@ -1,0 +1,16 @@
+{
+  "id": 20951752,
+  "name": "Voltanis the Adjudicator",
+  "type": "Effect Monster",
+  "description": "After 1 of your Counter Trap Cards has been activated and has resolved, you can Tribute all monsters you control to Special Summon this card. If this card is Special Summoned in this way, you can destroy cards your opponent controls up to the number of Fairy-Type monsters you Tributed.",
+  "attack": 2800,
+  "defense": 1400,
+  "level": 8,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20951752.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20951752.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20951752.jpg"
+  }
+}

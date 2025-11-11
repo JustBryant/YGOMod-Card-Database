@@ -1,0 +1,16 @@
+{
+  "id": 15808381,
+  "name": "Achichi @Ignister",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can add 1 Level 4 or lower \"@Ignister\" monster from your Deck to your hand, except \"Achichi @Ignister\". At the start of the Damage Step, when your Cyberse monster battles: You can banish this card from your GY; destroy that monster you control. You can only use each effect of \"Achichi @Ignister\" once per turn.",
+  "attack": 800,
+  "defense": 800,
+  "level": 2,
+  "attribute": "FIRE",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15808381.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15808381.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15808381.jpg"
+  }
+}

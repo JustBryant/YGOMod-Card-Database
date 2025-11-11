@@ -1,0 +1,12 @@
+{
+  "id": 81820689,
+  "name": "The Inexperienced Spy",
+  "type": "Spell Card",
+  "description": "Select and see 1 card in your opponent's hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81820689.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81820689.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81820689.jpg"
+  }
+}

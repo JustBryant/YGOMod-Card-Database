@@ -1,0 +1,16 @@
+{
+  "id": 76865611,
+  "name": "Morphtronic Lantron",
+  "type": "Tuner Monster",
+  "description": "● While in Attack Position: Any effect damage you would take from an opponent's card effect is inflicted to your opponent instead.\n● While in Defense Position: When this card is destroyed by battle and sent to the Graveyard, you take no Battle Damage this turn.",
+  "attack": 200,
+  "defense": 200,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76865611.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76865611.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76865611.jpg"
+  }
+}

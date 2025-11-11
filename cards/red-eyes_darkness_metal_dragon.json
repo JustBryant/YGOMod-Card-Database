@@ -1,0 +1,16 @@
+{
+  "id": 88264978,
+  "name": "Red-Eyes Darkness Metal Dragon",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by banishing 1 face-up Dragon monster you control. You can only Special Summon \"Red-Eyes Darkness Metal Dragon\" once per turn this way. During your Main Phase: You can Special Summon 1 Dragon monster from your hand or GY, except \"Red-Eyes Darkness Metal Dragon\". You can only use this effect of \"Red-Eyes Darkness Metal Dragon\" once per turn.",
+  "attack": 2800,
+  "defense": 2400,
+  "level": 10,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/88264978.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/88264978.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/88264978.jpg"
+  }
+}

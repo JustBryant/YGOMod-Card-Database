@@ -1,0 +1,16 @@
+{
+  "id": 92409659,
+  "name": "White Dolphin",
+  "type": "Normal Monster",
+  "description": "''A white dolphin with a horn that summons huge tidal waves.''",
+  "attack": 500,
+  "defense": 400,
+  "level": 2,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92409659.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92409659.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92409659.jpg"
+  }
+}

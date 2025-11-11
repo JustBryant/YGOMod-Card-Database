@@ -1,0 +1,16 @@
+{
+  "id": 60246171,
+  "name": "Soitsu",
+  "type": "Normal Monster",
+  "description": "Apparently totally unreliable, he wonders if he has incredible potential.",
+  "attack": 0,
+  "defense": 0,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/60246171.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/60246171.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/60246171.jpg"
+  }
+}

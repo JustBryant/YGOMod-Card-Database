@@ -1,0 +1,16 @@
+{
+  "id": 22512237,
+  "name": "Mechanical Hound",
+  "type": "Effect Monster",
+  "description": "While you have no cards in your hand, your opponent cannot activate Spell Cards.",
+  "attack": 2800,
+  "defense": 1500,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/22512237.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/22512237.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/22512237.jpg"
+  }
+}

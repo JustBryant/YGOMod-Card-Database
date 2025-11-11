@@ -1,0 +1,12 @@
+{
+  "id": 80075749,
+  "name": "Bubble Illusion",
+  "type": "Spell Card",
+  "description": "You can only activate this card while there is a face-up \"Elemental Hero Bubbleman\" on your side of the field. During this turn, you can activate 1 Trap Card from your hand.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80075749.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80075749.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80075749.jpg"
+  }
+}

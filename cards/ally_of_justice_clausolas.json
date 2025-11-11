@@ -1,0 +1,16 @@
+{
+  "id": 89386122,
+  "name": "Ally of Justice Clausolas",
+  "type": "Normal Monster",
+  "description": "A mighty monster in Mist Valley, and the ultimate weapon designed from Claiomh Solais. Its surprise attacks from above baffle invaders.",
+  "attack": 2300,
+  "defense": 1200,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89386122.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89386122.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89386122.jpg"
+  }
+}

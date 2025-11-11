@@ -1,0 +1,16 @@
+{
+  "id": 71746462,
+  "name": "Sea Kamen",
+  "type": "Normal Monster",
+  "description": "A merciless monster that tears opponents to shreds with razor-like claws.",
+  "attack": 1100,
+  "defense": 1300,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71746462.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71746462.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71746462.jpg"
+  }
+}

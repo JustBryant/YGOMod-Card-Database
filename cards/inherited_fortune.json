@@ -1,0 +1,12 @@
+{
+  "id": 20057949,
+  "name": "Inherited Fortune",
+  "type": "Trap Card",
+  "description": "Activate during the turn a face-up \"Fortune Lady\" monster you control was destroyed. Special Summon up to 2 \"Fortune Lady\" monsters from your hand during your next Standby Phase.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20057949.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20057949.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20057949.jpg"
+  }
+}

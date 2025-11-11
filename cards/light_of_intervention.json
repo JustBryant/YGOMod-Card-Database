@@ -1,0 +1,12 @@
+{
+  "id": 62867251,
+  "name": "Light of Intervention",
+  "type": "Trap Card",
+  "description": "While this card is on the field, Monster Cards cannot be Set or flipped face-down. If a Monster Card would be Set, it must be Normal Summoned in face-up Defense Position.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62867251.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62867251.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62867251.jpg"
+  }
+}

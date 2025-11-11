@@ -1,0 +1,16 @@
+{
+  "id": 42969214,
+  "name": "Aye-Iron",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can have this card gain 400 ATK. This card cannot attack the turn you activate this effect.",
+  "attack": 1600,
+  "defense": 1800,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/42969214.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/42969214.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/42969214.jpg"
+  }
+}

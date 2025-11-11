@@ -1,0 +1,12 @@
+{
+  "id": 97227123,
+  "name": "Return of the Duelist",
+  "type": "Spell Card",
+  "description": "If an Xyz Monster is on the field or in either GY: Add 1 Equip Spell from your Deck or GY to your hand. You can only activate 1 \"Return of the Duelist\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/97227123.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/97227123.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/97227123.jpg"
+  }
+}

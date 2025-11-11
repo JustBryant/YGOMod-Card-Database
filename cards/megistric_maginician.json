@@ -1,0 +1,16 @@
+{
+  "id": 83035296,
+  "name": "Megistric Maginician",
+  "type": "Effect Monster",
+  "description": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. During the End Phase: You can remove 3 Spell Counters from this card, then target 1 of your banished Spells; add 1 card with the target's name from your Deck to your hand. You can only use this effect of \"Megistric Maginician\" once per turn.",
+  "attack": 0,
+  "defense": 2000,
+  "level": 1,
+  "attribute": "FIRE",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/83035296.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/83035296.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/83035296.jpg"
+  }
+}

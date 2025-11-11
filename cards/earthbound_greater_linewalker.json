@@ -1,0 +1,16 @@
+{
+  "id": 45836982,
+  "name": "Earthbound Greater Linewalker",
+  "type": "Effect Monster",
+  "description": "If you control a Synchro Monster(s) and have a Synchro Monster(s) in your GY: You can Special Summon this card from your hand. During your Main Phase: You can add 1 \"Earthbound Immortal\" monster from your Deck or GY to your hand. If an \"Earthbound Immortal\" monster is Normal Summoned while this monster is on the field: You can make your opponent's LP 3000. You can only use each effect of \"Earthbound Greater Linewalker\" once per turn.",
+  "attack": 2900,
+  "defense": 2900,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45836982.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45836982.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45836982.jpg"
+  }
+}

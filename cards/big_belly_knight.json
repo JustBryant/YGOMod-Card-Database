@@ -1,0 +1,16 @@
+{
+  "id": 32696942,
+  "name": "Big Belly Knight",
+  "type": "Effect Monster",
+  "description": "If this card is detached from an Xyz Monster and sent to the Graveyard to activate that monster's effect: You can Special Summon 1 Level 3 or lower monster from your hand.",
+  "attack": 1000,
+  "defense": 1600,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32696942.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32696942.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32696942.jpg"
+  }
+}

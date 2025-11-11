@@ -1,0 +1,16 @@
+{
+  "id": 76353872,
+  "name": "Defcon Bird",
+  "type": "Effect Monster",
+  "description": "You can discard 1 other Cyberse monster; Special Summon this card from your hand. You can only use this effect of \"Defcon Bird\" once per turn. Once per turn, when your Cyberse monster is targeted for an attack: You can make its ATK/DEF become double its original ATK, then you can change it to Defense Position. This ATK/DEF change lasts until the end of the Damage Step.",
+  "attack": 100,
+  "defense": 1700,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/76353872.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/76353872.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/76353872.jpg"
+  }
+}

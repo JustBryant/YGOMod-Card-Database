@@ -1,0 +1,12 @@
+{
+  "id": 67723438,
+  "name": "Emergency Teleport",
+  "type": "Spell Card",
+  "description": "Special Summon 1 Level 3 or lower Psychic-Type monster from your hand or Deck, but banish it during the End Phase of this turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67723438.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67723438.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67723438.jpg"
+  }
+}

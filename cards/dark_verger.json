@@ -1,0 +1,16 @@
+{
+  "id": 50164989,
+  "name": "Dark Verger",
+  "type": "Effect Monster",
+  "description": "When a Plant-Type Tuner monster is Normal Summoned to your side of the field: You can Special Summon this card from your Graveyard in Attack Position.",
+  "attack": 0,
+  "defense": 1000,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/50164989.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/50164989.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/50164989.jpg"
+  }
+}

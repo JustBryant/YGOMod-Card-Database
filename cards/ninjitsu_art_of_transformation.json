@@ -1,0 +1,12 @@
+{
+  "id": 70861343,
+  "name": "Ninjitsu Art of Transformation",
+  "type": "Trap Card",
+  "description": "Activate this card by Tributing 1 face-up \"Ninja\" monster; Special Summon 1 Beast, Winged Beast, or Insect monster from your hand or Deck whose Level is less than or equal to the Level the Tributed monster had on the field +3. When this card leaves the field, destroy that monster.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70861343.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70861343.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70861343.jpg"
+  }
+}

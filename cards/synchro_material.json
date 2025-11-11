@@ -1,0 +1,12 @@
+{
+  "id": 14507213,
+  "name": "Synchro Material",
+  "type": "Trap Card",
+  "description": "Target 1 face-up monster your opponent controls; you can use that monster as Synchro Material this turn, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14507213.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14507213.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14507213.jpg"
+  }
+}

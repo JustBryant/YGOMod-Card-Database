@@ -1,0 +1,16 @@
+{
+  "id": 45871897,
+  "name": "Lost Guardian",
+  "type": "Effect Monster",
+  "description": "The original DEF of this card equals the number of your banished Rock-Type monsters × 700.",
+  "attack": 100,
+  "defense": -1,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/45871897.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/45871897.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/45871897.jpg"
+  }
+}

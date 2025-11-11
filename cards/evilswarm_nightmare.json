@@ -1,0 +1,16 @@
+{
+  "id": 359563,
+  "name": "Evilswarm Nightmare",
+  "type": "XYZ Monster",
+  "description": "2 Level 4 DARK monsters\r\nWhen your opponent Special Summons a monster(s) (except during the Damage Step): You can detach 1 material from this card; change that Special Summoned monster(s) to face-down Defense Position.",
+  "attack": 950,
+  "defense": 1950,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/359563.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/359563.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/359563.jpg"
+  }
+}

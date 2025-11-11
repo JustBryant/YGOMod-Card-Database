@@ -1,0 +1,16 @@
+{
+  "id": 32787239,
+  "name": "Performapal Trumpanda",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nOnce per turn: You can increase this card's Pendulum Scale by 1 (max. 12).\n\n[ Monster Effect ] \nWhen your Pendulum Monster is targeted for an attack: You can negate the attack. You can only use this effect of \"Performapal Trumpanda\" once per turn.",
+  "attack": 800,
+  "defense": 800,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/32787239.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/32787239.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/32787239.jpg"
+  }
+}

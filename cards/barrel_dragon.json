@@ -1,0 +1,16 @@
+{
+  "id": 81480461,
+  "name": "Barrel Dragon",
+  "type": "Effect Monster",
+  "description": "Once per turn: You can target 1 monster your opponent controls; toss a coin 3 times and destroy it if at least 2 of the results are heads.",
+  "attack": 2600,
+  "defense": 2200,
+  "level": 7,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81480461.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81480461.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81480461.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 53442500,
+  "name": "End of the Line",
+  "type": "Trap Card",
+  "description": "If your LP are lower than 100: Draw 2 cards, then, if your LP are lower than 10, draw 2 additional cards.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/53442500.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/53442500.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/53442500.jpg"
+  }
+}

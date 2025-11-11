@@ -1,0 +1,16 @@
+{
+  "id": 41544074,
+  "name": "Kamionwizard",
+  "type": "Fusion Monster",
+  "description": "\"Mystical Elf\" + \"Curtain of the Dark Ones\"",
+  "attack": 1300,
+  "defense": 1100,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/41544074.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/41544074.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/41544074.jpg"
+  }
+}

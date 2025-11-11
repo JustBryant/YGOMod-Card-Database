@@ -1,0 +1,16 @@
+{
+  "id": 23288411,
+  "name": "Mementoal Tecuhtlica - Combined Creation",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by shuffling 5 other \"Memento\" monsters with different names from your hand and/or GY into the Deck/Extra Deck. While you control no other monsters, this card can attack all monsters your opponent controls, once each. Once per turn, if your opponent activates a card or effect (except during the Damage Step): You can Special Summon 1 \"Memento\" monster from your hand or GY.",
+  "attack": 5000,
+  "defense": 5000,
+  "level": 11,
+  "attribute": "EARTH",
+  "race": "Wyrm",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23288411.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23288411.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23288411.jpg"
+  }
+}

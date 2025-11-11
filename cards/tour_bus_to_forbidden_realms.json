@@ -1,0 +1,16 @@
+{
+  "id": 89732524,
+  "name": "Tour Bus To Forbidden Realms",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Add 1 Fiend-Type monster from your Deck to your hand, except a DARK or LIGHT monster.",
+  "attack": 600,
+  "defense": 1000,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/89732524.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/89732524.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/89732524.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 62327910,
+  "name": "Mighty Guard",
+  "type": "Normal Monster",
+  "description": "A machine soldier that was developed as a guard. It is made of rust-proof metal.",
+  "attack": 500,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62327910.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62327910.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62327910.jpg"
+  }
+}

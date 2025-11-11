@@ -1,0 +1,16 @@
+{
+  "id": 14506878,
+  "name": "DUCKER Mobile Cannon",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Target 1 Level 4 monster in your Graveyard; add that target to your hand.",
+  "attack": 500,
+  "defense": 500,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14506878.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14506878.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14506878.jpg"
+  }
+}

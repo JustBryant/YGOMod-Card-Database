@@ -1,0 +1,16 @@
+{
+  "id": 98266377,
+  "name": "Elemental HERO Heat",
+  "type": "Effect Monster",
+  "description": "This card gains 200 ATK for each \"Elemental HERO\" monster you control.",
+  "attack": 1600,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "FIRE",
+  "race": "Pyro",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98266377.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98266377.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98266377.jpg"
+  }
+}

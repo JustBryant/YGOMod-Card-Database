@@ -1,0 +1,16 @@
+{
+  "id": 90654356,
+  "name": "Black Ptera",
+  "type": "Effect Monster",
+  "description": "If this card is sent from the field to the GY, except by being destroyed by battle: Return it to the hand.",
+  "attack": 1000,
+  "defense": 500,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90654356.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90654356.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90654356.jpg"
+  }
+}

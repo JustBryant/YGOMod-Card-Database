@@ -1,0 +1,16 @@
+{
+  "id": 54343893,
+  "name": "Vice Dragon",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand), but its original ATK and DEF become halved.",
+  "attack": 2000,
+  "defense": 2400,
+  "level": 5,
+  "attribute": "DARK",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/54343893.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/54343893.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/54343893.jpg"
+  }
+}

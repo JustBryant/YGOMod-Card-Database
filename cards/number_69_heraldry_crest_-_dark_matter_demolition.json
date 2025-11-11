@@ -1,0 +1,16 @@
+{
+  "id": 77571454,
+  "name": "Number 69: Heraldry Crest - Dark Matter Demolition",
+  "type": "XYZ Monster",
+  "description": "5 Level 4 monsters\r\nCannot be destroyed by battle or card effects. Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster your opponent controls; that monster's name becomes \"Unknown\". Negate any \"Unknown\" effects activated by your opponent.",
+  "attack": 3100,
+  "defense": 1900,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77571454.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77571454.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77571454.jpg"
+  }
+}

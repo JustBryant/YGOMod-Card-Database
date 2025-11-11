@@ -1,0 +1,16 @@
+{
+  "id": 92176681,
+  "name": "Suppression Collider",
+  "type": "Normal Monster",
+  "description": "''All data crushed by this network warrior's hammer is irretrievably compressed.''",
+  "attack": 2800,
+  "defense": 2600,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92176681.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92176681.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92176681.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 94937430,
+  "name": "Extra Buck",
+  "type": "Trap Card",
+  "description": "Each time a card(s) is added to your Extra Deck, place 1 Spell Counter on this card (max. 3). You can send this card with 3 Spell Counters to the GY; draw 2 cards.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/94937430.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/94937430.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/94937430.jpg"
+  }
+}

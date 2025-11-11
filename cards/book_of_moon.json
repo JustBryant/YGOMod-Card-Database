@@ -1,0 +1,12 @@
+{
+  "id": 14087893,
+  "name": "Book of Moon",
+  "type": "Spell Card",
+  "description": "Target 1 face-up monster on the field; change that target to face-down Defense Position.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/14087893.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/14087893.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/14087893.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 86498013,
+  "name": "D.D. Trainer",
+  "type": "Normal Monster",
+  "description": "A poor goblin that was sucked into a different dimension. However, he's doing his best with his new destiny.",
+  "attack": 100,
+  "defense": 2000,
+  "level": 1,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/86498013.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/86498013.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/86498013.jpg"
+  }
+}

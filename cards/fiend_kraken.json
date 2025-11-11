@@ -1,0 +1,16 @@
+{
+  "id": 77456781,
+  "name": "Fiend Kraken",
+  "type": "Normal Monster",
+  "description": "A giant squid that drags its enemies to a watery grave.",
+  "attack": 1200,
+  "defense": 1400,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/77456781.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/77456781.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/77456781.jpg"
+  }
+}

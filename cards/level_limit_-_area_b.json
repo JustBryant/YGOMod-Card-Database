@@ -1,0 +1,12 @@
+{
+  "id": 3136426,
+  "name": "Level Limit - Area B",
+  "type": "Spell Card",
+  "description": "Change all face-up Level 4 or higher monsters to Defense Position.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3136426.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3136426.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3136426.jpg"
+  }
+}

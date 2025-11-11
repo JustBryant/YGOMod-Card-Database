@@ -1,0 +1,16 @@
+{
+  "id": 19959742,
+  "name": "Gishki Mollusk",
+  "type": "Effect Monster",
+  "description": "When this card is sent to the Graveyard by a card effect: Look at the top 3 cards of your Deck, then return them all to the top or to the bottom of the Deck, in any order.",
+  "attack": 1700,
+  "defense": 900,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/19959742.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/19959742.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/19959742.jpg"
+  }
+}

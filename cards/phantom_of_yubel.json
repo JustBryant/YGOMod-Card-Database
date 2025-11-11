@@ -1,0 +1,16 @@
+{
+  "id": 80453041,
+  "name": "Phantom of Yubel",
+  "type": "Fusion Monster",
+  "description": "1 \"Yubel\" monster + 1 Fiend monster with 0 ATK/DEF\r\nMust be Special Summoned (from your Extra Deck) by shuffling the above cards from your hand, field, and/or GY into the Deck/Extra Deck. Cannot be used as Fusion Material. Cannot be destroyed by battle, also you take no damage from battles involving this card. When your opponent activates a monster effect (Quick Effect): You can Tribute this card; the activated effect becomes \"Your opponent destroys 1 \"Yubel\" monster in their hand, Deck, or field\". You can only use this effect of \"Phantom of Yubel\" once per turn.",
+  "attack": 0,
+  "defense": 0,
+  "level": 9,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80453041.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80453041.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80453041.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16021142,
+  "name": "Canon the Melodious Diva",
+  "type": "Effect Monster",
+  "description": "If you control a \"Melodious\" monster, you can Special Summon this card (from your hand). You can only Special Summon \"Canon the Melodious Diva\" once per turn this way. Once per turn: You can target 1 \"Melodious\" monster you control; change its battle position.",
+  "attack": 1400,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16021142.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16021142.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16021142.jpg"
+  }
+}

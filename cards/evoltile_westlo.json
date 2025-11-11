@@ -1,0 +1,16 @@
+{
+  "id": 81873903,
+  "name": "Evoltile Westlo",
+  "type": "Flip Effect Monster",
+  "description": "FLIP: Special Summon 1 \"Evolsaur\" monster from your Deck.",
+  "attack": 700,
+  "defense": 1900,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81873903.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81873903.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81873903.jpg"
+  }
+}

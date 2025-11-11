@@ -1,0 +1,12 @@
+{
+  "id": 25796442,
+  "name": "Ritual Cage",
+  "type": "Spell Card",
+  "description": "You take no battle damage from attacks involving a Ritual Monster you control. Ritual Monsters you control cannot be targeted by, or destroyed by, monster effects.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25796442.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25796442.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25796442.jpg"
+  }
+}

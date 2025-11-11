@@ -1,0 +1,12 @@
+{
+  "id": 43422537,
+  "name": "Double Summon",
+  "type": "Spell Card",
+  "description": "You can conduct 2 Normal Summons/Sets this turn, not just 1.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/43422537.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/43422537.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/43422537.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16632144,
+  "name": "Grappler Angler",
+  "type": "Tuner Monster",
+  "description": "When this card inflicts battle damage to your opponent by a direct attack: You can target 1 monster in your GY; Special Summon it in Defense Position.",
+  "attack": 100,
+  "defense": 100,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16632144.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16632144.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16632144.jpg"
+  }
+}

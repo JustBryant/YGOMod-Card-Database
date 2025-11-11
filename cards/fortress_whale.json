@@ -1,0 +1,16 @@
+{
+  "id": 62337487,
+  "name": "Fortress Whale",
+  "type": "Ritual Monster",
+  "description": "You can Ritual Summon this card with \"Fortress Whale's Oath\".",
+  "attack": 2350,
+  "defense": 2150,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Fish",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/62337487.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/62337487.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/62337487.jpg"
+  }
+}

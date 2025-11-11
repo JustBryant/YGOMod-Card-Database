@@ -1,0 +1,16 @@
+{
+  "id": 6103294,
+  "name": "Emissary of the Oasis",
+  "type": "Effect Monster",
+  "description": "While a face-up Level 3 or lower Normal Monster is on your side of the field, your opponent cannot select this card as an attack target. While this card is face-up on your side of the field, any Battle Damage to the controller of this card from battle involving a Level 3 or lower Normal Monster becomes 0.",
+  "attack": 600,
+  "defense": 400,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Spellcaster",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6103294.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6103294.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6103294.jpg"
+  }
+}

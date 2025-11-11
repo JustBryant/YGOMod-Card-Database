@@ -1,0 +1,12 @@
+{
+  "id": 46500985,
+  "name": "Metamorformation",
+  "type": "Spell Card",
+  "description": "All \"Metalfoes\" monsters you control gain 300 ATK and DEF. While a \"Metalfoes\" card is in your Pendulum Zone, \"Metalfoes\" monsters you control, except Effect Monsters, are unaffected by your opponent's card effects.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46500985.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46500985.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46500985.jpg"
+  }
+}

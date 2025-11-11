@@ -1,0 +1,16 @@
+{
+  "id": 72520073,
+  "name": "Dark Artist",
+  "type": "Effect Monster",
+  "description": "If this card is being attacked by a LIGHT monster, its DEF is halved during damage calculation only.",
+  "attack": 600,
+  "defense": 1400,
+  "level": 3,
+  "attribute": "DARK",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/72520073.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/72520073.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/72520073.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 403847,
+  "name": "The A. Forces",
+  "type": "Spell Card",
+  "description": "All Warrior-Type monsters you control gain 200 ATK for each Warrior or Spellcaster-Type monster you control.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/403847.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/403847.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/403847.jpg"
+  }
+}

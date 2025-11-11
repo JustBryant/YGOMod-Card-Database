@@ -1,0 +1,16 @@
+{
+  "id": 68431965,
+  "name": "Shooting Riser Dragon",
+  "type": "Synchro Tuner Monster",
+  "description": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can send 1 monster from your Deck to the GY, whose Level is lower than this card's on the field, and if you do, reduce this card's Level by that monster's, but for the rest of this turn, you cannot activate the effects of monsters with the same name the sent monster had in the GY. You can only use this effect of \"Shooting Riser Dragon\" once per turn. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
+  "attack": 2100,
+  "defense": 1700,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68431965.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68431965.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68431965.jpg"
+  }
+}

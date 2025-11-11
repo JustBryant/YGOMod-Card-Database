@@ -1,0 +1,16 @@
+{
+  "id": 91646304,
+  "name": "Crusadia Arboria",
+  "type": "Tuner Monster",
+  "description": "You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon \"Crusadia Arboria\" once per turn this way. If a \"Crusadia\" monster(s) you control would be destroyed by battle or card effect, you can banish this card from your field or GY instead. You can only use this effect of \"Crusadia Arboria\" once per turn.",
+  "attack": 800,
+  "defense": 1800,
+  "level": 3,
+  "attribute": "WATER",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91646304.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91646304.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91646304.jpg"
+  }
+}

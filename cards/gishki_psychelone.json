@@ -1,0 +1,16 @@
+{
+  "id": 30334522,
+  "name": "Gishki Psychelone",
+  "type": "Ritual Effect Monster",
+  "description": "You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. Once per turn: You can declare 1 Monster Type and Attribute; look at 1 random card in your opponent's hand, and if it is a monster of the declared Type and Attribute, shuffle it into the Deck. Otherwise, return it to the hand.",
+  "attack": 2150,
+  "defense": 1650,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Fiend",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30334522.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30334522.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30334522.jpg"
+  }
+}

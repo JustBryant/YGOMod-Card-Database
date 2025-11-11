@@ -1,0 +1,16 @@
+{
+  "id": 70410002,
+  "name": "The Accumulator",
+  "type": "Effect Monster",
+  "description": "Gains ATK equal to the combined Link Ratings of all Link Monsters on the field x 300.",
+  "attack": 0,
+  "defense": 0,
+  "level": 1,
+  "attribute": "LIGHT",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70410002.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70410002.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70410002.jpg"
+  }
+}

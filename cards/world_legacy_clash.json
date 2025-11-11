@@ -1,0 +1,12 @@
+{
+  "id": 93236220,
+  "name": "World Legacy Clash",
+  "type": "Spell Card",
+  "description": "Banish 1 face-up monster you control (until the End Phase), then target 1 face-up monster your opponent controls; that target loses ATK/DEF equal to the original ATK/DEF of that banished monster.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/93236220.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/93236220.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/93236220.jpg"
+  }
+}

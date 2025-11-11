@@ -1,0 +1,12 @@
+{
+  "id": 3972721,
+  "name": "Greed Grado",
+  "type": "Spell Card",
+  "description": "Activate only if you destroyed a face-up Synchro Monster controlled by your opponent this turn, either by battle or by a card effect. Draw 2 cards.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/3972721.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/3972721.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/3972721.jpg"
+  }
+}

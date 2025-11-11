@@ -1,0 +1,12 @@
+{
+  "id": 46173679,
+  "name": "Fires of Doomsday",
+  "type": "Spell Card",
+  "description": "Special Summon 2 \"Doomsday Tokens\" (Fiend/DARK/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon, unless it is for a DARK monster. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46173679.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46173679.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46173679.jpg"
+  }
+}

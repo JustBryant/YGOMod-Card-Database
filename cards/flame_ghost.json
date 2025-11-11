@@ -3,14 +3,14 @@
   "name": "Flame Ghost",
   "type": "Fusion Monster",
   "description": "\"Skull Servant\" + \"Dissolverock\"",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/58528964.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/58528964.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58528964.jpg"
-  },
   "attack": 1000,
   "defense": 800,
   "level": 3,
   "attribute": "DARK",
-  "race": "Zombie"
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/58528964.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/58528964.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/58528964.jpg"
+  }
 }

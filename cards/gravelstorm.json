@@ -1,0 +1,12 @@
+{
+  "id": 48135190,
+  "name": "Gravelstorm",
+  "type": "Trap Card",
+  "description": "Target 1 Spell/Trap Card on each side of the field; return them to the hand.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48135190.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48135190.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48135190.jpg"
+  }
+}

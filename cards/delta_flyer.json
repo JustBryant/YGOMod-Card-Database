@@ -1,0 +1,16 @@
+{
+  "id": 57568840,
+  "name": "Delta Flyer",
+  "type": "Tuner Monster",
+  "description": "Once per turn, you can select 1 other face-up monster you control and increase its Level by 1.",
+  "attack": 1500,
+  "defense": 900,
+  "level": 3,
+  "attribute": "WIND",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/57568840.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/57568840.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/57568840.jpg"
+  }
+}

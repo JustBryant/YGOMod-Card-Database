@@ -1,0 +1,16 @@
+{
+  "id": 80071619,
+  "name": "R.B. Shepherd's Crook",
+  "type": "Link Monster",
+  "description": "2+ monsters, including an \"R.B.\" monster\r\nGains 500 ATK for each monster you control, except this card. You can only use each of the following effects of \"R.B. Shepherd's Crook\" once per turn. During your Main Phase: You can Set 1 \"R.B.\" Trap from your Deck or GY. During your opponent's Main Phase (Quick Effect): You can target 3 Level 3 or higher \"R.B.\" monsters in your GY; place 2 on the bottom of the Deck in any order, and if you do, Special Summon the other in Defense Position.",
+  "attack": 1500,
+  "defense": null,
+  "level": null,
+  "attribute": "DARK",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80071619.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80071619.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80071619.jpg"
+  }
+}

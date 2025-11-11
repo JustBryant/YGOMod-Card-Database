@@ -1,0 +1,16 @@
+{
+  "id": 37265642,
+  "name": "Sabersaurus",
+  "type": "Normal Monster",
+  "description": "This normally gentle dinosaur enjoys relaxing in its nest in the prairies. If it becomes angered, it turns terribly ferocious.",
+  "attack": 1900,
+  "defense": 500,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/37265642.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/37265642.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/37265642.jpg"
+  }
+}

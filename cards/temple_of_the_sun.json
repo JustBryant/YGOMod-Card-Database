@@ -1,0 +1,12 @@
+{
+  "id": 91468551,
+  "name": "Temple of the Sun",
+  "type": "Spell Card",
+  "description": "Face-up monsters you control that were Special Summoned from the Graveyard gain 300 ATK.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91468551.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91468551.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91468551.jpg"
+  }
+}

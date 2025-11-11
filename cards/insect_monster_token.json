@@ -1,0 +1,12 @@
+{
+  "id": 91512836,
+  "name": "Insect Monster Token",
+  "type": "Token",
+  "description": "Special Summoned with the effect of \"Insect Queen\".",
+  "race": "Insect",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/91512836.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/91512836.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/91512836.jpg"
+  }
+}

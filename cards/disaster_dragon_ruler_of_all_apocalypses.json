@@ -1,0 +1,16 @@
+{
+  "id": 67359907,
+  "name": "Disaster, Dragon Ruler of All Apocalypses",
+  "type": "XYZ Monster",
+  "description": "2 Rank 7 monsters\r\nIf this card is Xyz Summoned: You can target up to 4 Level 7 \"Dragon Ruler\" monsters in your GY and/or banishment; attach them to this card, then you can banish all monsters from your opponent's field and GY with a same Attribute as this card's materials. You can only use this effect of \"Disaster, Dragon Ruler of All Apocalypses\" once per turn. While this card has LIGHT, DARK, EARTH, WATER, FIRE, and WIND \"Dragon Ruler\" monsters as material, it gains 4600 ATK/DEF, also it is unaffected by other cards' effects.",
+  "attack": 0,
+  "defense": 0,
+  "level": 7,
+  "attribute": "LIGHT",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/67359907.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/67359907.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/67359907.jpg"
+  }
+}

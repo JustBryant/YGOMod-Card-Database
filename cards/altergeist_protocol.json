@@ -1,0 +1,12 @@
+{
+  "id": 27541563,
+  "name": "Altergeist Protocol",
+  "type": "Trap Card",
+  "description": "The activation and effects of \"Altergeist\" cards activated on your field cannot be negated. When your opponent activates a monster effect: You can send 1 other face-up \"Altergeist\" card you control to the GY; negate the activation, and if you do, destroy it. You can only use this effect of \"Altergeist Protocol\" once per turn.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/27541563.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/27541563.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/27541563.jpg"
+  }
+}

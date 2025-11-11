@@ -1,0 +1,12 @@
+{
+  "id": 47355498,
+  "name": "Necrovalley",
+  "type": "Spell Card",
+  "description": "All \"Gravekeeper's\" monsters gain 500 ATK and DEF. Cards in the Graveyard cannot be banished. Negate any card effect that would move a card in the Graveyard to a different place. Negate any card effect that changes Types or Attributes in the Graveyard.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47355498.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47355498.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47355498.jpg"
+  }
+}

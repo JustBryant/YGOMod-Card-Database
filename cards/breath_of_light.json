@@ -1,0 +1,12 @@
+{
+  "id": 20101223,
+  "name": "Breath of Light",
+  "type": "Spell Card",
+  "description": "Destroy all face-up Rock-Type monsters on the field.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20101223.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20101223.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20101223.jpg"
+  }
+}

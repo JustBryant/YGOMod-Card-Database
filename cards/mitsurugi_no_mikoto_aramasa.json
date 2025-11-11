@@ -1,0 +1,16 @@
+{
+  "id": 40543231,
+  "name": "Mitsurugi no Mikoto, Aramasa",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned, or if this card is Tributed: You can add 1 \"Mitsurugi\" monster from your Deck to your hand, except \"Mitsurugi no Mikoto, Aramasa\". If another Reptile monster(s) you control would be destroyed by battle or card effect, you can Tribute this card instead. You can only use each effect of \"Mitsurugi no Mikoto, Aramasa\" once per turn.",
+  "attack": 1200,
+  "defense": 900,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Reptile",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40543231.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40543231.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40543231.jpg"
+  }
+}

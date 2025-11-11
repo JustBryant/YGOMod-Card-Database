@@ -1,0 +1,12 @@
+{
+  "id": 25140659,
+  "name": "Danger! Response Team",
+  "type": "Spell Card",
+  "description": "Target 1 \"Danger!\" monster you control and 1 monster on the field; return them to the hand. If this card is in the GY: You can discard 1 \"Danger!\" monster; place this card on the bottom of the Deck, then draw 1 card. You can only use each effect of \"Danger! Response Team\" once per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25140659.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25140659.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25140659.jpg"
+  }
+}

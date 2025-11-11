@@ -1,0 +1,12 @@
+{
+  "id": 46089249,
+  "name": "Koa'ki Ring",
+  "type": "Spell Card",
+  "description": "Reveal 1 \"Iron Core of Koa'ki Meiru\" in your hand to select 1 face-up monster on the field. Destroy that monster, and both players take 1000 damage.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/46089249.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/46089249.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/46089249.jpg"
+  }
+}

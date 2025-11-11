@@ -1,0 +1,16 @@
+{
+  "id": 47247792,
+  "name": "Conduction Knight Plasma Magnum",
+  "type": "Fusion Monster",
+  "description": "2 EARTH Rock monsters\r\nAll face-up monsters on the field become EARTH. You can only use each of the following effects of \"Conduction Knight Plasma Magnum\" once per turn. If this card is Fusion Summoned: You can add 1 \"Magnet\" Normal, Quick-Play, or Field Spell from your Deck to your hand. You can send 1 Level 8 \"Magna Warrior\" monster from your Deck to the GY; immediately after this effect resolves, Normal Summon 1 Level 4 or lower \"Magnet Warrior\" monster.",
+  "attack": 2300,
+  "defense": 2800,
+  "level": 7,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47247792.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47247792.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47247792.jpg"
+  }
+}

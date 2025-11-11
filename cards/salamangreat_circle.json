@@ -1,0 +1,12 @@
+{
+  "id": 52155219,
+  "name": "Salamangreat Circle",
+  "type": "Spell Card",
+  "description": "Activate 1 of these effects.\r\n● Add 1 \"Salamangreat\" monster from your Deck to your hand.\r\n● Target 1 \"Salamangreat\" Link Monster you control that was Link Summoned using a monster with its same name as material; that Link Monster is unaffected by monster effects this turn, except its own.\r\nYou can only activate 1 \"Salamangreat Circle\" per turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/52155219.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/52155219.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/52155219.jpg"
+  }
+}

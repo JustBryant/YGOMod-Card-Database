@@ -1,0 +1,12 @@
+{
+  "id": 47233801,
+  "name": "Dark Snake Syndrome",
+  "type": "Spell Card",
+  "description": "During each of your Standby Phases: Inflict damage to both players. This damage begins at 200 and is doubled during each of your following Standby Phases.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/47233801.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/47233801.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/47233801.jpg"
+  }
+}

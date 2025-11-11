@@ -1,0 +1,16 @@
+{
+  "id": 15871676,
+  "name": "Constellar Aldebaran",
+  "type": "Effect Monster",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 3 \"Constellar\" monster from your hand.",
+  "attack": 1300,
+  "defense": 800,
+  "level": 3,
+  "attribute": "LIGHT",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15871676.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15871676.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15871676.jpg"
+  }
+}

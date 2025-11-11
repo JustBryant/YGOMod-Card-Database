@@ -1,0 +1,12 @@
+{
+  "id": 90764871,
+  "name": "Archfiend's Strategy Game",
+  "type": "Spell Card",
+  "description": "Fiend monsters in the Extra Monster Zone gain 1000 ATK. You can activate 1 of these effects;\r\n● Banish 1 Fiend monster or \"Archfiend\" card from your hand or GY; add 1 \"Archfiend\" card from your Deck to your hand, except a Field Spell.\r\n● Add 1 \"Archfiend\" Pendulum Monster from your Deck to your Extra Deck face-up.\r\nYou can only use this effect of \"Archfiend's Strategy Game\" once per turn.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/90764871.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/90764871.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/90764871.jpg"
+  }
+}

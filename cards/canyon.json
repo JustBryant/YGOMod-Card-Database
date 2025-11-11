@@ -1,0 +1,12 @@
+{
+  "id": 28120197,
+  "name": "Canyon",
+  "type": "Spell Card",
+  "description": "If a Rock-Type monster in Defense Position is attacked, double any Battle Damage to the controller of the attacking monster.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28120197.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28120197.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28120197.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 69932023,
+  "name": "Dracotail Horn",
+  "type": "Trap Card",
+  "description": "Target 1 Attack Position monster on the field; return it to the hand/Extra Deck, then you can place 1 \"Dracotail\" card from your GY or banishment on the bottom of the Deck, except \"Dracotail Horn\", then draw 1 card. You can only activate 1 \"Dracotail Horn\" per turn.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/69932023.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/69932023.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/69932023.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 48642904,
+  "name": "Mesmeric Control",
+  "type": "Spell Card",
+  "description": "During your opponent's next turn after you activate this card, your opponent cannot change the battle positions of monsters, except with a card effect.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/48642904.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/48642904.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/48642904.jpg"
+  }
+}

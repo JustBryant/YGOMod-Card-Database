@@ -1,0 +1,16 @@
+{
+  "id": 29996433,
+  "name": "Dinowrestler Capoeiraptor",
+  "type": "Effect Monster",
+  "description": "This Attack Position card cannot be destroyed by battle. If this card is attacked, change it to Defense Position at the end of the Damage Step. During the Standby Phase, if this card is in Defense Position: You can Special Summon 1 \"Dinowrestler Capoeiraptor\" from your Deck. You can only use this effect of \"Dinowrestler Capoeiraptor\" once per turn.",
+  "attack": 1800,
+  "defense": 0,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/29996433.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/29996433.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/29996433.jpg"
+  }
+}

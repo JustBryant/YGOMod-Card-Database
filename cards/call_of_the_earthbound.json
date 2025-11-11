@@ -1,0 +1,12 @@
+{
+  "id": 65743242,
+  "name": "Call of the Earthbound",
+  "type": "Trap Card",
+  "description": "When an opponent's monster declares an attack: You choose the target of the attack.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/65743242.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/65743242.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/65743242.jpg"
+  }
+}

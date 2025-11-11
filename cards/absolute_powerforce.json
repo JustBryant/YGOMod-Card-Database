@@ -1,0 +1,12 @@
+{
+  "id": 51779204,
+  "name": "Absolute Powerforce",
+  "type": "Spell Card",
+  "description": "Target 1 \"Red Dragon Archfiend\" you control; if it battles an opponent's monster this turn while you control it, apply these effects until the end of the Damage Step.\r\n● It gains 1000 ATK.\r\n● Your opponent cannot activate cards or effects.\r\n● If it attacks a Defense Position monster, inflict piercing battle damage to your opponent.\r\n● Any battle damage your opponent takes from that battle is doubled.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/51779204.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/51779204.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/51779204.jpg"
+  }
+}

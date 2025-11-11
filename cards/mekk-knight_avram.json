@@ -1,0 +1,16 @@
+{
+  "id": 84754430,
+  "name": "Mekk-Knight Avram",
+  "type": "Normal Monster",
+  "description": "\"Check THIS out!\"",
+  "attack": 2000,
+  "defense": 0,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Psychic",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/84754430.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/84754430.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/84754430.jpg"
+  }
+}

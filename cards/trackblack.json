@@ -1,0 +1,16 @@
+{
+  "id": 66226132,
+  "name": "Trackblack",
+  "type": "Link Monster",
+  "description": "2 Effect Monsters\r\nYou can target 1 monster you control this card points to; this turn, each time it destroys an opponent's monster by battle, draw 1 card. You can only use this effect of \"Trackblack\" once per turn.",
+  "attack": 1200,
+  "defense": null,
+  "level": null,
+  "attribute": "LIGHT",
+  "race": "Cyberse",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/66226132.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/66226132.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/66226132.jpg"
+  }
+}

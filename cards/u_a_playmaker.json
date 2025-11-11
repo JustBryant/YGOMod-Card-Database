@@ -1,0 +1,16 @@
+{
+  "id": 98229575,
+  "name": "U.A. Playmaker",
+  "type": "Effect Monster",
+  "description": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Playmaker\". You can only Special Summon \"U.A. Playmaker\" once per turn this way. When another \"U.A.\" monster you control declares an attack: You can have this card lose exactly 800 ATK, and if it does, your attacking monster gains 800 ATK.",
+  "attack": 2600,
+  "defense": 2000,
+  "level": 8,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/98229575.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/98229575.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/98229575.jpg"
+  }
+}

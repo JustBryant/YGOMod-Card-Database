@@ -1,0 +1,16 @@
+{
+  "id": 15510988,
+  "name": "Thunder Kid",
+  "type": "Normal Monster",
+  "description": "This monster stores electricity within his body, and can unleash it with catastrophic power.",
+  "attack": 700,
+  "defense": 600,
+  "level": 2,
+  "attribute": "WIND",
+  "race": "Thunder",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15510988.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15510988.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15510988.jpg"
+  }
+}

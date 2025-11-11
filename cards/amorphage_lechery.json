@@ -1,0 +1,16 @@
+{
+  "id": 70917315,
+  "name": "Amorphage Lechery",
+  "type": "Pendulum Effect Monster",
+  "description": "[ Pendulum Effect ] \nWhile you control an \"Amorphage\" monster, neither player can activate Spell Cards or their effects, except for \"Amorphage\" cards. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n\n[ Monster Effect ] \nIf this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
+  "attack": 1350,
+  "defense": 0,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70917315.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70917315.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70917315.jpg"
+  }
+}

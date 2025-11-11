@@ -1,0 +1,16 @@
+{
+  "id": 5259518,
+  "name": "Predaplant Heliamphorhynchus",
+  "type": "Effect Monster",
+  "description": "If your opponent controls a monster with a Predator Counter: You can Special Summon this card from your hand. If this card in its owner's possession is destroyed by your opponent's card: You can target 1 DARK Dragon or 1 DARK Plant monster in your GY, except \"Predaplant Heliamphorhynchus\"; Special Summon it. You can only use each effect of \"Predaplant Heliamphorhynchus\" once per turn.",
+  "attack": 1200,
+  "defense": 2400,
+  "level": 8,
+  "attribute": "DARK",
+  "race": "Plant",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/5259518.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/5259518.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/5259518.jpg"
+  }
+}

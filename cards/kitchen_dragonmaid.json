@@ -1,0 +1,16 @@
+{
+  "id": 16960120,
+  "name": "Kitchen Dragonmaid",
+  "type": "Effect Monster",
+  "description": "If this card is Normal or Special Summoned: You can add 1 \"Dragonmaid\" monster from your Deck to your hand, except \"Kitchen Dragonmaid\", then send 1 \"Dragonmaid\" monster from your hand to the GY. At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 8 \"Dragonmaid\" monster from your hand or GY. You can only use each effect of \"Kitchen Dragonmaid\" once per turn.",
+  "attack": 500,
+  "defense": 1700,
+  "level": 3,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16960120.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16960120.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16960120.jpg"
+  }
+}

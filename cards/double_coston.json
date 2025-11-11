@@ -1,0 +1,16 @@
+{
+  "id": 44436472,
+  "name": "Double Coston",
+  "type": "Effect Monster",
+  "description": "This card can be treated as 2 Tributes for the Tribute Summon of a DARK monster.",
+  "attack": 1700,
+  "defense": 1650,
+  "level": 4,
+  "attribute": "DARK",
+  "race": "Zombie",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/44436472.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/44436472.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/44436472.jpg"
+  }
+}

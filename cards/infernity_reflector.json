@@ -1,0 +1,12 @@
+{
+  "id": 15313433,
+  "name": "Infernity Reflector",
+  "type": "Trap Card",
+  "description": "Activate only by discarding all the cards in your hand when an \"Infernity\" monster you control is destroyed by battle and sent to the Graveyard. Select and Special Summon that monster from your Graveyard, and inflict 1000 damage to your opponent.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/15313433.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/15313433.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/15313433.jpg"
+  }
+}

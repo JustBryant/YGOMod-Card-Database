@@ -1,0 +1,12 @@
+{
+  "id": 4357063,
+  "name": "Chronomaly City Babylon",
+  "type": "Spell Card",
+  "description": "Once per turn: You can banish 1 \"Chronomaly\" monster from your Graveyard, then target 1 \"Chronomaly\" monster in your Graveyard with the same Level as the banished monster; Special Summon it.",
+  "race": "Field",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/4357063.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/4357063.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/4357063.jpg"
+  }
+}

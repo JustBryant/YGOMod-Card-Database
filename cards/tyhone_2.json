@@ -1,0 +1,16 @@
+{
+  "id": 56789759,
+  "name": "Tyhone #2",
+  "type": "Normal Monster",
+  "description": "A crimson dragon that spits fireballs to create a blazing sea of fire.",
+  "attack": 1700,
+  "defense": 1900,
+  "level": 6,
+  "attribute": "FIRE",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/56789759.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/56789759.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/56789759.jpg"
+  }
+}

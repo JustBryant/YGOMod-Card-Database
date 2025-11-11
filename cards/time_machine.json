@@ -1,0 +1,12 @@
+{
+  "id": 80987696,
+  "name": "Time Machine",
+  "type": "Trap Card",
+  "description": "When a monster is destroyed by battle and sent to the GY: Special Summon that monster to the same field it was on, in the same battle position it was in when destroyed.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/80987696.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/80987696.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/80987696.jpg"
+  }
+}

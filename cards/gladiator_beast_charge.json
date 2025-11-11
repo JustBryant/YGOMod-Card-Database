@@ -1,0 +1,12 @@
+{
+  "id": 16990348,
+  "name": "Gladiator Beast Charge",
+  "type": "Trap Card",
+  "description": "Target face-up cards on the field, up to the number of \"Gladiator Beast\" monsters you control with different names; destroy them.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/16990348.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/16990348.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/16990348.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 70046172,
+  "name": "Rush Recklessly",
+  "type": "Spell Card",
+  "description": "Target 1 face-up monster on the field; it gains 700 ATK until the end of this turn.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/70046172.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/70046172.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/70046172.jpg"
+  }
+}

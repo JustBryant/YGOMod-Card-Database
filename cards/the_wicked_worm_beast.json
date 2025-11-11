@@ -1,0 +1,16 @@
+{
+  "id": 6285791,
+  "name": "The Wicked Worm Beast",
+  "type": "Effect Monster",
+  "description": "This face-up card on the field is returned to the owner's hand during the End Phase of your turn.",
+  "attack": 1400,
+  "defense": 700,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/6285791.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/6285791.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/6285791.jpg"
+  }
+}

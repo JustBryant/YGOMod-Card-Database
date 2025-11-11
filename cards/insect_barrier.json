@@ -1,0 +1,12 @@
+{
+  "id": 23615409,
+  "name": "Insect Barrier",
+  "type": "Spell Card",
+  "description": "Insect-Type monsters your opponent controls cannot declare an attack.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/23615409.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/23615409.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/23615409.jpg"
+  }
+}

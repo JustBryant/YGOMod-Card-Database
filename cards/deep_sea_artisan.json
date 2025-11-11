@@ -1,0 +1,16 @@
+{
+  "id": 8495780,
+  "name": "Deep Sea Artisan",
+  "type": "Effect Monster",
+  "description": "If this card is added from the Deck or GY to your hand by an effect of a WATER monster: You can reveal this card; look at your opponent's hand. If this card is Special Summoned: You can send the top card of your Deck to the GY, then target 1 Level 4 or lower WATER monster in your GY, except \"Deep Sea Artisan\"; Special Summon it, but negate its effects. You can only use each effect of \"Deep Sea Artisan\" once per turn.",
+  "attack": 0,
+  "defense": 500,
+  "level": 1,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8495780.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8495780.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8495780.jpg"
+  }
+}

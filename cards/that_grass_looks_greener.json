@@ -1,0 +1,12 @@
+{
+  "id": 11110587,
+  "name": "That Grass Looks Greener",
+  "type": "Spell Card",
+  "description": "If you have more cards in your Deck than your opponent does: Send cards from the top of your Deck to the Graveyard so you have the same number of cards in the Deck as your opponent.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/11110587.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/11110587.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/11110587.jpg"
+  }
+}

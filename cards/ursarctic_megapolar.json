@@ -1,0 +1,16 @@
+{
+  "id": 28715905,
+  "name": "Ursarctic Megapolar",
+  "type": "Tuner Monster",
+  "description": "During the Main Phase (Quick Effect): You can Tribute 1 other Level 7 or higher monster from your hand; Special Summon this card from your hand, also you cannot Special Summon for the rest of this turn, except monsters with a Level. If this card is Special Summoned while you control another \"Ursarctic\" monster: You can target 1 Spell/Trap your opponent controls; destroy it. You can only use each effect of \"Ursarctic Megapolar\" once per turn.",
+  "attack": 2500,
+  "defense": 700,
+  "level": 8,
+  "attribute": "WATER",
+  "race": "Beast-Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/28715905.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/28715905.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/28715905.jpg"
+  }
+}

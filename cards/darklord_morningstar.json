@@ -1,0 +1,16 @@
+{
+  "id": 25451652,
+  "name": "Darklord Morningstar",
+  "type": "Effect Monster",
+  "description": "Cannot be Special Summoned. If this card is Tribute Summoned: You can Special Summon \"Darklord\" monsters from your hand and/or Deck, up to the number of Effect Monsters your opponent controls. While you control another \"Darklord\" monster, your opponent cannot target this card with card effects. Once per turn: You can send cards from the top of your Deck to the Graveyard, equal to the number of \"Darklord\" monsters on the field, and if you do, gain 500 LP for each \"Darklord\" card sent to the Graveyard by this effect.",
+  "attack": 3000,
+  "defense": 3000,
+  "level": 11,
+  "attribute": "DARK",
+  "race": "Fairy",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/25451652.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/25451652.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/25451652.jpg"
+  }
+}

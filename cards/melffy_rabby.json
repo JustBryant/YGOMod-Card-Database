@@ -1,0 +1,16 @@
+{
+  "id": 20129614,
+  "name": "Melffy Rabby",
+  "type": "Normal Monster",
+  "description": "''Rabby's up on that favorite stump again, looking all around the forest at all the fluffy friends! Do you like exploring, too? Good! Let's go find more Melffy friends with Rabby!''",
+  "attack": 0,
+  "defense": 2100,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/20129614.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/20129614.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/20129614.jpg"
+  }
+}

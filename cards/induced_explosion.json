@@ -1,0 +1,12 @@
+{
+  "id": 68077936,
+  "name": "Induced Explosion",
+  "type": "Trap Card",
+  "description": "When a card(s) you control is destroyed by a Spell effect (except during the Damage Step): Target 1 card your opponent controls; destroy it. During either player's turn, except the turn this card was sent to the Graveyard, when a card(s) you control is destroyed by a Spell effect (except during the Damage Step): You can banish this card from your Graveyard, then target 1 card your opponent controls; destroy it.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/68077936.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/68077936.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/68077936.jpg"
+  }
+}

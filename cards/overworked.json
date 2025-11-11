@@ -1,0 +1,12 @@
+{
+  "id": 71272951,
+  "name": "Overworked",
+  "type": "Trap Card",
+  "description": "Destroy each monster whose ATK is higher than its original ATK.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/71272951.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/71272951.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/71272951.jpg"
+  }
+}

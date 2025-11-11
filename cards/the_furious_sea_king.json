@@ -3,14 +3,14 @@
   "name": "The Furious Sea King",
   "type": "Normal Monster",
   "description": "Grand King of the Seven Seas, he's able to summon massive tidal waves to drown the enemy.",
-  "images": {
-    "artwork_url": "https://images.ygoprodeck.com/images/cards/18710707.jpg",
-    "small_url": "https://images.ygoprodeck.com/images/cards_small/18710707.jpg",
-    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18710707.jpg"
-  },
   "attack": 800,
   "defense": 700,
   "level": 3,
   "attribute": "WATER",
-  "race": "Aqua"
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/18710707.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/18710707.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/18710707.jpg"
+  }
 }

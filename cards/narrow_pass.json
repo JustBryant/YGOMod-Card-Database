@@ -1,0 +1,12 @@
+{
+  "id": 40172183,
+  "name": "Narrow Pass",
+  "type": "Trap Card",
+  "description": "This card can only be activated when both players have 2 monsters or less on their respective sides of the field. Both players can only Normal Summon up to 2 additional monsters on their sides of the field.",
+  "race": "Continuous",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/40172183.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/40172183.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/40172183.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 38916461,
+  "name": "Roboyarou",
+  "type": "Normal Monster",
+  "description": "A warrior fully covered with metal. It upgrades by fusing with \"Robolady\".",
+  "attack": 900,
+  "defense": 450,
+  "level": 3,
+  "attribute": "EARTH",
+  "race": "Machine",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/38916461.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/38916461.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/38916461.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 36151751,
+  "name": "Arma Knight",
+  "type": "Normal Monster",
+  "description": "''An ammonite warrior that has protected the seas throughout history.''",
+  "attack": 1000,
+  "defense": 1200,
+  "level": 4,
+  "attribute": "WATER",
+  "race": "Aqua",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/36151751.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/36151751.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/36151751.jpg"
+  }
+}

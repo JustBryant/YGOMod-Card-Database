@@ -1,0 +1,16 @@
+{
+  "id": 21954587,
+  "name": "Mermail Abyssmegalo",
+  "type": "Effect Monster",
+  "description": "You can discard 2 other WATER monsters to the GY; Special Summon this card from your hand. When Summoned this way: You can add 1 \"Abyss-\" Spell/Trap from your Deck to your hand. You can Tribute 1 other Attack Position WATER monster; this card can make a second attack during each Battle Phase this turn.",
+  "attack": 2400,
+  "defense": 1900,
+  "level": 7,
+  "attribute": "WATER",
+  "race": "Sea Serpent",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/21954587.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/21954587.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/21954587.jpg"
+  }
+}

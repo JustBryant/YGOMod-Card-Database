@@ -1,0 +1,16 @@
+{
+  "id": 30914564,
+  "name": "Sacred Crane",
+  "type": "Effect Monster",
+  "description": "If this card is Special Summoned: Draw 1 card.",
+  "attack": 1600,
+  "defense": 400,
+  "level": 4,
+  "attribute": "LIGHT",
+  "race": "Winged Beast",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/30914564.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/30914564.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/30914564.jpg"
+  }
+}

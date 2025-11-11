@@ -1,0 +1,16 @@
+{
+  "id": 74936480,
+  "name": "Dinomorphia Stealthbergia",
+  "type": "Fusion Monster",
+  "description": "2 \"Dinomorphia\" monsters with different names\r\nWhile your LP are 2000 or less, you do not pay LP to activate Trap Cards or \"Dinomorphia\" monster effects. You can only use each of the following effects of \"Dinomorphia Stealthbergia\" once per turn. When your opponent activates a monster effect (Quick Effect): You can inflict damage to your opponent equal to that monster's original ATK. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 or lower \"Dinomorphia\" monster from your GY.",
+  "attack": 0,
+  "defense": 2500,
+  "level": 6,
+  "attribute": "DARK",
+  "race": "Dinosaur",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/74936480.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/74936480.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/74936480.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 81418467,
+  "name": "Primite Imperial Dragon",
+  "type": "Effect Monster",
+  "description": "Cannot be Normal Summoned, except by Tributing 1 Normal Monster (but can be Normal Set). During your opponent's Main Phase (Quick Effect): You can reveal this card in your hand; immediately after this effect resolves, Normal Summon 1 \"Primite\" monster. You can only use this effect of \"Primite Imperial Dragon\" once per turn. If this card is Tribute Summoned: You can apply these effects in sequence.\r\n● Negate the effects of all face-up monsters your opponent currently controls.\r\n● Banish all monsters your opponent controls with the same Type or Attribute as a Normal Monster in your GY.",
+  "attack": 2600,
+  "defense": 0,
+  "level": 6,
+  "attribute": "EARTH",
+  "race": "Dragon",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/81418467.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/81418467.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/81418467.jpg"
+  }
+}

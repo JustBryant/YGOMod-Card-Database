@@ -1,0 +1,16 @@
+{
+  "id": 756652,
+  "name": "Doron",
+  "type": "Normal Monster",
+  "description": "''This monster splits in two and attacks from opposite sides.''",
+  "attack": 900,
+  "defense": 500,
+  "level": 2,
+  "attribute": "EARTH",
+  "race": "Warrior",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/756652.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/756652.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/756652.jpg"
+  }
+}

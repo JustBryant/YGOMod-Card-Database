@@ -1,0 +1,12 @@
+{
+  "id": 39440937,
+  "name": "Intercept Wave",
+  "type": "Spell Card",
+  "description": "All Synchro Monsters on the field are changed to Defense Position. And then, return all face-up Synchro Monsters to the Extra Deck during the End Phase.",
+  "race": "Quick-Play",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/39440937.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/39440937.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/39440937.jpg"
+  }
+}

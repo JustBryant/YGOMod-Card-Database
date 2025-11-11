@@ -1,0 +1,16 @@
+{
+  "id": 8102334,
+  "name": "Gate Blocker",
+  "type": "Effect Monster",
+  "description": "Negate the effects of your opponent's Field Spells. Your opponent cannot place counters on cards on the field. Your opponent cannot target other monsters you control with card effects.",
+  "attack": 100,
+  "defense": 2000,
+  "level": 4,
+  "attribute": "EARTH",
+  "race": "Rock",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/8102334.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/8102334.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/8102334.jpg"
+  }
+}

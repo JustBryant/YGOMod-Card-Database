@@ -1,0 +1,12 @@
+{
+  "id": 63630268,
+  "name": "Butterspy Protection",
+  "type": "Trap Card",
+  "description": "Target 1 face-up Attack Position monster on the field; change it to face-up Defense Position, also any damage you take for the rest of this turn is halved.",
+  "race": "Normal",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/63630268.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/63630268.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/63630268.jpg"
+  }
+}

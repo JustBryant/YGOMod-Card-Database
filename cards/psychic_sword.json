@@ -1,0 +1,12 @@
+{
+  "id": 92346415,
+  "name": "Psychic Sword",
+  "type": "Spell Card",
+  "description": "Equip only to a Psychic-Type monster. While your LP is lower than your opponent's, the equipped monster gains ATK equal to the difference (max. 2000).",
+  "race": "Equip",
+  "images": {
+    "artwork_url": "https://images.ygoprodeck.com/images/cards/92346415.jpg",
+    "small_url": "https://images.ygoprodeck.com/images/cards_small/92346415.jpg",
+    "cropped_url": "https://images.ygoprodeck.com/images/cards_cropped/92346415.jpg"
+  }
+}
