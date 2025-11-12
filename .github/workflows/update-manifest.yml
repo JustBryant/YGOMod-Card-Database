@@ -1,5 +1,9 @@
 name: Update KDM manifest
 
+# Allow the workflow's GITHUB_TOKEN to push repository contents
+permissions:
+  contents: write
+
 on:
   push:
     paths:
@@ -15,6 +19,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          # keep GITHUB_TOKEN credentials available for git push
           persist-credentials: true
 
       - name: Set up Python
@@ -30,13 +35,28 @@ jobs:
           python scripts/update_manifest.py -s cards -s sets -s pack_type -o kdm_manifest.json || true
 
       - name: Commit manifest if changed
+        # If your repo has branch protection that blocks the GITHUB_TOKEN, set a secret named REPO_PAT
+        # (a personal access token with repo permissions) in repository Settings → Secrets → Actions.
+        env:
+          REPO_PAT: ${{ secrets.REPO_PAT }}
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add kdm_manifest.json || true
           if ! git diff --staged --quiet; then
             git commit -m "Automated: update kdm_manifest.json"
-            git push
+            # First try to push using the GITHUB_TOKEN (default checkout config). If that fails,
+            # and a REPO_PAT secret is provided, attempt push using the PAT.
+            if git push; then
+              echo "Pushed manifest with GITHUB_TOKEN"
+            elif [ -n "${REPO_PAT}" ]; then
+              echo "GITHUB_TOKEN push failed, attempting push with REPO_PAT"
+              git push https://x-access-token:${REPO_PAT}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
+            else
+              echo "Push failed and no REPO_PAT configured; please add one or adjust repo permissions" >&2
+              exit 1
+            fi
           else
             echo "No changes to manifest"
           fi
