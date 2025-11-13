@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-12T00:10:00.061825+00:00",
+  "generated": "2025-11-13T22:51:15.875609+00:00",
   "files": {
     "cards/1st_movement_solo.json": {
       "sha": "e17382daf7c0e142267959f3a314e09a02c68e59",
@@ -55985,7 +55985,7 @@
       "sha": "40f93b826d69a4f1160b2762ef3285518fc2dcd3",
       "size": 565
     },
-    "sets/LOB.json": {
+    "sets/legend_of_blue_eyes_white_dragon.json": {
       "sha": "97a1933ed6ede314c21eacff90b91d98e5bf52a5",
       "size": 15237
     }
