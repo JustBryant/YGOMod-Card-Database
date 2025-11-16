@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-13T22:51:15.875609+00:00",
+  "generated": "2025-11-16T19:50:15.386875+00:00",
   "files": {
     "cards/1st_movement_solo.json": {
       "sha": "e17382daf7c0e142267959f3a314e09a02c68e59",
@@ -55984,6 +55984,30 @@
     "pack_type/modern_era_1_pack.json": {
       "sha": "40f93b826d69a4f1160b2762ef3285518fc2dcd3",
       "size": 565
+    },
+    "sets/absolute_powerforce.json": {
+      "sha": "958a826ff6f049fab1864f97e94ae491b0c4449f",
+      "size": 12503
+    },
+    "sets/abyss_rising.json": {
+      "sha": "41b6266440ea787ea7696423d1249dc4c0b20f7f",
+      "size": 12496
+    },
+    "sets/age_of_overlord.json": {
+      "sha": "5d974f255345cfccf9067c98fd683848e1dcc901",
+      "size": 13050
+    },
+    "sets/alliance_insight.json": {
+      "sha": "f607563df6c1f52f60bb148b225f92cfa42dc61b",
+      "size": 12935
+    },
+    "sets/amazing_defenders.json": {
+      "sha": "09f0387c4ac9186b3a1eb8ca427acbfc0661f595",
+      "size": 7681
+    },
+    "sets/ancient_guardians.json": {
+      "sha": "339647f1aa0dc4aca7a4a01d1a437b98ae135388",
+      "size": 7694
     },
     "sets/legend_of_blue_eyes_white_dragon.json": {
       "sha": "97a1933ed6ede314c21eacff90b91d98e5bf52a5",
