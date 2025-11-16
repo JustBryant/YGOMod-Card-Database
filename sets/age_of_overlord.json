@@ -1,0 +1,623 @@
+{
+  "set_info": {
+    "id": "AGOV",
+    "name": "age of overlord",
+    "code": "AGOV",
+    "codes": [
+      "AGOV"
+    ],
+    "release_date": "2023-10-19",
+    "card_count": 101,
+    "description": null,
+    "pack_type": null,
+    "image": "https://images.ygoprodeck.com/images/sets/AGOV.jpg"
+  },
+  "cards": [
+    {
+      "id": 15845914,
+      "set_code": "AGOV-EN000",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 14513273,
+      "set_code": "AGOV-EN001",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 41908872,
+      "set_code": "AGOV-EN002",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 77392987,
+      "set_code": "AGOV-EN003",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 14391625,
+      "set_code": "AGOV-EN004",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 40785230,
+      "set_code": "AGOV-EN005",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 72270339,
+      "set_code": "AGOV-EN006",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 9674034,
+      "set_code": "AGOV-EN007",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 45663742,
+      "set_code": "AGOV-EN008",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 12058741,
+      "set_code": "AGOV-EN009",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 48452496,
+      "set_code": "AGOV-EN010",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 84941194,
+      "set_code": "AGOV-EN011",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 11335209,
+      "set_code": "AGOV-EN012",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 47330808,
+      "set_code": "AGOV-EN013",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 74725513,
+      "set_code": "AGOV-EN014",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 10113611,
+      "set_code": "AGOV-EN015",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 46518210,
+      "set_code": "AGOV-EN016",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 73602965,
+      "set_code": "AGOV-EN017",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 9091064,
+      "set_code": "AGOV-EN018",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 46485778,
+      "set_code": "AGOV-EN019",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 72880377,
+      "set_code": "AGOV-EN020",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 9275482,
+      "set_code": "AGOV-EN021",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 35263180,
+      "set_code": "AGOV-EN022",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 71768839,
+      "set_code": "AGOV-EN023",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 8152834,
+      "set_code": "AGOV-EN024",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 34541543,
+      "set_code": "AGOV-EN025",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 71545247,
+      "set_code": "AGOV-EN026",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 7930346,
+      "set_code": "AGOV-EN027",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 33325951,
+      "set_code": "AGOV-EN028",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 60823690,
+      "set_code": "AGOV-EN029",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 6218704,
+      "set_code": "AGOV-EN030",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 33202303,
+      "set_code": "AGOV-EN031",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 69601012,
+      "set_code": "AGOV-EN032",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 95095116,
+      "set_code": "AGOV-EN033",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 32480825,
+      "set_code": "AGOV-EN034",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 68989420,
+      "set_code": "AGOV-EN035",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 95973569,
+      "set_code": "AGOV-EN036",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 21368273,
+      "set_code": "AGOV-EN037",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 67752972,
+      "set_code": "AGOV-EN038",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 94151981,
+      "set_code": "AGOV-EN039",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 20145685,
+      "set_code": "AGOV-EN040",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 67630394,
+      "set_code": "AGOV-EN041",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 93039339,
+      "set_code": "AGOV-EN042",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 29423048,
+      "set_code": "AGOV-EN043",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 56818742,
+      "set_code": "AGOV-EN044",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 92812851,
+      "set_code": "AGOV-EN045",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 29301450,
+      "set_code": "AGOV-EN046",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 55795155,
+      "set_code": "AGOV-EN047",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 82190203,
+      "set_code": "AGOV-EN048",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 28189908,
+      "set_code": "AGOV-EN049",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 54573517,
+      "set_code": "AGOV-EN050",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 81978611,
+      "set_code": "AGOV-EN051",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 17462320,
+      "set_code": "AGOV-EN052",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 54851325,
+      "set_code": "AGOV-EN053",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 80845034,
+      "set_code": "AGOV-EN054",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 16240772,
+      "set_code": "AGOV-EN055",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 53639887,
+      "set_code": "AGOV-EN056",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 89023486,
+      "set_code": "AGOV-EN057",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 16528181,
+      "set_code": "AGOV-EN058",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 42516299,
+      "set_code": "AGOV-EN059",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 88901994,
+      "set_code": "AGOV-EN060",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 15306543,
+      "set_code": "AGOV-EN061",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 41790641,
+      "set_code": "AGOV-EN062",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 78789356,
+      "set_code": "AGOV-EN063",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 14283055,
+      "set_code": "AGOV-EN064",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 40678060,
+      "set_code": "AGOV-EN065",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 77066768,
+      "set_code": "AGOV-EN066",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 3461403,
+      "set_code": "AGOV-EN067",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 40456412,
+      "set_code": "AGOV-EN068",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 76840111,
+      "set_code": "AGOV-EN069",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 2339825,
+      "set_code": "AGOV-EN070",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 39733924,
+      "set_code": "AGOV-EN071",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 75728539,
+      "set_code": "AGOV-EN072",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 2116237,
+      "set_code": "AGOV-EN073",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 38511382,
+      "set_code": "AGOV-EN074",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 74906081,
+      "set_code": "AGOV-EN075",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 1490690,
+      "set_code": "AGOV-EN076",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 33499794,
+      "set_code": "AGOV-EN077",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 60883493,
+      "set_code": "AGOV-EN078",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 6278008,
+      "set_code": "AGOV-EN079",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 33676146,
+      "set_code": "AGOV-EN080",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 25131968,
+      "set_code": "AGOV-EN081",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 52126602,
+      "set_code": "AGOV-EN082",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 98520301,
+      "set_code": "AGOV-EN083",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 25919316,
+      "set_code": "AGOV-EN084",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 51303014,
+      "set_code": "AGOV-EN085",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 87498729,
+      "set_code": "AGOV-EN086",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 24892828,
+      "set_code": "AGOV-EN087",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 50281477,
+      "set_code": "AGOV-EN088",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 87676171,
+      "set_code": "AGOV-EN089",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 13070280,
+      "set_code": "AGOV-EN090",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 59069885,
+      "set_code": "AGOV-EN091",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 86553594,
+      "set_code": "AGOV-EN092",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 8910240,
+      "set_code": "AGOV-EN093",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 8085950,
+      "set_code": "AGOV-EN094",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 5916510,
+      "set_code": "AGOV-EN095",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 844056,
+      "set_code": "AGOV-EN096",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 36848764,
+      "set_code": "AGOV-EN097",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 72233469,
+      "set_code": "AGOV-EN098",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 47961342,
+      "set_code": "AGOV-EN099",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 73355951,
+      "set_code": "AGOV-EN100",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    }
+  ]
+}

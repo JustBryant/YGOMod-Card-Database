@@ -1,0 +1,617 @@
+{
+  "set_info": {
+    "id": "ALIN",
+    "name": "alliance insight",
+    "code": "ALIN",
+    "codes": [
+      "ALIN"
+    ],
+    "release_date": "2025-05-01",
+    "card_count": 100,
+    "description": null,
+    "pack_type": null,
+    "image": "https://images.ygoprodeck.com/images/sets/ALIN.jpg"
+  },
+  "cards": [
+    {
+      "id": 58931850,
+      "set_code": "ALIN-EN000",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 3723262,
+      "set_code": "ALIN-EN001",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 30118811,
+      "set_code": "ALIN-EN002",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 66102515,
+      "set_code": "ALIN-EN003",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 2501624,
+      "set_code": "ALIN-EN004",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 35095329,
+      "set_code": "ALIN-EN005",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 61480937,
+      "set_code": "ALIN-EN006",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 98888032,
+      "set_code": "ALIN-EN007",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 34873741,
+      "set_code": "ALIN-EN008",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 60268386,
+      "set_code": "ALIN-EN009",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 97662494,
+      "set_code": "ALIN-EN010",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 23151193,
+      "set_code": "ALIN-EN011",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 60145298,
+      "set_code": "ALIN-EN012",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 96540807,
+      "set_code": "ALIN-EN013",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 22938501,
+      "set_code": "ALIN-EN014",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 59323650,
+      "set_code": "ALIN-EN015",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 95718355,
+      "set_code": "ALIN-EN016",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 22812963,
+      "set_code": "ALIN-EN017",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 58201062,
+      "set_code": "ALIN-EN018",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 94655777,
+      "set_code": "ALIN-EN019",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 21050476,
+      "set_code": "ALIN-EN020",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 57448410,
+      "set_code": "ALIN-EN021",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 84433129,
+      "set_code": "ALIN-EN022",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 20938824,
+      "set_code": "ALIN-EN023",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 56322832,
+      "set_code": "ALIN-EN024",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 83711531,
+      "set_code": "ALIN-EN025",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 19715246,
+      "set_code": "ALIN-EN026",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 56100345,
+      "set_code": "ALIN-EN027",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 82699999,
+      "set_code": "ALIN-EN028",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 19093698,
+      "set_code": "ALIN-EN029",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 45488703,
+      "set_code": "ALIN-EN030",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 81476402,
+      "set_code": "ALIN-EN031",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 18861006,
+      "set_code": "ALIN-EN032",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 44265115,
+      "set_code": "ALIN-EN033",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 71750854,
+      "set_code": "ALIN-EN034",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 17749468,
+      "set_code": "ALIN-EN035",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 43143567,
+      "set_code": "ALIN-EN036",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 70538272,
+      "set_code": "ALIN-EN037",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 16926971,
+      "set_code": "ALIN-EN038",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 43321985,
+      "set_code": "ALIN-EN039",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 79415624,
+      "set_code": "ALIN-EN040",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 5800323,
+      "set_code": "ALIN-EN041",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 42209438,
+      "set_code": "ALIN-EN042",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 78693036,
+      "set_code": "ALIN-EN043",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 5088741,
+      "set_code": "ALIN-EN044",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 31086840,
+      "set_code": "ALIN-EN045",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 77571454,
+      "set_code": "ALIN-EN046",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 4965193,
+      "set_code": "ALIN-EN047",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 30350202,
+      "set_code": "ALIN-EN048",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 67359907,
+      "set_code": "ALIN-EN049",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 3743515,
+      "set_code": "ALIN-EN050",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 39138610,
+      "set_code": "ALIN-EN051",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 6636319,
+      "set_code": "ALIN-EN052",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 42021064,
+      "set_code": "ALIN-EN053",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 79015062,
+      "set_code": "ALIN-EN054",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 5414777,
+      "set_code": "ALIN-EN055",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 31809476,
+      "set_code": "ALIN-EN056",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 78293584,
+      "set_code": "ALIN-EN057",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 4398189,
+      "set_code": "ALIN-EN058",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 31786838,
+      "set_code": "ALIN-EN059",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 67171933,
+      "set_code": "ALIN-EN060",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 4575541,
+      "set_code": "ALIN-EN061",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 30964246,
+      "set_code": "ALIN-EN062",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 66059345,
+      "set_code": "ALIN-EN063",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 93453053,
+      "set_code": "ALIN-EN064",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 39848658,
+      "set_code": "ALIN-EN065",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 66236707,
+      "set_code": "ALIN-EN066",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 92221402,
+      "set_code": "ALIN-EN067",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 38625110,
+      "set_code": "ALIN-EN068",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 65114115,
+      "set_code": "ALIN-EN069",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 91509824,
+      "set_code": "ALIN-EN070",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 28903523,
+      "set_code": "ALIN-EN071",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 64998567,
+      "set_code": "ALIN-EN072",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 90386276,
+      "set_code": "ALIN-EN073",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 27781371,
+      "set_code": "ALIN-EN074",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 53276089,
+      "set_code": "ALIN-EN075",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 90664684,
+      "set_code": "ALIN-EN076",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 22669793,
+      "set_code": "ALIN-EN077",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 58053438,
+      "set_code": "ALIN-EN078",
+      "rarity": "Quarter Century Secret Rare",
+      "rarity_code": null
+    },
+    {
+      "id": 85442146,
+      "set_code": "ALIN-EN079",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 21846145,
+      "set_code": "ALIN-EN080",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 12500059,
+      "set_code": "ALIN-EN081",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 49904658,
+      "set_code": "ALIN-EN082",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 75493362,
+      "set_code": "ALIN-EN083",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 12888461,
+      "set_code": "ALIN-EN084",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 48882106,
+      "set_code": "ALIN-EN085",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 74271714,
+      "set_code": "ALIN-EN086",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 1665819,
+      "set_code": "ALIN-EN087",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 47060528,
+      "set_code": "ALIN-EN088",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 14554127,
+      "set_code": "ALIN-EN089",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 40543231,
+      "set_code": "ALIN-EN090",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 76948970,
+      "set_code": "ALIN-EN091",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 13332685,
+      "set_code": "ALIN-EN092",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 49721684,
+      "set_code": "ALIN-EN093",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 76725398,
+      "set_code": "ALIN-EN094",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 12210097,
+      "set_code": "ALIN-EN095",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 49604192,
+      "set_code": "ALIN-EN096",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 46533533,
+      "set_code": "ALIN-EN097",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 8170654,
+      "set_code": "ALIN-EN098",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 48705086,
+      "set_code": "ALIN-EN100",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    }
+  ]
+}

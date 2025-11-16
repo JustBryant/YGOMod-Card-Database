@@ -1,0 +1,377 @@
+{
+  "set_info": {
+    "id": "ANGU",
+    "name": "ancient guardians",
+    "code": "ANGU",
+    "codes": [
+      "ANGU"
+    ],
+    "release_date": "2021-04-29",
+    "card_count": 60,
+    "description": null,
+    "pack_type": null,
+    "image": "https://images.ygoprodeck.com/images/sets/ANGU.jpg"
+  },
+  "cards": [
+    {
+      "id": 36010310,
+      "set_code": "ANGU-EN001",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 62405028,
+      "set_code": "ANGU-EN002",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 9400127,
+      "set_code": "ANGU-EN003",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 35998832,
+      "set_code": "ANGU-EN004",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 62383431,
+      "set_code": "ANGU-EN005",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 98787535,
+      "set_code": "ANGU-EN006",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 34172284,
+      "set_code": "ANGU-EN007",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 61160289,
+      "set_code": "ANGU-EN008",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 97565997,
+      "set_code": "ANGU-EN009",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 24050692,
+      "set_code": "ANGU-EN010",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 60448701,
+      "set_code": "ANGU-EN011",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 96433300,
+      "set_code": "ANGU-EN012",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 23837054,
+      "set_code": "ANGU-EN013",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 55226153,
+      "set_code": "ANGU-EN014",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 92610868,
+      "set_code": "ANGU-EN015",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 28115467,
+      "set_code": "ANGU-EN016",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 54100561,
+      "set_code": "ANGU-EN017",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 91598270,
+      "set_code": "ANGU-EN018",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 27993919,
+      "set_code": "ANGU-EN019",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 54387923,
+      "set_code": "ANGU-EN020",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 80776622,
+      "set_code": "ANGU-EN021",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 27870337,
+      "set_code": "ANGU-EN022",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 53265336,
+      "set_code": "ANGU-EN023",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 29650040,
+      "set_code": "ANGU-EN024",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 56058749,
+      "set_code": "ANGU-EN025",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 92043888,
+      "set_code": "ANGU-EN026",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 29537493,
+      "set_code": "ANGU-EN027",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 55936191,
+      "set_code": "ANGU-EN028",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 81321206,
+      "set_code": "ANGU-EN029",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 28715905,
+      "set_code": "ANGU-EN030",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 54700519,
+      "set_code": "ANGU-EN031",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 81108658,
+      "set_code": "ANGU-EN032",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 27693363,
+      "set_code": "ANGU-EN033",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 53087962,
+      "set_code": "ANGU-EN034",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 80086070,
+      "set_code": "ANGU-EN035",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 16471775,
+      "set_code": "ANGU-EN036",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 53865474,
+      "set_code": "ANGU-EN037",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 89264428,
+      "set_code": "ANGU-EN038",
+      "rarity": "Ultra Rare",
+      "rarity_code": "(UR)"
+    },
+    {
+      "id": 15758127,
+      "set_code": "ANGU-EN039",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 72677437,
+      "set_code": "ANGU-EN040",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 8062132,
+      "set_code": "ANGU-EN041",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 8400623,
+      "set_code": "ANGU-EN042",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 67750322,
+      "set_code": "ANGU-EN043",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 55501446,
+      "set_code": "ANGU-EN044",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 92746535,
+      "set_code": "ANGU-EN045",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 82385847,
+      "set_code": "ANGU-EN046",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 22638495,
+      "set_code": "ANGU-EN047",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 18239909,
+      "set_code": "ANGU-EN048",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 11398059,
+      "set_code": "ANGU-EN049",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 88722973,
+      "set_code": "ANGU-EN050",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 17189677,
+      "set_code": "ANGU-EN051",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 38120068,
+      "set_code": "ANGU-EN052",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 64973456,
+      "set_code": "ANGU-EN053",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 42502956,
+      "set_code": "ANGU-EN054",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 96598015,
+      "set_code": "ANGU-EN055",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 31222701,
+      "set_code": "ANGU-EN056",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 76751255,
+      "set_code": "ANGU-EN057",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 44584775,
+      "set_code": "ANGU-EN058",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 16067089,
+      "set_code": "ANGU-EN059",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 93217231,
+      "set_code": "ANGU-EN060",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "set_info": {
+    "id": "ABYR",
+    "name": "abyss rising",
+    "code": "ABYR",
+    "codes": [
+      "ABYR"
+    ],
+    "release_date": "2012-11-09",
+    "card_count": 100,
+    "description": null,
+    "pack_type": null,
+    "image": "https://images.ygoprodeck.com/images/sets/ABYR.jpg"
+  },
+  "cards": [
+    {
+      "id": 95772051,
+      "set_code": "ABYR-EN000",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 9583383,
+      "set_code": "ABYR-EN001",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 36088082,
+      "set_code": "ABYR-EN002",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 62476197,
+      "set_code": "ABYR-EN003",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 9861795,
+      "set_code": "ABYR-EN004",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 35866404,
+      "set_code": "ABYR-EN005",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 61254509,
+      "set_code": "ABYR-EN006",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 8649148,
+      "set_code": "ABYR-EN007",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 34143852,
+      "set_code": "ABYR-EN008",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 61132951,
+      "set_code": "ABYR-EN009",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 97526666,
+      "set_code": "ABYR-EN010",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 33911264,
+      "set_code": "ABYR-EN011",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 60316373,
+      "set_code": "ABYR-EN012",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 96704018,
+      "set_code": "ABYR-EN013",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 23899727,
+      "set_code": "ABYR-EN014",
+      "rarity": "Ultimate Rare",
+      "rarity_code": "(UtR)"
+    },
+    {
+      "id": 69293721,
+      "set_code": "ABYR-EN015",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 96682430,
+      "set_code": "ABYR-EN016",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 22076135,
+      "set_code": "ABYR-EN017",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 58471134,
+      "set_code": "ABYR-EN018",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 95466842,
+      "set_code": "ABYR-EN019",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 21954587,
+      "set_code": "ABYR-EN020",
+      "rarity": "Secret Rare",
+      "rarity_code": "(ScR)"
+    },
+    {
+      "id": 54359696,
+      "set_code": "ABYR-EN021",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 90743290,
+      "set_code": "ABYR-EN022",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 26732909,
+      "set_code": "ABYR-EN023",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 53136004,
+      "set_code": "ABYR-EN024",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 89521713,
+      "set_code": "ABYR-EN025",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 26016357,
+      "set_code": "ABYR-EN026",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 52404456,
+      "set_code": "ABYR-EN027",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 88409165,
+      "set_code": "ABYR-EN028",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 15893860,
+      "set_code": "ABYR-EN029",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 51282878,
+      "set_code": "ABYR-EN030",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 88686573,
+      "set_code": "ABYR-EN031",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 14771222,
+      "set_code": "ABYR-EN032",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 40160226,
+      "set_code": "ABYR-EN033",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 87564935,
+      "set_code": "ABYR-EN034",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 13959634,
+      "set_code": "ABYR-EN035",
+      "rarity": "Secret Rare",
+      "rarity_code": "(ScR)"
+    },
+    {
+      "id": 40343749,
+      "set_code": "ABYR-EN036",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 76442347,
+      "set_code": "ABYR-EN037",
+      "rarity": "Short Print",
+      "rarity_code": "(SP)"
+    },
+    {
+      "id": 12836042,
+      "set_code": "ABYR-EN038",
+      "rarity": "Short Print",
+      "rarity_code": "(SP)"
+    },
+    {
+      "id": 49221191,
+      "set_code": "ABYR-EN039",
+      "rarity": "Ghost Rare",
+      "rarity_code": "(GR)"
+    },
+    {
+      "id": 75620895,
+      "set_code": "ABYR-EN040",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 12014404,
+      "set_code": "ABYR-EN041",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 48009503,
+      "set_code": "ABYR-EN042",
+      "rarity": "Ultimate Rare",
+      "rarity_code": "(UtR)"
+    },
+    {
+      "id": 74593218,
+      "set_code": "ABYR-EN043",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 1992816,
+      "set_code": "ABYR-EN044",
+      "rarity": "Ultimate Rare",
+      "rarity_code": "(UtR)"
+    },
+    {
+      "id": 47387961,
+      "set_code": "ABYR-EN045",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 74371660,
+      "set_code": "ABYR-EN046",
+      "rarity": "Ultimate Rare",
+      "rarity_code": "(UtR)"
+    },
+    {
+      "id": 770365,
+      "set_code": "ABYR-EN047",
+      "rarity": "Ultimate Rare",
+      "rarity_code": "(UtR)"
+    },
+    {
+      "id": 37164373,
+      "set_code": "ABYR-EN048",
+      "rarity": "Ultimate Rare",
+      "rarity_code": "(UtR)"
+    },
+    {
+      "id": 73659078,
+      "set_code": "ABYR-EN049",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 9053187,
+      "set_code": "ABYR-EN050",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 36042825,
+      "set_code": "ABYR-EN051",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 62437430,
+      "set_code": "ABYR-EN052",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 9831539,
+      "set_code": "ABYR-EN053",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 35220244,
+      "set_code": "ABYR-EN054",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 61314842,
+      "set_code": "ABYR-EN055",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 8719957,
+      "set_code": "ABYR-EN056",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 34103656,
+      "set_code": "ABYR-EN057",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 61592395,
+      "set_code": "ABYR-EN058",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 97997309,
+      "set_code": "ABYR-EN059",
+      "rarity": "Ultimate Rare",
+      "rarity_code": "(UtR)"
+    },
+    {
+      "id": 33981008,
+      "set_code": "ABYR-EN060",
+      "rarity": "Secret Rare",
+      "rarity_code": "(ScR)"
+    },
+    {
+      "id": 60470713,
+      "set_code": "ABYR-EN061",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 96864811,
+      "set_code": "ABYR-EN062",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 23269426,
+      "set_code": "ABYR-EN063",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 69257165,
+      "set_code": "ABYR-EN064",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 95642274,
+      "set_code": "ABYR-EN065",
+      "rarity": "Short Print",
+      "rarity_code": "(SP)"
+    },
+    {
+      "id": 22047978,
+      "set_code": "ABYR-EN066",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 58531587,
+      "set_code": "ABYR-EN067",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 95920682,
+      "set_code": "ABYR-EN068",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 21924381,
+      "set_code": "ABYR-EN069",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 57319935,
+      "set_code": "ABYR-EN070",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 34707034,
+      "set_code": "ABYR-EN071",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 60202749,
+      "set_code": "ABYR-EN072",
+      "rarity": "Ultimate Rare",
+      "rarity_code": "(UtR)"
+    },
+    {
+      "id": 97697447,
+      "set_code": "ABYR-EN073",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 23681456,
+      "set_code": "ABYR-EN074",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 60080151,
+      "set_code": "ABYR-EN075",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 96474800,
+      "set_code": "ABYR-EN076",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 22869904,
+      "set_code": "ABYR-EN077",
+      "rarity": "Ultimate Rare",
+      "rarity_code": "(UtR)"
+    },
+    {
+      "id": 59957503,
+      "set_code": "ABYR-EN078",
+      "rarity": "Short Print",
+      "rarity_code": "(SP)"
+    },
+    {
+      "id": 95352218,
+      "set_code": "ABYR-EN079",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 22747316,
+      "set_code": "ABYR-EN080",
+      "rarity": "Secret Rare",
+      "rarity_code": "(ScR)"
+    },
+    {
+      "id": 21767650,
+      "set_code": "ABYR-EN081",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 58165765,
+      "set_code": "ABYR-EN082",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 84650463,
+      "set_code": "ABYR-EN083",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 21044178,
+      "set_code": "ABYR-EN084",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 57043117,
+      "set_code": "ABYR-EN085",
+      "rarity": "Secret Rare",
+      "rarity_code": "(ScR)"
+    },
+    {
+      "id": 83438826,
+      "set_code": "ABYR-EN086",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 20822520,
+      "set_code": "ABYR-EN087",
+      "rarity": "Secret Rare",
+      "rarity_code": "(ScR)"
+    },
+    {
+      "id": 56321639,
+      "set_code": "ABYR-EN088",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 83715234,
+      "set_code": "ABYR-EN089",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 7914843,
+      "set_code": "ABYR-EN090",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 73778008,
+      "set_code": "ABYR-EN091",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 31975743,
+      "set_code": "ABYR-EN092",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 67675300,
+      "set_code": "ABYR-EN093",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 3070049,
+      "set_code": "ABYR-EN094",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 30464153,
+      "set_code": "ABYR-EN095",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 66853752,
+      "set_code": "ABYR-EN096",
+      "rarity": "Common",
+      "rarity_code": "(C)"
+    },
+    {
+      "id": 73776643,
+      "set_code": "ABYR-EN097",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 48049769,
+      "set_code": "ABYR-EN098",
+      "rarity": "Secret Rare",
+      "rarity_code": "(ScR)"
+    },
+    {
+      "id": 440556,
+      "set_code": "ABYR-EN099",
+      "rarity": "Secret Rare",
+      "rarity_code": "(ScR)"
+    }
+  ]
+}

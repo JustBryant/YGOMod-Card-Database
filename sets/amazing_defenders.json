@@ -1,0 +1,377 @@
+{
+  "set_info": {
+    "id": "AMDE",
+    "name": "amazing defenders",
+    "code": "AMDE",
+    "codes": [
+      "AMDE"
+    ],
+    "release_date": "2023-01-19",
+    "card_count": 60,
+    "description": null,
+    "pack_type": null,
+    "image": "https://images.ygoprodeck.com/images/sets/AMDE.jpg"
+  },
+  "cards": [
+    {
+      "id": 38339996,
+      "set_code": "AMDE-EN001",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 65734501,
+      "set_code": "AMDE-EN002",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 91222209,
+      "set_code": "AMDE-EN003",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 37617348,
+      "set_code": "AMDE-EN004",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 64612053,
+      "set_code": "AMDE-EN005",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 90000652,
+      "set_code": "AMDE-EN006",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 37495766,
+      "set_code": "AMDE-EN007",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 63899465,
+      "set_code": "AMDE-EN008",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 99984170,
+      "set_code": "AMDE-EN009",
+      "rarity": "Ultra Rare",
+      "rarity_code": "(UR)"
+    },
+    {
+      "id": 26372118,
+      "set_code": "AMDE-EN010",
+      "rarity": "Ultra Rare",
+      "rarity_code": "(UR)"
+    },
+    {
+      "id": 62777823,
+      "set_code": "AMDE-EN011",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 99162522,
+      "set_code": "AMDE-EN012",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 25550531,
+      "set_code": "AMDE-EN013",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 52645235,
+      "set_code": "AMDE-EN014",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 98049934,
+      "set_code": "AMDE-EN015",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 24434049,
+      "set_code": "AMDE-EN016",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 51822687,
+      "set_code": "AMDE-EN017",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 83827392,
+      "set_code": "AMDE-EN018",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 20212491,
+      "set_code": "AMDE-EN019",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 56700100,
+      "set_code": "AMDE-EN020",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 82105704,
+      "set_code": "AMDE-EN021",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 29599813,
+      "set_code": "AMDE-EN022",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 55584558,
+      "set_code": "AMDE-EN023",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 82983267,
+      "set_code": "AMDE-EN024",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 18377261,
+      "set_code": "AMDE-EN025",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 54862960,
+      "set_code": "AMDE-EN026",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 81260679,
+      "set_code": "AMDE-EN027",
+      "rarity": "Ultra Rare",
+      "rarity_code": "(UR)"
+    },
+    {
+      "id": 17255673,
+      "set_code": "AMDE-EN028",
+      "rarity": "Ultra Rare",
+      "rarity_code": "(UR)"
+    },
+    {
+      "id": 44649322,
+      "set_code": "AMDE-EN029",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 80044027,
+      "set_code": "AMDE-EN030",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 16433136,
+      "set_code": "AMDE-EN031",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 43527730,
+      "set_code": "AMDE-EN032",
+      "rarity": "Ultra Rare",
+      "rarity_code": "(UR)"
+    },
+    {
+      "id": 79912449,
+      "set_code": "AMDE-EN033",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 16310544,
+      "set_code": "AMDE-EN034",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 42705243,
+      "set_code": "AMDE-EN035",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 78199891,
+      "set_code": "AMDE-EN036",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 96399967,
+      "set_code": "AMDE-EN037",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 56824871,
+      "set_code": "AMDE-EN038",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 32807846,
+      "set_code": "AMDE-EN039",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 2295440,
+      "set_code": "AMDE-EN040",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 52105192,
+      "set_code": "AMDE-EN041",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 37478723,
+      "set_code": "AMDE-EN042",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 41927278,
+      "set_code": "AMDE-EN043",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 14602126,
+      "set_code": "AMDE-EN044",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 32086564,
+      "set_code": "AMDE-EN045",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 85087012,
+      "set_code": "AMDE-EN046",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 29330706,
+      "set_code": "AMDE-EN047",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 71197066,
+      "set_code": "AMDE-EN048",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 22091647,
+      "set_code": "AMDE-EN049",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 81570454,
+      "set_code": "AMDE-EN050",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 4810828,
+      "set_code": "AMDE-EN051",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 59934749,
+      "set_code": "AMDE-EN052",
+      "rarity": "Collector's Rare",
+      "rarity_code": "(CR)"
+    },
+    {
+      "id": 23171610,
+      "set_code": "AMDE-EN053",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 63995093,
+      "set_code": "AMDE-EN054",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 96729612,
+      "set_code": "AMDE-EN055",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 27068117,
+      "set_code": "AMDE-EN056",
+      "rarity": "Super Rare",
+      "rarity_code": "(SR)"
+    },
+    {
+      "id": 37626500,
+      "set_code": "AMDE-EN057",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 24793135,
+      "set_code": "AMDE-EN058",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 33907039,
+      "set_code": "AMDE-EN059",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    },
+    {
+      "id": 26708437,
+      "set_code": "AMDE-EN060",
+      "rarity": "Rare",
+      "rarity_code": "(R)"
+    }
+  ]
+}
