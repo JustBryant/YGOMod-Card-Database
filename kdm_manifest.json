@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-17T23:35:46.356933+00:00",
+  "generated": "2025-11-27T18:49:36.219411+00:00",
   "files": {
     "cards/1st_movement_solo.json": {
       "sha": "e17382daf7c0e142267959f3a314e09a02c68e59",
@@ -55976,10 +55976,6 @@
     "pack_type/current_era_pack.json": {
       "sha": "850161378e18205a5323e28b07c6a474780c2f65",
       "size": 525
-    },
-    "pack_type/example_set_with_pack_type.json": {
-      "sha": "8917c69eac27f28ab1f4f05c8fcdf2328b87aec3",
-      "size": 670
     },
     "pack_type/modern_era_1_pack.json": {
       "sha": "40f93b826d69a4f1160b2762ef3285518fc2dcd3",
