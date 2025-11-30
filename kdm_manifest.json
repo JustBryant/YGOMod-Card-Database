@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-27T18:49:36.219411+00:00",
+  "generated": "2025-11-30T23:36:57.796547+00:00",
   "files": {
     "cards/1st_movement_solo.json": {
       "sha": "e17382daf7c0e142267959f3a314e09a02c68e59",
@@ -2270,8 +2270,8 @@
       "size": 815
     },
     "cards/arcana_force_ex_-_the_chaos_ruler.json": {
-      "sha": "f41d035d41d270f2926f19323300cddecca1a768",
-      "size": 1004
+      "sha": "1239813858caaf51c064bde9bae92a04a1382c03",
+      "size": 996
     },
     "cards/arcana_force_ex_-_the_dark_ruler.json": {
       "sha": "73529b4377d460507b2a143bf877761eaf390b1c",
